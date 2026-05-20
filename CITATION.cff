@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "T-Code v4: Turkish Computer-Control Command Dataset"
+message: "If you use this dataset or code, please cite the accompanying manuscript."
+type: dataset
+authors:
+  - family-names: "Keleş"
+    given-names: "Muhammet Semih"
+year: 2026
+license: "MIT"
+repository-code: "https://github.com/semihkeles1997/t-code-v4-turkish-computer-command-dataset"

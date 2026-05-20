@@ -1,0 +1,100 @@
+masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap
+Projelerim klasörüne git ve içindeki her şeyi sil
+görev yöneticisini aç sonra da word'ü oradan kapat
+bilgisayarın sesini 45'e getir
+sağ tıkla ve yeni bir klasör oluştur
+denetim masasını açıp fare ayarlarına git
+ekranı projeksiyona yansıt sonra da sunum dosyasını aç
+geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön
+şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle
+masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy
+yok onu silme, dosyayı belgeler klasörüne taşı sadece
+ayarlarda ekran parlaklığını biraz azalt sesle uğraşma
+şey görev yöneticisini aç ama hiçbir işlemi kapatma
+masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı
+şu pencere çok büyük oldu biraz küçült ve sağ tarafa al
+dosyayı yeniden adlandır ama uzantısına dokunma
+ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git
+dosyayı silme, adının başına taslak ekle ve kaydet
+masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle
+ayarlar penceresini kapatma, imleç boyutunu biraz büyüt
+ekrandaki küçük yazıları biraz büyüt gözüm seçmiyor
+yanlış yere gittin ayarlarda imleç boyutunu bulacaksın
+o dosyayı silme sadece yedek klasörüne taşı
+masaüstündeki son oluşturduğumuz klasörü aç
+bilgisayarın sesi çok yüksek oldu 25'e getir
+chrome'u çalıştır ve yeni bir sekme aç
+bir sonraki sekmeye git tüm sayfayı yazdır
+yeni sekme açmadan mevcut sekmede üniversite sitesini ara
+tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir
+Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç
+Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala
+hayır göndermiyorsun, formu doldurup taslak olarak bırak
+Chrome'da açık sekmeyi yenile ve sayfanın başına dön
+Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak
+Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir
+şu arama yerine hata kodunu yazıp sonucu açmadan bırak
+biraz aşağı kaydır ya şu butonu göremiyorum
+şu mavi düğmeye basma yanındaki indirme şeyine tıkla
+tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in
+bu sayfayı biraz yukarı kaydır başlık kısmı lazım
+şu indirme tamamlandıysa dosyayı açmadan klasörde göster
+o sekmeyi yenileme sadece önceki sekmeye dön
+Chrome demeyeyim işte açık olan internet sayfasında arama yap
+o butona tıklama ya sadece yanında çıkan yazıyı seç
+şu sayfada başvuru dosyası nerede onu bulup indir
+yanlış sekmedeyiz geri dön bir önceki sayfaya geç
+şu listeyi aşağı kaydır en sondaki seçeneği seç
+tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama
+Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır
+Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul
+yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz
+4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir
+açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir
+ilk paragrafı kes ve sayfanın sonuna yapıştır
+tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla
+Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz
+Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala
+Excel'de B sütununu seçip genişliğini biraz küçült
+Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz
+PowerPoint'te son slayta geç, resmi seç, biraz sola al
+Excel'de toplam satırını bul, üstüne yeni bir satır ekle
+Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet
+PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle
+Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak
+Excel'de formülü tekrar uygula ama satırları silme
+Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma
+PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı
+Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula
+Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap
+PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt
+Word'de son paragrafı silme, onu kesip önceki sayfaya taşı
+Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet
+açık olan metinde iki boşluk varsa tek boşluğa indir
+raporun yalnızca ilk sayfasını yazdırmaya hazırla
+belgede seçili kısmı kopyala sonra yorum alanına yapıştır
+ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur
+terminali aç ve masaüstündeki tüm dosyaları listele
+kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et
+kodun içinden 1266'ıncı satıra git o satırı komple sil
+kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz
+terminali aç ip config yaz ve ip adresini göster
+microsoft sql server'ı aç en son çalıştığım dosyayı aç
+query sekmesine git select * from yaz ve çalıştır
+terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak
+VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git
+README dosyasının en altına git ve kurulum notu diye bir başlık ekle
+terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala
+Git panelini açmadan terminalden branch adını göster
+config dosyasında timeout satırını bul ve değeri 30 yap
+terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala
+VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala
+terminalde git add nokta yazma, sadece git diff komutunu çalıştır
+build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı
+VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap
+şey yanlış dosyadasın, main dosyasına geç ve import satırını bul
+terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır
+geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır
+VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle
+repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap
+yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala

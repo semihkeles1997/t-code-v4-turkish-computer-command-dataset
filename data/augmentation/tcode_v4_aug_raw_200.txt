@@ -1,0 +1,200 @@
+şu açık pencereyi kenara al ama kapatma
+masaüstünde duran klasörü açmadan adının sonuna eski yaz
+ayarlarda ses kısmına git ve seviyeyi 25 yap
+parlaklığı biraz değil direkt 45’e çek
+hayır orası değil görev çubuğundaki arama yerine geç
+ekrandaki metin çok ufak büyüteci bir tık aç
+şu bildirimi silme sadece gizle
+açık olan pencereyi küçült sonra masaüstünü göster
+imleç boyutunu büyük yapma orta ayara getir
+başlangıç menüsünde ekran klavyesini ara
+şu dosyayı çöp kutusuna atma yedek klasörüne al
+masaüstündeki boş yere tıkla ve yeni klasör oluştur
+ekrandaki uyarının metnini kopyala sonra pencereyi kapat
+ayarlar penceresini kapatma erişilebilirlik bölümüne dön
+bu pencereyi biraz aşağı taşı üst taraf görünsün
+şey ses ayarını aç hoparlörü 30’a getir
+görev çubuğuna sabitli olmayan hesap makinesini bul
+son açılan pencereye geç ve boyutunu biraz küçült
+masaüstünü yenile sonra indirilenler klasörünü göster
+bu kısayolun adını değiştirme sadece başka klasöre taşı
+ekran parlaklığını düşürme gece ışığını aç
+açık uygulamalar arasında bir önceki pencereye dön
+şu küçük kutuyu büyütme yanındaki seçenekleri göster
+masaüstündeki dağınık simgeleri ada göre sırala
+ayarlarda fare hızını 6 yap
+bildirim merkezini aç ve sessiz olanları listele
+yanlış oldu arama kutusuna değil dosya gezginine geç
+açık pencereyi tam ekran yapma sadece biraz büyüt
+seçili dosyanın adını kopyala ama dosyayı açma
+bu ekran görüntüsünü kaydetme panoya al
+klasördeki son indirilen öğeyi bul ve klasörde göster
+ses seviyesi fazla gelirse 15’e indir
+şu boş alana bir boşluk bırak sonra bekle
+başlat menüsündeki aramayı temizle ve ayarlar yaz
+masaüstündeki eski notu sil ama klasörü elleme
+o pencereyi kapatmadan arka plandaki pencereye geç
+ekran okuyucunun sesini hızlandırma sadece seviyesini azalt
+görev çubuğundan takvimi göster ve bugünün tarihini seç
+bu simgeye tıklama yanındaki klasörü aç
+imleci arama alanına götür ve orada bırak
+yeni bir metin belgesi oluştur adını kısa_not yap
+klasör adının başına arşiv ekle uzantıları değiştirme
+ekran ölçeğini 125 yap sonra açık pencereye dön
+bu uyarıyı kapatma önce ayrıntılarını göster
+masaüstündeki geçici dosyayı sil sonra çöp kutusunu boşaltma
+ayarlarda klavye bölümüne git tekrarlama hızını azalt
+pencereyi sağ kenara yasla ama tam ekran yapma
+şu açık listeyi aşağı indir en sondaki öğeyi göster
+bilgisayarı kapatma sadece oturumu kilitle
+son kullandığım klasörü aç ve görünümü listeye çevir
+internet sayfasında arama kutusuna sınav takvimi yaz ama ilk sonuca basma
+öbür sekmeye geç ve sayfanın başına dön
+bu sekmeyi kapatma sadece yenile
+sayfadaki indirme bağlantısını bulup adresini kopyala
+yeni sekme açmadan mevcut sayfada duyuru ara
+yanlış oldu geri dön önceki sayfaya git
+sağdaki sekmeye değil soldaki sekmeye geç
+pdf açıldıysa dosyayı tekrar indirme klasörde göster
+arama sonucundaki ikinci bağlantıya tıklamadan metnini seç
+sayfayı biraz aşağı kaydır formun devamı görünsün
+bu siteyi yer imlerine ekle adını ders linkleri yap
+adres çubuğundaki eski yazıyı sil yeni adresi yapıştır
+indirme başlamadıysa düğmeye bir kez daha tıkla
+sekmeleri karıştırdım toplantı sekmesine dön
+açık sayfada iletişim kısmını ara ve oraya git
+reklamı kapatma asıl sayfayı yenile
+dosyayı indir ama açılır pencere çıkarsa iptal etme
+tarayıcıda geçmişe girme sadece son kapatılan sekmeyi geri getir
+sayfanın üstündeki menüyü göster ve başvurular kısmına geç
+bu bağlantıyı açmadan yeni sekmede hazır beklet
+arama alanına hata kodunu yaz enter basma
+indirilen pdfin adını değiştirme sadece indirme klasöründe göster
+sayfanın dilini değiştirme yazıları biraz büyüt
+önceki sekmeye dön ve aramayı tekrar yap
+açık olan internet sayfasında tabloyu bul aşağı kaydır
+bu formu gönderme sadece taslakta bırak
+linki kopyala sonra not alanına yapıştır
+sekmeyi yenilemeden adres çubuğuna yeni sorguyu yaz
+sayfanın en altına git gizlilik bağlantısını bul
+indirme simgesine değil yanındaki ayrıntılar yazısına tıkla
+tarayıcıda açık olan üçüncü sekmeye geç
+bu sayfadaki sonuçları tarihe göre sırala
+pdf görüntüleyicide sayfayı küçültme sadece sonraki sayfaya geç
+arama önerilerini kapat ve yazdığım metni temizle
+bağlantıyı yeni pencerede değil aynı sekmede aç
+o düğmeye basma sayfanın altında ek dosya var onu indir
+açık sekmeleri listele ve içinde başvuru geçeni bul
+sayfayı yukarı kaydır başlığı tekrar görmek istiyorum
+şuradaki captcha alanına dokunma devam butonuna tıkla
+web sayfasını yazdırma görünümüne getir ama yazdırma
+yanlış sayfa açıldı geri git ve aramayı yinele
+tarayıcıdaki büyütmeyi 100 yap sonra sayfayı yenile
+ilk sonucu açma sadece bağlantıyı panoya kopyala
+yeni sekmede açılan pdfi indir ve sekmeyi açık bırak
+bu sitede öğrenci işleri yazıp ara
+sayfadaki bütün metni seçme yalnızca başlığı kopyala
+sekmeyi kapatmadan sol taraftaki haber sekmesine geç
+adres çubuğuna odaklan eski adresi silmeden sonuna ekleme yap
+indirme çubuğunu göster tamamlanan dosyayı klasörde aç
+sayfa donduysa yenile ama formdaki yazıları silme
+açık olan belgede başlığı bul ve fontu 14 yap
+seçili cümleyi kesme sadece rengini gri yap
+Word'de son paragrafın altına boş satır ekle
+tabloyu seçmeden toplam satırını bul
+Excel'de hücre içindeki fazla boşluğu sil
+sunumda ikinci slayta geç ve başlığı küçült
+belgeyi yazdırma önizlemesine al ama çıktı alma
+yanlış oldu metni silmeyeceksin altına açıklama ekle
+bu paragrafı kopyala ve yorum alanına yapıştır
+Excel'de oran sütununu yüzde biçimine değiştir
+açık belgeyi kaydetmeden kapatma sadece kaydet
+PowerPoint'te grafiği sağa taşı ve biraz büyüt
+Word'de kaynakça kelimesini ara bulunca oraya git
+seçili satırı kes ve tablonun en altına koy
+Excel'de formülü aşağı doğru yinele
+başlıktaki tarihi 2025 değil 2026 yap
+metnin başına taslak yazma dosya adının sonuna ekle
+bu sayfayı yalnızca siyah beyaz yazdırmaya hazırla
+sunum notları bölümüne kısa bir boşluk bırak
+belgedeki çift boşlukları tek boşluğa çevir
+ilk maddeyi silme sadece listenin sonuna taşı
+Excel'de A sütununu gizleme genişliğini 12 yap
+açık olan metinde sonuç başlığını bul ve altını çiz
+sunumda resmi seç ama silme kenarını küçült
+Word belgesinde yorumları göster ve ilk yoruma git
+Excel'deki filtreyi temizle sonra tabloyu en üste kaydır
+paragrafı seçmeden önce imleci giriş kısmına götür
+başlığı Times New Roman yapıp boyutunu 12’ye indir
+seçili hücreyi kopyala boş hücreye yapıştır
+yazdırma ekranında sayfa aralığını 1-2 yap
+belgedeki boş sayfayı sil ama son paragrafı bırak
+sunumdaki animasyonu değiştirme sadece süresini azalt
+Excel’de en yeni satırı bul ve not sütununa kontrol yaz
+açık dosyayı farklı kaydetme normal kaydet yeter
+metindeki yanlış virgülü sil yerine nokta koy
+PowerPoint’te son slaytı çoğalt ve başlığını kapanış yap
+Word’de başlığı büyütme alt başlığı küçült
+tablo başlığını kesip sayfanın üstüne yapıştır
+Excel formül çubuğuna geç ve sondaki parantezi sil
+belgeyi pdf olarak kaydet ama yazdırma
+sunumda açıklama kutusunu bul ve içine kısa not yaz
+seçili metni kalın yapma sadece italik yap
+tablodaki boş hücreleri renkle işaretle sonra kaydet
+Word’de dipnotları göster ve ilk dipnota git
+Excel’de hücreye bir boşluk ekleyip enter bas
+slayttaki resmi taşımadan önce kılavuz çizgileri göster
+sayfanın alt bilgisini aç ve tarihi 2026 yap
+başlıkları seç, yazı boyutunu azalt, belgeyi kaydet
+yazdırmadan önce kenar boşluklarını dar yap
+açık raporda özet kısmını bul ve yeni sayfaya kopyala
+terminale geç ama komut çalıştırma sadece imleci satır sonuna al
+VS Code’da README sekmesine geç ve arama panelini aç
+config dosyasında port değerini 5000 yap
+env dosyasını silme örnek dosyanın adını env_sample yap
+build komutunu bir daha dene ama sonucu göndermeden bırak
+loglarda connection refused ifadesini ara
+routes klasöründe yeni auth dosyası oluştur
+terminalde docker logs yaz bir boşluk bırak container adını yapıştır
+git commit gönderme sadece değişen dosyaları listele
+package dosyasındaki script adını test:local yap
+cache klasörünü silmeden önce içindeki tmp dosyasını temizle
+editorün sağdaki sekmesine geç ve TODO kelimesini ara
+migration dosyasının adının başına yeni ekle
+terminal çıktısındaki warning satırını kopyala
+test klasörüne git ve en son oluşturulan dosyayı aç
+requirements dosyasına requests ekleme flask satırını çoğalt
+docker compose dosyasındaki timeout değerini 30 yap
+build klasörünü release içine taşı ve adını build_old yap
+şu hata raporunu yazdırmaya hazırla ama yazıcıya gönderme
+terminalde npm install komutunu yinele
+branch değiştirme mevcut dal adını kopyala
+VS Code aramasında main fonksiyonunu bul ve satıra git
+log seviyesini debugdan infoya değiştir sonra kaydet
+docs klasörü oluşturma var olan doküman klasörünü aç
+test sonucunu kopyala ve issue taslağına yapıştır
+package-lock dosyasını silme sadece eski kopyasını oluştur
+terminal sekmesini kapatma yanındaki output sekmesine geç
+csv dosyasında header satırını kes ve örnek dosyaya yapıştır
+build raporunu indir ve logs klasörüne taşı
+config içinde retries sayısını 3 yap
+kodun en üstüne git ve boş satır bırak
+Dockerfile içindeki port satırını bul ama değiştirme
+terminalde git diff yaz enter bas ve sonucu ekranda tut
+eski migration dosyasını sil yeni migration adını add_user_table yap
+README’de kurulum başlığını ara altına docker notu ekle
+sorun çözüldüyse test komutunu tekrar çalıştır
+proje klasöründe temp_outputs diye yeni klasör oluştur
+warning yazan satırı seçip yorum satırı yap
+release dosyasını upload etme sadece adını v2_candidate yap
+terminalde komutun sonuna çift tire ekleme tek boşluk bırak
+VS Code’da açık json dosyasını biçimlendir ve kaydet
+env örneğindeki boş token satırını sil
+main branch’e geçmeden önce değişiklikleri kaydet
+docker imajını indirme local olanı listele
+hata ekranındaki stack trace kısmını kopyala
+routes dosyasını api klasörüne taşı sonra adını user_routes yap
+test panelinde aramayı yinele ve failed yazanları göster
+terminalde coverage komutunu çalıştır ve raporu yazdırmaya hazırla
+config dosyasını aç timeout satırına git değeri 45 yap kaydet
+release klasörü oluştur çıktı dosyasını içine taşı ve repoya gönder
