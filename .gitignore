@@ -1,15 +1,19 @@
-__pycache__/
-.ipynb_checkpoints/
 .DS_Store
+__pycache__/
 *.pyc
-*.pkl
+
+# Large archives and model checkpoints
+*.zip
 *.pt
 *.pth
 *.bin
 *.safetensors
-*.ckpt
+checkpoint-*/
+models/
+model/
 wandb/
 runs/
-outputs/
-checkpoints/
-*.log
+
+# Local backups
+*_backup/
+*_backup.zip

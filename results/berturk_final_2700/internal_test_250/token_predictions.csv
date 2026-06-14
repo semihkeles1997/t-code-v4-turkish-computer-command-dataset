@@ -1,0 +1,1738 @@
+﻿id,domain,task_count,raw_command,token_index,token,gold,pred,correct
+CK-3453,ofis_metin_düzenleme,1,belgeyi yazdır lütfen,0,belgeyi,YAZDIR,YAZDIR,True
+CK-3453,ofis_metin_düzenleme,1,belgeyi yazdır lütfen,1,yazdır,YAZDIR,YAZDIR,True
+CK-3453,ofis_metin_düzenleme,1,belgeyi yazdır lütfen,2,lütfen,O,YAZDIR,False
+CK-3454,ofis_metin_düzenleme,1,puntoyu küçült biraz,0,puntoyu,KÜÇÜLT,KÜÇÜLT,True
+CK-3454,ofis_metin_düzenleme,1,puntoyu küçült biraz,1,küçült,KÜÇÜLT,KÜÇÜLT,True
+CK-3454,ofis_metin_düzenleme,1,puntoyu küçült biraz,2,biraz,O,O,True
+CK-3455,ofis_metin_düzenleme,1,satır aralığını artır,0,satır,ARTIR,ARTIR,True
+CK-3455,ofis_metin_düzenleme,1,satır aralığını artır,1,aralığını,ARTIR,ARTIR,True
+CK-3455,ofis_metin_düzenleme,1,satır aralığını artır,2,artır,ARTIR,ARTIR,True
+CK-3456,ofis_metin_düzenleme,1,seçili metni kes,0,seçili,KES,KES,True
+CK-3456,ofis_metin_düzenleme,1,seçili metni kes,1,metni,KES,KES,True
+CK-3456,ofis_metin_düzenleme,1,seçili metni kes,2,kes,KES,KES,True
+CK-3457,ofis_metin_düzenleme,1,paragraf arasına boşluk bırak,0,paragraf,O,BOŞLUK,False
+CK-3457,ofis_metin_düzenleme,1,paragraf arasına boşluk bırak,1,arasına,O,BOŞLUK,False
+CK-3457,ofis_metin_düzenleme,1,paragraf arasına boşluk bırak,2,boşluk,BOŞLUK,BOŞLUK,True
+CK-3457,ofis_metin_düzenleme,1,paragraf arasına boşluk bırak,3,bırak,BOŞLUK,BOŞLUK,True
+CK-3458,ofis_metin_düzenleme,1,yazdırma yapma belgeyi kapat,0,yazdırma,O,O,True
+CK-3458,ofis_metin_düzenleme,1,yazdırma yapma belgeyi kapat,1,yapma,O,O,True
+CK-3458,ofis_metin_düzenleme,1,yazdırma yapma belgeyi kapat,2,belgeyi,KAPAT,KAPAT,True
+CK-3458,ofis_metin_düzenleme,1,yazdırma yapma belgeyi kapat,3,kapat,KAPAT,KAPAT,True
+CK-3459,ofis_metin_düzenleme,2,seçili kısmı kes belgeyi kaydet,0,seçili,KES,KES,True
+CK-3459,ofis_metin_düzenleme,2,seçili kısmı kes belgeyi kaydet,1,kısmı,KES,KES,True
+CK-3459,ofis_metin_düzenleme,2,seçili kısmı kes belgeyi kaydet,2,kes,KES,KES,True
+CK-3459,ofis_metin_düzenleme,2,seçili kısmı kes belgeyi kaydet,3,belgeyi,KAYDET,KAYDET,True
+CK-3459,ofis_metin_düzenleme,2,seçili kısmı kes belgeyi kaydet,4,kaydet,KAYDET,KAYDET,True
+CK-3460,ofis_metin_düzenleme,2,sayfa numarasını artır belgeyi yazdır,0,sayfa,ARTIR,ARTIR,True
+CK-3460,ofis_metin_düzenleme,2,sayfa numarasını artır belgeyi yazdır,1,numarasını,ARTIR,ARTIR,True
+CK-3460,ofis_metin_düzenleme,2,sayfa numarasını artır belgeyi yazdır,2,artır,ARTIR,ARTIR,True
+CK-3460,ofis_metin_düzenleme,2,sayfa numarasını artır belgeyi yazdır,3,belgeyi,YAZDIR,YAZDIR,True
+CK-3460,ofis_metin_düzenleme,2,sayfa numarasını artır belgeyi yazdır,4,yazdır,YAZDIR,YAZDIR,True
+CK-3461,ofis_metin_düzenleme,2,dipnot panelini kapat paragrafı küçült,0,dipnot,KAPAT,KAPAT,True
+CK-3461,ofis_metin_düzenleme,2,dipnot panelini kapat paragrafı küçült,1,panelini,KAPAT,KAPAT,True
+CK-3461,ofis_metin_düzenleme,2,dipnot panelini kapat paragrafı küçült,2,kapat,KAPAT,KAPAT,True
+CK-3461,ofis_metin_düzenleme,2,dipnot panelini kapat paragrafı küçült,3,paragrafı,KÜÇÜLT,KÜÇÜLT,True
+CK-3461,ofis_metin_düzenleme,2,dipnot panelini kapat paragrafı küçült,4,küçült,KÜÇÜLT,KÜÇÜLT,True
+CK-3462,ofis_metin_düzenleme,2,boşluk bırak sonra yazdır,0,boşluk,BOŞLUK,BOŞLUK,True
+CK-3462,ofis_metin_düzenleme,2,boşluk bırak sonra yazdır,1,bırak,BOŞLUK,BOŞLUK,True
+CK-3462,ofis_metin_düzenleme,2,boşluk bırak sonra yazdır,2,sonra,O,O,True
+CK-3462,ofis_metin_düzenleme,2,boşluk bırak sonra yazdır,3,yazdır,YAZDIR,YAZDIR,True
+CK-3463,ofis_metin_düzenleme,2,başlığı küçült satır aralığını artır,0,başlığı,KÜÇÜLT,KÜÇÜLT,True
+CK-3463,ofis_metin_düzenleme,2,başlığı küçült satır aralığını artır,1,küçült,KÜÇÜLT,KÜÇÜLT,True
+CK-3463,ofis_metin_düzenleme,2,başlığı küçült satır aralığını artır,2,satır,ARTIR,ARTIR,True
+CK-3463,ofis_metin_düzenleme,2,başlığı küçült satır aralığını artır,3,aralığını,ARTIR,ARTIR,True
+CK-3463,ofis_metin_düzenleme,2,başlığı küçült satır aralığını artır,4,artır,ARTIR,ARTIR,True
+CK-3464,ofis_metin_düzenleme,2,belgeyi yenile çıktı penceresini kapat,0,belgeyi,YİNELE,YİNELE,True
+CK-3464,ofis_metin_düzenleme,2,belgeyi yenile çıktı penceresini kapat,1,yenile,YİNELE,YİNELE,True
+CK-3464,ofis_metin_düzenleme,2,belgeyi yenile çıktı penceresini kapat,2,çıktı,KAPAT,KAPAT,True
+CK-3464,ofis_metin_düzenleme,2,belgeyi yenile çıktı penceresini kapat,3,penceresini,KAPAT,KAPAT,True
+CK-3464,ofis_metin_düzenleme,2,belgeyi yenile çıktı penceresini kapat,4,kapat,KAPAT,KAPAT,True
+CK-3465,ofis_metin_düzenleme,3,metni kes boşluk bırak belgeyi yazdır,0,metni,KES,KES,True
+CK-3465,ofis_metin_düzenleme,3,metni kes boşluk bırak belgeyi yazdır,1,kes,KES,KES,True
+CK-3465,ofis_metin_düzenleme,3,metni kes boşluk bırak belgeyi yazdır,2,boşluk,BOŞLUK,BOŞLUK,True
+CK-3465,ofis_metin_düzenleme,3,metni kes boşluk bırak belgeyi yazdır,3,bırak,BOŞLUK,BOŞLUK,True
+CK-3465,ofis_metin_düzenleme,3,metni kes boşluk bırak belgeyi yazdır,4,belgeyi,YAZDIR,YAZDIR,True
+CK-3465,ofis_metin_düzenleme,3,metni kes boşluk bırak belgeyi yazdır,5,yazdır,YAZDIR,YAZDIR,True
+CK-3466,ofis_metin_düzenleme,3,puntoyu artır başlığı küçült belgeyi gönder,0,puntoyu,ARTIR,ARTIR,True
+CK-3466,ofis_metin_düzenleme,3,puntoyu artır başlığı küçült belgeyi gönder,1,artır,ARTIR,ARTIR,True
+CK-3466,ofis_metin_düzenleme,3,puntoyu artır başlığı küçült belgeyi gönder,2,başlığı,KÜÇÜLT,KÜÇÜLT,True
+CK-3466,ofis_metin_düzenleme,3,puntoyu artır başlığı küçült belgeyi gönder,3,küçült,KÜÇÜLT,KÜÇÜLT,True
+CK-3466,ofis_metin_düzenleme,3,puntoyu artır başlığı küçült belgeyi gönder,4,belgeyi,GÖNDER,GÖNDER,True
+CK-3466,ofis_metin_düzenleme,3,puntoyu artır başlığı küçült belgeyi gönder,5,gönder,GÖNDER,GÖNDER,True
+CK-3467,ofis_metin_düzenleme,3,paragrafı kes sona taşı yazdır,0,paragrafı,KES,KES,True
+CK-3467,ofis_metin_düzenleme,3,paragrafı kes sona taşı yazdır,1,kes,KES,KES,True
+CK-3467,ofis_metin_düzenleme,3,paragrafı kes sona taşı yazdır,2,sona,TAŞI,TAŞI,True
+CK-3467,ofis_metin_düzenleme,3,paragrafı kes sona taşı yazdır,3,taşı,TAŞI,TAŞI,True
+CK-3467,ofis_metin_düzenleme,3,paragrafı kes sona taşı yazdır,4,yazdır,YAZDIR,YAZDIR,True
+CK-3468,ofis_metin_düzenleme,3,önizlemeyi kapat belgeyi yenile yazdır,0,önizlemeyi,KAPAT,KAPAT,True
+CK-3468,ofis_metin_düzenleme,3,önizlemeyi kapat belgeyi yenile yazdır,1,kapat,KAPAT,KAPAT,True
+CK-3468,ofis_metin_düzenleme,3,önizlemeyi kapat belgeyi yenile yazdır,2,belgeyi,YİNELE,YİNELE,True
+CK-3468,ofis_metin_düzenleme,3,önizlemeyi kapat belgeyi yenile yazdır,3,yenile,YİNELE,YİNELE,True
+CK-3468,ofis_metin_düzenleme,3,önizlemeyi kapat belgeyi yenile yazdır,4,yazdır,YAZDIR,YAZDIR,True
+CK-3469,ofis_metin_düzenleme,3,satır aralığını artır boşluk bırak kaydet,0,satır,ARTIR,ARTIR,True
+CK-3469,ofis_metin_düzenleme,3,satır aralığını artır boşluk bırak kaydet,1,aralığını,ARTIR,ARTIR,True
+CK-3469,ofis_metin_düzenleme,3,satır aralığını artır boşluk bırak kaydet,2,artır,ARTIR,ARTIR,True
+CK-3469,ofis_metin_düzenleme,3,satır aralığını artır boşluk bırak kaydet,3,boşluk,BOŞLUK,BOŞLUK,True
+CK-3469,ofis_metin_düzenleme,3,satır aralığını artır boşluk bırak kaydet,4,bırak,BOŞLUK,BOŞLUK,True
+CK-3469,ofis_metin_düzenleme,3,satır aralığını artır boşluk bırak kaydet,5,kaydet,KAYDET,KAYDET,True
+CK-3470,ofis_metin_düzenleme,3,tabloyu küçült açıklamayı kes belgeyi gönder,0,tabloyu,KÜÇÜLT,KÜÇÜLT,True
+CK-3470,ofis_metin_düzenleme,3,tabloyu küçült açıklamayı kes belgeyi gönder,1,küçült,KÜÇÜLT,KÜÇÜLT,True
+CK-3470,ofis_metin_düzenleme,3,tabloyu küçült açıklamayı kes belgeyi gönder,2,açıklamayı,KES,KES,True
+CK-3470,ofis_metin_düzenleme,3,tabloyu küçült açıklamayı kes belgeyi gönder,3,kes,KES,KES,True
+CK-3470,ofis_metin_düzenleme,3,tabloyu küçült açıklamayı kes belgeyi gönder,4,belgeyi,GÖNDER,GÖNDER,True
+CK-3470,ofis_metin_düzenleme,3,tabloyu küçült açıklamayı kes belgeyi gönder,5,gönder,GÖNDER,GÖNDER,True
+CK-3471,ofis_metin_düzenleme,4,metni kes boşluk bırak başlığı küçült belgeyi yazdır,0,metni,KES,KES,True
+CK-3471,ofis_metin_düzenleme,4,metni kes boşluk bırak başlığı küçült belgeyi yazdır,1,kes,KES,KES,True
+CK-3471,ofis_metin_düzenleme,4,metni kes boşluk bırak başlığı küçült belgeyi yazdır,2,boşluk,BOŞLUK,BOŞLUK,True
+CK-3471,ofis_metin_düzenleme,4,metni kes boşluk bırak başlığı küçült belgeyi yazdır,3,bırak,BOŞLUK,BOŞLUK,True
+CK-3471,ofis_metin_düzenleme,4,metni kes boşluk bırak başlığı küçült belgeyi yazdır,4,başlığı,KÜÇÜLT,KÜÇÜLT,True
+CK-3471,ofis_metin_düzenleme,4,metni kes boşluk bırak başlığı küçült belgeyi yazdır,5,küçült,KÜÇÜLT,KÜÇÜLT,True
+CK-3471,ofis_metin_düzenleme,4,metni kes boşluk bırak başlığı küçült belgeyi yazdır,6,belgeyi,YAZDIR,YAZDIR,True
+CK-3471,ofis_metin_düzenleme,4,metni kes boşluk bırak başlığı küçült belgeyi yazdır,7,yazdır,YAZDIR,YAZDIR,True
+CK-3472,ofis_metin_düzenleme,4,puntoyu artır tabloyu küçült önizlemeyi kapat belgeyi gönder,0,puntoyu,ARTIR,ARTIR,True
+CK-3472,ofis_metin_düzenleme,4,puntoyu artır tabloyu küçült önizlemeyi kapat belgeyi gönder,1,artır,ARTIR,ARTIR,True
+CK-3472,ofis_metin_düzenleme,4,puntoyu artır tabloyu küçült önizlemeyi kapat belgeyi gönder,2,tabloyu,KÜÇÜLT,KÜÇÜLT,True
+CK-3472,ofis_metin_düzenleme,4,puntoyu artır tabloyu küçült önizlemeyi kapat belgeyi gönder,3,küçült,KÜÇÜLT,KÜÇÜLT,True
+CK-3472,ofis_metin_düzenleme,4,puntoyu artır tabloyu küçült önizlemeyi kapat belgeyi gönder,4,önizlemeyi,KAPAT,KAPAT,True
+CK-3472,ofis_metin_düzenleme,4,puntoyu artır tabloyu küçült önizlemeyi kapat belgeyi gönder,5,kapat,KAPAT,KAPAT,True
+CK-3472,ofis_metin_düzenleme,4,puntoyu artır tabloyu küçült önizlemeyi kapat belgeyi gönder,6,belgeyi,GÖNDER,GÖNDER,True
+CK-3472,ofis_metin_düzenleme,4,puntoyu artır tabloyu küçült önizlemeyi kapat belgeyi gönder,7,gönder,GÖNDER,GÖNDER,True
+CK-3473,ofis_metin_düzenleme,4,paragrafı kes son bölüme taşı boşluk bırak yazdır,0,paragrafı,KES,KES,True
+CK-3473,ofis_metin_düzenleme,4,paragrafı kes son bölüme taşı boşluk bırak yazdır,1,kes,KES,KES,True
+CK-3473,ofis_metin_düzenleme,4,paragrafı kes son bölüme taşı boşluk bırak yazdır,2,son,TAŞI,TAŞI,True
+CK-3473,ofis_metin_düzenleme,4,paragrafı kes son bölüme taşı boşluk bırak yazdır,3,bölüme,TAŞI,TAŞI,True
+CK-3473,ofis_metin_düzenleme,4,paragrafı kes son bölüme taşı boşluk bırak yazdır,4,taşı,TAŞI,TAŞI,True
+CK-3473,ofis_metin_düzenleme,4,paragrafı kes son bölüme taşı boşluk bırak yazdır,5,boşluk,BOŞLUK,BOŞLUK,True
+CK-3473,ofis_metin_düzenleme,4,paragrafı kes son bölüme taşı boşluk bırak yazdır,6,bırak,BOŞLUK,BOŞLUK,True
+CK-3473,ofis_metin_düzenleme,4,paragrafı kes son bölüme taşı boşluk bırak yazdır,7,yazdır,YAZDIR,YAZDIR,True
+CK-3474,ofis_metin_düzenleme,4,belgeyi yenile notları kapat satır aralığını artır çıktıyı yazdır,0,belgeyi,YİNELE,YİNELE,True
+CK-3474,ofis_metin_düzenleme,4,belgeyi yenile notları kapat satır aralığını artır çıktıyı yazdır,1,yenile,YİNELE,YİNELE,True
+CK-3474,ofis_metin_düzenleme,4,belgeyi yenile notları kapat satır aralığını artır çıktıyı yazdır,2,notları,KAPAT,KAPAT,True
+CK-3474,ofis_metin_düzenleme,4,belgeyi yenile notları kapat satır aralığını artır çıktıyı yazdır,3,kapat,KAPAT,KAPAT,True
+CK-3474,ofis_metin_düzenleme,4,belgeyi yenile notları kapat satır aralığını artır çıktıyı yazdır,4,satır,ARTIR,ARTIR,True
+CK-3474,ofis_metin_düzenleme,4,belgeyi yenile notları kapat satır aralığını artır çıktıyı yazdır,5,aralığını,ARTIR,ARTIR,True
+CK-3474,ofis_metin_düzenleme,4,belgeyi yenile notları kapat satır aralığını artır çıktıyı yazdır,6,artır,ARTIR,ARTIR,True
+CK-3474,ofis_metin_düzenleme,4,belgeyi yenile notları kapat satır aralığını artır çıktıyı yazdır,7,çıktıyı,YAZDIR,YAZDIR,True
+CK-3474,ofis_metin_düzenleme,4,belgeyi yenile notları kapat satır aralığını artır çıktıyı yazdır,8,yazdır,YAZDIR,YAZDIR,True
+CK-3475,ofis_metin_düzenleme,4,yazdırma penceresini kapat metni kes boşluk bırak belgeyi kaydet,0,yazdırma,KAPAT,KAPAT,True
+CK-3475,ofis_metin_düzenleme,4,yazdırma penceresini kapat metni kes boşluk bırak belgeyi kaydet,1,penceresini,KAPAT,KAPAT,True
+CK-3475,ofis_metin_düzenleme,4,yazdırma penceresini kapat metni kes boşluk bırak belgeyi kaydet,2,kapat,KAPAT,KAPAT,True
+CK-3475,ofis_metin_düzenleme,4,yazdırma penceresini kapat metni kes boşluk bırak belgeyi kaydet,3,metni,KES,KES,True
+CK-3475,ofis_metin_düzenleme,4,yazdırma penceresini kapat metni kes boşluk bırak belgeyi kaydet,4,kes,KES,KES,True
+CK-3475,ofis_metin_düzenleme,4,yazdırma penceresini kapat metni kes boşluk bırak belgeyi kaydet,5,boşluk,BOŞLUK,BOŞLUK,True
+CK-3475,ofis_metin_düzenleme,4,yazdırma penceresini kapat metni kes boşluk bırak belgeyi kaydet,6,bırak,BOŞLUK,BOŞLUK,True
+CK-3475,ofis_metin_düzenleme,4,yazdırma penceresini kapat metni kes boşluk bırak belgeyi kaydet,7,belgeyi,KAYDET,KAYDET,True
+CK-3475,ofis_metin_düzenleme,4,yazdırma penceresini kapat metni kes boşluk bırak belgeyi kaydet,8,kaydet,KAYDET,KAYDET,True
+CK-3476,ofis_metin_düzenleme,5,başlığı küçült paragrafı kes boşluk bırak belgeyi yazdır gönder,0,başlığı,KÜÇÜLT,KÜÇÜLT,True
+CK-3476,ofis_metin_düzenleme,5,başlığı küçült paragrafı kes boşluk bırak belgeyi yazdır gönder,1,küçült,KÜÇÜLT,KÜÇÜLT,True
+CK-3476,ofis_metin_düzenleme,5,başlığı küçült paragrafı kes boşluk bırak belgeyi yazdır gönder,2,paragrafı,KES,KES,True
+CK-3476,ofis_metin_düzenleme,5,başlığı küçült paragrafı kes boşluk bırak belgeyi yazdır gönder,3,kes,KES,KES,True
+CK-3476,ofis_metin_düzenleme,5,başlığı küçült paragrafı kes boşluk bırak belgeyi yazdır gönder,4,boşluk,BOŞLUK,BOŞLUK,True
+CK-3476,ofis_metin_düzenleme,5,başlığı küçült paragrafı kes boşluk bırak belgeyi yazdır gönder,5,bırak,BOŞLUK,BOŞLUK,True
+CK-3476,ofis_metin_düzenleme,5,başlığı küçült paragrafı kes boşluk bırak belgeyi yazdır gönder,6,belgeyi,YAZDIR,YAZDIR,True
+CK-3476,ofis_metin_düzenleme,5,başlığı küçült paragrafı kes boşluk bırak belgeyi yazdır gönder,7,yazdır,YAZDIR,YAZDIR,True
+CK-3476,ofis_metin_düzenleme,5,başlığı küçült paragrafı kes boşluk bırak belgeyi yazdır gönder,8,gönder,GÖNDER,GÖNDER,True
+CK-3477,ofis_metin_düzenleme,5,puntoyu artır tabloyu küçült dipnotu kapat belgeyi yenile yazdır,0,puntoyu,ARTIR,ARTIR,True
+CK-3477,ofis_metin_düzenleme,5,puntoyu artır tabloyu küçült dipnotu kapat belgeyi yenile yazdır,1,artır,ARTIR,ARTIR,True
+CK-3477,ofis_metin_düzenleme,5,puntoyu artır tabloyu küçült dipnotu kapat belgeyi yenile yazdır,2,tabloyu,KÜÇÜLT,KÜÇÜLT,True
+CK-3477,ofis_metin_düzenleme,5,puntoyu artır tabloyu küçült dipnotu kapat belgeyi yenile yazdır,3,küçült,KÜÇÜLT,KÜÇÜLT,True
+CK-3477,ofis_metin_düzenleme,5,puntoyu artır tabloyu küçült dipnotu kapat belgeyi yenile yazdır,4,dipnotu,KAPAT,KAPAT,True
+CK-3477,ofis_metin_düzenleme,5,puntoyu artır tabloyu küçült dipnotu kapat belgeyi yenile yazdır,5,kapat,KAPAT,KAPAT,True
+CK-3477,ofis_metin_düzenleme,5,puntoyu artır tabloyu küçült dipnotu kapat belgeyi yenile yazdır,6,belgeyi,YİNELE,DİĞER,False
+CK-3477,ofis_metin_düzenleme,5,puntoyu artır tabloyu küçült dipnotu kapat belgeyi yenile yazdır,7,yenile,YİNELE,YİNELE,True
+CK-3477,ofis_metin_düzenleme,5,puntoyu artır tabloyu küçült dipnotu kapat belgeyi yenile yazdır,8,yazdır,YAZDIR,YAZDIR,True
+CK-3478,dosya_yazılım_geliştirme,1,paketi indir hemen,0,paketi,İNDİR,İNDİR,True
+CK-3478,dosya_yazılım_geliştirme,1,paketi indir hemen,1,indir,İNDİR,İNDİR,True
+CK-3478,dosya_yazılım_geliştirme,1,paketi indir hemen,2,hemen,O,İNDİR,False
+CK-3479,dosya_yazılım_geliştirme,1,branchi remotea yükle,0,branchi,YÜKLE,YÜKLE,True
+CK-3479,dosya_yazılım_geliştirme,1,branchi remotea yükle,1,remotea,YÜKLE,YÜKLE,True
+CK-3479,dosya_yazılım_geliştirme,1,branchi remotea yükle,2,yükle,YÜKLE,YÜKLE,True
+CK-3480,dosya_yazılım_geliştirme,1,terminali kapat,0,terminali,KAPAT,KAPAT,True
+CK-3480,dosya_yazılım_geliştirme,1,terminali kapat,1,kapat,KAPAT,KAPAT,True
+CK-3481,dosya_yazılım_geliştirme,1,komutu yinele,0,komutu,YİNELE,YİNELE,True
+CK-3481,dosya_yazılım_geliştirme,1,komutu yinele,1,yinele,YİNELE,YİNELE,True
+CK-3482,dosya_yazılım_geliştirme,1,logu yazdır,0,logu,YAZDIR,YAZDIR,True
+CK-3482,dosya_yazılım_geliştirme,1,logu yazdır,1,yazdır,YAZDIR,YAZDIR,True
+CK-3483,dosya_yazılım_geliştirme,1,satırı kes,0,satırı,KES,KES,True
+CK-3483,dosya_yazılım_geliştirme,1,satırı kes,1,kes,KES,KES,True
+CK-3484,dosya_yazılım_geliştirme,2,paketi indir projeye yükle,0,paketi,İNDİR,İNDİR,True
+CK-3484,dosya_yazılım_geliştirme,2,paketi indir projeye yükle,1,indir,İNDİR,İNDİR,True
+CK-3484,dosya_yazılım_geliştirme,2,paketi indir projeye yükle,2,projeye,YÜKLE,YÜKLE,True
+CK-3484,dosya_yazılım_geliştirme,2,paketi indir projeye yükle,3,yükle,YÜKLE,YÜKLE,True
+CK-3485,dosya_yazılım_geliştirme,2,terminali kapat sunucuyu yenile,0,terminali,KAPAT,KAPAT,True
+CK-3485,dosya_yazılım_geliştirme,2,terminali kapat sunucuyu yenile,1,kapat,KAPAT,KAPAT,True
+CK-3485,dosya_yazılım_geliştirme,2,terminali kapat sunucuyu yenile,2,sunucuyu,YİNELE,YİNELE,True
+CK-3485,dosya_yazılım_geliştirme,2,terminali kapat sunucuyu yenile,3,yenile,YİNELE,YİNELE,True
+CK-3486,dosya_yazılım_geliştirme,2,logu yazdır çıktıyı gönder,0,logu,YAZDIR,YAZDIR,True
+CK-3486,dosya_yazılım_geliştirme,2,logu yazdır çıktıyı gönder,1,yazdır,YAZDIR,YAZDIR,True
+CK-3486,dosya_yazılım_geliştirme,2,logu yazdır çıktıyı gönder,2,çıktıyı,GÖNDER,GÖNDER,True
+CK-3486,dosya_yazılım_geliştirme,2,logu yazdır çıktıyı gönder,3,gönder,GÖNDER,GÖNDER,True
+CK-3487,dosya_yazılım_geliştirme,2,hata satırını kes dosyayı kaydet,0,hata,KES,KES,True
+CK-3487,dosya_yazılım_geliştirme,2,hata satırını kes dosyayı kaydet,1,satırını,KES,KES,True
+CK-3487,dosya_yazılım_geliştirme,2,hata satırını kes dosyayı kaydet,2,kes,KES,KES,True
+CK-3487,dosya_yazılım_geliştirme,2,hata satırını kes dosyayı kaydet,3,dosyayı,KAYDET,KAYDET,True
+CK-3487,dosya_yazılım_geliştirme,2,hata satırını kes dosyayı kaydet,4,kaydet,KAYDET,KAYDET,True
+CK-3488,dosya_yazılım_geliştirme,2,branchi yükle bildirimi gönder,0,branchi,YÜKLE,YÜKLE,True
+CK-3488,dosya_yazılım_geliştirme,2,branchi yükle bildirimi gönder,1,yükle,YÜKLE,YÜKLE,True
+CK-3488,dosya_yazılım_geliştirme,2,branchi yükle bildirimi gönder,2,bildirimi,GÖNDER,GÖNDER,True
+CK-3488,dosya_yazılım_geliştirme,2,branchi yükle bildirimi gönder,3,gönder,GÖNDER,GÖNDER,True
+CK-3489,dosya_yazılım_geliştirme,2,debug panelini kapat buildi yinele,0,debug,KAPAT,KAPAT,True
+CK-3489,dosya_yazılım_geliştirme,2,debug panelini kapat buildi yinele,1,panelini,KAPAT,KAPAT,True
+CK-3489,dosya_yazılım_geliştirme,2,debug panelini kapat buildi yinele,2,kapat,KAPAT,KAPAT,True
+CK-3489,dosya_yazılım_geliştirme,2,debug panelini kapat buildi yinele,3,buildi,YİNELE,YİNELE,True
+CK-3489,dosya_yazılım_geliştirme,2,debug panelini kapat buildi yinele,4,yinele,YİNELE,YİNELE,True
+CK-3490,dosya_yazılım_geliştirme,3,paketi indir modüle yükle buildi yinele,0,paketi,İNDİR,İNDİR,True
+CK-3490,dosya_yazılım_geliştirme,3,paketi indir modüle yükle buildi yinele,1,indir,İNDİR,İNDİR,True
+CK-3490,dosya_yazılım_geliştirme,3,paketi indir modüle yükle buildi yinele,2,modüle,YÜKLE,YÜKLE,True
+CK-3490,dosya_yazılım_geliştirme,3,paketi indir modüle yükle buildi yinele,3,yükle,YÜKLE,YÜKLE,True
+CK-3490,dosya_yazılım_geliştirme,3,paketi indir modüle yükle buildi yinele,4,buildi,YİNELE,YİNELE,True
+CK-3490,dosya_yazılım_geliştirme,3,paketi indir modüle yükle buildi yinele,5,yinele,YİNELE,YİNELE,True
+CK-3491,dosya_yazılım_geliştirme,3,terminali kapat logu yazdır raporu gönder,0,terminali,KAPAT,KAPAT,True
+CK-3491,dosya_yazılım_geliştirme,3,terminali kapat logu yazdır raporu gönder,1,kapat,KAPAT,KAPAT,True
+CK-3491,dosya_yazılım_geliştirme,3,terminali kapat logu yazdır raporu gönder,2,logu,YAZDIR,YAZDIR,True
+CK-3491,dosya_yazılım_geliştirme,3,terminali kapat logu yazdır raporu gönder,3,yazdır,YAZDIR,YAZDIR,True
+CK-3491,dosya_yazılım_geliştirme,3,terminali kapat logu yazdır raporu gönder,4,raporu,GÖNDER,GÖNDER,True
+CK-3491,dosya_yazılım_geliştirme,3,terminali kapat logu yazdır raporu gönder,5,gönder,GÖNDER,GÖNDER,True
+CK-3492,dosya_yazılım_geliştirme,3,satırı kes dosyayı kaydet repoya yükle,0,satırı,KES,KES,True
+CK-3492,dosya_yazılım_geliştirme,3,satırı kes dosyayı kaydet repoya yükle,1,kes,KES,KES,True
+CK-3492,dosya_yazılım_geliştirme,3,satırı kes dosyayı kaydet repoya yükle,2,dosyayı,KAYDET,KAYDET,True
+CK-3492,dosya_yazılım_geliştirme,3,satırı kes dosyayı kaydet repoya yükle,3,kaydet,KAYDET,KAYDET,True
+CK-3492,dosya_yazılım_geliştirme,3,satırı kes dosyayı kaydet repoya yükle,4,repoya,YÜKLE,YÜKLE,True
+CK-3492,dosya_yazılım_geliştirme,3,satırı kes dosyayı kaydet repoya yükle,5,yükle,YÜKLE,YÜKLE,True
+CK-3493,dosya_yazılım_geliştirme,3,branchi yükle testi yinele sonucu gönder,0,branchi,YÜKLE,YÜKLE,True
+CK-3493,dosya_yazılım_geliştirme,3,branchi yükle testi yinele sonucu gönder,1,yükle,YÜKLE,YÜKLE,True
+CK-3493,dosya_yazılım_geliştirme,3,branchi yükle testi yinele sonucu gönder,2,testi,YİNELE,YİNELE,True
+CK-3493,dosya_yazılım_geliştirme,3,branchi yükle testi yinele sonucu gönder,3,yinele,YİNELE,YİNELE,True
+CK-3493,dosya_yazılım_geliştirme,3,branchi yükle testi yinele sonucu gönder,4,sonucu,GÖNDER,GÖNDER,True
+CK-3493,dosya_yazılım_geliştirme,3,branchi yükle testi yinele sonucu gönder,5,gönder,GÖNDER,GÖNDER,True
+CK-3494,dosya_yazılım_geliştirme,3,paket indirme dosyayı yükle logu yazdır terminali kapat,0,paket,O,O,True
+CK-3494,dosya_yazılım_geliştirme,3,paket indirme dosyayı yükle logu yazdır terminali kapat,1,indirme,O,O,True
+CK-3494,dosya_yazılım_geliştirme,3,paket indirme dosyayı yükle logu yazdır terminali kapat,2,dosyayı,YÜKLE,YÜKLE,True
+CK-3494,dosya_yazılım_geliştirme,3,paket indirme dosyayı yükle logu yazdır terminali kapat,3,yükle,YÜKLE,YÜKLE,True
+CK-3494,dosya_yazılım_geliştirme,3,paket indirme dosyayı yükle logu yazdır terminali kapat,4,logu,YAZDIR,YAZDIR,True
+CK-3494,dosya_yazılım_geliştirme,3,paket indirme dosyayı yükle logu yazdır terminali kapat,5,yazdır,YAZDIR,YAZDIR,True
+CK-3494,dosya_yazılım_geliştirme,3,paket indirme dosyayı yükle logu yazdır terminali kapat,6,terminali,KAPAT,KAPAT,True
+CK-3494,dosya_yazılım_geliştirme,3,paket indirme dosyayı yükle logu yazdır terminali kapat,7,kapat,KAPAT,KAPAT,True
+CK-3495,dosya_yazılım_geliştirme,3,hata panelini kapat komutu yinele çıktıyı yazdır,0,hata,KAPAT,KAPAT,True
+CK-3495,dosya_yazılım_geliştirme,3,hata panelini kapat komutu yinele çıktıyı yazdır,1,panelini,KAPAT,KAPAT,True
+CK-3495,dosya_yazılım_geliştirme,3,hata panelini kapat komutu yinele çıktıyı yazdır,2,kapat,KAPAT,KAPAT,True
+CK-3495,dosya_yazılım_geliştirme,3,hata panelini kapat komutu yinele çıktıyı yazdır,3,komutu,YİNELE,YİNELE,True
+CK-3495,dosya_yazılım_geliştirme,3,hata panelini kapat komutu yinele çıktıyı yazdır,4,yinele,YİNELE,YİNELE,True
+CK-3495,dosya_yazılım_geliştirme,3,hata panelini kapat komutu yinele çıktıyı yazdır,5,çıktıyı,YAZDIR,YAZDIR,True
+CK-3495,dosya_yazılım_geliştirme,3,hata panelini kapat komutu yinele çıktıyı yazdır,6,yazdır,YAZDIR,YAZDIR,True
+CK-3496,dosya_yazılım_geliştirme,4,paketi indir projeye yükle testi yinele sonucu gönder,0,paketi,İNDİR,İNDİR,True
+CK-3496,dosya_yazılım_geliştirme,4,paketi indir projeye yükle testi yinele sonucu gönder,1,indir,İNDİR,İNDİR,True
+CK-3496,dosya_yazılım_geliştirme,4,paketi indir projeye yükle testi yinele sonucu gönder,2,projeye,YÜKLE,YÜKLE,True
+CK-3496,dosya_yazılım_geliştirme,4,paketi indir projeye yükle testi yinele sonucu gönder,3,yükle,YÜKLE,YÜKLE,True
+CK-3496,dosya_yazılım_geliştirme,4,paketi indir projeye yükle testi yinele sonucu gönder,4,testi,YİNELE,YİNELE,True
+CK-3496,dosya_yazılım_geliştirme,4,paketi indir projeye yükle testi yinele sonucu gönder,5,yinele,YİNELE,YİNELE,True
+CK-3496,dosya_yazılım_geliştirme,4,paketi indir projeye yükle testi yinele sonucu gönder,6,sonucu,GÖNDER,GÖNDER,True
+CK-3496,dosya_yazılım_geliştirme,4,paketi indir projeye yükle testi yinele sonucu gönder,7,gönder,GÖNDER,GÖNDER,True
+CK-3497,dosya_yazılım_geliştirme,4,satırı kes boşluk bırak dosyayı kaydet terminali kapat,0,satırı,KES,KES,True
+CK-3497,dosya_yazılım_geliştirme,4,satırı kes boşluk bırak dosyayı kaydet terminali kapat,1,kes,KES,KES,True
+CK-3497,dosya_yazılım_geliştirme,4,satırı kes boşluk bırak dosyayı kaydet terminali kapat,2,boşluk,BOŞLUK,BOŞLUK,True
+CK-3497,dosya_yazılım_geliştirme,4,satırı kes boşluk bırak dosyayı kaydet terminali kapat,3,bırak,BOŞLUK,BOŞLUK,True
+CK-3497,dosya_yazılım_geliştirme,4,satırı kes boşluk bırak dosyayı kaydet terminali kapat,4,dosyayı,KAYDET,KAYDET,True
+CK-3497,dosya_yazılım_geliştirme,4,satırı kes boşluk bırak dosyayı kaydet terminali kapat,5,kaydet,KAYDET,KAYDET,True
+CK-3497,dosya_yazılım_geliştirme,4,satırı kes boşluk bırak dosyayı kaydet terminali kapat,6,terminali,KAPAT,KAPAT,True
+CK-3497,dosya_yazılım_geliştirme,4,satırı kes boşluk bırak dosyayı kaydet terminali kapat,7,kapat,KAPAT,KAPAT,True
+CK-3498,dosya_yazılım_geliştirme,4,logu yazdır çıktıyı gönder branchi yükle paneli kapat,0,logu,YAZDIR,YAZDIR,True
+CK-3498,dosya_yazılım_geliştirme,4,logu yazdır çıktıyı gönder branchi yükle paneli kapat,1,yazdır,YAZDIR,YAZDIR,True
+CK-3498,dosya_yazılım_geliştirme,4,logu yazdır çıktıyı gönder branchi yükle paneli kapat,2,çıktıyı,GÖNDER,GÖNDER,True
+CK-3498,dosya_yazılım_geliştirme,4,logu yazdır çıktıyı gönder branchi yükle paneli kapat,3,gönder,GÖNDER,GÖNDER,True
+CK-3498,dosya_yazılım_geliştirme,4,logu yazdır çıktıyı gönder branchi yükle paneli kapat,4,branchi,YÜKLE,YÜKLE,True
+CK-3498,dosya_yazılım_geliştirme,4,logu yazdır çıktıyı gönder branchi yükle paneli kapat,5,yükle,YÜKLE,YÜKLE,True
+CK-3498,dosya_yazılım_geliştirme,4,logu yazdır çıktıyı gönder branchi yükle paneli kapat,6,paneli,KAPAT,KAPAT,True
+CK-3498,dosya_yazılım_geliştirme,4,logu yazdır çıktıyı gönder branchi yükle paneli kapat,7,kapat,KAPAT,KAPAT,True
+CK-3499,dosya_yazılım_geliştirme,4,terminali kapat paketi indir kurulumu yinele raporu gönder,0,terminali,KAPAT,KAPAT,True
+CK-3499,dosya_yazılım_geliştirme,4,terminali kapat paketi indir kurulumu yinele raporu gönder,1,kapat,KAPAT,KAPAT,True
+CK-3499,dosya_yazılım_geliştirme,4,terminali kapat paketi indir kurulumu yinele raporu gönder,2,paketi,İNDİR,İNDİR,True
+CK-3499,dosya_yazılım_geliştirme,4,terminali kapat paketi indir kurulumu yinele raporu gönder,3,indir,İNDİR,İNDİR,True
+CK-3499,dosya_yazılım_geliştirme,4,terminali kapat paketi indir kurulumu yinele raporu gönder,4,kurulumu,YİNELE,YİNELE,True
+CK-3499,dosya_yazılım_geliştirme,4,terminali kapat paketi indir kurulumu yinele raporu gönder,5,yinele,YİNELE,YİNELE,True
+CK-3499,dosya_yazılım_geliştirme,4,terminali kapat paketi indir kurulumu yinele raporu gönder,6,raporu,GÖNDER,GÖNDER,True
+CK-3499,dosya_yazılım_geliştirme,4,terminali kapat paketi indir kurulumu yinele raporu gönder,7,gönder,GÖNDER,GÖNDER,True
+CK-3500,dosya_yazılım_geliştirme,4,dosyayı yükle buildi yinele logu yazdır repoya gönder,0,dosyayı,YÜKLE,YÜKLE,True
+CK-3500,dosya_yazılım_geliştirme,4,dosyayı yükle buildi yinele logu yazdır repoya gönder,1,yükle,YÜKLE,YÜKLE,True
+CK-3500,dosya_yazılım_geliştirme,4,dosyayı yükle buildi yinele logu yazdır repoya gönder,2,buildi,YİNELE,YİNELE,True
+CK-3500,dosya_yazılım_geliştirme,4,dosyayı yükle buildi yinele logu yazdır repoya gönder,3,yinele,YİNELE,YİNELE,True
+CK-3500,dosya_yazılım_geliştirme,4,dosyayı yükle buildi yinele logu yazdır repoya gönder,4,logu,YAZDIR,YAZDIR,True
+CK-3500,dosya_yazılım_geliştirme,4,dosyayı yükle buildi yinele logu yazdır repoya gönder,5,yazdır,YAZDIR,YAZDIR,True
+CK-3500,dosya_yazılım_geliştirme,4,dosyayı yükle buildi yinele logu yazdır repoya gönder,6,repoya,GÖNDER,GÖNDER,True
+CK-3500,dosya_yazılım_geliştirme,4,dosyayı yükle buildi yinele logu yazdır repoya gönder,7,gönder,GÖNDER,GÖNDER,True
+CK-3501,dosya_yazılım_geliştirme,5,paketi indir projeye yükle testi yinele logu yazdır sonucu gönder,0,paketi,İNDİR,İNDİR,True
+CK-3501,dosya_yazılım_geliştirme,5,paketi indir projeye yükle testi yinele logu yazdır sonucu gönder,1,indir,İNDİR,İNDİR,True
+CK-3501,dosya_yazılım_geliştirme,5,paketi indir projeye yükle testi yinele logu yazdır sonucu gönder,2,projeye,YÜKLE,YÜKLE,True
+CK-3501,dosya_yazılım_geliştirme,5,paketi indir projeye yükle testi yinele logu yazdır sonucu gönder,3,yükle,YÜKLE,YÜKLE,True
+CK-3501,dosya_yazılım_geliştirme,5,paketi indir projeye yükle testi yinele logu yazdır sonucu gönder,4,testi,YİNELE,YİNELE,True
+CK-3501,dosya_yazılım_geliştirme,5,paketi indir projeye yükle testi yinele logu yazdır sonucu gönder,5,yinele,YİNELE,YİNELE,True
+CK-3501,dosya_yazılım_geliştirme,5,paketi indir projeye yükle testi yinele logu yazdır sonucu gönder,6,logu,YAZDIR,YAZDIR,True
+CK-3501,dosya_yazılım_geliştirme,5,paketi indir projeye yükle testi yinele logu yazdır sonucu gönder,7,yazdır,YAZDIR,YAZDIR,True
+CK-3501,dosya_yazılım_geliştirme,5,paketi indir projeye yükle testi yinele logu yazdır sonucu gönder,8,sonucu,GÖNDER,GÖNDER,True
+CK-3501,dosya_yazılım_geliştirme,5,paketi indir projeye yükle testi yinele logu yazdır sonucu gönder,9,gönder,GÖNDER,GÖNDER,True
+CK-3502,dosya_yazılım_geliştirme,5,satırı kes dosyayı kaydet repoya yükle terminali kapat bildirimi gönder,0,satırı,KES,KES,True
+CK-3502,dosya_yazılım_geliştirme,5,satırı kes dosyayı kaydet repoya yükle terminali kapat bildirimi gönder,1,kes,KES,KES,True
+CK-3502,dosya_yazılım_geliştirme,5,satırı kes dosyayı kaydet repoya yükle terminali kapat bildirimi gönder,2,dosyayı,KAYDET,KAYDET,True
+CK-3502,dosya_yazılım_geliştirme,5,satırı kes dosyayı kaydet repoya yükle terminali kapat bildirimi gönder,3,kaydet,KAYDET,KAYDET,True
+CK-3502,dosya_yazılım_geliştirme,5,satırı kes dosyayı kaydet repoya yükle terminali kapat bildirimi gönder,4,repoya,YÜKLE,YÜKLE,True
+CK-3502,dosya_yazılım_geliştirme,5,satırı kes dosyayı kaydet repoya yükle terminali kapat bildirimi gönder,5,yükle,YÜKLE,YÜKLE,True
+CK-3502,dosya_yazılım_geliştirme,5,satırı kes dosyayı kaydet repoya yükle terminali kapat bildirimi gönder,6,terminali,KAPAT,KAPAT,True
+CK-3502,dosya_yazılım_geliştirme,5,satırı kes dosyayı kaydet repoya yükle terminali kapat bildirimi gönder,7,kapat,KAPAT,KAPAT,True
+CK-3502,dosya_yazılım_geliştirme,5,satırı kes dosyayı kaydet repoya yükle terminali kapat bildirimi gönder,8,bildirimi,GÖNDER,GÖNDER,True
+CK-3502,dosya_yazılım_geliştirme,5,satırı kes dosyayı kaydet repoya yükle terminali kapat bildirimi gönder,9,gönder,GÖNDER,GÖNDER,True
+CK-3503,temel_bilgisayar,1,ekran okuyucuyu kapatma sadece sesini biraz azalt,0,ekran,O,O,True
+CK-3503,temel_bilgisayar,1,ekran okuyucuyu kapatma sadece sesini biraz azalt,1,okuyucuyu,O,O,True
+CK-3503,temel_bilgisayar,1,ekran okuyucuyu kapatma sadece sesini biraz azalt,2,kapatma,O,O,True
+CK-3503,temel_bilgisayar,1,ekran okuyucuyu kapatma sadece sesini biraz azalt,3,sadece,O,O,True
+CK-3503,temel_bilgisayar,1,ekran okuyucuyu kapatma sadece sesini biraz azalt,4,sesini,AZALT,AZALT,True
+CK-3503,temel_bilgisayar,1,ekran okuyucuyu kapatma sadece sesini biraz azalt,5,biraz,AZALT,AZALT,True
+CK-3503,temel_bilgisayar,1,ekran okuyucuyu kapatma sadece sesini biraz azalt,6,azalt,AZALT,AZALT,True
+CK-3504,temel_bilgisayar,1,şu küçük erişim simgesini seçebilir misin,0,şu,SEÇ,O,False
+CK-3504,temel_bilgisayar,1,şu küçük erişim simgesini seçebilir misin,1,küçük,SEÇ,SEÇ,True
+CK-3504,temel_bilgisayar,1,şu küçük erişim simgesini seçebilir misin,2,erişim,SEÇ,SEÇ,True
+CK-3504,temel_bilgisayar,1,şu küçük erişim simgesini seçebilir misin,3,simgesini,SEÇ,SEÇ,True
+CK-3504,temel_bilgisayar,1,şu küçük erişim simgesini seçebilir misin,4,seçebilir,SEÇ,SEÇ,True
+CK-3504,temel_bilgisayar,1,şu küçük erişim simgesini seçebilir misin,5,misin,SEÇ,SEÇ,True
+CK-3505,temel_bilgisayar,1,başlat menüsünü açma arama kutusuna geç,0,başlat,O,O,True
+CK-3505,temel_bilgisayar,1,başlat menüsünü açma arama kutusuna geç,1,menüsünü,O,O,True
+CK-3505,temel_bilgisayar,1,başlat menüsünü açma arama kutusuna geç,2,açma,O,O,True
+CK-3505,temel_bilgisayar,1,başlat menüsünü açma arama kutusuna geç,3,arama,GEÇ,GEÇ,True
+CK-3505,temel_bilgisayar,1,başlat menüsünü açma arama kutusuna geç,4,kutusuna,GEÇ,GEÇ,True
+CK-3505,temel_bilgisayar,1,başlat menüsünü açma arama kutusuna geç,5,geç,GEÇ,GEÇ,True
+CK-3506,temel_bilgisayar,1,masaüstündeki erişilebilirlik klasörünü bul,0,masaüstündeki,BUL,BUL,True
+CK-3506,temel_bilgisayar,1,masaüstündeki erişilebilirlik klasörünü bul,1,erişilebilirlik,BUL,BUL,True
+CK-3506,temel_bilgisayar,1,masaüstündeki erişilebilirlik klasörünü bul,2,klasörünü,BUL,BUL,True
+CK-3506,temel_bilgisayar,1,masaüstündeki erişilebilirlik klasörünü bul,3,bul,BUL,BUL,True
+CK-3507,temel_bilgisayar,1,ekran büyütecini biraz küçült ya,0,ekran,KÜÇÜLT,KÜÇÜLT,True
+CK-3507,temel_bilgisayar,1,ekran büyütecini biraz küçült ya,1,büyütecini,KÜÇÜLT,KÜÇÜLT,True
+CK-3507,temel_bilgisayar,1,ekran büyütecini biraz küçült ya,2,biraz,KÜÇÜLT,KÜÇÜLT,True
+CK-3507,temel_bilgisayar,1,ekran büyütecini biraz küçült ya,3,küçült,KÜÇÜLT,KÜÇÜLT,True
+CK-3507,temel_bilgisayar,1,ekran büyütecini biraz küçült ya,4,ya,O,O,True
+CK-3508,temel_bilgisayar,1,şimdilik bildirim merkezini kapat,0,şimdilik,O,KAPAT,False
+CK-3508,temel_bilgisayar,1,şimdilik bildirim merkezini kapat,1,bildirim,KAPAT,KAPAT,True
+CK-3508,temel_bilgisayar,1,şimdilik bildirim merkezini kapat,2,merkezini,KAPAT,KAPAT,True
+CK-3508,temel_bilgisayar,1,şimdilik bildirim merkezini kapat,3,kapat,KAPAT,KAPAT,True
+CK-3509,temel_bilgisayar,1,klavye kısayolunu yanlış söyledim sadece enter tuşuna bas,0,klavye,O,O,True
+CK-3509,temel_bilgisayar,1,klavye kısayolunu yanlış söyledim sadece enter tuşuna bas,1,kısayolunu,O,O,True
+CK-3509,temel_bilgisayar,1,klavye kısayolunu yanlış söyledim sadece enter tuşuna bas,2,yanlış,O,O,True
+CK-3509,temel_bilgisayar,1,klavye kısayolunu yanlış söyledim sadece enter tuşuna bas,3,söyledim,O,O,True
+CK-3509,temel_bilgisayar,1,klavye kısayolunu yanlış söyledim sadece enter tuşuna bas,4,sadece,O,O,True
+CK-3509,temel_bilgisayar,1,klavye kısayolunu yanlış söyledim sadece enter tuşuna bas,5,enter,ENTER,ENTER,True
+CK-3509,temel_bilgisayar,1,klavye kısayolunu yanlış söyledim sadece enter tuşuna bas,6,tuşuna,ENTER,ENTER,True
+CK-3509,temel_bilgisayar,1,klavye kısayolunu yanlış söyledim sadece enter tuşuna bas,7,bas,ENTER,ENTER,True
+CK-3510,temel_bilgisayar,1,imlecin sağ tarafına tek boşluk ekle,0,imlecin,BOŞLUK,BOŞLUK,True
+CK-3510,temel_bilgisayar,1,imlecin sağ tarafına tek boşluk ekle,1,sağ,BOŞLUK,BOŞLUK,True
+CK-3510,temel_bilgisayar,1,imlecin sağ tarafına tek boşluk ekle,2,tarafına,BOŞLUK,BOŞLUK,True
+CK-3510,temel_bilgisayar,1,imlecin sağ tarafına tek boşluk ekle,3,tek,BOŞLUK,BOŞLUK,True
+CK-3510,temel_bilgisayar,1,imlecin sağ tarafına tek boşluk ekle,4,boşluk,BOŞLUK,BOŞLUK,True
+CK-3510,temel_bilgisayar,1,imlecin sağ tarafına tek boşluk ekle,5,ekle,BOŞLUK,BOŞLUK,True
+CK-3511,temel_bilgisayar,1,şu seçili dosyayı panoya kopyala,0,şu,KOPYALA,KOPYALA,True
+CK-3511,temel_bilgisayar,1,şu seçili dosyayı panoya kopyala,1,seçili,KOPYALA,KOPYALA,True
+CK-3511,temel_bilgisayar,1,şu seçili dosyayı panoya kopyala,2,dosyayı,KOPYALA,KOPYALA,True
+CK-3511,temel_bilgisayar,1,şu seçili dosyayı panoya kopyala,3,panoya,KOPYALA,KOPYALA,True
+CK-3511,temel_bilgisayar,1,şu seçili dosyayı panoya kopyala,4,kopyala,KOPYALA,KOPYALA,True
+CK-3512,temel_bilgisayar,1,kopyalananı bu klasörün içine yapıştır,0,kopyalananı,YAPIŞTIR,YAPIŞTIR,True
+CK-3512,temel_bilgisayar,1,kopyalananı bu klasörün içine yapıştır,1,bu,YAPIŞTIR,YAPIŞTIR,True
+CK-3512,temel_bilgisayar,1,kopyalananı bu klasörün içine yapıştır,2,klasörün,YAPIŞTIR,YAPIŞTIR,True
+CK-3512,temel_bilgisayar,1,kopyalananı bu klasörün içine yapıştır,3,içine,YAPIŞTIR,YAPIŞTIR,True
+CK-3512,temel_bilgisayar,1,kopyalananı bu klasörün içine yapıştır,4,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3513,temel_bilgisayar,2,ayarlar penceresini büyüt sonra sol menüye geç,0,ayarlar,BÜYÜT,BÜYÜT,True
+CK-3513,temel_bilgisayar,2,ayarlar penceresini büyüt sonra sol menüye geç,1,penceresini,BÜYÜT,BÜYÜT,True
+CK-3513,temel_bilgisayar,2,ayarlar penceresini büyüt sonra sol menüye geç,2,büyüt,BÜYÜT,BÜYÜT,True
+CK-3513,temel_bilgisayar,2,ayarlar penceresini büyüt sonra sol menüye geç,3,sonra,O,O,True
+CK-3513,temel_bilgisayar,2,ayarlar penceresini büyüt sonra sol menüye geç,4,sol,GEÇ,GEÇ,True
+CK-3513,temel_bilgisayar,2,ayarlar penceresini büyüt sonra sol menüye geç,5,menüye,GEÇ,GEÇ,True
+CK-3513,temel_bilgisayar,2,ayarlar penceresini büyüt sonra sol menüye geç,6,geç,GEÇ,GEÇ,True
+CK-3514,temel_bilgisayar,1,masaüstüne geç ama hiçbir dosyayı silme,0,masaüstüne,GEÇ,GEÇ,True
+CK-3514,temel_bilgisayar,1,masaüstüne geç ama hiçbir dosyayı silme,1,geç,GEÇ,GEÇ,True
+CK-3514,temel_bilgisayar,1,masaüstüne geç ama hiçbir dosyayı silme,2,ama,O,O,True
+CK-3514,temel_bilgisayar,1,masaüstüne geç ama hiçbir dosyayı silme,3,hiçbir,O,O,True
+CK-3514,temel_bilgisayar,1,masaüstüne geç ama hiçbir dosyayı silme,4,dosyayı,O,O,True
+CK-3514,temel_bilgisayar,1,masaüstüne geç ama hiçbir dosyayı silme,5,silme,O,O,True
+CK-3515,temel_bilgisayar,1,geçici ekran görüntüsünü sil,0,geçici,SİL,SİL,True
+CK-3515,temel_bilgisayar,1,geçici ekran görüntüsünü sil,1,ekran,SİL,SİL,True
+CK-3515,temel_bilgisayar,1,geçici ekran görüntüsünü sil,2,görüntüsünü,SİL,SİL,True
+CK-3515,temel_bilgisayar,1,geçici ekran görüntüsünü sil,3,sil,SİL,SİL,True
+CK-3516,temel_bilgisayar,2,başlat aramasına not defteri yazıp enter bas,0,başlat,YAZ,YAZ,True
+CK-3516,temel_bilgisayar,2,başlat aramasına not defteri yazıp enter bas,1,aramasına,YAZ,YAZ,True
+CK-3516,temel_bilgisayar,2,başlat aramasına not defteri yazıp enter bas,2,not,YAZ,YAZ,True
+CK-3516,temel_bilgisayar,2,başlat aramasına not defteri yazıp enter bas,3,defteri,YAZ,YAZ,True
+CK-3516,temel_bilgisayar,2,başlat aramasına not defteri yazıp enter bas,4,yazıp,YAZ,YAZ,True
+CK-3516,temel_bilgisayar,2,başlat aramasına not defteri yazıp enter bas,5,enter,ENTER,ENTER,True
+CK-3516,temel_bilgisayar,2,başlat aramasına not defteri yazıp enter bas,6,bas,ENTER,ENTER,True
+CK-3517,temel_bilgisayar,2,ekran klavyesini aç ardından boşluk tuşuna bas,0,ekran,AÇ,AÇ,True
+CK-3517,temel_bilgisayar,2,ekran klavyesini aç ardından boşluk tuşuna bas,1,klavyesini,AÇ,AÇ,True
+CK-3517,temel_bilgisayar,2,ekran klavyesini aç ardından boşluk tuşuna bas,2,aç,AÇ,AÇ,True
+CK-3517,temel_bilgisayar,2,ekran klavyesini aç ardından boşluk tuşuna bas,3,ardından,O,O,True
+CK-3517,temel_bilgisayar,2,ekran klavyesini aç ardından boşluk tuşuna bas,4,boşluk,BOŞLUK,BOŞLUK,True
+CK-3517,temel_bilgisayar,2,ekran klavyesini aç ardından boşluk tuşuna bas,5,tuşuna,BOŞLUK,BOŞLUK,True
+CK-3517,temel_bilgisayar,2,ekran klavyesini aç ardından boşluk tuşuna bas,6,bas,BOŞLUK,BOŞLUK,True
+CK-3518,temel_bilgisayar,2,dosyanın adını ders planı yap ve kaydet,0,dosyanın,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3518,temel_bilgisayar,2,dosyanın adını ders planı yap ve kaydet,1,adını,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3518,temel_bilgisayar,2,dosyanın adını ders planı yap ve kaydet,2,ders,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3518,temel_bilgisayar,2,dosyanın adını ders planı yap ve kaydet,3,planı,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3518,temel_bilgisayar,2,dosyanın adını ders planı yap ve kaydet,4,yap,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3518,temel_bilgisayar,2,dosyanın adını ders planı yap ve kaydet,5,ve,O,O,True
+CK-3518,temel_bilgisayar,2,dosyanın adını ders planı yap ve kaydet,6,kaydet,KAYDET,KAYDET,True
+CK-3519,temel_bilgisayar,2,sol taraftaki klasörü seç sağdaki alana taşı,0,sol,SEÇ,SEÇ,True
+CK-3519,temel_bilgisayar,2,sol taraftaki klasörü seç sağdaki alana taşı,1,taraftaki,SEÇ,SEÇ,True
+CK-3519,temel_bilgisayar,2,sol taraftaki klasörü seç sağdaki alana taşı,2,klasörü,SEÇ,SEÇ,True
+CK-3519,temel_bilgisayar,2,sol taraftaki klasörü seç sağdaki alana taşı,3,seç,SEÇ,SEÇ,True
+CK-3519,temel_bilgisayar,2,sol taraftaki klasörü seç sağdaki alana taşı,4,sağdaki,TAŞI,TAŞI,True
+CK-3519,temel_bilgisayar,2,sol taraftaki klasörü seç sağdaki alana taşı,5,alana,TAŞI,TAŞI,True
+CK-3519,temel_bilgisayar,2,sol taraftaki klasörü seç sağdaki alana taşı,6,taşı,TAŞI,TAŞI,True
+CK-3520,temel_bilgisayar,2,şu uyarıya tıkla ardından pencereyi kapat,0,şu,TIKLA,TIKLA,True
+CK-3520,temel_bilgisayar,2,şu uyarıya tıkla ardından pencereyi kapat,1,uyarıya,TIKLA,TIKLA,True
+CK-3520,temel_bilgisayar,2,şu uyarıya tıkla ardından pencereyi kapat,2,tıkla,TIKLA,TIKLA,True
+CK-3520,temel_bilgisayar,2,şu uyarıya tıkla ardından pencereyi kapat,3,ardından,O,O,True
+CK-3520,temel_bilgisayar,2,şu uyarıya tıkla ardından pencereyi kapat,4,pencereyi,KAPAT,KAPAT,True
+CK-3520,temel_bilgisayar,2,şu uyarıya tıkla ardından pencereyi kapat,5,kapat,KAPAT,KAPAT,True
+CK-3521,temel_bilgisayar,3,ekran parlaklığını artır ses seviyesini azalt sonra bildirimi kapat,0,ekran,ARTIR,ARTIR,True
+CK-3521,temel_bilgisayar,3,ekran parlaklığını artır ses seviyesini azalt sonra bildirimi kapat,1,parlaklığını,ARTIR,ARTIR,True
+CK-3521,temel_bilgisayar,3,ekran parlaklığını artır ses seviyesini azalt sonra bildirimi kapat,2,artır,ARTIR,ARTIR,True
+CK-3521,temel_bilgisayar,3,ekran parlaklığını artır ses seviyesini azalt sonra bildirimi kapat,3,ses,AZALT,AZALT,True
+CK-3521,temel_bilgisayar,3,ekran parlaklığını artır ses seviyesini azalt sonra bildirimi kapat,4,seviyesini,AZALT,AZALT,True
+CK-3521,temel_bilgisayar,3,ekran parlaklığını artır ses seviyesini azalt sonra bildirimi kapat,5,azalt,AZALT,AZALT,True
+CK-3521,temel_bilgisayar,3,ekran parlaklığını artır ses seviyesini azalt sonra bildirimi kapat,6,sonra,O,O,True
+CK-3521,temel_bilgisayar,3,ekran parlaklığını artır ses seviyesini azalt sonra bildirimi kapat,7,bildirimi,KAPAT,KAPAT,True
+CK-3521,temel_bilgisayar,3,ekran parlaklığını artır ses seviyesini azalt sonra bildirimi kapat,8,kapat,KAPAT,KAPAT,True
+CK-3522,temel_bilgisayar,3,dosyayı silme klasörü bul seç ve masaüstüne taşı,0,dosyayı,O,O,True
+CK-3522,temel_bilgisayar,3,dosyayı silme klasörü bul seç ve masaüstüne taşı,1,silme,O,O,True
+CK-3522,temel_bilgisayar,3,dosyayı silme klasörü bul seç ve masaüstüne taşı,2,klasörü,BUL,BUL,True
+CK-3522,temel_bilgisayar,3,dosyayı silme klasörü bul seç ve masaüstüne taşı,3,bul,BUL,BUL,True
+CK-3522,temel_bilgisayar,3,dosyayı silme klasörü bul seç ve masaüstüne taşı,4,seç,SEÇ,SEÇ,True
+CK-3522,temel_bilgisayar,3,dosyayı silme klasörü bul seç ve masaüstüne taşı,5,ve,O,O,True
+CK-3522,temel_bilgisayar,3,dosyayı silme klasörü bul seç ve masaüstüne taşı,6,masaüstüne,TAŞI,TAŞI,True
+CK-3522,temel_bilgisayar,3,dosyayı silme klasörü bul seç ve masaüstüne taşı,7,taşı,TAŞI,TAŞI,True
+CK-3523,temel_bilgisayar,3,erişim panelini aç yüksek kontrast ayarını bul onu etkinleştir,0,erişim,AÇ,AÇ,True
+CK-3523,temel_bilgisayar,3,erişim panelini aç yüksek kontrast ayarını bul onu etkinleştir,1,panelini,AÇ,AÇ,True
+CK-3523,temel_bilgisayar,3,erişim panelini aç yüksek kontrast ayarını bul onu etkinleştir,2,aç,AÇ,AÇ,True
+CK-3523,temel_bilgisayar,3,erişim panelini aç yüksek kontrast ayarını bul onu etkinleştir,3,yüksek,BUL,BUL,True
+CK-3523,temel_bilgisayar,3,erişim panelini aç yüksek kontrast ayarını bul onu etkinleştir,4,kontrast,BUL,BUL,True
+CK-3523,temel_bilgisayar,3,erişim panelini aç yüksek kontrast ayarını bul onu etkinleştir,5,ayarını,BUL,BUL,True
+CK-3523,temel_bilgisayar,3,erişim panelini aç yüksek kontrast ayarını bul onu etkinleştir,6,bul,BUL,BUL,True
+CK-3523,temel_bilgisayar,3,erişim panelini aç yüksek kontrast ayarını bul onu etkinleştir,7,onu,DEĞİŞTİR,DİĞER,False
+CK-3523,temel_bilgisayar,3,erişim panelini aç yüksek kontrast ayarını bul onu etkinleştir,8,etkinleştir,DEĞİŞTİR,DİĞER,False
+CK-3524,temel_bilgisayar,3,kısayolu kopyala belgeler klasörüne geç oraya yapıştır,0,kısayolu,KOPYALA,KOPYALA,True
+CK-3524,temel_bilgisayar,3,kısayolu kopyala belgeler klasörüne geç oraya yapıştır,1,kopyala,KOPYALA,KOPYALA,True
+CK-3524,temel_bilgisayar,3,kısayolu kopyala belgeler klasörüne geç oraya yapıştır,2,belgeler,GEÇ,GEÇ,True
+CK-3524,temel_bilgisayar,3,kısayolu kopyala belgeler klasörüne geç oraya yapıştır,3,klasörüne,GEÇ,GEÇ,True
+CK-3524,temel_bilgisayar,3,kısayolu kopyala belgeler klasörüne geç oraya yapıştır,4,geç,GEÇ,GEÇ,True
+CK-3524,temel_bilgisayar,3,kısayolu kopyala belgeler klasörüne geç oraya yapıştır,5,oraya,YAPIŞTIR,YAPIŞTIR,True
+CK-3524,temel_bilgisayar,3,kısayolu kopyala belgeler klasörüne geç oraya yapıştır,6,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3525,temel_bilgisayar,3,masaüstüne geç yeni klasör oluştur adını erişim notları yap,0,masaüstüne,GEÇ,GEÇ,True
+CK-3525,temel_bilgisayar,3,masaüstüne geç yeni klasör oluştur adını erişim notları yap,1,geç,GEÇ,GEÇ,True
+CK-3525,temel_bilgisayar,3,masaüstüne geç yeni klasör oluştur adını erişim notları yap,2,yeni,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3525,temel_bilgisayar,3,masaüstüne geç yeni klasör oluştur adını erişim notları yap,3,klasör,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3525,temel_bilgisayar,3,masaüstüne geç yeni klasör oluştur adını erişim notları yap,4,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3525,temel_bilgisayar,3,masaüstüne geç yeni klasör oluştur adını erişim notları yap,5,adını,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3525,temel_bilgisayar,3,masaüstüne geç yeni klasör oluştur adını erişim notları yap,6,erişim,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3525,temel_bilgisayar,3,masaüstüne geç yeni klasör oluştur adını erişim notları yap,7,notları,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3525,temel_bilgisayar,3,masaüstüne geç yeni klasör oluştur adını erişim notları yap,8,yap,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3526,temel_bilgisayar,3,başlat aramasına ekran klavyesi yaz enter bas çıkan sonucu aç,0,başlat,YAZ,YAZ,True
+CK-3526,temel_bilgisayar,3,başlat aramasına ekran klavyesi yaz enter bas çıkan sonucu aç,1,aramasına,YAZ,YAZ,True
+CK-3526,temel_bilgisayar,3,başlat aramasına ekran klavyesi yaz enter bas çıkan sonucu aç,2,ekran,YAZ,YAZ,True
+CK-3526,temel_bilgisayar,3,başlat aramasına ekran klavyesi yaz enter bas çıkan sonucu aç,3,klavyesi,YAZ,YAZ,True
+CK-3526,temel_bilgisayar,3,başlat aramasına ekran klavyesi yaz enter bas çıkan sonucu aç,4,yaz,YAZ,YAZ,True
+CK-3526,temel_bilgisayar,3,başlat aramasına ekran klavyesi yaz enter bas çıkan sonucu aç,5,enter,ENTER,ENTER,True
+CK-3526,temel_bilgisayar,3,başlat aramasına ekran klavyesi yaz enter bas çıkan sonucu aç,6,bas,ENTER,ENTER,True
+CK-3526,temel_bilgisayar,3,başlat aramasına ekran klavyesi yaz enter bas çıkan sonucu aç,7,çıkan,AÇ,AÇ,True
+CK-3526,temel_bilgisayar,3,başlat aramasına ekran klavyesi yaz enter bas çıkan sonucu aç,8,sonucu,AÇ,AÇ,True
+CK-3526,temel_bilgisayar,3,başlat aramasına ekran klavyesi yaz enter bas çıkan sonucu aç,9,aç,AÇ,AÇ,True
+CK-3527,temel_bilgisayar,3,görev görünümünü aç ikinci pencereye geç sonra pencereyi büyüt,0,görev,AÇ,AÇ,True
+CK-3527,temel_bilgisayar,3,görev görünümünü aç ikinci pencereye geç sonra pencereyi büyüt,1,görünümünü,AÇ,AÇ,True
+CK-3527,temel_bilgisayar,3,görev görünümünü aç ikinci pencereye geç sonra pencereyi büyüt,2,aç,AÇ,AÇ,True
+CK-3527,temel_bilgisayar,3,görev görünümünü aç ikinci pencereye geç sonra pencereyi büyüt,3,ikinci,GEÇ,GEÇ,True
+CK-3527,temel_bilgisayar,3,görev görünümünü aç ikinci pencereye geç sonra pencereyi büyüt,4,pencereye,GEÇ,GEÇ,True
+CK-3527,temel_bilgisayar,3,görev görünümünü aç ikinci pencereye geç sonra pencereyi büyüt,5,geç,GEÇ,GEÇ,True
+CK-3527,temel_bilgisayar,3,görev görünümünü aç ikinci pencereye geç sonra pencereyi büyüt,6,sonra,O,O,True
+CK-3527,temel_bilgisayar,3,görev görünümünü aç ikinci pencereye geç sonra pencereyi büyüt,7,pencereyi,BÜYÜT,BÜYÜT,True
+CK-3527,temel_bilgisayar,3,görev görünümünü aç ikinci pencereye geç sonra pencereyi büyüt,8,büyüt,BÜYÜT,BÜYÜT,True
+CK-3528,tarayıcı_internet,1,bu sayfanın içinde yönetmelik kelimesini bul,0,bu,BUL,O,False
+CK-3528,tarayıcı_internet,1,bu sayfanın içinde yönetmelik kelimesini bul,1,sayfanın,BUL,O,False
+CK-3528,tarayıcı_internet,1,bu sayfanın içinde yönetmelik kelimesini bul,2,içinde,BUL,BUL,True
+CK-3528,tarayıcı_internet,1,bu sayfanın içinde yönetmelik kelimesini bul,3,yönetmelik,BUL,BUL,True
+CK-3528,tarayıcı_internet,1,bu sayfanın içinde yönetmelik kelimesini bul,4,kelimesini,BUL,BUL,True
+CK-3528,tarayıcı_internet,1,bu sayfanın içinde yönetmelik kelimesini bul,5,bul,BUL,BUL,True
+CK-3529,tarayıcı_internet,1,şu reklam penceresini kapatır mısın,0,şu,KAPAT,KAPAT,True
+CK-3529,tarayıcı_internet,1,şu reklam penceresini kapatır mısın,1,reklam,KAPAT,KAPAT,True
+CK-3529,tarayıcı_internet,1,şu reklam penceresini kapatır mısın,2,penceresini,KAPAT,KAPAT,True
+CK-3529,tarayıcı_internet,1,şu reklam penceresini kapatır mısın,3,kapatır,KAPAT,KAPAT,True
+CK-3529,tarayıcı_internet,1,şu reklam penceresini kapatır mısın,4,mısın,KAPAT,KAPAT,True
+CK-3530,tarayıcı_internet,1,adres satırına okul portalı yaz,0,adres,YAZ,YAZ,True
+CK-3530,tarayıcı_internet,1,adres satırına okul portalı yaz,1,satırına,YAZ,YAZ,True
+CK-3530,tarayıcı_internet,1,adres satırına okul portalı yaz,2,okul,YAZ,YAZ,True
+CK-3530,tarayıcı_internet,1,adres satırına okul portalı yaz,3,portalı,YAZ,YAZ,True
+CK-3530,tarayıcı_internet,1,adres satırına okul portalı yaz,4,yaz,YAZ,YAZ,True
+CK-3531,tarayıcı_internet,1,giriş butonuna basıver yani tıkla,0,giriş,TIKLA,TIKLA,True
+CK-3531,tarayıcı_internet,1,giriş butonuna basıver yani tıkla,1,butonuna,TIKLA,TIKLA,True
+CK-3531,tarayıcı_internet,1,giriş butonuna basıver yani tıkla,2,basıver,TIKLA,TIKLA,True
+CK-3531,tarayıcı_internet,1,giriş butonuna basıver yani tıkla,3,yani,O,TIKLA,False
+CK-3531,tarayıcı_internet,1,giriş butonuna basıver yani tıkla,4,tıkla,O,TIKLA,False
+CK-3532,tarayıcı_internet,1,kimlik dosyasını siteye yükle lütfen,0,kimlik,YÜKLE,YÜKLE,True
+CK-3532,tarayıcı_internet,1,kimlik dosyasını siteye yükle lütfen,1,dosyasını,YÜKLE,YÜKLE,True
+CK-3532,tarayıcı_internet,1,kimlik dosyasını siteye yükle lütfen,2,siteye,YÜKLE,YÜKLE,True
+CK-3532,tarayıcı_internet,1,kimlik dosyasını siteye yükle lütfen,3,yükle,YÜKLE,YÜKLE,True
+CK-3532,tarayıcı_internet,1,kimlik dosyasını siteye yükle lütfen,4,lütfen,O,O,True
+CK-3533,tarayıcı_internet,1,pdf açılmasın doğrudan bilgisayara indir,0,pdf,O,O,True
+CK-3533,tarayıcı_internet,1,pdf açılmasın doğrudan bilgisayara indir,1,açılmasın,O,O,True
+CK-3533,tarayıcı_internet,1,pdf açılmasın doğrudan bilgisayara indir,2,doğrudan,İNDİR,İNDİR,True
+CK-3533,tarayıcı_internet,1,pdf açılmasın doğrudan bilgisayara indir,3,bilgisayara,İNDİR,İNDİR,True
+CK-3533,tarayıcı_internet,1,pdf açılmasın doğrudan bilgisayara indir,4,indir,İNDİR,İNDİR,True
+CK-3534,tarayıcı_internet,1,bu formu göndermeden taslak olarak kaydet,0,bu,O,O,True
+CK-3534,tarayıcı_internet,1,bu formu göndermeden taslak olarak kaydet,1,formu,O,O,True
+CK-3534,tarayıcı_internet,1,bu formu göndermeden taslak olarak kaydet,2,göndermeden,O,O,True
+CK-3534,tarayıcı_internet,1,bu formu göndermeden taslak olarak kaydet,3,taslak,KAYDET,KAYDET,True
+CK-3534,tarayıcı_internet,1,bu formu göndermeden taslak olarak kaydet,4,olarak,KAYDET,KAYDET,True
+CK-3534,tarayıcı_internet,1,bu formu göndermeden taslak olarak kaydet,5,kaydet,KAYDET,KAYDET,True
+CK-3535,tarayıcı_internet,1,arama sonucunu yeni sekmede aç,0,arama,AÇ,AÇ,True
+CK-3535,tarayıcı_internet,1,arama sonucunu yeni sekmede aç,1,sonucunu,AÇ,AÇ,True
+CK-3535,tarayıcı_internet,1,arama sonucunu yeni sekmede aç,2,yeni,AÇ,AÇ,True
+CK-3535,tarayıcı_internet,1,arama sonucunu yeni sekmede aç,3,sekmede,AÇ,AÇ,True
+CK-3535,tarayıcı_internet,1,arama sonucunu yeni sekmede aç,4,aç,AÇ,AÇ,True
+CK-3536,tarayıcı_internet,1,site içinde erişilebilirlik ara,0,site,ARA,ARA,True
+CK-3536,tarayıcı_internet,1,site içinde erişilebilirlik ara,1,içinde,ARA,ARA,True
+CK-3536,tarayıcı_internet,1,site içinde erişilebilirlik ara,2,erişilebilirlik,ARA,ARA,True
+CK-3536,tarayıcı_internet,1,site içinde erişilebilirlik ara,3,ara,ARA,ARA,True
+CK-3537,tarayıcı_internet,2,önceki sekmeye geç ve sayfanın başına kaydır,0,önceki,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3537,tarayıcı_internet,2,önceki sekmeye geç ve sayfanın başına kaydır,1,sekmeye,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3537,tarayıcı_internet,2,önceki sekmeye geç ve sayfanın başına kaydır,2,geç,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3537,tarayıcı_internet,2,önceki sekmeye geç ve sayfanın başına kaydır,3,ve,O,O,True
+CK-3537,tarayıcı_internet,2,önceki sekmeye geç ve sayfanın başına kaydır,4,sayfanın,KAYDIR,KAYDIR,True
+CK-3537,tarayıcı_internet,2,önceki sekmeye geç ve sayfanın başına kaydır,5,başına,KAYDIR,KAYDIR,True
+CK-3537,tarayıcı_internet,2,önceki sekmeye geç ve sayfanın başına kaydır,6,kaydır,KAYDIR,KAYDIR,True
+CK-3538,tarayıcı_internet,2,arama kutusuna tıkla öğrenci işleri yaz,0,arama,TIKLA,TIKLA,True
+CK-3538,tarayıcı_internet,2,arama kutusuna tıkla öğrenci işleri yaz,1,kutusuna,TIKLA,TIKLA,True
+CK-3538,tarayıcı_internet,2,arama kutusuna tıkla öğrenci işleri yaz,2,tıkla,TIKLA,TIKLA,True
+CK-3538,tarayıcı_internet,2,arama kutusuna tıkla öğrenci işleri yaz,3,öğrenci,YAZ,YAZ,True
+CK-3538,tarayıcı_internet,2,arama kutusuna tıkla öğrenci işleri yaz,4,işleri,YAZ,YAZ,True
+CK-3538,tarayıcı_internet,2,arama kutusuna tıkla öğrenci işleri yaz,5,yaz,YAZ,YAZ,True
+CK-3539,tarayıcı_internet,2,güvenlik kodu alanını seç kopyalanan kodu yapıştır,0,güvenlik,SEÇ,SEÇ,True
+CK-3539,tarayıcı_internet,2,güvenlik kodu alanını seç kopyalanan kodu yapıştır,1,kodu,SEÇ,SEÇ,True
+CK-3539,tarayıcı_internet,2,güvenlik kodu alanını seç kopyalanan kodu yapıştır,2,alanını,SEÇ,SEÇ,True
+CK-3539,tarayıcı_internet,2,güvenlik kodu alanını seç kopyalanan kodu yapıştır,3,seç,SEÇ,SEÇ,True
+CK-3539,tarayıcı_internet,2,güvenlik kodu alanını seç kopyalanan kodu yapıştır,4,kopyalanan,YAPIŞTIR,YAPIŞTIR,True
+CK-3539,tarayıcı_internet,2,güvenlik kodu alanını seç kopyalanan kodu yapıştır,5,kodu,YAPIŞTIR,YAPIŞTIR,True
+CK-3539,tarayıcı_internet,2,güvenlik kodu alanını seç kopyalanan kodu yapıştır,6,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3540,tarayıcı_internet,2,bağlantıyı kopyala yeni sekmeye yapıştır,0,bağlantıyı,KOPYALA,KOPYALA,True
+CK-3540,tarayıcı_internet,2,bağlantıyı kopyala yeni sekmeye yapıştır,1,kopyala,KOPYALA,KOPYALA,True
+CK-3540,tarayıcı_internet,2,bağlantıyı kopyala yeni sekmeye yapıştır,2,yeni,YAPIŞTIR,YAPIŞTIR,True
+CK-3540,tarayıcı_internet,2,bağlantıyı kopyala yeni sekmeye yapıştır,3,sekmeye,YAPIŞTIR,YAPIŞTIR,True
+CK-3540,tarayıcı_internet,2,bağlantıyı kopyala yeni sekmeye yapıştır,4,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3541,tarayıcı_internet,2,sayfayı yenile sonra hata mesajını bul,0,sayfayı,YİNELE,YİNELE,True
+CK-3541,tarayıcı_internet,2,sayfayı yenile sonra hata mesajını bul,1,yenile,YİNELE,YİNELE,True
+CK-3541,tarayıcı_internet,2,sayfayı yenile sonra hata mesajını bul,2,sonra,O,O,True
+CK-3541,tarayıcı_internet,2,sayfayı yenile sonra hata mesajını bul,3,hata,BUL,BUL,True
+CK-3541,tarayıcı_internet,2,sayfayı yenile sonra hata mesajını bul,4,mesajını,BUL,BUL,True
+CK-3541,tarayıcı_internet,2,sayfayı yenile sonra hata mesajını bul,5,bul,BUL,BUL,True
+CK-3542,tarayıcı_internet,2,dosya alanına tıkla kimlik görselini yükle,0,dosya,TIKLA,TIKLA,True
+CK-3542,tarayıcı_internet,2,dosya alanına tıkla kimlik görselini yükle,1,alanına,TIKLA,TIKLA,True
+CK-3542,tarayıcı_internet,2,dosya alanına tıkla kimlik görselini yükle,2,tıkla,TIKLA,TIKLA,True
+CK-3542,tarayıcı_internet,2,dosya alanına tıkla kimlik görselini yükle,3,kimlik,YÜKLE,YÜKLE,True
+CK-3542,tarayıcı_internet,2,dosya alanına tıkla kimlik görselini yükle,4,görselini,YÜKLE,YÜKLE,True
+CK-3542,tarayıcı_internet,2,dosya alanına tıkla kimlik görselini yükle,5,yükle,YÜKLE,YÜKLE,True
+CK-3543,tarayıcı_internet,1,formu kontrol etmeden göndermeyelim sadece zorunlu alanı bul,0,formu,O,O,True
+CK-3543,tarayıcı_internet,1,formu kontrol etmeden göndermeyelim sadece zorunlu alanı bul,1,kontrol,O,O,True
+CK-3543,tarayıcı_internet,1,formu kontrol etmeden göndermeyelim sadece zorunlu alanı bul,2,etmeden,O,O,True
+CK-3543,tarayıcı_internet,1,formu kontrol etmeden göndermeyelim sadece zorunlu alanı bul,3,göndermeyelim,O,O,True
+CK-3543,tarayıcı_internet,1,formu kontrol etmeden göndermeyelim sadece zorunlu alanı bul,4,sadece,O,O,True
+CK-3543,tarayıcı_internet,1,formu kontrol etmeden göndermeyelim sadece zorunlu alanı bul,5,zorunlu,BUL,BUL,True
+CK-3543,tarayıcı_internet,1,formu kontrol etmeden göndermeyelim sadece zorunlu alanı bul,6,alanı,BUL,BUL,True
+CK-3543,tarayıcı_internet,1,formu kontrol etmeden göndermeyelim sadece zorunlu alanı bul,7,bul,BUL,BUL,True
+CK-3544,tarayıcı_internet,3,adres çubuğundaki eski adresi seç sil ve yeni adresi yaz,0,adres,SEÇ,SEÇ,True
+CK-3544,tarayıcı_internet,3,adres çubuğundaki eski adresi seç sil ve yeni adresi yaz,1,çubuğundaki,SEÇ,O,False
+CK-3544,tarayıcı_internet,3,adres çubuğundaki eski adresi seç sil ve yeni adresi yaz,2,eski,SEÇ,SEÇ,True
+CK-3544,tarayıcı_internet,3,adres çubuğundaki eski adresi seç sil ve yeni adresi yaz,3,adresi,SEÇ,SEÇ,True
+CK-3544,tarayıcı_internet,3,adres çubuğundaki eski adresi seç sil ve yeni adresi yaz,4,seç,SEÇ,SEÇ,True
+CK-3544,tarayıcı_internet,3,adres çubuğundaki eski adresi seç sil ve yeni adresi yaz,5,sil,SİL,SİL,True
+CK-3544,tarayıcı_internet,3,adres çubuğundaki eski adresi seç sil ve yeni adresi yaz,6,ve,O,O,True
+CK-3544,tarayıcı_internet,3,adres çubuğundaki eski adresi seç sil ve yeni adresi yaz,7,yeni,YAZ,YAZ,True
+CK-3544,tarayıcı_internet,3,adres çubuğundaki eski adresi seç sil ve yeni adresi yaz,8,adresi,YAZ,YAZ,True
+CK-3544,tarayıcı_internet,3,adres çubuğundaki eski adresi seç sil ve yeni adresi yaz,9,yaz,YAZ,YAZ,True
+CK-3545,tarayıcı_internet,3,başvuru sayfasına git tc alanını seç numarayı yaz,0,başvuru,GİT,GİT,True
+CK-3545,tarayıcı_internet,3,başvuru sayfasına git tc alanını seç numarayı yaz,1,sayfasına,GİT,GİT,True
+CK-3545,tarayıcı_internet,3,başvuru sayfasına git tc alanını seç numarayı yaz,2,git,GİT,GİT,True
+CK-3545,tarayıcı_internet,3,başvuru sayfasına git tc alanını seç numarayı yaz,3,tc,SEÇ,SEÇ,True
+CK-3545,tarayıcı_internet,3,başvuru sayfasına git tc alanını seç numarayı yaz,4,alanını,SEÇ,SEÇ,True
+CK-3545,tarayıcı_internet,3,başvuru sayfasına git tc alanını seç numarayı yaz,5,seç,SEÇ,SEÇ,True
+CK-3545,tarayıcı_internet,3,başvuru sayfasına git tc alanını seç numarayı yaz,6,numarayı,YAZ,YAZ,True
+CK-3545,tarayıcı_internet,3,başvuru sayfasına git tc alanını seç numarayı yaz,7,yaz,YAZ,YAZ,True
+CK-3546,tarayıcı_internet,3,pdf bağlantısını aç dosyayı indir indirme çubuğunu kapat,0,pdf,AÇ,AÇ,True
+CK-3546,tarayıcı_internet,3,pdf bağlantısını aç dosyayı indir indirme çubuğunu kapat,1,bağlantısını,AÇ,AÇ,True
+CK-3546,tarayıcı_internet,3,pdf bağlantısını aç dosyayı indir indirme çubuğunu kapat,2,aç,AÇ,AÇ,True
+CK-3546,tarayıcı_internet,3,pdf bağlantısını aç dosyayı indir indirme çubuğunu kapat,3,dosyayı,İNDİR,İNDİR,True
+CK-3546,tarayıcı_internet,3,pdf bağlantısını aç dosyayı indir indirme çubuğunu kapat,4,indir,İNDİR,İNDİR,True
+CK-3546,tarayıcı_internet,3,pdf bağlantısını aç dosyayı indir indirme çubuğunu kapat,5,indirme,KAPAT,KAPAT,True
+CK-3546,tarayıcı_internet,3,pdf bağlantısını aç dosyayı indir indirme çubuğunu kapat,6,çubuğunu,KAPAT,KAPAT,True
+CK-3546,tarayıcı_internet,3,pdf bağlantısını aç dosyayı indir indirme çubuğunu kapat,7,kapat,KAPAT,KAPAT,True
+CK-3547,tarayıcı_internet,3,sağdaki sekmeye geç sayfayı yenile duyuru başlığını kopyala,0,sağdaki,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3547,tarayıcı_internet,3,sağdaki sekmeye geç sayfayı yenile duyuru başlığını kopyala,1,sekmeye,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3547,tarayıcı_internet,3,sağdaki sekmeye geç sayfayı yenile duyuru başlığını kopyala,2,geç,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3547,tarayıcı_internet,3,sağdaki sekmeye geç sayfayı yenile duyuru başlığını kopyala,3,sayfayı,YİNELE,YİNELE,True
+CK-3547,tarayıcı_internet,3,sağdaki sekmeye geç sayfayı yenile duyuru başlığını kopyala,4,yenile,YİNELE,YİNELE,True
+CK-3547,tarayıcı_internet,3,sağdaki sekmeye geç sayfayı yenile duyuru başlığını kopyala,5,duyuru,KOPYALA,KOPYALA,True
+CK-3547,tarayıcı_internet,3,sağdaki sekmeye geç sayfayı yenile duyuru başlığını kopyala,6,başlığını,KOPYALA,KOPYALA,True
+CK-3547,tarayıcı_internet,3,sağdaki sekmeye geç sayfayı yenile duyuru başlığını kopyala,7,kopyala,KOPYALA,KOPYALA,True
+CK-3548,tarayıcı_internet,3,arama motorunda akademik takvim ara ilk sonucu aç sonra sayfayı aşağı kaydır,0,arama,O,O,True
+CK-3548,tarayıcı_internet,3,arama motorunda akademik takvim ara ilk sonucu aç sonra sayfayı aşağı kaydır,1,motorunda,O,O,True
+CK-3548,tarayıcı_internet,3,arama motorunda akademik takvim ara ilk sonucu aç sonra sayfayı aşağı kaydır,2,akademik,ARA,ARA,True
+CK-3548,tarayıcı_internet,3,arama motorunda akademik takvim ara ilk sonucu aç sonra sayfayı aşağı kaydır,3,takvim,ARA,ARA,True
+CK-3548,tarayıcı_internet,3,arama motorunda akademik takvim ara ilk sonucu aç sonra sayfayı aşağı kaydır,4,ara,ARA,ARA,True
+CK-3548,tarayıcı_internet,3,arama motorunda akademik takvim ara ilk sonucu aç sonra sayfayı aşağı kaydır,5,ilk,AÇ,AÇ,True
+CK-3548,tarayıcı_internet,3,arama motorunda akademik takvim ara ilk sonucu aç sonra sayfayı aşağı kaydır,6,sonucu,AÇ,AÇ,True
+CK-3548,tarayıcı_internet,3,arama motorunda akademik takvim ara ilk sonucu aç sonra sayfayı aşağı kaydır,7,aç,AÇ,AÇ,True
+CK-3548,tarayıcı_internet,3,arama motorunda akademik takvim ara ilk sonucu aç sonra sayfayı aşağı kaydır,8,sonra,O,O,True
+CK-3548,tarayıcı_internet,3,arama motorunda akademik takvim ara ilk sonucu aç sonra sayfayı aşağı kaydır,9,sayfayı,KAYDIR,KAYDIR,True
+CK-3548,tarayıcı_internet,3,arama motorunda akademik takvim ara ilk sonucu aç sonra sayfayı aşağı kaydır,10,aşağı,KAYDIR,KAYDIR,True
+CK-3548,tarayıcı_internet,3,arama motorunda akademik takvim ara ilk sonucu aç sonra sayfayı aşağı kaydır,11,kaydır,KAYDIR,KAYDIR,True
+CK-3549,tarayıcı_internet,3,yüklediğin dosyayı seç açıklama alanına rapor taslağı yaz formu gönder,0,yüklediğin,SEÇ,SEÇ,True
+CK-3549,tarayıcı_internet,3,yüklediğin dosyayı seç açıklama alanına rapor taslağı yaz formu gönder,1,dosyayı,SEÇ,SEÇ,True
+CK-3549,tarayıcı_internet,3,yüklediğin dosyayı seç açıklama alanına rapor taslağı yaz formu gönder,2,seç,SEÇ,SEÇ,True
+CK-3549,tarayıcı_internet,3,yüklediğin dosyayı seç açıklama alanına rapor taslağı yaz formu gönder,3,açıklama,YAZ,YAZ,True
+CK-3549,tarayıcı_internet,3,yüklediğin dosyayı seç açıklama alanına rapor taslağı yaz formu gönder,4,alanına,YAZ,YAZ,True
+CK-3549,tarayıcı_internet,3,yüklediğin dosyayı seç açıklama alanına rapor taslağı yaz formu gönder,5,rapor,YAZ,YAZ,True
+CK-3549,tarayıcı_internet,3,yüklediğin dosyayı seç açıklama alanına rapor taslağı yaz formu gönder,6,taslağı,YAZ,YAZ,True
+CK-3549,tarayıcı_internet,3,yüklediğin dosyayı seç açıklama alanına rapor taslağı yaz formu gönder,7,yaz,YAZ,YAZ,True
+CK-3549,tarayıcı_internet,3,yüklediğin dosyayı seç açıklama alanına rapor taslağı yaz formu gönder,8,formu,GÖNDER,GÖNDER,True
+CK-3549,tarayıcı_internet,3,yüklediğin dosyayı seç açıklama alanına rapor taslağı yaz formu gönder,9,gönder,GÖNDER,GÖNDER,True
+CK-3550,tarayıcı_internet,3,yeni sekme aç üniversite sitesine git duyurular kelimesini ara,0,yeni,AÇ,AÇ,True
+CK-3550,tarayıcı_internet,3,yeni sekme aç üniversite sitesine git duyurular kelimesini ara,1,sekme,AÇ,AÇ,True
+CK-3550,tarayıcı_internet,3,yeni sekme aç üniversite sitesine git duyurular kelimesini ara,2,aç,AÇ,AÇ,True
+CK-3550,tarayıcı_internet,3,yeni sekme aç üniversite sitesine git duyurular kelimesini ara,3,üniversite,GİT,GİT,True
+CK-3550,tarayıcı_internet,3,yeni sekme aç üniversite sitesine git duyurular kelimesini ara,4,sitesine,GİT,GİT,True
+CK-3550,tarayıcı_internet,3,yeni sekme aç üniversite sitesine git duyurular kelimesini ara,5,git,GİT,GİT,True
+CK-3550,tarayıcı_internet,3,yeni sekme aç üniversite sitesine git duyurular kelimesini ara,6,duyurular,ARA,ARA,True
+CK-3550,tarayıcı_internet,3,yeni sekme aç üniversite sitesine git duyurular kelimesini ara,7,kelimesini,ARA,ARA,True
+CK-3550,tarayıcı_internet,3,yeni sekme aç üniversite sitesine git duyurular kelimesini ara,8,ara,ARA,ARA,True
+CK-3551,tarayıcı_internet,3,geri gitme sekmeyi yenile form alanını bul oraya tıkla,0,geri,O,O,True
+CK-3551,tarayıcı_internet,3,geri gitme sekmeyi yenile form alanını bul oraya tıkla,1,gitme,O,O,True
+CK-3551,tarayıcı_internet,3,geri gitme sekmeyi yenile form alanını bul oraya tıkla,2,sekmeyi,YİNELE,YİNELE,True
+CK-3551,tarayıcı_internet,3,geri gitme sekmeyi yenile form alanını bul oraya tıkla,3,yenile,YİNELE,YİNELE,True
+CK-3551,tarayıcı_internet,3,geri gitme sekmeyi yenile form alanını bul oraya tıkla,4,form,BUL,BUL,True
+CK-3551,tarayıcı_internet,3,geri gitme sekmeyi yenile form alanını bul oraya tıkla,5,alanını,BUL,BUL,True
+CK-3551,tarayıcı_internet,3,geri gitme sekmeyi yenile form alanını bul oraya tıkla,6,bul,BUL,BUL,True
+CK-3551,tarayıcı_internet,3,geri gitme sekmeyi yenile form alanını bul oraya tıkla,7,oraya,TIKLA,TIKLA,True
+CK-3551,tarayıcı_internet,3,geri gitme sekmeyi yenile form alanını bul oraya tıkla,8,tıkla,TIKLA,TIKLA,True
+CK-3552,tarayıcı_internet,5,adres satırına geç mevcut adresi seç sil yeni adresi yapıştır enter bas,0,adres,GEÇ,GEÇ,True
+CK-3552,tarayıcı_internet,5,adres satırına geç mevcut adresi seç sil yeni adresi yapıştır enter bas,1,satırına,GEÇ,GEÇ,True
+CK-3552,tarayıcı_internet,5,adres satırına geç mevcut adresi seç sil yeni adresi yapıştır enter bas,2,geç,GEÇ,GEÇ,True
+CK-3552,tarayıcı_internet,5,adres satırına geç mevcut adresi seç sil yeni adresi yapıştır enter bas,3,mevcut,SEÇ,SEÇ,True
+CK-3552,tarayıcı_internet,5,adres satırına geç mevcut adresi seç sil yeni adresi yapıştır enter bas,4,adresi,SEÇ,SEÇ,True
+CK-3552,tarayıcı_internet,5,adres satırına geç mevcut adresi seç sil yeni adresi yapıştır enter bas,5,seç,SEÇ,SEÇ,True
+CK-3552,tarayıcı_internet,5,adres satırına geç mevcut adresi seç sil yeni adresi yapıştır enter bas,6,sil,SİL,SİL,True
+CK-3552,tarayıcı_internet,5,adres satırına geç mevcut adresi seç sil yeni adresi yapıştır enter bas,7,yeni,YAPIŞTIR,YAPIŞTIR,True
+CK-3552,tarayıcı_internet,5,adres satırına geç mevcut adresi seç sil yeni adresi yapıştır enter bas,8,adresi,YAPIŞTIR,YAPIŞTIR,True
+CK-3552,tarayıcı_internet,5,adres satırına geç mevcut adresi seç sil yeni adresi yapıştır enter bas,9,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3552,tarayıcı_internet,5,adres satırına geç mevcut adresi seç sil yeni adresi yapıştır enter bas,10,enter,ENTER,ENTER,True
+CK-3552,tarayıcı_internet,5,adres satırına geç mevcut adresi seç sil yeni adresi yapıştır enter bas,11,bas,ENTER,ENTER,True
+CK-3553,ofis_metin_düzenleme,1,çıktı almadan önce son paragrafı seç,0,çıktı,O,O,True
+CK-3553,ofis_metin_düzenleme,1,çıktı almadan önce son paragrafı seç,1,almadan,O,O,True
+CK-3553,ofis_metin_düzenleme,1,çıktı almadan önce son paragrafı seç,2,önce,O,O,True
+CK-3553,ofis_metin_düzenleme,1,çıktı almadan önce son paragrafı seç,3,son,SEÇ,SEÇ,True
+CK-3553,ofis_metin_düzenleme,1,çıktı almadan önce son paragrafı seç,4,paragrafı,SEÇ,SEÇ,True
+CK-3553,ofis_metin_düzenleme,1,çıktı almadan önce son paragrafı seç,5,seç,SEÇ,SEÇ,True
+CK-3554,ofis_metin_düzenleme,1,başlık çok büyük puntoyu biraz azalt,0,başlık,O,O,True
+CK-3554,ofis_metin_düzenleme,1,başlık çok büyük puntoyu biraz azalt,1,çok,O,O,True
+CK-3554,ofis_metin_düzenleme,1,başlık çok büyük puntoyu biraz azalt,2,büyük,O,O,True
+CK-3554,ofis_metin_düzenleme,1,başlık çok büyük puntoyu biraz azalt,3,puntoyu,AZALT,AZALT,True
+CK-3554,ofis_metin_düzenleme,1,başlık çok büyük puntoyu biraz azalt,4,biraz,AZALT,AZALT,True
+CK-3554,ofis_metin_düzenleme,1,başlık çok büyük puntoyu biraz azalt,5,azalt,AZALT,AZALT,True
+CK-3555,ofis_metin_düzenleme,1,kaynakça bölümünü bulur musun,0,kaynakça,BUL,BUL,True
+CK-3555,ofis_metin_düzenleme,1,kaynakça bölümünü bulur musun,1,bölümünü,BUL,BUL,True
+CK-3555,ofis_metin_düzenleme,1,kaynakça bölümünü bulur musun,2,bulur,BUL,BUL,True
+CK-3555,ofis_metin_düzenleme,1,kaynakça bölümünü bulur musun,3,musun,BUL,BUL,True
+CK-3556,ofis_metin_düzenleme,1,dipnot panelini kapat şimdilik,0,dipnot,KAPAT,KAPAT,True
+CK-3556,ofis_metin_düzenleme,1,dipnot panelini kapat şimdilik,1,panelini,KAPAT,KAPAT,True
+CK-3556,ofis_metin_düzenleme,1,dipnot panelini kapat şimdilik,2,kapat,KAPAT,KAPAT,True
+CK-3556,ofis_metin_düzenleme,1,dipnot panelini kapat şimdilik,3,şimdilik,O,KAPAT,False
+CK-3557,ofis_metin_düzenleme,1,şu cümleyi panoya kopyala,0,şu,KOPYALA,KOPYALA,True
+CK-3557,ofis_metin_düzenleme,1,şu cümleyi panoya kopyala,1,cümleyi,KOPYALA,KOPYALA,True
+CK-3557,ofis_metin_düzenleme,1,şu cümleyi panoya kopyala,2,panoya,KOPYALA,KOPYALA,True
+CK-3557,ofis_metin_düzenleme,1,şu cümleyi panoya kopyala,3,kopyala,KOPYALA,KOPYALA,True
+CK-3558,ofis_metin_düzenleme,1,tabloyu silme sadece kenarlığını değiştir,0,tabloyu,O,O,True
+CK-3558,ofis_metin_düzenleme,1,tabloyu silme sadece kenarlığını değiştir,1,silme,O,O,True
+CK-3558,ofis_metin_düzenleme,1,tabloyu silme sadece kenarlığını değiştir,2,sadece,O,O,True
+CK-3558,ofis_metin_düzenleme,1,tabloyu silme sadece kenarlığını değiştir,3,kenarlığını,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3558,ofis_metin_düzenleme,1,tabloyu silme sadece kenarlığını değiştir,4,değiştir,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3559,ofis_metin_düzenleme,1,belgenin sonuna tek boş satır bırak,0,belgenin,BOŞLUK,BOŞLUK,True
+CK-3559,ofis_metin_düzenleme,1,belgenin sonuna tek boş satır bırak,1,sonuna,BOŞLUK,BOŞLUK,True
+CK-3559,ofis_metin_düzenleme,1,belgenin sonuna tek boş satır bırak,2,tek,BOŞLUK,BOŞLUK,True
+CK-3559,ofis_metin_düzenleme,1,belgenin sonuna tek boş satır bırak,3,boş,BOŞLUK,BOŞLUK,True
+CK-3559,ofis_metin_düzenleme,1,belgenin sonuna tek boş satır bırak,4,satır,BOŞLUK,BOŞLUK,True
+CK-3559,ofis_metin_düzenleme,1,belgenin sonuna tek boş satır bırak,5,bırak,BOŞLUK,BOŞLUK,True
+CK-3560,ofis_metin_düzenleme,1,seçili satırı keser misin,0,seçili,KES,KES,True
+CK-3560,ofis_metin_düzenleme,1,seçili satırı keser misin,1,satırı,KES,KES,True
+CK-3560,ofis_metin_düzenleme,1,seçili satırı keser misin,2,keser,KES,KES,True
+CK-3560,ofis_metin_düzenleme,1,seçili satırı keser misin,3,misin,KES,KES,True
+CK-3561,ofis_metin_düzenleme,1,belgeyi pdf olarak kaydet,0,belgeyi,KAYDET,KAYDET,True
+CK-3561,ofis_metin_düzenleme,1,belgeyi pdf olarak kaydet,1,pdf,KAYDET,KAYDET,True
+CK-3561,ofis_metin_düzenleme,1,belgeyi pdf olarak kaydet,2,olarak,KAYDET,KAYDET,True
+CK-3561,ofis_metin_düzenleme,1,belgeyi pdf olarak kaydet,3,kaydet,KAYDET,KAYDET,True
+CK-3562,ofis_metin_düzenleme,1,başlığın altına giriş notu yaz,0,başlığın,YAZ,YAZ,True
+CK-3562,ofis_metin_düzenleme,1,başlığın altına giriş notu yaz,1,altına,YAZ,YAZ,True
+CK-3562,ofis_metin_düzenleme,1,başlığın altına giriş notu yaz,2,giriş,YAZ,YAZ,True
+CK-3562,ofis_metin_düzenleme,1,başlığın altına giriş notu yaz,3,notu,YAZ,YAZ,True
+CK-3562,ofis_metin_düzenleme,1,başlığın altına giriş notu yaz,4,yaz,YAZ,YAZ,True
+CK-3563,ofis_metin_düzenleme,2,tablo başlığını seç ve rengini gri yap,0,tablo,SEÇ,SEÇ,True
+CK-3563,ofis_metin_düzenleme,2,tablo başlığını seç ve rengini gri yap,1,başlığını,SEÇ,SEÇ,True
+CK-3563,ofis_metin_düzenleme,2,tablo başlığını seç ve rengini gri yap,2,seç,SEÇ,SEÇ,True
+CK-3563,ofis_metin_düzenleme,2,tablo başlığını seç ve rengini gri yap,3,ve,O,O,True
+CK-3563,ofis_metin_düzenleme,2,tablo başlığını seç ve rengini gri yap,4,rengini,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3563,ofis_metin_düzenleme,2,tablo başlığını seç ve rengini gri yap,5,gri,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3563,ofis_metin_düzenleme,2,tablo başlığını seç ve rengini gri yap,6,yap,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3564,ofis_metin_düzenleme,2,ilk paragrafı kopyala özet bölümüne yapıştır,0,ilk,KOPYALA,KOPYALA,True
+CK-3564,ofis_metin_düzenleme,2,ilk paragrafı kopyala özet bölümüne yapıştır,1,paragrafı,KOPYALA,KOPYALA,True
+CK-3564,ofis_metin_düzenleme,2,ilk paragrafı kopyala özet bölümüne yapıştır,2,kopyala,KOPYALA,KOPYALA,True
+CK-3564,ofis_metin_düzenleme,2,ilk paragrafı kopyala özet bölümüne yapıştır,3,özet,YAPIŞTIR,YAPIŞTIR,True
+CK-3564,ofis_metin_düzenleme,2,ilk paragrafı kopyala özet bölümüne yapıştır,4,bölümüne,YAPIŞTIR,YAPIŞTIR,True
+CK-3564,ofis_metin_düzenleme,2,ilk paragrafı kopyala özet bölümüne yapıştır,5,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3565,ofis_metin_düzenleme,2,sayfanın sonuna git ve tarihi yaz,0,sayfanın,GİT,GİT,True
+CK-3565,ofis_metin_düzenleme,2,sayfanın sonuna git ve tarihi yaz,1,sonuna,GİT,GİT,True
+CK-3565,ofis_metin_düzenleme,2,sayfanın sonuna git ve tarihi yaz,2,git,GİT,GİT,True
+CK-3565,ofis_metin_düzenleme,2,sayfanın sonuna git ve tarihi yaz,3,ve,O,O,True
+CK-3565,ofis_metin_düzenleme,2,sayfanın sonuna git ve tarihi yaz,4,tarihi,YAZ,YAZ,True
+CK-3565,ofis_metin_düzenleme,2,sayfanın sonuna git ve tarihi yaz,5,yaz,YAZ,YAZ,True
+CK-3566,ofis_metin_düzenleme,1,başlığı büyütme alt başlığı küçült,0,başlığı,O,O,True
+CK-3566,ofis_metin_düzenleme,1,başlığı büyütme alt başlığı küçült,1,büyütme,O,O,True
+CK-3566,ofis_metin_düzenleme,1,başlığı büyütme alt başlığı küçült,2,alt,KÜÇÜLT,KÜÇÜLT,True
+CK-3566,ofis_metin_düzenleme,1,başlığı büyütme alt başlığı küçült,3,başlığı,KÜÇÜLT,KÜÇÜLT,True
+CK-3566,ofis_metin_düzenleme,1,başlığı büyütme alt başlığı küçült,4,küçült,KÜÇÜLT,KÜÇÜLT,True
+CK-3567,ofis_metin_düzenleme,2,sayfa numarasını artır sonra belgeyi yazdır,0,sayfa,ARTIR,ARTIR,True
+CK-3567,ofis_metin_düzenleme,2,sayfa numarasını artır sonra belgeyi yazdır,1,numarasını,ARTIR,ARTIR,True
+CK-3567,ofis_metin_düzenleme,2,sayfa numarasını artır sonra belgeyi yazdır,2,artır,ARTIR,ARTIR,True
+CK-3567,ofis_metin_düzenleme,2,sayfa numarasını artır sonra belgeyi yazdır,3,sonra,O,O,True
+CK-3567,ofis_metin_düzenleme,2,sayfa numarasını artır sonra belgeyi yazdır,4,belgeyi,YAZDIR,YAZDIR,True
+CK-3567,ofis_metin_düzenleme,2,sayfa numarasını artır sonra belgeyi yazdır,5,yazdır,YAZDIR,YAZDIR,True
+CK-3568,ofis_metin_düzenleme,2,boş satırı sil ardından belgeyi kaydet,0,boş,SİL,SİL,True
+CK-3568,ofis_metin_düzenleme,2,boş satırı sil ardından belgeyi kaydet,1,satırı,SİL,SİL,True
+CK-3568,ofis_metin_düzenleme,2,boş satırı sil ardından belgeyi kaydet,2,sil,SİL,SİL,True
+CK-3568,ofis_metin_düzenleme,2,boş satırı sil ardından belgeyi kaydet,3,ardından,O,O,True
+CK-3568,ofis_metin_düzenleme,2,boş satırı sil ardından belgeyi kaydet,4,belgeyi,KAYDET,KAYDET,True
+CK-3568,ofis_metin_düzenleme,2,boş satırı sil ardından belgeyi kaydet,5,kaydet,KAYDET,KAYDET,True
+CK-3569,ofis_metin_düzenleme,2,bulduğun kelimeyi seç sonra üstüne rapor yaz,0,bulduğun,SEÇ,SEÇ,True
+CK-3569,ofis_metin_düzenleme,2,bulduğun kelimeyi seç sonra üstüne rapor yaz,1,kelimeyi,SEÇ,SEÇ,True
+CK-3569,ofis_metin_düzenleme,2,bulduğun kelimeyi seç sonra üstüne rapor yaz,2,seç,SEÇ,SEÇ,True
+CK-3569,ofis_metin_düzenleme,2,bulduğun kelimeyi seç sonra üstüne rapor yaz,3,sonra,O,O,True
+CK-3569,ofis_metin_düzenleme,2,bulduğun kelimeyi seç sonra üstüne rapor yaz,4,üstüne,YAZ,YAZ,True
+CK-3569,ofis_metin_düzenleme,2,bulduğun kelimeyi seç sonra üstüne rapor yaz,5,rapor,YAZ,YAZ,True
+CK-3569,ofis_metin_düzenleme,2,bulduğun kelimeyi seç sonra üstüne rapor yaz,6,yaz,YAZ,YAZ,True
+CK-3570,ofis_metin_düzenleme,2,tabloyu aşağı kaydır son satırı seç,0,tabloyu,KAYDIR,KAYDIR,True
+CK-3570,ofis_metin_düzenleme,2,tabloyu aşağı kaydır son satırı seç,1,aşağı,KAYDIR,KAYDIR,True
+CK-3570,ofis_metin_düzenleme,2,tabloyu aşağı kaydır son satırı seç,2,kaydır,KAYDIR,KAYDIR,True
+CK-3570,ofis_metin_düzenleme,2,tabloyu aşağı kaydır son satırı seç,3,son,SEÇ,SEÇ,True
+CK-3570,ofis_metin_düzenleme,2,tabloyu aşağı kaydır son satırı seç,4,satırı,SEÇ,SEÇ,True
+CK-3570,ofis_metin_düzenleme,2,tabloyu aşağı kaydır son satırı seç,5,seç,SEÇ,SEÇ,True
+CK-3571,ofis_metin_düzenleme,3,dipnotu bul seçili dipnotu sil belgeyi kaydet,0,dipnotu,BUL,BUL,True
+CK-3571,ofis_metin_düzenleme,3,dipnotu bul seçili dipnotu sil belgeyi kaydet,1,bul,BUL,BUL,True
+CK-3571,ofis_metin_düzenleme,3,dipnotu bul seçili dipnotu sil belgeyi kaydet,2,seçili,SİL,SİL,True
+CK-3571,ofis_metin_düzenleme,3,dipnotu bul seçili dipnotu sil belgeyi kaydet,3,dipnotu,SİL,SİL,True
+CK-3571,ofis_metin_düzenleme,3,dipnotu bul seçili dipnotu sil belgeyi kaydet,4,sil,SİL,SİL,True
+CK-3571,ofis_metin_düzenleme,3,dipnotu bul seçili dipnotu sil belgeyi kaydet,5,belgeyi,KAYDET,KAYDET,True
+CK-3571,ofis_metin_düzenleme,3,dipnotu bul seçili dipnotu sil belgeyi kaydet,6,kaydet,KAYDET,KAYDET,True
+CK-3572,ofis_metin_düzenleme,3,Excel'de B sütununu seç genişliğini artır dosyayı kaydet,0,Excel'de,O,O,True
+CK-3572,ofis_metin_düzenleme,3,Excel'de B sütununu seç genişliğini artır dosyayı kaydet,1,B,SEÇ,SEÇ,True
+CK-3572,ofis_metin_düzenleme,3,Excel'de B sütununu seç genişliğini artır dosyayı kaydet,2,sütununu,SEÇ,SEÇ,True
+CK-3572,ofis_metin_düzenleme,3,Excel'de B sütununu seç genişliğini artır dosyayı kaydet,3,seç,SEÇ,SEÇ,True
+CK-3572,ofis_metin_düzenleme,3,Excel'de B sütununu seç genişliğini artır dosyayı kaydet,4,genişliğini,ARTIR,ARTIR,True
+CK-3572,ofis_metin_düzenleme,3,Excel'de B sütununu seç genişliğini artır dosyayı kaydet,5,artır,ARTIR,ARTIR,True
+CK-3572,ofis_metin_düzenleme,3,Excel'de B sütununu seç genişliğini artır dosyayı kaydet,6,dosyayı,KAYDET,KAYDET,True
+CK-3572,ofis_metin_düzenleme,3,Excel'de B sütununu seç genişliğini artır dosyayı kaydet,7,kaydet,KAYDET,KAYDET,True
+CK-3573,ofis_metin_düzenleme,3,son cümleyi kes giriş bölümüne taşı ve oraya yapıştır,0,son,KES,KES,True
+CK-3573,ofis_metin_düzenleme,3,son cümleyi kes giriş bölümüne taşı ve oraya yapıştır,1,cümleyi,KES,KES,True
+CK-3573,ofis_metin_düzenleme,3,son cümleyi kes giriş bölümüne taşı ve oraya yapıştır,2,kes,KES,KES,True
+CK-3573,ofis_metin_düzenleme,3,son cümleyi kes giriş bölümüne taşı ve oraya yapıştır,3,giriş,TAŞI,TAŞI,True
+CK-3573,ofis_metin_düzenleme,3,son cümleyi kes giriş bölümüne taşı ve oraya yapıştır,4,bölümüne,TAŞI,TAŞI,True
+CK-3573,ofis_metin_düzenleme,3,son cümleyi kes giriş bölümüne taşı ve oraya yapıştır,5,taşı,TAŞI,TAŞI,True
+CK-3573,ofis_metin_düzenleme,3,son cümleyi kes giriş bölümüne taşı ve oraya yapıştır,6,ve,O,O,True
+CK-3573,ofis_metin_düzenleme,3,son cümleyi kes giriş bölümüne taşı ve oraya yapıştır,7,oraya,YAPIŞTIR,YAPIŞTIR,True
+CK-3573,ofis_metin_düzenleme,3,son cümleyi kes giriş bölümüne taşı ve oraya yapıştır,8,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3574,ofis_metin_düzenleme,3,slaytta resmi seç biraz büyüt sağ tarafa taşı,0,slaytta,O,O,True
+CK-3574,ofis_metin_düzenleme,3,slaytta resmi seç biraz büyüt sağ tarafa taşı,1,resmi,SEÇ,SEÇ,True
+CK-3574,ofis_metin_düzenleme,3,slaytta resmi seç biraz büyüt sağ tarafa taşı,2,seç,SEÇ,SEÇ,True
+CK-3574,ofis_metin_düzenleme,3,slaytta resmi seç biraz büyüt sağ tarafa taşı,3,biraz,BÜYÜT,BÜYÜT,True
+CK-3574,ofis_metin_düzenleme,3,slaytta resmi seç biraz büyüt sağ tarafa taşı,4,büyüt,BÜYÜT,BÜYÜT,True
+CK-3574,ofis_metin_düzenleme,3,slaytta resmi seç biraz büyüt sağ tarafa taşı,5,sağ,TAŞI,TAŞI,True
+CK-3574,ofis_metin_düzenleme,3,slaytta resmi seç biraz büyüt sağ tarafa taşı,6,tarafa,TAŞI,TAŞI,True
+CK-3574,ofis_metin_düzenleme,3,slaytta resmi seç biraz büyüt sağ tarafa taşı,7,taşı,TAŞI,TAŞI,True
+CK-3575,ofis_metin_düzenleme,3,başlığı ara ilk eşleşmeyi seç rengini değiştir,0,başlığı,ARA,ARA,True
+CK-3575,ofis_metin_düzenleme,3,başlığı ara ilk eşleşmeyi seç rengini değiştir,1,ara,ARA,ARA,True
+CK-3575,ofis_metin_düzenleme,3,başlığı ara ilk eşleşmeyi seç rengini değiştir,2,ilk,SEÇ,SEÇ,True
+CK-3575,ofis_metin_düzenleme,3,başlığı ara ilk eşleşmeyi seç rengini değiştir,3,eşleşmeyi,SEÇ,SEÇ,True
+CK-3575,ofis_metin_düzenleme,3,başlığı ara ilk eşleşmeyi seç rengini değiştir,4,seç,SEÇ,SEÇ,True
+CK-3575,ofis_metin_düzenleme,3,başlığı ara ilk eşleşmeyi seç rengini değiştir,5,rengini,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3575,ofis_metin_düzenleme,3,başlığı ara ilk eşleşmeyi seç rengini değiştir,6,değiştir,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3576,ofis_metin_düzenleme,4,kapak sayfasına git başlığı yaz enter bas dosyayı kaydet,0,kapak,GİT,GİT,True
+CK-3576,ofis_metin_düzenleme,4,kapak sayfasına git başlığı yaz enter bas dosyayı kaydet,1,sayfasına,GİT,GİT,True
+CK-3576,ofis_metin_düzenleme,4,kapak sayfasına git başlığı yaz enter bas dosyayı kaydet,2,git,GİT,GİT,True
+CK-3576,ofis_metin_düzenleme,4,kapak sayfasına git başlığı yaz enter bas dosyayı kaydet,3,başlığı,YAZ,YAZ,True
+CK-3576,ofis_metin_düzenleme,4,kapak sayfasına git başlığı yaz enter bas dosyayı kaydet,4,yaz,YAZ,YAZ,True
+CK-3576,ofis_metin_düzenleme,4,kapak sayfasına git başlığı yaz enter bas dosyayı kaydet,5,enter,ENTER,ENTER,True
+CK-3576,ofis_metin_düzenleme,4,kapak sayfasına git başlığı yaz enter bas dosyayı kaydet,6,bas,ENTER,ENTER,True
+CK-3576,ofis_metin_düzenleme,4,kapak sayfasına git başlığı yaz enter bas dosyayı kaydet,7,dosyayı,KAYDET,KAYDET,True
+CK-3576,ofis_metin_düzenleme,4,kapak sayfasına git başlığı yaz enter bas dosyayı kaydet,8,kaydet,KAYDET,KAYDET,True
+CK-3577,ofis_metin_düzenleme,4,paragrafı seç satır aralığını azalt boşluk bırak ve belgeyi yazdır,0,paragrafı,SEÇ,SEÇ,True
+CK-3577,ofis_metin_düzenleme,4,paragrafı seç satır aralığını azalt boşluk bırak ve belgeyi yazdır,1,seç,SEÇ,SEÇ,True
+CK-3577,ofis_metin_düzenleme,4,paragrafı seç satır aralığını azalt boşluk bırak ve belgeyi yazdır,2,satır,AZALT,AZALT,True
+CK-3577,ofis_metin_düzenleme,4,paragrafı seç satır aralığını azalt boşluk bırak ve belgeyi yazdır,3,aralığını,AZALT,AZALT,True
+CK-3577,ofis_metin_düzenleme,4,paragrafı seç satır aralığını azalt boşluk bırak ve belgeyi yazdır,4,azalt,AZALT,AZALT,True
+CK-3577,ofis_metin_düzenleme,4,paragrafı seç satır aralığını azalt boşluk bırak ve belgeyi yazdır,5,boşluk,BOŞLUK,BOŞLUK,True
+CK-3577,ofis_metin_düzenleme,4,paragrafı seç satır aralığını azalt boşluk bırak ve belgeyi yazdır,6,bırak,BOŞLUK,BOŞLUK,True
+CK-3577,ofis_metin_düzenleme,4,paragrafı seç satır aralığını azalt boşluk bırak ve belgeyi yazdır,7,ve,O,O,True
+CK-3577,ofis_metin_düzenleme,4,paragrafı seç satır aralığını azalt boşluk bırak ve belgeyi yazdır,8,belgeyi,YAZDIR,YAZDIR,True
+CK-3577,ofis_metin_düzenleme,4,paragrafı seç satır aralığını azalt boşluk bırak ve belgeyi yazdır,9,yazdır,YAZDIR,YAZDIR,True
+CK-3578,dosya_yazılım_geliştirme,1,proje klasörüne geçmeden terminali aç,0,proje,O,O,True
+CK-3578,dosya_yazılım_geliştirme,1,proje klasörüne geçmeden terminali aç,1,klasörüne,O,O,True
+CK-3578,dosya_yazılım_geliştirme,1,proje klasörüne geçmeden terminali aç,2,geçmeden,O,O,True
+CK-3578,dosya_yazılım_geliştirme,1,proje klasörüne geçmeden terminali aç,3,terminali,AÇ,AÇ,True
+CK-3578,dosya_yazılım_geliştirme,1,proje klasörüne geçmeden terminali aç,4,aç,AÇ,AÇ,True
+CK-3579,dosya_yazılım_geliştirme,1,requirements dosyasını bul,0,requirements,BUL,BUL,True
+CK-3579,dosya_yazılım_geliştirme,1,requirements dosyasını bul,1,dosyasını,BUL,BUL,True
+CK-3579,dosya_yazılım_geliştirme,1,requirements dosyasını bul,2,bul,BUL,BUL,True
+CK-3580,dosya_yazılım_geliştirme,1,terminalde git status yaz,0,terminalde,YAZ,O,False
+CK-3580,dosya_yazılım_geliştirme,1,terminalde git status yaz,1,git,YAZ,YAZ,True
+CK-3580,dosya_yazılım_geliştirme,1,terminalde git status yaz,2,status,YAZ,YAZ,True
+CK-3580,dosya_yazılım_geliştirme,1,terminalde git status yaz,3,yaz,YAZ,YAZ,True
+CK-3581,dosya_yazılım_geliştirme,1,son build paketini indir,0,son,İNDİR,İNDİR,True
+CK-3581,dosya_yazılım_geliştirme,1,son build paketini indir,1,build,İNDİR,İNDİR,True
+CK-3581,dosya_yazılım_geliştirme,1,son build paketini indir,2,paketini,İNDİR,İNDİR,True
+CK-3581,dosya_yazılım_geliştirme,1,son build paketini indir,3,indir,İNDİR,İNDİR,True
+CK-3582,dosya_yazılım_geliştirme,1,config dosyasını açabilir miyiz,0,config,AÇ,AÇ,True
+CK-3582,dosya_yazılım_geliştirme,1,config dosyasını açabilir miyiz,1,dosyasını,AÇ,AÇ,True
+CK-3582,dosya_yazılım_geliştirme,1,config dosyasını açabilir miyiz,2,açabilir,AÇ,AÇ,True
+CK-3582,dosya_yazılım_geliştirme,1,config dosyasını açabilir miyiz,3,miyiz,AÇ,AÇ,True
+CK-3583,dosya_yazılım_geliştirme,1,yanlış klasörü değil src klasörünü seç,0,yanlış,O,O,True
+CK-3583,dosya_yazılım_geliştirme,1,yanlış klasörü değil src klasörünü seç,1,klasörü,O,O,True
+CK-3583,dosya_yazılım_geliştirme,1,yanlış klasörü değil src klasörünü seç,2,değil,O,O,True
+CK-3583,dosya_yazılım_geliştirme,1,yanlış klasörü değil src klasörünü seç,3,src,SEÇ,SEÇ,True
+CK-3583,dosya_yazılım_geliştirme,1,yanlış klasörü değil src klasörünü seç,4,klasörünü,SEÇ,SEÇ,True
+CK-3583,dosya_yazılım_geliştirme,1,yanlış klasörü değil src klasörünü seç,5,seç,SEÇ,SEÇ,True
+CK-3584,dosya_yazılım_geliştirme,1,geçici log dosyasını sil,0,geçici,SİL,SİL,True
+CK-3584,dosya_yazılım_geliştirme,1,geçici log dosyasını sil,1,log,SİL,SİL,True
+CK-3584,dosya_yazılım_geliştirme,1,geçici log dosyasını sil,2,dosyasını,SİL,SİL,True
+CK-3584,dosya_yazılım_geliştirme,1,geçici log dosyasını sil,3,sil,SİL,SİL,True
+CK-3585,dosya_yazılım_geliştirme,1,readme dosyasını docs klasörüne taşı,0,readme,TAŞI,TAŞI,True
+CK-3585,dosya_yazılım_geliştirme,1,readme dosyasını docs klasörüne taşı,1,dosyasını,TAŞI,TAŞI,True
+CK-3585,dosya_yazılım_geliştirme,1,readme dosyasını docs klasörüne taşı,2,docs,TAŞI,TAŞI,True
+CK-3585,dosya_yazılım_geliştirme,1,readme dosyasını docs klasörüne taşı,3,klasörüne,TAŞI,TAŞI,True
+CK-3585,dosya_yazılım_geliştirme,1,readme dosyasını docs klasörüne taşı,4,taşı,TAŞI,TAŞI,True
+CK-3586,dosya_yazılım_geliştirme,1,branch adını release_2026 yap,0,branch,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3586,dosya_yazılım_geliştirme,1,branch adını release_2026 yap,1,adını,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3586,dosya_yazılım_geliştirme,1,branch adını release_2026 yap,2,release_2026,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3586,dosya_yazılım_geliştirme,1,branch adını release_2026 yap,3,yap,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3587,dosya_yazılım_geliştirme,1,değişiklikleri kaydet,0,değişiklikleri,KAYDET,KAYDET,True
+CK-3587,dosya_yazılım_geliştirme,1,değişiklikleri kaydet,1,kaydet,KAYDET,KAYDET,True
+CK-3588,dosya_yazılım_geliştirme,2,terminal panelini aç npm run lint komutunu yaz,0,terminal,AÇ,AÇ,True
+CK-3588,dosya_yazılım_geliştirme,2,terminal panelini aç npm run lint komutunu yaz,1,panelini,AÇ,AÇ,True
+CK-3588,dosya_yazılım_geliştirme,2,terminal panelini aç npm run lint komutunu yaz,2,aç,AÇ,AÇ,True
+CK-3588,dosya_yazılım_geliştirme,2,terminal panelini aç npm run lint komutunu yaz,3,npm,YAZ,YAZ,True
+CK-3588,dosya_yazılım_geliştirme,2,terminal panelini aç npm run lint komutunu yaz,4,run,YAZ,YAZ,True
+CK-3588,dosya_yazılım_geliştirme,2,terminal panelini aç npm run lint komutunu yaz,5,lint,YAZ,YAZ,True
+CK-3588,dosya_yazılım_geliştirme,2,terminal panelini aç npm run lint komutunu yaz,6,komutunu,YAZ,YAZ,True
+CK-3588,dosya_yazılım_geliştirme,2,terminal panelini aç npm run lint komutunu yaz,7,yaz,YAZ,YAZ,True
+CK-3589,dosya_yazılım_geliştirme,2,hata satırını bul onu seç,0,hata,BUL,BUL,True
+CK-3589,dosya_yazılım_geliştirme,2,hata satırını bul onu seç,1,satırını,BUL,BUL,True
+CK-3589,dosya_yazılım_geliştirme,2,hata satırını bul onu seç,2,bul,BUL,BUL,True
+CK-3589,dosya_yazılım_geliştirme,2,hata satırını bul onu seç,3,onu,SEÇ,SEÇ,True
+CK-3589,dosya_yazılım_geliştirme,2,hata satırını bul onu seç,4,seç,SEÇ,SEÇ,True
+CK-3590,dosya_yazılım_geliştirme,2,main.py dosyasını kopyala backup klasörüne yapıştır,0,main.py,KOPYALA,KOPYALA,True
+CK-3590,dosya_yazılım_geliştirme,2,main.py dosyasını kopyala backup klasörüne yapıştır,1,dosyasını,KOPYALA,KOPYALA,True
+CK-3590,dosya_yazılım_geliştirme,2,main.py dosyasını kopyala backup klasörüne yapıştır,2,kopyala,KOPYALA,KOPYALA,True
+CK-3590,dosya_yazılım_geliştirme,2,main.py dosyasını kopyala backup klasörüne yapıştır,3,backup,YAPIŞTIR,YAPIŞTIR,True
+CK-3590,dosya_yazılım_geliştirme,2,main.py dosyasını kopyala backup klasörüne yapıştır,4,klasörüne,YAPIŞTIR,YAPIŞTIR,True
+CK-3590,dosya_yazılım_geliştirme,2,main.py dosyasını kopyala backup klasörüne yapıştır,5,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3591,dosya_yazılım_geliştirme,2,deployment arşivini indir proje dizinine yükle,0,deployment,İNDİR,İNDİR,True
+CK-3591,dosya_yazılım_geliştirme,2,deployment arşivini indir proje dizinine yükle,1,arşivini,İNDİR,İNDİR,True
+CK-3591,dosya_yazılım_geliştirme,2,deployment arşivini indir proje dizinine yükle,2,indir,İNDİR,İNDİR,True
+CK-3591,dosya_yazılım_geliştirme,2,deployment arşivini indir proje dizinine yükle,3,proje,YÜKLE,YÜKLE,True
+CK-3591,dosya_yazılım_geliştirme,2,deployment arşivini indir proje dizinine yükle,4,dizinine,YÜKLE,YÜKLE,True
+CK-3591,dosya_yazılım_geliştirme,2,deployment arşivini indir proje dizinine yükle,5,yükle,YÜKLE,YÜKLE,True
+CK-3592,dosya_yazılım_geliştirme,2,komutu yazdıktan sonra enter bas,0,komutu,YAZ,YAZ,True
+CK-3592,dosya_yazılım_geliştirme,2,komutu yazdıktan sonra enter bas,1,yazdıktan,YAZ,YAZ,True
+CK-3592,dosya_yazılım_geliştirme,2,komutu yazdıktan sonra enter bas,2,sonra,O,O,True
+CK-3592,dosya_yazılım_geliştirme,2,komutu yazdıktan sonra enter bas,3,enter,ENTER,ENTER,True
+CK-3592,dosya_yazılım_geliştirme,2,komutu yazdıktan sonra enter bas,4,bas,ENTER,ENTER,True
+CK-3593,dosya_yazılım_geliştirme,2,src klasörüne geç yeni helper dosyası oluştur,0,src,GEÇ,GEÇ,True
+CK-3593,dosya_yazılım_geliştirme,2,src klasörüne geç yeni helper dosyası oluştur,1,klasörüne,GEÇ,GEÇ,True
+CK-3593,dosya_yazılım_geliştirme,2,src klasörüne geç yeni helper dosyası oluştur,2,geç,GEÇ,GEÇ,True
+CK-3593,dosya_yazılım_geliştirme,2,src klasörüne geç yeni helper dosyası oluştur,3,yeni,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3593,dosya_yazılım_geliştirme,2,src klasörüne geç yeni helper dosyası oluştur,4,helper,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3593,dosya_yazılım_geliştirme,2,src klasörüne geç yeni helper dosyası oluştur,5,dosyası,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3593,dosya_yazılım_geliştirme,2,src klasörüne geç yeni helper dosyası oluştur,6,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3594,dosya_yazılım_geliştirme,2,log çıktısını yazdır sonra ekip kanalına gönder,0,log,YAZDIR,YAZDIR,True
+CK-3594,dosya_yazılım_geliştirme,2,log çıktısını yazdır sonra ekip kanalına gönder,1,çıktısını,YAZDIR,YAZDIR,True
+CK-3594,dosya_yazılım_geliştirme,2,log çıktısını yazdır sonra ekip kanalına gönder,2,yazdır,YAZDIR,YAZDIR,True
+CK-3594,dosya_yazılım_geliştirme,2,log çıktısını yazdır sonra ekip kanalına gönder,3,sonra,O,O,True
+CK-3594,dosya_yazılım_geliştirme,2,log çıktısını yazdır sonra ekip kanalına gönder,4,ekip,GÖNDER,GÖNDER,True
+CK-3594,dosya_yazılım_geliştirme,2,log çıktısını yazdır sonra ekip kanalına gönder,5,kanalına,GÖNDER,GÖNDER,True
+CK-3594,dosya_yazılım_geliştirme,2,log çıktısını yazdır sonra ekip kanalına gönder,6,gönder,GÖNDER,GÖNDER,True
+CK-3595,dosya_yazılım_geliştirme,1,branch değiştirme sadece değişiklikleri kaydet,0,branch,O,O,True
+CK-3595,dosya_yazılım_geliştirme,1,branch değiştirme sadece değişiklikleri kaydet,1,değiştirme,O,O,True
+CK-3595,dosya_yazılım_geliştirme,1,branch değiştirme sadece değişiklikleri kaydet,2,sadece,O,O,True
+CK-3595,dosya_yazılım_geliştirme,1,branch değiştirme sadece değişiklikleri kaydet,3,değişiklikleri,KAYDET,KAYDET,True
+CK-3595,dosya_yazılım_geliştirme,1,branch değiştirme sadece değişiklikleri kaydet,4,kaydet,KAYDET,KAYDET,True
+CK-3596,dosya_yazılım_geliştirme,3,config dosyasını aç port değerini 8080 yap kaydet,0,config,AÇ,AÇ,True
+CK-3596,dosya_yazılım_geliştirme,3,config dosyasını aç port değerini 8080 yap kaydet,1,dosyasını,AÇ,AÇ,True
+CK-3596,dosya_yazılım_geliştirme,3,config dosyasını aç port değerini 8080 yap kaydet,2,aç,AÇ,AÇ,True
+CK-3596,dosya_yazılım_geliştirme,3,config dosyasını aç port değerini 8080 yap kaydet,3,port,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3596,dosya_yazılım_geliştirme,3,config dosyasını aç port değerini 8080 yap kaydet,4,değerini,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3596,dosya_yazılım_geliştirme,3,config dosyasını aç port değerini 8080 yap kaydet,5,8080,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3596,dosya_yazılım_geliştirme,3,config dosyasını aç port değerini 8080 yap kaydet,6,yap,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3596,dosya_yazılım_geliştirme,3,config dosyasını aç port değerini 8080 yap kaydet,7,kaydet,KAYDET,KAYDET,True
+CK-3597,dosya_yazılım_geliştirme,3,test sonucunu bul hatalı satırı seç panoya kopyala,0,test,BUL,BUL,True
+CK-3597,dosya_yazılım_geliştirme,3,test sonucunu bul hatalı satırı seç panoya kopyala,1,sonucunu,BUL,BUL,True
+CK-3597,dosya_yazılım_geliştirme,3,test sonucunu bul hatalı satırı seç panoya kopyala,2,bul,BUL,BUL,True
+CK-3597,dosya_yazılım_geliştirme,3,test sonucunu bul hatalı satırı seç panoya kopyala,3,hatalı,SEÇ,SEÇ,True
+CK-3597,dosya_yazılım_geliştirme,3,test sonucunu bul hatalı satırı seç panoya kopyala,4,satırı,SEÇ,SEÇ,True
+CK-3597,dosya_yazılım_geliştirme,3,test sonucunu bul hatalı satırı seç panoya kopyala,5,seç,SEÇ,SEÇ,True
+CK-3597,dosya_yazılım_geliştirme,3,test sonucunu bul hatalı satırı seç panoya kopyala,6,panoya,KOPYALA,KOPYALA,True
+CK-3597,dosya_yazılım_geliştirme,3,test sonucunu bul hatalı satırı seç panoya kopyala,7,kopyala,KOPYALA,KOPYALA,True
+CK-3598,dosya_yazılım_geliştirme,3,terminali aç git pull yaz enter bas,0,terminali,AÇ,AÇ,True
+CK-3598,dosya_yazılım_geliştirme,3,terminali aç git pull yaz enter bas,1,aç,AÇ,AÇ,True
+CK-3598,dosya_yazılım_geliştirme,3,terminali aç git pull yaz enter bas,2,git,YAZ,YAZ,True
+CK-3598,dosya_yazılım_geliştirme,3,terminali aç git pull yaz enter bas,3,pull,YAZ,YAZ,True
+CK-3598,dosya_yazılım_geliştirme,3,terminali aç git pull yaz enter bas,4,yaz,YAZ,YAZ,True
+CK-3598,dosya_yazılım_geliştirme,3,terminali aç git pull yaz enter bas,5,enter,ENTER,ENTER,True
+CK-3598,dosya_yazılım_geliştirme,3,terminali aç git pull yaz enter bas,6,bas,ENTER,ENTER,True
+CK-3599,dosya_yazılım_geliştirme,2,eski dosyayı silme yeni servis dosyası oluştur içine import satırı yaz,0,eski,O,O,True
+CK-3599,dosya_yazılım_geliştirme,2,eski dosyayı silme yeni servis dosyası oluştur içine import satırı yaz,1,dosyayı,O,O,True
+CK-3599,dosya_yazılım_geliştirme,2,eski dosyayı silme yeni servis dosyası oluştur içine import satırı yaz,2,silme,O,O,True
+CK-3599,dosya_yazılım_geliştirme,2,eski dosyayı silme yeni servis dosyası oluştur içine import satırı yaz,3,yeni,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3599,dosya_yazılım_geliştirme,2,eski dosyayı silme yeni servis dosyası oluştur içine import satırı yaz,4,servis,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3599,dosya_yazılım_geliştirme,2,eski dosyayı silme yeni servis dosyası oluştur içine import satırı yaz,5,dosyası,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3599,dosya_yazılım_geliştirme,2,eski dosyayı silme yeni servis dosyası oluştur içine import satırı yaz,6,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3599,dosya_yazılım_geliştirme,2,eski dosyayı silme yeni servis dosyası oluştur içine import satırı yaz,7,içine,YAZ,YAZ,True
+CK-3599,dosya_yazılım_geliştirme,2,eski dosyayı silme yeni servis dosyası oluştur içine import satırı yaz,8,import,YAZ,YAZ,True
+CK-3599,dosya_yazılım_geliştirme,2,eski dosyayı silme yeni servis dosyası oluştur içine import satırı yaz,9,satırı,YAZ,YAZ,True
+CK-3599,dosya_yazılım_geliştirme,2,eski dosyayı silme yeni servis dosyası oluştur içine import satırı yaz,10,yaz,YAZ,YAZ,True
+CK-3600,dosya_yazılım_geliştirme,3,hata logunu aç stack trace ara ilk satırı kopyala,0,hata,AÇ,AÇ,True
+CK-3600,dosya_yazılım_geliştirme,3,hata logunu aç stack trace ara ilk satırı kopyala,1,logunu,AÇ,AÇ,True
+CK-3600,dosya_yazılım_geliştirme,3,hata logunu aç stack trace ara ilk satırı kopyala,2,aç,AÇ,AÇ,True
+CK-3600,dosya_yazılım_geliştirme,3,hata logunu aç stack trace ara ilk satırı kopyala,3,stack,ARA,ARA,True
+CK-3600,dosya_yazılım_geliştirme,3,hata logunu aç stack trace ara ilk satırı kopyala,4,trace,ARA,ARA,True
+CK-3600,dosya_yazılım_geliştirme,3,hata logunu aç stack trace ara ilk satırı kopyala,5,ara,ARA,ARA,True
+CK-3600,dosya_yazılım_geliştirme,3,hata logunu aç stack trace ara ilk satırı kopyala,6,ilk,KOPYALA,KOPYALA,True
+CK-3600,dosya_yazılım_geliştirme,3,hata logunu aç stack trace ara ilk satırı kopyala,7,satırı,KOPYALA,KOPYALA,True
+CK-3600,dosya_yazılım_geliştirme,3,hata logunu aç stack trace ara ilk satırı kopyala,8,kopyala,KOPYALA,KOPYALA,True
+CK-3601,dosya_yazılım_geliştirme,3,repo köküne geç docs klasörü oluştur readme dosyasını oraya taşı,0,repo,GEÇ,GEÇ,True
+CK-3601,dosya_yazılım_geliştirme,3,repo köküne geç docs klasörü oluştur readme dosyasını oraya taşı,1,köküne,GEÇ,GEÇ,True
+CK-3601,dosya_yazılım_geliştirme,3,repo köküne geç docs klasörü oluştur readme dosyasını oraya taşı,2,geç,GEÇ,GEÇ,True
+CK-3601,dosya_yazılım_geliştirme,3,repo köküne geç docs klasörü oluştur readme dosyasını oraya taşı,3,docs,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3601,dosya_yazılım_geliştirme,3,repo köküne geç docs klasörü oluştur readme dosyasını oraya taşı,4,klasörü,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3601,dosya_yazılım_geliştirme,3,repo köküne geç docs klasörü oluştur readme dosyasını oraya taşı,5,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3601,dosya_yazılım_geliştirme,3,repo köküne geç docs klasörü oluştur readme dosyasını oraya taşı,6,readme,TAŞI,TAŞI,True
+CK-3601,dosya_yazılım_geliştirme,3,repo köküne geç docs klasörü oluştur readme dosyasını oraya taşı,7,dosyasını,TAŞI,TAŞI,True
+CK-3601,dosya_yazılım_geliştirme,3,repo köküne geç docs klasörü oluştur readme dosyasını oraya taşı,8,oraya,TAŞI,TAŞI,True
+CK-3601,dosya_yazılım_geliştirme,3,repo köküne geç docs klasörü oluştur readme dosyasını oraya taşı,9,taşı,TAŞI,TAŞI,True
+CK-3602,dosya_yazılım_geliştirme,5,api dosyasını bul route satırını seç endpoint adını güncelle kaydet ve repoya yükle,0,api,BUL,BUL,True
+CK-3602,dosya_yazılım_geliştirme,5,api dosyasını bul route satırını seç endpoint adını güncelle kaydet ve repoya yükle,1,dosyasını,BUL,BUL,True
+CK-3602,dosya_yazılım_geliştirme,5,api dosyasını bul route satırını seç endpoint adını güncelle kaydet ve repoya yükle,2,bul,BUL,BUL,True
+CK-3602,dosya_yazılım_geliştirme,5,api dosyasını bul route satırını seç endpoint adını güncelle kaydet ve repoya yükle,3,route,SEÇ,SEÇ,True
+CK-3602,dosya_yazılım_geliştirme,5,api dosyasını bul route satırını seç endpoint adını güncelle kaydet ve repoya yükle,4,satırını,SEÇ,SEÇ,True
+CK-3602,dosya_yazılım_geliştirme,5,api dosyasını bul route satırını seç endpoint adını güncelle kaydet ve repoya yükle,5,seç,SEÇ,SEÇ,True
+CK-3602,dosya_yazılım_geliştirme,5,api dosyasını bul route satırını seç endpoint adını güncelle kaydet ve repoya yükle,6,endpoint,DEĞİŞTİR,YİNELE,False
+CK-3602,dosya_yazılım_geliştirme,5,api dosyasını bul route satırını seç endpoint adını güncelle kaydet ve repoya yükle,7,adını,DEĞİŞTİR,YİNELE,False
+CK-3602,dosya_yazılım_geliştirme,5,api dosyasını bul route satırını seç endpoint adını güncelle kaydet ve repoya yükle,8,güncelle,DEĞİŞTİR,YİNELE,False
+CK-3602,dosya_yazılım_geliştirme,5,api dosyasını bul route satırını seç endpoint adını güncelle kaydet ve repoya yükle,9,kaydet,KAYDET,KAYDET,True
+CK-3602,dosya_yazılım_geliştirme,5,api dosyasını bul route satırını seç endpoint adını güncelle kaydet ve repoya yükle,10,ve,O,O,True
+CK-3602,dosya_yazılım_geliştirme,5,api dosyasını bul route satırını seç endpoint adını güncelle kaydet ve repoya yükle,11,repoya,YÜKLE,YÜKLE,True
+CK-3602,dosya_yazılım_geliştirme,5,api dosyasını bul route satırını seç endpoint adını güncelle kaydet ve repoya yükle,12,yükle,YÜKLE,YÜKLE,True
+CK-3603,temel_bilgisayar,1,ekran okuyucu takılıyor konuşma hızını azalt,0,ekran,O,O,True
+CK-3603,temel_bilgisayar,1,ekran okuyucu takılıyor konuşma hızını azalt,1,okuyucu,O,O,True
+CK-3603,temel_bilgisayar,1,ekran okuyucu takılıyor konuşma hızını azalt,2,takılıyor,O,O,True
+CK-3603,temel_bilgisayar,1,ekran okuyucu takılıyor konuşma hızını azalt,3,konuşma,AZALT,AZALT,True
+CK-3603,temel_bilgisayar,1,ekran okuyucu takılıyor konuşma hızını azalt,4,hızını,AZALT,AZALT,True
+CK-3603,temel_bilgisayar,1,ekran okuyucu takılıyor konuşma hızını azalt,5,azalt,AZALT,AZALT,True
+CK-3604,temel_bilgisayar,1,şimdilik büyüteci küçült okumam yeterli,0,şimdilik,O,O,True
+CK-3604,temel_bilgisayar,1,şimdilik büyüteci küçült okumam yeterli,1,büyüteci,KÜÇÜLT,KÜÇÜLT,True
+CK-3604,temel_bilgisayar,1,şimdilik büyüteci küçült okumam yeterli,2,küçült,KÜÇÜLT,KÜÇÜLT,True
+CK-3604,temel_bilgisayar,1,şimdilik büyüteci küçült okumam yeterli,3,okumam,O,O,True
+CK-3604,temel_bilgisayar,1,şimdilik büyüteci küçült okumam yeterli,4,yeterli,O,O,True
+CK-3605,temel_bilgisayar,1,bildirim panelinde yeni uyarıları ara,0,bildirim,O,O,True
+CK-3605,temel_bilgisayar,1,bildirim panelinde yeni uyarıları ara,1,panelinde,O,O,True
+CK-3605,temel_bilgisayar,1,bildirim panelinde yeni uyarıları ara,2,yeni,ARA,ARA,True
+CK-3605,temel_bilgisayar,1,bildirim panelinde yeni uyarıları ara,3,uyarıları,ARA,ARA,True
+CK-3605,temel_bilgisayar,1,bildirim panelinde yeni uyarıları ara,4,ara,ARA,ARA,True
+CK-3606,temel_bilgisayar,1,masaüstündeki geçici kısayolu sil,0,masaüstündeki,O,SİL,False
+CK-3606,temel_bilgisayar,1,masaüstündeki geçici kısayolu sil,1,geçici,SİL,SİL,True
+CK-3606,temel_bilgisayar,1,masaüstündeki geçici kısayolu sil,2,kısayolu,SİL,SİL,True
+CK-3606,temel_bilgisayar,1,masaüstündeki geçici kısayolu sil,3,sil,SİL,SİL,True
+CK-3607,temel_bilgisayar,1,fare imlecini biraz büyütür müsün,0,fare,BÜYÜT,BÜYÜT,True
+CK-3607,temel_bilgisayar,1,fare imlecini biraz büyütür müsün,1,imlecini,BÜYÜT,BÜYÜT,True
+CK-3607,temel_bilgisayar,1,fare imlecini biraz büyütür müsün,2,biraz,BÜYÜT,BÜYÜT,True
+CK-3607,temel_bilgisayar,1,fare imlecini biraz büyütür müsün,3,büyütür,BÜYÜT,BÜYÜT,True
+CK-3607,temel_bilgisayar,1,fare imlecini biraz büyütür müsün,4,müsün,O,BÜYÜT,False
+CK-3608,temel_bilgisayar,1,görev çubuğundaki arama kutusuna geç,0,görev,O,O,True
+CK-3608,temel_bilgisayar,1,görev çubuğundaki arama kutusuna geç,1,çubuğundaki,O,O,True
+CK-3608,temel_bilgisayar,1,görev çubuğundaki arama kutusuna geç,2,arama,GEÇ,GEÇ,True
+CK-3608,temel_bilgisayar,1,görev çubuğundaki arama kutusuna geç,3,kutusuna,GEÇ,GEÇ,True
+CK-3608,temel_bilgisayar,1,görev çubuğundaki arama kutusuna geç,4,geç,GEÇ,GEÇ,True
+CK-3609,temel_bilgisayar,1,başlat menüsünü açma sadece masaüstünü göster,0,başlat,O,O,True
+CK-3609,temel_bilgisayar,1,başlat menüsünü açma sadece masaüstünü göster,1,menüsünü,O,O,True
+CK-3609,temel_bilgisayar,1,başlat menüsünü açma sadece masaüstünü göster,2,açma,O,O,True
+CK-3609,temel_bilgisayar,1,başlat menüsünü açma sadece masaüstünü göster,3,sadece,O,O,True
+CK-3609,temel_bilgisayar,1,başlat menüsünü açma sadece masaüstünü göster,4,masaüstünü,DİĞER,DİĞER,True
+CK-3609,temel_bilgisayar,1,başlat menüsünü açma sadece masaüstünü göster,5,göster,DİĞER,DİĞER,True
+CK-3610,temel_bilgisayar,1,ses seviyesi fazla geldi iki kademe azalt,0,ses,O,O,True
+CK-3610,temel_bilgisayar,1,ses seviyesi fazla geldi iki kademe azalt,1,seviyesi,O,O,True
+CK-3610,temel_bilgisayar,1,ses seviyesi fazla geldi iki kademe azalt,2,fazla,O,O,True
+CK-3610,temel_bilgisayar,1,ses seviyesi fazla geldi iki kademe azalt,3,geldi,O,O,True
+CK-3610,temel_bilgisayar,1,ses seviyesi fazla geldi iki kademe azalt,4,iki,AZALT,AZALT,True
+CK-3610,temel_bilgisayar,1,ses seviyesi fazla geldi iki kademe azalt,5,kademe,AZALT,AZALT,True
+CK-3610,temel_bilgisayar,1,ses seviyesi fazla geldi iki kademe azalt,6,azalt,AZALT,AZALT,True
+CK-3611,temel_bilgisayar,1,ekranın sol kenarını biraz kaydır,0,ekranın,O,KAYDIR,False
+CK-3611,temel_bilgisayar,1,ekranın sol kenarını biraz kaydır,1,sol,KAYDIR,KAYDIR,True
+CK-3611,temel_bilgisayar,1,ekranın sol kenarını biraz kaydır,2,kenarını,KAYDIR,KAYDIR,True
+CK-3611,temel_bilgisayar,1,ekranın sol kenarını biraz kaydır,3,biraz,KAYDIR,KAYDIR,True
+CK-3611,temel_bilgisayar,1,ekranın sol kenarını biraz kaydır,4,kaydır,KAYDIR,KAYDIR,True
+CK-3612,temel_bilgisayar,1,buraya bir boşluk bırak sonra bekle,0,buraya,O,BOŞLUK,False
+CK-3612,temel_bilgisayar,1,buraya bir boşluk bırak sonra bekle,1,bir,BOŞLUK,BOŞLUK,True
+CK-3612,temel_bilgisayar,1,buraya bir boşluk bırak sonra bekle,2,boşluk,BOŞLUK,BOŞLUK,True
+CK-3612,temel_bilgisayar,1,buraya bir boşluk bırak sonra bekle,3,bırak,BOŞLUK,BOŞLUK,True
+CK-3612,temel_bilgisayar,1,buraya bir boşluk bırak sonra bekle,4,sonra,O,O,True
+CK-3612,temel_bilgisayar,1,buraya bir boşluk bırak sonra bekle,5,bekle,O,DİĞER,False
+CK-3613,temel_bilgisayar,1,küçük pencereyi öne getir,0,küçük,O,DİĞER,False
+CK-3613,temel_bilgisayar,1,küçük pencereyi öne getir,1,pencereyi,GEÇ,DİĞER,False
+CK-3613,temel_bilgisayar,1,küçük pencereyi öne getir,2,öne,GEÇ,DİĞER,False
+CK-3613,temel_bilgisayar,1,küçük pencereyi öne getir,3,getir,GEÇ,DİĞER,False
+CK-3614,temel_bilgisayar,1,dosya gezgininde son değişen öğeyi bul,0,dosya,O,O,True
+CK-3614,temel_bilgisayar,1,dosya gezgininde son değişen öğeyi bul,1,gezgininde,O,O,True
+CK-3614,temel_bilgisayar,1,dosya gezgininde son değişen öğeyi bul,2,son,BUL,BUL,True
+CK-3614,temel_bilgisayar,1,dosya gezgininde son değişen öğeyi bul,3,değişen,BUL,BUL,True
+CK-3614,temel_bilgisayar,1,dosya gezgininde son değişen öğeyi bul,4,öğeyi,BUL,BUL,True
+CK-3614,temel_bilgisayar,1,dosya gezgininde son değişen öğeyi bul,5,bul,BUL,BUL,True
+CK-3615,temel_bilgisayar,1,şu anda ekranı yazdırma görüntüyü panoya kopyala,0,şu,O,O,True
+CK-3615,temel_bilgisayar,1,şu anda ekranı yazdırma görüntüyü panoya kopyala,1,anda,O,O,True
+CK-3615,temel_bilgisayar,1,şu anda ekranı yazdırma görüntüyü panoya kopyala,2,ekranı,O,O,True
+CK-3615,temel_bilgisayar,1,şu anda ekranı yazdırma görüntüyü panoya kopyala,3,yazdırma,O,O,True
+CK-3615,temel_bilgisayar,1,şu anda ekranı yazdırma görüntüyü panoya kopyala,4,görüntüyü,KOPYALA,KOPYALA,True
+CK-3615,temel_bilgisayar,1,şu anda ekranı yazdırma görüntüyü panoya kopyala,5,panoya,KOPYALA,KOPYALA,True
+CK-3615,temel_bilgisayar,1,şu anda ekranı yazdırma görüntüyü panoya kopyala,6,kopyala,KOPYALA,KOPYALA,True
+CK-3616,temel_bilgisayar,1,panodaki metni bu alana yapıştır,0,panodaki,O,O,True
+CK-3616,temel_bilgisayar,1,panodaki metni bu alana yapıştır,1,metni,YAPIŞTIR,YAPIŞTIR,True
+CK-3616,temel_bilgisayar,1,panodaki metni bu alana yapıştır,2,bu,YAPIŞTIR,YAPIŞTIR,True
+CK-3616,temel_bilgisayar,1,panodaki metni bu alana yapıştır,3,alana,YAPIŞTIR,YAPIŞTIR,True
+CK-3616,temel_bilgisayar,1,panodaki metni bu alana yapıştır,4,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3617,temel_bilgisayar,1,simgelerin görünümünü liste olarak değiştir,0,simgelerin,O,DEĞİŞTİR,False
+CK-3617,temel_bilgisayar,1,simgelerin görünümünü liste olarak değiştir,1,görünümünü,O,DEĞİŞTİR,False
+CK-3617,temel_bilgisayar,1,simgelerin görünümünü liste olarak değiştir,2,liste,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3617,temel_bilgisayar,1,simgelerin görünümünü liste olarak değiştir,3,olarak,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3617,temel_bilgisayar,1,simgelerin görünümünü liste olarak değiştir,4,değiştir,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3618,temel_bilgisayar,2,önce ayarlar aramasına geç sonra erişilebilirlik yaz,0,önce,O,O,True
+CK-3618,temel_bilgisayar,2,önce ayarlar aramasına geç sonra erişilebilirlik yaz,1,ayarlar,GEÇ,GEÇ,True
+CK-3618,temel_bilgisayar,2,önce ayarlar aramasına geç sonra erişilebilirlik yaz,2,aramasına,GEÇ,GEÇ,True
+CK-3618,temel_bilgisayar,2,önce ayarlar aramasına geç sonra erişilebilirlik yaz,3,geç,GEÇ,GEÇ,True
+CK-3618,temel_bilgisayar,2,önce ayarlar aramasına geç sonra erişilebilirlik yaz,4,sonra,O,O,True
+CK-3618,temel_bilgisayar,2,önce ayarlar aramasına geç sonra erişilebilirlik yaz,5,erişilebilirlik,YAZ,YAZ,True
+CK-3618,temel_bilgisayar,2,önce ayarlar aramasına geç sonra erişilebilirlik yaz,6,yaz,YAZ,YAZ,True
+CK-3619,temel_bilgisayar,2,bildirimleri açmadan rahatsız etmeyin modunu bul ve etkinleştir,0,bildirimleri,O,O,True
+CK-3619,temel_bilgisayar,2,bildirimleri açmadan rahatsız etmeyin modunu bul ve etkinleştir,1,açmadan,O,O,True
+CK-3619,temel_bilgisayar,2,bildirimleri açmadan rahatsız etmeyin modunu bul ve etkinleştir,2,rahatsız,BUL,BUL,True
+CK-3619,temel_bilgisayar,2,bildirimleri açmadan rahatsız etmeyin modunu bul ve etkinleştir,3,etmeyin,BUL,BUL,True
+CK-3619,temel_bilgisayar,2,bildirimleri açmadan rahatsız etmeyin modunu bul ve etkinleştir,4,modunu,BUL,BUL,True
+CK-3619,temel_bilgisayar,2,bildirimleri açmadan rahatsız etmeyin modunu bul ve etkinleştir,5,bul,BUL,BUL,True
+CK-3619,temel_bilgisayar,2,bildirimleri açmadan rahatsız etmeyin modunu bul ve etkinleştir,6,ve,O,O,True
+CK-3619,temel_bilgisayar,2,bildirimleri açmadan rahatsız etmeyin modunu bul ve etkinleştir,7,etkinleştir,DİĞER,DİĞER,True
+CK-3620,temel_bilgisayar,2,masaüstünde yeni not klasörü oluştur adını erişim notları yap,0,masaüstünde,O,O,True
+CK-3620,temel_bilgisayar,2,masaüstünde yeni not klasörü oluştur adını erişim notları yap,1,yeni,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3620,temel_bilgisayar,2,masaüstünde yeni not klasörü oluştur adını erişim notları yap,2,not,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3620,temel_bilgisayar,2,masaüstünde yeni not klasörü oluştur adını erişim notları yap,3,klasörü,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3620,temel_bilgisayar,2,masaüstünde yeni not klasörü oluştur adını erişim notları yap,4,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3620,temel_bilgisayar,2,masaüstünde yeni not klasörü oluştur adını erişim notları yap,5,adını,O,YENİDEN_ADLANDIR,False
+CK-3620,temel_bilgisayar,2,masaüstünde yeni not klasörü oluştur adını erişim notları yap,6,erişim,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3620,temel_bilgisayar,2,masaüstünde yeni not klasörü oluştur adını erişim notları yap,7,notları,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3620,temel_bilgisayar,2,masaüstünde yeni not klasörü oluştur adını erişim notları yap,8,yap,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3621,temel_bilgisayar,2,ses mikserini aç uygulama sesini azalt,0,ses,AÇ,AÇ,True
+CK-3621,temel_bilgisayar,2,ses mikserini aç uygulama sesini azalt,1,mikserini,AÇ,AÇ,True
+CK-3621,temel_bilgisayar,2,ses mikserini aç uygulama sesini azalt,2,aç,AÇ,AÇ,True
+CK-3621,temel_bilgisayar,2,ses mikserini aç uygulama sesini azalt,3,uygulama,AZALT,AZALT,True
+CK-3621,temel_bilgisayar,2,ses mikserini aç uygulama sesini azalt,4,sesini,AZALT,AZALT,True
+CK-3621,temel_bilgisayar,2,ses mikserini aç uygulama sesini azalt,5,azalt,AZALT,AZALT,True
+CK-3622,temel_bilgisayar,2,şu seçili metni kes arama kutusuna yapıştır,0,şu,O,KES,False
+CK-3622,temel_bilgisayar,2,şu seçili metni kes arama kutusuna yapıştır,1,seçili,KES,KES,True
+CK-3622,temel_bilgisayar,2,şu seçili metni kes arama kutusuna yapıştır,2,metni,KES,KES,True
+CK-3622,temel_bilgisayar,2,şu seçili metni kes arama kutusuna yapıştır,3,kes,KES,KES,True
+CK-3622,temel_bilgisayar,2,şu seçili metni kes arama kutusuna yapıştır,4,arama,YAPIŞTIR,YAPIŞTIR,True
+CK-3622,temel_bilgisayar,2,şu seçili metni kes arama kutusuna yapıştır,5,kutusuna,YAPIŞTIR,YAPIŞTIR,True
+CK-3622,temel_bilgisayar,2,şu seçili metni kes arama kutusuna yapıştır,6,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3623,temel_bilgisayar,3,görev çubuğunda takvim simgesini bul üstüne tıkla sonra ay görünümüne geç,0,görev,O,O,True
+CK-3623,temel_bilgisayar,3,görev çubuğunda takvim simgesini bul üstüne tıkla sonra ay görünümüne geç,1,çubuğunda,O,O,True
+CK-3623,temel_bilgisayar,3,görev çubuğunda takvim simgesini bul üstüne tıkla sonra ay görünümüne geç,2,takvim,BUL,BUL,True
+CK-3623,temel_bilgisayar,3,görev çubuğunda takvim simgesini bul üstüne tıkla sonra ay görünümüne geç,3,simgesini,BUL,BUL,True
+CK-3623,temel_bilgisayar,3,görev çubuğunda takvim simgesini bul üstüne tıkla sonra ay görünümüne geç,4,bul,BUL,BUL,True
+CK-3623,temel_bilgisayar,3,görev çubuğunda takvim simgesini bul üstüne tıkla sonra ay görünümüne geç,5,üstüne,TIKLA,TIKLA,True
+CK-3623,temel_bilgisayar,3,görev çubuğunda takvim simgesini bul üstüne tıkla sonra ay görünümüne geç,6,tıkla,TIKLA,TIKLA,True
+CK-3623,temel_bilgisayar,3,görev çubuğunda takvim simgesini bul üstüne tıkla sonra ay görünümüne geç,7,sonra,O,O,True
+CK-3623,temel_bilgisayar,3,görev çubuğunda takvim simgesini bul üstüne tıkla sonra ay görünümüne geç,8,ay,GEÇ,GEÇ,True
+CK-3623,temel_bilgisayar,3,görev çubuğunda takvim simgesini bul üstüne tıkla sonra ay görünümüne geç,9,görünümüne,GEÇ,GEÇ,True
+CK-3623,temel_bilgisayar,3,görev çubuğunda takvim simgesini bul üstüne tıkla sonra ay görünümüne geç,10,geç,GEÇ,GEÇ,True
+CK-3624,temel_bilgisayar,3,ekran klavyesini aç boşluk tuşuna bas enter tuşuna bas,0,ekran,AÇ,AÇ,True
+CK-3624,temel_bilgisayar,3,ekran klavyesini aç boşluk tuşuna bas enter tuşuna bas,1,klavyesini,AÇ,AÇ,True
+CK-3624,temel_bilgisayar,3,ekran klavyesini aç boşluk tuşuna bas enter tuşuna bas,2,aç,AÇ,AÇ,True
+CK-3624,temel_bilgisayar,3,ekran klavyesini aç boşluk tuşuna bas enter tuşuna bas,3,boşluk,BOŞLUK,BOŞLUK,True
+CK-3624,temel_bilgisayar,3,ekran klavyesini aç boşluk tuşuna bas enter tuşuna bas,4,tuşuna,BOŞLUK,BOŞLUK,True
+CK-3624,temel_bilgisayar,3,ekran klavyesini aç boşluk tuşuna bas enter tuşuna bas,5,bas,BOŞLUK,BOŞLUK,True
+CK-3624,temel_bilgisayar,3,ekran klavyesini aç boşluk tuşuna bas enter tuşuna bas,6,enter,ENTER,ENTER,True
+CK-3624,temel_bilgisayar,3,ekran klavyesini aç boşluk tuşuna bas enter tuşuna bas,7,tuşuna,ENTER,ENTER,True
+CK-3624,temel_bilgisayar,3,ekran klavyesini aç boşluk tuşuna bas enter tuşuna bas,8,bas,ENTER,ENTER,True
+CK-3625,temel_bilgisayar,3,indirilenler klasörüne git geçici ekran görüntüsünü sil sonra masaüstüne geç,0,indirilenler,GİT,GİT,True
+CK-3625,temel_bilgisayar,3,indirilenler klasörüne git geçici ekran görüntüsünü sil sonra masaüstüne geç,1,klasörüne,GİT,GİT,True
+CK-3625,temel_bilgisayar,3,indirilenler klasörüne git geçici ekran görüntüsünü sil sonra masaüstüne geç,2,git,GİT,GİT,True
+CK-3625,temel_bilgisayar,3,indirilenler klasörüne git geçici ekran görüntüsünü sil sonra masaüstüne geç,3,geçici,SİL,SİL,True
+CK-3625,temel_bilgisayar,3,indirilenler klasörüne git geçici ekran görüntüsünü sil sonra masaüstüne geç,4,ekran,SİL,SİL,True
+CK-3625,temel_bilgisayar,3,indirilenler klasörüne git geçici ekran görüntüsünü sil sonra masaüstüne geç,5,görüntüsünü,SİL,SİL,True
+CK-3625,temel_bilgisayar,3,indirilenler klasörüne git geçici ekran görüntüsünü sil sonra masaüstüne geç,6,sil,SİL,SİL,True
+CK-3625,temel_bilgisayar,3,indirilenler klasörüne git geçici ekran görüntüsünü sil sonra masaüstüne geç,7,sonra,O,O,True
+CK-3625,temel_bilgisayar,3,indirilenler klasörüne git geçici ekran görüntüsünü sil sonra masaüstüne geç,8,masaüstüne,GEÇ,GEÇ,True
+CK-3625,temel_bilgisayar,3,indirilenler klasörüne git geçici ekran görüntüsünü sil sonra masaüstüne geç,9,geç,GEÇ,GEÇ,True
+CK-3626,temel_bilgisayar,3,pencere başlığını seç sola taşı boyutunu küçült,0,pencere,SEÇ,SEÇ,True
+CK-3626,temel_bilgisayar,3,pencere başlığını seç sola taşı boyutunu küçült,1,başlığını,SEÇ,SEÇ,True
+CK-3626,temel_bilgisayar,3,pencere başlığını seç sola taşı boyutunu küçült,2,seç,SEÇ,SEÇ,True
+CK-3626,temel_bilgisayar,3,pencere başlığını seç sola taşı boyutunu küçült,3,sola,TAŞI,TAŞI,True
+CK-3626,temel_bilgisayar,3,pencere başlığını seç sola taşı boyutunu küçült,4,taşı,TAŞI,TAŞI,True
+CK-3626,temel_bilgisayar,3,pencere başlığını seç sola taşı boyutunu küçült,5,boyutunu,KÜÇÜLT,KÜÇÜLT,True
+CK-3626,temel_bilgisayar,3,pencere başlığını seç sola taşı boyutunu küçült,6,küçült,KÜÇÜLT,KÜÇÜLT,True
+CK-3627,temel_bilgisayar,4,başlatta ekran alıntısı ara uygulamayı aç yeni kesit oluştur ve panoya kopyala,0,başlatta,O,O,True
+CK-3627,temel_bilgisayar,4,başlatta ekran alıntısı ara uygulamayı aç yeni kesit oluştur ve panoya kopyala,1,ekran,ARA,ARA,True
+CK-3627,temel_bilgisayar,4,başlatta ekran alıntısı ara uygulamayı aç yeni kesit oluştur ve panoya kopyala,2,alıntısı,ARA,ARA,True
+CK-3627,temel_bilgisayar,4,başlatta ekran alıntısı ara uygulamayı aç yeni kesit oluştur ve panoya kopyala,3,ara,ARA,ARA,True
+CK-3627,temel_bilgisayar,4,başlatta ekran alıntısı ara uygulamayı aç yeni kesit oluştur ve panoya kopyala,4,uygulamayı,AÇ,AÇ,True
+CK-3627,temel_bilgisayar,4,başlatta ekran alıntısı ara uygulamayı aç yeni kesit oluştur ve panoya kopyala,5,aç,AÇ,AÇ,True
+CK-3627,temel_bilgisayar,4,başlatta ekran alıntısı ara uygulamayı aç yeni kesit oluştur ve panoya kopyala,6,yeni,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3627,temel_bilgisayar,4,başlatta ekran alıntısı ara uygulamayı aç yeni kesit oluştur ve panoya kopyala,7,kesit,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3627,temel_bilgisayar,4,başlatta ekran alıntısı ara uygulamayı aç yeni kesit oluştur ve panoya kopyala,8,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3627,temel_bilgisayar,4,başlatta ekran alıntısı ara uygulamayı aç yeni kesit oluştur ve panoya kopyala,9,ve,O,O,True
+CK-3627,temel_bilgisayar,4,başlatta ekran alıntısı ara uygulamayı aç yeni kesit oluştur ve panoya kopyala,10,panoya,KOPYALA,KOPYALA,True
+CK-3627,temel_bilgisayar,4,başlatta ekran alıntısı ara uygulamayı aç yeni kesit oluştur ve panoya kopyala,11,kopyala,KOPYALA,KOPYALA,True
+CK-3628,tarayıcı_internet,1,önceki sekmeye geç içerik orada kaldı,0,önceki,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3628,tarayıcı_internet,1,önceki sekmeye geç içerik orada kaldı,1,sekmeye,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3628,tarayıcı_internet,1,önceki sekmeye geç içerik orada kaldı,2,geç,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3628,tarayıcı_internet,1,önceki sekmeye geç içerik orada kaldı,3,içerik,O,O,True
+CK-3628,tarayıcı_internet,1,önceki sekmeye geç içerik orada kaldı,4,orada,O,O,True
+CK-3628,tarayıcı_internet,1,önceki sekmeye geç içerik orada kaldı,5,kaldı,O,O,True
+CK-3629,tarayıcı_internet,1,bu pdf dosyasını tekrar indir,0,bu,O,İNDİR,False
+CK-3629,tarayıcı_internet,1,bu pdf dosyasını tekrar indir,1,pdf,İNDİR,İNDİR,True
+CK-3629,tarayıcı_internet,1,bu pdf dosyasını tekrar indir,2,dosyasını,İNDİR,İNDİR,True
+CK-3629,tarayıcı_internet,1,bu pdf dosyasını tekrar indir,3,tekrar,İNDİR,İNDİR,True
+CK-3629,tarayıcı_internet,1,bu pdf dosyasını tekrar indir,4,indir,İNDİR,İNDİR,True
+CK-3630,tarayıcı_internet,2,arama kutusunda hata mesajını ara sonra sonuçları yenile,0,arama,O,O,True
+CK-3630,tarayıcı_internet,2,arama kutusunda hata mesajını ara sonra sonuçları yenile,1,kutusunda,O,O,True
+CK-3630,tarayıcı_internet,2,arama kutusunda hata mesajını ara sonra sonuçları yenile,2,hata,ARA,ARA,True
+CK-3630,tarayıcı_internet,2,arama kutusunda hata mesajını ara sonra sonuçları yenile,3,mesajını,ARA,ARA,True
+CK-3630,tarayıcı_internet,2,arama kutusunda hata mesajını ara sonra sonuçları yenile,4,ara,ARA,ARA,True
+CK-3630,tarayıcı_internet,2,arama kutusunda hata mesajını ara sonra sonuçları yenile,5,sonra,O,O,True
+CK-3630,tarayıcı_internet,2,arama kutusunda hata mesajını ara sonra sonuçları yenile,6,sonuçları,YİNELE,YİNELE,True
+CK-3630,tarayıcı_internet,2,arama kutusunda hata mesajını ara sonra sonuçları yenile,7,yenile,YİNELE,YİNELE,True
+CK-3631,tarayıcı_internet,2,reklam sekmesini kapatma sağdaki sekmeye geç sayfayı aşağı kaydır,0,reklam,O,O,True
+CK-3631,tarayıcı_internet,2,reklam sekmesini kapatma sağdaki sekmeye geç sayfayı aşağı kaydır,1,sekmesini,O,O,True
+CK-3631,tarayıcı_internet,2,reklam sekmesini kapatma sağdaki sekmeye geç sayfayı aşağı kaydır,2,kapatma,O,O,True
+CK-3631,tarayıcı_internet,2,reklam sekmesini kapatma sağdaki sekmeye geç sayfayı aşağı kaydır,3,sağdaki,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3631,tarayıcı_internet,2,reklam sekmesini kapatma sağdaki sekmeye geç sayfayı aşağı kaydır,4,sekmeye,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3631,tarayıcı_internet,2,reklam sekmesini kapatma sağdaki sekmeye geç sayfayı aşağı kaydır,5,geç,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3631,tarayıcı_internet,2,reklam sekmesini kapatma sağdaki sekmeye geç sayfayı aşağı kaydır,6,sayfayı,KAYDIR,KAYDIR,True
+CK-3631,tarayıcı_internet,2,reklam sekmesini kapatma sağdaki sekmeye geç sayfayı aşağı kaydır,7,aşağı,KAYDIR,KAYDIR,True
+CK-3631,tarayıcı_internet,2,reklam sekmesini kapatma sağdaki sekmeye geç sayfayı aşağı kaydır,8,kaydır,KAYDIR,KAYDIR,True
+CK-3632,tarayıcı_internet,2,indirilen rapor sayfasını bul sonra bağlantıyı indir,0,indirilen,O,BUL,False
+CK-3632,tarayıcı_internet,2,indirilen rapor sayfasını bul sonra bağlantıyı indir,1,rapor,BUL,BUL,True
+CK-3632,tarayıcı_internet,2,indirilen rapor sayfasını bul sonra bağlantıyı indir,2,sayfasını,BUL,BUL,True
+CK-3632,tarayıcı_internet,2,indirilen rapor sayfasını bul sonra bağlantıyı indir,3,bul,BUL,BUL,True
+CK-3632,tarayıcı_internet,2,indirilen rapor sayfasını bul sonra bağlantıyı indir,4,sonra,O,O,True
+CK-3632,tarayıcı_internet,2,indirilen rapor sayfasını bul sonra bağlantıyı indir,5,bağlantıyı,İNDİR,İNDİR,True
+CK-3632,tarayıcı_internet,2,indirilen rapor sayfasını bul sonra bağlantıyı indir,6,indir,İNDİR,İNDİR,True
+CK-3633,tarayıcı_internet,3,adres satırını seç eski adresi sil yeni adresi yaz,0,adres,SEÇ,SEÇ,True
+CK-3633,tarayıcı_internet,3,adres satırını seç eski adresi sil yeni adresi yaz,1,satırını,SEÇ,SEÇ,True
+CK-3633,tarayıcı_internet,3,adres satırını seç eski adresi sil yeni adresi yaz,2,seç,SEÇ,SEÇ,True
+CK-3633,tarayıcı_internet,3,adres satırını seç eski adresi sil yeni adresi yaz,3,eski,SİL,SİL,True
+CK-3633,tarayıcı_internet,3,adres satırını seç eski adresi sil yeni adresi yaz,4,adresi,SİL,SİL,True
+CK-3633,tarayıcı_internet,3,adres satırını seç eski adresi sil yeni adresi yaz,5,sil,SİL,SİL,True
+CK-3633,tarayıcı_internet,3,adres satırını seç eski adresi sil yeni adresi yaz,6,yeni,YAZ,YAZ,True
+CK-3633,tarayıcı_internet,3,adres satırını seç eski adresi sil yeni adresi yaz,7,adresi,YAZ,YAZ,True
+CK-3633,tarayıcı_internet,3,adres satırını seç eski adresi sil yeni adresi yaz,8,yaz,YAZ,YAZ,True
+CK-3634,tarayıcı_internet,3,bu sekmeyi kapat sol sekmeye geç aramayı yinele,0,bu,KAPAT,KAPAT,True
+CK-3634,tarayıcı_internet,3,bu sekmeyi kapat sol sekmeye geç aramayı yinele,1,sekmeyi,KAPAT,KAPAT,True
+CK-3634,tarayıcı_internet,3,bu sekmeyi kapat sol sekmeye geç aramayı yinele,2,kapat,KAPAT,KAPAT,True
+CK-3634,tarayıcı_internet,3,bu sekmeyi kapat sol sekmeye geç aramayı yinele,3,sol,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3634,tarayıcı_internet,3,bu sekmeyi kapat sol sekmeye geç aramayı yinele,4,sekmeye,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3634,tarayıcı_internet,3,bu sekmeyi kapat sol sekmeye geç aramayı yinele,5,geç,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3634,tarayıcı_internet,3,bu sekmeyi kapat sol sekmeye geç aramayı yinele,6,aramayı,YİNELE,YİNELE,True
+CK-3634,tarayıcı_internet,3,bu sekmeyi kapat sol sekmeye geç aramayı yinele,7,yinele,YİNELE,YİNELE,True
+CK-3635,tarayıcı_internet,3,sayfanın altına kaydır formdaki dosyayı seç sonra yükle,0,sayfanın,O,KAYDIR,False
+CK-3635,tarayıcı_internet,3,sayfanın altına kaydır formdaki dosyayı seç sonra yükle,1,altına,KAYDIR,KAYDIR,True
+CK-3635,tarayıcı_internet,3,sayfanın altına kaydır formdaki dosyayı seç sonra yükle,2,kaydır,KAYDIR,KAYDIR,True
+CK-3635,tarayıcı_internet,3,sayfanın altına kaydır formdaki dosyayı seç sonra yükle,3,formdaki,O,SEÇ,False
+CK-3635,tarayıcı_internet,3,sayfanın altına kaydır formdaki dosyayı seç sonra yükle,4,dosyayı,SEÇ,SEÇ,True
+CK-3635,tarayıcı_internet,3,sayfanın altına kaydır formdaki dosyayı seç sonra yükle,5,seç,SEÇ,SEÇ,True
+CK-3635,tarayıcı_internet,3,sayfanın altına kaydır formdaki dosyayı seç sonra yükle,6,sonra,O,O,True
+CK-3635,tarayıcı_internet,3,sayfanın altına kaydır formdaki dosyayı seç sonra yükle,7,yükle,YÜKLE,YÜKLE,True
+CK-3636,tarayıcı_internet,4,gizli pencereyi aç üniversite duyuruları ara ilk sonucu aç pdfi indir,0,gizli,AÇ,AÇ,True
+CK-3636,tarayıcı_internet,4,gizli pencereyi aç üniversite duyuruları ara ilk sonucu aç pdfi indir,1,pencereyi,AÇ,AÇ,True
+CK-3636,tarayıcı_internet,4,gizli pencereyi aç üniversite duyuruları ara ilk sonucu aç pdfi indir,2,aç,AÇ,AÇ,True
+CK-3636,tarayıcı_internet,4,gizli pencereyi aç üniversite duyuruları ara ilk sonucu aç pdfi indir,3,üniversite,ARA,ARA,True
+CK-3636,tarayıcı_internet,4,gizli pencereyi aç üniversite duyuruları ara ilk sonucu aç pdfi indir,4,duyuruları,ARA,ARA,True
+CK-3636,tarayıcı_internet,4,gizli pencereyi aç üniversite duyuruları ara ilk sonucu aç pdfi indir,5,ara,ARA,ARA,True
+CK-3636,tarayıcı_internet,4,gizli pencereyi aç üniversite duyuruları ara ilk sonucu aç pdfi indir,6,ilk,AÇ,AÇ,True
+CK-3636,tarayıcı_internet,4,gizli pencereyi aç üniversite duyuruları ara ilk sonucu aç pdfi indir,7,sonucu,AÇ,AÇ,True
+CK-3636,tarayıcı_internet,4,gizli pencereyi aç üniversite duyuruları ara ilk sonucu aç pdfi indir,8,aç,AÇ,AÇ,True
+CK-3636,tarayıcı_internet,4,gizli pencereyi aç üniversite duyuruları ara ilk sonucu aç pdfi indir,9,pdfi,İNDİR,İNDİR,True
+CK-3636,tarayıcı_internet,4,gizli pencereyi aç üniversite duyuruları ara ilk sonucu aç pdfi indir,10,indir,İNDİR,İNDİR,True
+CK-3637,tarayıcı_internet,5,eski sekmeyi kapat yeni sekmeye geç başvuru sonucu ara sayfayı yenile raporu indir,0,eski,KAPAT,KAPAT,True
+CK-3637,tarayıcı_internet,5,eski sekmeyi kapat yeni sekmeye geç başvuru sonucu ara sayfayı yenile raporu indir,1,sekmeyi,KAPAT,KAPAT,True
+CK-3637,tarayıcı_internet,5,eski sekmeyi kapat yeni sekmeye geç başvuru sonucu ara sayfayı yenile raporu indir,2,kapat,KAPAT,KAPAT,True
+CK-3637,tarayıcı_internet,5,eski sekmeyi kapat yeni sekmeye geç başvuru sonucu ara sayfayı yenile raporu indir,3,yeni,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3637,tarayıcı_internet,5,eski sekmeyi kapat yeni sekmeye geç başvuru sonucu ara sayfayı yenile raporu indir,4,sekmeye,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3637,tarayıcı_internet,5,eski sekmeyi kapat yeni sekmeye geç başvuru sonucu ara sayfayı yenile raporu indir,5,geç,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3637,tarayıcı_internet,5,eski sekmeyi kapat yeni sekmeye geç başvuru sonucu ara sayfayı yenile raporu indir,6,başvuru,ARA,ARA,True
+CK-3637,tarayıcı_internet,5,eski sekmeyi kapat yeni sekmeye geç başvuru sonucu ara sayfayı yenile raporu indir,7,sonucu,ARA,ARA,True
+CK-3637,tarayıcı_internet,5,eski sekmeyi kapat yeni sekmeye geç başvuru sonucu ara sayfayı yenile raporu indir,8,ara,ARA,ARA,True
+CK-3637,tarayıcı_internet,5,eski sekmeyi kapat yeni sekmeye geç başvuru sonucu ara sayfayı yenile raporu indir,9,sayfayı,YİNELE,YİNELE,True
+CK-3637,tarayıcı_internet,5,eski sekmeyi kapat yeni sekmeye geç başvuru sonucu ara sayfayı yenile raporu indir,10,yenile,YİNELE,YİNELE,True
+CK-3637,tarayıcı_internet,5,eski sekmeyi kapat yeni sekmeye geç başvuru sonucu ara sayfayı yenile raporu indir,11,raporu,İNDİR,İNDİR,True
+CK-3637,tarayıcı_internet,5,eski sekmeyi kapat yeni sekmeye geç başvuru sonucu ara sayfayı yenile raporu indir,12,indir,İNDİR,İNDİR,True
+CK-3638,ofis_metin_düzenleme,1,belgedeki boş satırı sil,0,belgedeki,O,SİL,False
+CK-3638,ofis_metin_düzenleme,1,belgedeki boş satırı sil,1,boş,SİL,SİL,True
+CK-3638,ofis_metin_düzenleme,1,belgedeki boş satırı sil,2,satırı,SİL,SİL,True
+CK-3638,ofis_metin_düzenleme,1,belgedeki boş satırı sil,3,sil,SİL,SİL,True
+CK-3639,ofis_metin_düzenleme,1,seçili paragrafı biraz küçült,0,seçili,O,KÜÇÜLT,False
+CK-3639,ofis_metin_düzenleme,1,seçili paragrafı biraz küçült,1,paragrafı,KÜÇÜLT,KÜÇÜLT,True
+CK-3639,ofis_metin_düzenleme,1,seçili paragrafı biraz küçült,2,biraz,KÜÇÜLT,KÜÇÜLT,True
+CK-3639,ofis_metin_düzenleme,1,seçili paragrafı biraz küçült,3,küçült,KÜÇÜLT,KÜÇÜLT,True
+CK-3640,ofis_metin_düzenleme,1,çıktı için bu sayfayı yazdır,0,çıktı,O,YAZDIR,False
+CK-3640,ofis_metin_düzenleme,1,çıktı için bu sayfayı yazdır,1,için,O,YAZDIR,False
+CK-3640,ofis_metin_düzenleme,1,çıktı için bu sayfayı yazdır,2,bu,YAZDIR,YAZDIR,True
+CK-3640,ofis_metin_düzenleme,1,çıktı için bu sayfayı yazdır,3,sayfayı,YAZDIR,YAZDIR,True
+CK-3640,ofis_metin_düzenleme,1,çıktı için bu sayfayı yazdır,4,yazdır,YAZDIR,YAZDIR,True
+CK-3641,ofis_metin_düzenleme,1,imleçten sonra bir boşluk ekle,0,imleçten,O,BOŞLUK,False
+CK-3641,ofis_metin_düzenleme,1,imleçten sonra bir boşluk ekle,1,sonra,O,O,True
+CK-3641,ofis_metin_düzenleme,1,imleçten sonra bir boşluk ekle,2,bir,BOŞLUK,BOŞLUK,True
+CK-3641,ofis_metin_düzenleme,1,imleçten sonra bir boşluk ekle,3,boşluk,BOŞLUK,BOŞLUK,True
+CK-3641,ofis_metin_düzenleme,1,imleçten sonra bir boşluk ekle,4,ekle,BOŞLUK,BOŞLUK,True
+CK-3642,ofis_metin_düzenleme,2,yanlış kelimeyi bul onu sil,0,yanlış,BUL,BUL,True
+CK-3642,ofis_metin_düzenleme,2,yanlış kelimeyi bul onu sil,1,kelimeyi,BUL,BUL,True
+CK-3642,ofis_metin_düzenleme,2,yanlış kelimeyi bul onu sil,2,bul,BUL,BUL,True
+CK-3642,ofis_metin_düzenleme,2,yanlış kelimeyi bul onu sil,3,onu,SİL,SİL,True
+CK-3642,ofis_metin_düzenleme,2,yanlış kelimeyi bul onu sil,4,sil,SİL,SİL,True
+CK-3643,ofis_metin_düzenleme,2,son cümleyi kes sonuç bölümüne yapıştır,0,son,KES,KES,True
+CK-3643,ofis_metin_düzenleme,2,son cümleyi kes sonuç bölümüne yapıştır,1,cümleyi,KES,KES,True
+CK-3643,ofis_metin_düzenleme,2,son cümleyi kes sonuç bölümüne yapıştır,2,kes,KES,KES,True
+CK-3643,ofis_metin_düzenleme,2,son cümleyi kes sonuç bölümüne yapıştır,3,sonuç,YAPIŞTIR,YAPIŞTIR,True
+CK-3643,ofis_metin_düzenleme,2,son cümleyi kes sonuç bölümüne yapıştır,4,bölümüne,YAPIŞTIR,YAPIŞTIR,True
+CK-3643,ofis_metin_düzenleme,2,son cümleyi kes sonuç bölümüne yapıştır,5,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3644,ofis_metin_düzenleme,2,yazdırma ayarını aç kopya sayısını azalt,0,yazdırma,AÇ,AÇ,True
+CK-3644,ofis_metin_düzenleme,2,yazdırma ayarını aç kopya sayısını azalt,1,ayarını,AÇ,AÇ,True
+CK-3644,ofis_metin_düzenleme,2,yazdırma ayarını aç kopya sayısını azalt,2,aç,AÇ,AÇ,True
+CK-3644,ofis_metin_düzenleme,2,yazdırma ayarını aç kopya sayısını azalt,3,kopya,AZALT,AZALT,True
+CK-3644,ofis_metin_düzenleme,2,yazdırma ayarını aç kopya sayısını azalt,4,sayısını,AZALT,AZALT,True
+CK-3644,ofis_metin_düzenleme,2,yazdırma ayarını aç kopya sayısını azalt,5,azalt,AZALT,AZALT,True
+CK-3645,ofis_metin_düzenleme,2,başlığı seç puntoyu küçült,0,başlığı,SEÇ,SEÇ,True
+CK-3645,ofis_metin_düzenleme,2,başlığı seç puntoyu küçült,1,seç,SEÇ,SEÇ,True
+CK-3645,ofis_metin_düzenleme,2,başlığı seç puntoyu küçült,2,puntoyu,KÜÇÜLT,KÜÇÜLT,True
+CK-3645,ofis_metin_düzenleme,2,başlığı seç puntoyu küçült,3,küçült,KÜÇÜLT,KÜÇÜLT,True
+CK-3646,ofis_metin_düzenleme,2,tablodaki toplam formülünü yinele sonra belgeyi kaydet,0,tablodaki,O,O,True
+CK-3646,ofis_metin_düzenleme,2,tablodaki toplam formülünü yinele sonra belgeyi kaydet,1,toplam,YİNELE,YİNELE,True
+CK-3646,ofis_metin_düzenleme,2,tablodaki toplam formülünü yinele sonra belgeyi kaydet,2,formülünü,YİNELE,YİNELE,True
+CK-3646,ofis_metin_düzenleme,2,tablodaki toplam formülünü yinele sonra belgeyi kaydet,3,yinele,YİNELE,YİNELE,True
+CK-3646,ofis_metin_düzenleme,2,tablodaki toplam formülünü yinele sonra belgeyi kaydet,4,sonra,O,O,True
+CK-3646,ofis_metin_düzenleme,2,tablodaki toplam formülünü yinele sonra belgeyi kaydet,5,belgeyi,KAYDET,KAYDET,True
+CK-3646,ofis_metin_düzenleme,2,tablodaki toplam formülünü yinele sonra belgeyi kaydet,6,kaydet,KAYDET,KAYDET,True
+CK-3647,ofis_metin_düzenleme,3,raporda şekil başlığını ara satırı seç italik yap,0,raporda,O,O,True
+CK-3647,ofis_metin_düzenleme,3,raporda şekil başlığını ara satırı seç italik yap,1,şekil,ARA,ARA,True
+CK-3647,ofis_metin_düzenleme,3,raporda şekil başlığını ara satırı seç italik yap,2,başlığını,ARA,ARA,True
+CK-3647,ofis_metin_düzenleme,3,raporda şekil başlığını ara satırı seç italik yap,3,ara,ARA,ARA,True
+CK-3647,ofis_metin_düzenleme,3,raporda şekil başlığını ara satırı seç italik yap,4,satırı,SEÇ,SEÇ,True
+CK-3647,ofis_metin_düzenleme,3,raporda şekil başlığını ara satırı seç italik yap,5,seç,SEÇ,SEÇ,True
+CK-3647,ofis_metin_düzenleme,3,raporda şekil başlığını ara satırı seç italik yap,6,italik,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3647,ofis_metin_düzenleme,3,raporda şekil başlığını ara satırı seç italik yap,7,yap,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3648,ofis_metin_düzenleme,3,ilk maddeyi kes ikinci listenin altına yapıştır sonra kaydet,0,ilk,KES,KES,True
+CK-3648,ofis_metin_düzenleme,3,ilk maddeyi kes ikinci listenin altına yapıştır sonra kaydet,1,maddeyi,KES,KES,True
+CK-3648,ofis_metin_düzenleme,3,ilk maddeyi kes ikinci listenin altına yapıştır sonra kaydet,2,kes,KES,KES,True
+CK-3648,ofis_metin_düzenleme,3,ilk maddeyi kes ikinci listenin altına yapıştır sonra kaydet,3,ikinci,O,YAPIŞTIR,False
+CK-3648,ofis_metin_düzenleme,3,ilk maddeyi kes ikinci listenin altına yapıştır sonra kaydet,4,listenin,O,YAPIŞTIR,False
+CK-3648,ofis_metin_düzenleme,3,ilk maddeyi kes ikinci listenin altına yapıştır sonra kaydet,5,altına,YAPIŞTIR,YAPIŞTIR,True
+CK-3648,ofis_metin_düzenleme,3,ilk maddeyi kes ikinci listenin altına yapıştır sonra kaydet,6,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3648,ofis_metin_düzenleme,3,ilk maddeyi kes ikinci listenin altına yapıştır sonra kaydet,7,sonra,O,O,True
+CK-3648,ofis_metin_düzenleme,3,ilk maddeyi kes ikinci listenin altına yapıştır sonra kaydet,8,kaydet,KAYDET,KAYDET,True
+CK-3649,ofis_metin_düzenleme,3,gereksiz virgülü sil bir boşluk ekle paragrafı yazdır,0,gereksiz,SİL,SİL,True
+CK-3649,ofis_metin_düzenleme,3,gereksiz virgülü sil bir boşluk ekle paragrafı yazdır,1,virgülü,SİL,SİL,True
+CK-3649,ofis_metin_düzenleme,3,gereksiz virgülü sil bir boşluk ekle paragrafı yazdır,2,sil,SİL,SİL,True
+CK-3649,ofis_metin_düzenleme,3,gereksiz virgülü sil bir boşluk ekle paragrafı yazdır,3,bir,BOŞLUK,BOŞLUK,True
+CK-3649,ofis_metin_düzenleme,3,gereksiz virgülü sil bir boşluk ekle paragrafı yazdır,4,boşluk,BOŞLUK,BOŞLUK,True
+CK-3649,ofis_metin_düzenleme,3,gereksiz virgülü sil bir boşluk ekle paragrafı yazdır,5,ekle,BOŞLUK,BOŞLUK,True
+CK-3649,ofis_metin_düzenleme,3,gereksiz virgülü sil bir boşluk ekle paragrafı yazdır,6,paragrafı,YAZDIR,YAZDIR,True
+CK-3649,ofis_metin_düzenleme,3,gereksiz virgülü sil bir boşluk ekle paragrafı yazdır,7,yazdır,YAZDIR,YAZDIR,True
+CK-3650,ofis_metin_düzenleme,4,Excelde filtre satırını bul seçili filtreyi temizle formülü yinele dosyayı kaydet,0,Excelde,O,O,True
+CK-3650,ofis_metin_düzenleme,4,Excelde filtre satırını bul seçili filtreyi temizle formülü yinele dosyayı kaydet,1,filtre,BUL,BUL,True
+CK-3650,ofis_metin_düzenleme,4,Excelde filtre satırını bul seçili filtreyi temizle formülü yinele dosyayı kaydet,2,satırını,BUL,BUL,True
+CK-3650,ofis_metin_düzenleme,4,Excelde filtre satırını bul seçili filtreyi temizle formülü yinele dosyayı kaydet,3,bul,BUL,BUL,True
+CK-3650,ofis_metin_düzenleme,4,Excelde filtre satırını bul seçili filtreyi temizle formülü yinele dosyayı kaydet,4,seçili,SİL,SİL,True
+CK-3650,ofis_metin_düzenleme,4,Excelde filtre satırını bul seçili filtreyi temizle formülü yinele dosyayı kaydet,5,filtreyi,SİL,SİL,True
+CK-3650,ofis_metin_düzenleme,4,Excelde filtre satırını bul seçili filtreyi temizle formülü yinele dosyayı kaydet,6,temizle,SİL,SİL,True
+CK-3650,ofis_metin_düzenleme,4,Excelde filtre satırını bul seçili filtreyi temizle formülü yinele dosyayı kaydet,7,formülü,YİNELE,YİNELE,True
+CK-3650,ofis_metin_düzenleme,4,Excelde filtre satırını bul seçili filtreyi temizle formülü yinele dosyayı kaydet,8,yinele,YİNELE,YİNELE,True
+CK-3650,ofis_metin_düzenleme,4,Excelde filtre satırını bul seçili filtreyi temizle formülü yinele dosyayı kaydet,9,dosyayı,KAYDET,KAYDET,True
+CK-3650,ofis_metin_düzenleme,4,Excelde filtre satırını bul seçili filtreyi temizle formülü yinele dosyayı kaydet,10,kaydet,KAYDET,KAYDET,True
+CK-3651,ofis_metin_düzenleme,5,sunumda açıklama kutusunu seç metni kes notlar alanına yapıştır yazı boyutunu küçült sunumu kaydet,0,sunumda,O,O,True
+CK-3651,ofis_metin_düzenleme,5,sunumda açıklama kutusunu seç metni kes notlar alanına yapıştır yazı boyutunu küçült sunumu kaydet,1,açıklama,SEÇ,SEÇ,True
+CK-3651,ofis_metin_düzenleme,5,sunumda açıklama kutusunu seç metni kes notlar alanına yapıştır yazı boyutunu küçült sunumu kaydet,2,kutusunu,SEÇ,SEÇ,True
+CK-3651,ofis_metin_düzenleme,5,sunumda açıklama kutusunu seç metni kes notlar alanına yapıştır yazı boyutunu küçült sunumu kaydet,3,seç,SEÇ,SEÇ,True
+CK-3651,ofis_metin_düzenleme,5,sunumda açıklama kutusunu seç metni kes notlar alanına yapıştır yazı boyutunu küçült sunumu kaydet,4,metni,KES,KES,True
+CK-3651,ofis_metin_düzenleme,5,sunumda açıklama kutusunu seç metni kes notlar alanına yapıştır yazı boyutunu küçült sunumu kaydet,5,kes,KES,KES,True
+CK-3651,ofis_metin_düzenleme,5,sunumda açıklama kutusunu seç metni kes notlar alanına yapıştır yazı boyutunu küçült sunumu kaydet,6,notlar,YAPIŞTIR,YAPIŞTIR,True
+CK-3651,ofis_metin_düzenleme,5,sunumda açıklama kutusunu seç metni kes notlar alanına yapıştır yazı boyutunu küçült sunumu kaydet,7,alanına,YAPIŞTIR,YAPIŞTIR,True
+CK-3651,ofis_metin_düzenleme,5,sunumda açıklama kutusunu seç metni kes notlar alanına yapıştır yazı boyutunu küçült sunumu kaydet,8,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3651,ofis_metin_düzenleme,5,sunumda açıklama kutusunu seç metni kes notlar alanına yapıştır yazı boyutunu küçült sunumu kaydet,9,yazı,KÜÇÜLT,KÜÇÜLT,True
+CK-3651,ofis_metin_düzenleme,5,sunumda açıklama kutusunu seç metni kes notlar alanına yapıştır yazı boyutunu küçült sunumu kaydet,10,boyutunu,KÜÇÜLT,KÜÇÜLT,True
+CK-3651,ofis_metin_düzenleme,5,sunumda açıklama kutusunu seç metni kes notlar alanına yapıştır yazı boyutunu küçült sunumu kaydet,11,küçült,KÜÇÜLT,KÜÇÜLT,True
+CK-3651,ofis_metin_düzenleme,5,sunumda açıklama kutusunu seç metni kes notlar alanına yapıştır yazı boyutunu küçült sunumu kaydet,12,sunumu,KAYDET,KAYDET,True
+CK-3651,ofis_metin_düzenleme,5,sunumda açıklama kutusunu seç metni kes notlar alanına yapıştır yazı boyutunu küçült sunumu kaydet,13,kaydet,KAYDET,KAYDET,True
+CK-3652,dosya_yazılım_geliştirme,1,proje loglarında timeout hatasını ara,0,proje,O,O,True
+CK-3652,dosya_yazılım_geliştirme,1,proje loglarında timeout hatasını ara,1,loglarında,O,O,True
+CK-3652,dosya_yazılım_geliştirme,1,proje loglarında timeout hatasını ara,2,timeout,ARA,ARA,True
+CK-3652,dosya_yazılım_geliştirme,1,proje loglarında timeout hatasını ara,3,hatasını,ARA,ARA,True
+CK-3652,dosya_yazılım_geliştirme,1,proje loglarında timeout hatasını ara,4,ara,ARA,ARA,True
+CK-3653,dosya_yazılım_geliştirme,1,build klasöründeki eski raporu sil,0,build,O,SİL,False
+CK-3653,dosya_yazılım_geliştirme,1,build klasöründeki eski raporu sil,1,klasöründeki,O,SİL,False
+CK-3653,dosya_yazılım_geliştirme,1,build klasöründeki eski raporu sil,2,eski,SİL,SİL,True
+CK-3653,dosya_yazılım_geliştirme,1,build klasöründeki eski raporu sil,3,raporu,SİL,SİL,True
+CK-3653,dosya_yazılım_geliştirme,1,build klasöründeki eski raporu sil,4,sil,SİL,SİL,True
+CK-3654,dosya_yazılım_geliştirme,1,test sonucunu varsayılan yazıcıya yazdır,0,test,YAZDIR,YAZDIR,True
+CK-3654,dosya_yazılım_geliştirme,1,test sonucunu varsayılan yazıcıya yazdır,1,sonucunu,YAZDIR,YAZDIR,True
+CK-3654,dosya_yazılım_geliştirme,1,test sonucunu varsayılan yazıcıya yazdır,2,varsayılan,YAZDIR,YAZDIR,True
+CK-3654,dosya_yazılım_geliştirme,1,test sonucunu varsayılan yazıcıya yazdır,3,yazıcıya,YAZDIR,YAZDIR,True
+CK-3654,dosya_yazılım_geliştirme,1,test sonucunu varsayılan yazıcıya yazdır,4,yazdır,YAZDIR,YAZDIR,True
+CK-3655,dosya_yazılım_geliştirme,1,IDE içinde önceki dosya sekmesine geç,0,IDE,O,O,True
+CK-3655,dosya_yazılım_geliştirme,1,IDE içinde önceki dosya sekmesine geç,1,içinde,O,O,True
+CK-3655,dosya_yazılım_geliştirme,1,IDE içinde önceki dosya sekmesine geç,2,önceki,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3655,dosya_yazılım_geliştirme,1,IDE içinde önceki dosya sekmesine geç,3,dosya,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3655,dosya_yazılım_geliştirme,1,IDE içinde önceki dosya sekmesine geç,4,sekmesine,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3655,dosya_yazılım_geliştirme,1,IDE içinde önceki dosya sekmesine geç,5,geç,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3656,dosya_yazılım_geliştirme,2,terminalde paket listesini güncelle sonra eksik paketi indir,0,terminalde,O,O,True
+CK-3656,dosya_yazılım_geliştirme,2,terminalde paket listesini güncelle sonra eksik paketi indir,1,paket,YİNELE,YİNELE,True
+CK-3656,dosya_yazılım_geliştirme,2,terminalde paket listesini güncelle sonra eksik paketi indir,2,listesini,YİNELE,YİNELE,True
+CK-3656,dosya_yazılım_geliştirme,2,terminalde paket listesini güncelle sonra eksik paketi indir,3,güncelle,YİNELE,YİNELE,True
+CK-3656,dosya_yazılım_geliştirme,2,terminalde paket listesini güncelle sonra eksik paketi indir,4,sonra,O,O,True
+CK-3656,dosya_yazılım_geliştirme,2,terminalde paket listesini güncelle sonra eksik paketi indir,5,eksik,İNDİR,İNDİR,True
+CK-3656,dosya_yazılım_geliştirme,2,terminalde paket listesini güncelle sonra eksik paketi indir,6,paketi,İNDİR,İNDİR,True
+CK-3656,dosya_yazılım_geliştirme,2,terminalde paket listesini güncelle sonra eksik paketi indir,7,indir,İNDİR,İNDİR,True
+CK-3657,dosya_yazılım_geliştirme,2,src altında yeni utils klasörü oluştur eski helpers klasörünü yeniden adlandır,0,src,O,O,True
+CK-3657,dosya_yazılım_geliştirme,2,src altında yeni utils klasörü oluştur eski helpers klasörünü yeniden adlandır,1,altında,O,O,True
+CK-3657,dosya_yazılım_geliştirme,2,src altında yeni utils klasörü oluştur eski helpers klasörünü yeniden adlandır,2,yeni,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3657,dosya_yazılım_geliştirme,2,src altında yeni utils klasörü oluştur eski helpers klasörünü yeniden adlandır,3,utils,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3657,dosya_yazılım_geliştirme,2,src altında yeni utils klasörü oluştur eski helpers klasörünü yeniden adlandır,4,klasörü,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3657,dosya_yazılım_geliştirme,2,src altında yeni utils klasörü oluştur eski helpers klasörünü yeniden adlandır,5,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3657,dosya_yazılım_geliştirme,2,src altında yeni utils klasörü oluştur eski helpers klasörünü yeniden adlandır,6,eski,O,YENİDEN_ADLANDIR,False
+CK-3657,dosya_yazılım_geliştirme,2,src altında yeni utils klasörü oluştur eski helpers klasörünü yeniden adlandır,7,helpers,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3657,dosya_yazılım_geliştirme,2,src altında yeni utils klasörü oluştur eski helpers klasörünü yeniden adlandır,8,klasörünü,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3657,dosya_yazılım_geliştirme,2,src altında yeni utils klasörü oluştur eski helpers klasörünü yeniden adlandır,9,yeniden,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3657,dosya_yazılım_geliştirme,2,src altında yeni utils klasörü oluştur eski helpers klasörünü yeniden adlandır,10,adlandır,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3658,dosya_yazılım_geliştirme,2,log dosyasını açma sadece error satırlarını ara ve çıktıyı yazdır,0,log,O,O,True
+CK-3658,dosya_yazılım_geliştirme,2,log dosyasını açma sadece error satırlarını ara ve çıktıyı yazdır,1,dosyasını,O,O,True
+CK-3658,dosya_yazılım_geliştirme,2,log dosyasını açma sadece error satırlarını ara ve çıktıyı yazdır,2,açma,O,O,True
+CK-3658,dosya_yazılım_geliştirme,2,log dosyasını açma sadece error satırlarını ara ve çıktıyı yazdır,3,sadece,O,O,True
+CK-3658,dosya_yazılım_geliştirme,2,log dosyasını açma sadece error satırlarını ara ve çıktıyı yazdır,4,error,ARA,ARA,True
+CK-3658,dosya_yazılım_geliştirme,2,log dosyasını açma sadece error satırlarını ara ve çıktıyı yazdır,5,satırlarını,ARA,ARA,True
+CK-3658,dosya_yazılım_geliştirme,2,log dosyasını açma sadece error satırlarını ara ve çıktıyı yazdır,6,ara,ARA,ARA,True
+CK-3658,dosya_yazılım_geliştirme,2,log dosyasını açma sadece error satırlarını ara ve çıktıyı yazdır,7,ve,O,O,True
+CK-3658,dosya_yazılım_geliştirme,2,log dosyasını açma sadece error satırlarını ara ve çıktıyı yazdır,8,çıktıyı,YAZDIR,YAZDIR,True
+CK-3658,dosya_yazılım_geliştirme,2,log dosyasını açma sadece error satırlarını ara ve çıktıyı yazdır,9,yazdır,YAZDIR,YAZDIR,True
+CK-3659,dosya_yazılım_geliştirme,2,package-lock dosyasını sil ardından npm install komutunu yinele,0,package-lock,SİL,SİL,True
+CK-3659,dosya_yazılım_geliştirme,2,package-lock dosyasını sil ardından npm install komutunu yinele,1,dosyasını,SİL,SİL,True
+CK-3659,dosya_yazılım_geliştirme,2,package-lock dosyasını sil ardından npm install komutunu yinele,2,sil,SİL,SİL,True
+CK-3659,dosya_yazılım_geliştirme,2,package-lock dosyasını sil ardından npm install komutunu yinele,3,ardından,O,O,True
+CK-3659,dosya_yazılım_geliştirme,2,package-lock dosyasını sil ardından npm install komutunu yinele,4,npm,YİNELE,YİNELE,True
+CK-3659,dosya_yazılım_geliştirme,2,package-lock dosyasını sil ardından npm install komutunu yinele,5,install,YİNELE,YİNELE,True
+CK-3659,dosya_yazılım_geliştirme,2,package-lock dosyasını sil ardından npm install komutunu yinele,6,komutunu,YİNELE,YİNELE,True
+CK-3659,dosya_yazılım_geliştirme,2,package-lock dosyasını sil ardından npm install komutunu yinele,7,yinele,YİNELE,YİNELE,True
+CK-3660,dosya_yazılım_geliştirme,2,terminal sekmesine geç komut satırına bir boşluk bırak,0,terminal,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3660,dosya_yazılım_geliştirme,2,terminal sekmesine geç komut satırına bir boşluk bırak,1,sekmesine,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3660,dosya_yazılım_geliştirme,2,terminal sekmesine geç komut satırına bir boşluk bırak,2,geç,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3660,dosya_yazılım_geliştirme,2,terminal sekmesine geç komut satırına bir boşluk bırak,3,komut,O,BOŞLUK,False
+CK-3660,dosya_yazılım_geliştirme,2,terminal sekmesine geç komut satırına bir boşluk bırak,4,satırına,O,BOŞLUK,False
+CK-3660,dosya_yazılım_geliştirme,2,terminal sekmesine geç komut satırına bir boşluk bırak,5,bir,BOŞLUK,BOŞLUK,True
+CK-3660,dosya_yazılım_geliştirme,2,terminal sekmesine geç komut satırına bir boşluk bırak,6,boşluk,BOŞLUK,BOŞLUK,True
+CK-3660,dosya_yazılım_geliştirme,2,terminal sekmesine geç komut satırına bir boşluk bırak,7,bırak,BOŞLUK,BOŞLUK,True
+CK-3661,dosya_yazılım_geliştirme,2,config dosyasındaki log seviyesini azalt kayıt dosyasını kaydet,0,config,O,O,True
+CK-3661,dosya_yazılım_geliştirme,2,config dosyasındaki log seviyesini azalt kayıt dosyasını kaydet,1,dosyasındaki,O,O,True
+CK-3661,dosya_yazılım_geliştirme,2,config dosyasındaki log seviyesini azalt kayıt dosyasını kaydet,2,log,AZALT,AZALT,True
+CK-3661,dosya_yazılım_geliştirme,2,config dosyasındaki log seviyesini azalt kayıt dosyasını kaydet,3,seviyesini,AZALT,AZALT,True
+CK-3661,dosya_yazılım_geliştirme,2,config dosyasındaki log seviyesini azalt kayıt dosyasını kaydet,4,azalt,AZALT,AZALT,True
+CK-3661,dosya_yazılım_geliştirme,2,config dosyasındaki log seviyesini azalt kayıt dosyasını kaydet,5,kayıt,KAYDET,KAYDET,True
+CK-3661,dosya_yazılım_geliştirme,2,config dosyasındaki log seviyesini azalt kayıt dosyasını kaydet,6,dosyasını,KAYDET,KAYDET,True
+CK-3661,dosya_yazılım_geliştirme,2,config dosyasındaki log seviyesini azalt kayıt dosyasını kaydet,7,kaydet,KAYDET,KAYDET,True
+CK-3662,dosya_yazılım_geliştirme,2,dist klasörünü küçült demiyorum arşiv dosyasını sıkıştır sonra hedefe taşı,0,dist,O,O,True
+CK-3662,dosya_yazılım_geliştirme,2,dist klasörünü küçült demiyorum arşiv dosyasını sıkıştır sonra hedefe taşı,1,klasörünü,O,O,True
+CK-3662,dosya_yazılım_geliştirme,2,dist klasörünü küçült demiyorum arşiv dosyasını sıkıştır sonra hedefe taşı,2,küçült,O,O,True
+CK-3662,dosya_yazılım_geliştirme,2,dist klasörünü küçült demiyorum arşiv dosyasını sıkıştır sonra hedefe taşı,3,demiyorum,O,O,True
+CK-3662,dosya_yazılım_geliştirme,2,dist klasörünü küçült demiyorum arşiv dosyasını sıkıştır sonra hedefe taşı,4,arşiv,DİĞER,DİĞER,True
+CK-3662,dosya_yazılım_geliştirme,2,dist klasörünü küçült demiyorum arşiv dosyasını sıkıştır sonra hedefe taşı,5,dosyasını,DİĞER,DİĞER,True
+CK-3662,dosya_yazılım_geliştirme,2,dist klasörünü küçült demiyorum arşiv dosyasını sıkıştır sonra hedefe taşı,6,sıkıştır,DİĞER,DİĞER,True
+CK-3662,dosya_yazılım_geliştirme,2,dist klasörünü küçült demiyorum arşiv dosyasını sıkıştır sonra hedefe taşı,7,sonra,O,O,True
+CK-3662,dosya_yazılım_geliştirme,2,dist klasörünü küçült demiyorum arşiv dosyasını sıkıştır sonra hedefe taşı,8,hedefe,TAŞI,TAŞI,True
+CK-3662,dosya_yazılım_geliştirme,2,dist klasörünü küçült demiyorum arşiv dosyasını sıkıştır sonra hedefe taşı,9,taşı,TAŞI,TAŞI,True
+CK-3663,dosya_yazılım_geliştirme,2,main branchine geç değişiklikleri uzak depoya yükle,0,main,GEÇ,GEÇ,True
+CK-3663,dosya_yazılım_geliştirme,2,main branchine geç değişiklikleri uzak depoya yükle,1,branchine,GEÇ,GEÇ,True
+CK-3663,dosya_yazılım_geliştirme,2,main branchine geç değişiklikleri uzak depoya yükle,2,geç,GEÇ,GEÇ,True
+CK-3663,dosya_yazılım_geliştirme,2,main branchine geç değişiklikleri uzak depoya yükle,3,değişiklikleri,O,YÜKLE,False
+CK-3663,dosya_yazılım_geliştirme,2,main branchine geç değişiklikleri uzak depoya yükle,4,uzak,YÜKLE,YÜKLE,True
+CK-3663,dosya_yazılım_geliştirme,2,main branchine geç değişiklikleri uzak depoya yükle,5,depoya,YÜKLE,YÜKLE,True
+CK-3663,dosya_yazılım_geliştirme,2,main branchine geç değişiklikleri uzak depoya yükle,6,yükle,YÜKLE,YÜKLE,True
+CK-3664,dosya_yazılım_geliştirme,2,terminal çıktısında warning kelimesini bul ilgili satırı kopyala,0,terminal,O,O,True
+CK-3664,dosya_yazılım_geliştirme,2,terminal çıktısında warning kelimesini bul ilgili satırı kopyala,1,çıktısında,O,O,True
+CK-3664,dosya_yazılım_geliştirme,2,terminal çıktısında warning kelimesini bul ilgili satırı kopyala,2,warning,BUL,BUL,True
+CK-3664,dosya_yazılım_geliştirme,2,terminal çıktısında warning kelimesini bul ilgili satırı kopyala,3,kelimesini,BUL,BUL,True
+CK-3664,dosya_yazılım_geliştirme,2,terminal çıktısında warning kelimesini bul ilgili satırı kopyala,4,bul,BUL,BUL,True
+CK-3664,dosya_yazılım_geliştirme,2,terminal çıktısında warning kelimesini bul ilgili satırı kopyala,5,ilgili,KOPYALA,KOPYALA,True
+CK-3664,dosya_yazılım_geliştirme,2,terminal çıktısında warning kelimesini bul ilgili satırı kopyala,6,satırı,KOPYALA,KOPYALA,True
+CK-3664,dosya_yazılım_geliştirme,2,terminal çıktısında warning kelimesini bul ilgili satırı kopyala,7,kopyala,KOPYALA,KOPYALA,True
+CK-3665,dosya_yazılım_geliştirme,2,requirements satırını kes dev-requirements dosyasına yapıştır,0,requirements,KES,KES,True
+CK-3665,dosya_yazılım_geliştirme,2,requirements satırını kes dev-requirements dosyasına yapıştır,1,satırını,KES,KES,True
+CK-3665,dosya_yazılım_geliştirme,2,requirements satırını kes dev-requirements dosyasına yapıştır,2,kes,KES,KES,True
+CK-3665,dosya_yazılım_geliştirme,2,requirements satırını kes dev-requirements dosyasına yapıştır,3,dev-requirements,YAPIŞTIR,YAPIŞTIR,True
+CK-3665,dosya_yazılım_geliştirme,2,requirements satırını kes dev-requirements dosyasına yapıştır,4,dosyasına,YAPIŞTIR,YAPIŞTIR,True
+CK-3665,dosya_yazılım_geliştirme,2,requirements satırını kes dev-requirements dosyasına yapıştır,5,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3666,dosya_yazılım_geliştirme,2,test komutunu yinele coverage raporunu indir,0,test,YİNELE,YİNELE,True
+CK-3666,dosya_yazılım_geliştirme,2,test komutunu yinele coverage raporunu indir,1,komutunu,YİNELE,YİNELE,True
+CK-3666,dosya_yazılım_geliştirme,2,test komutunu yinele coverage raporunu indir,2,yinele,YİNELE,YİNELE,True
+CK-3666,dosya_yazılım_geliştirme,2,test komutunu yinele coverage raporunu indir,3,coverage,İNDİR,İNDİR,True
+CK-3666,dosya_yazılım_geliştirme,2,test komutunu yinele coverage raporunu indir,4,raporunu,İNDİR,İNDİR,True
+CK-3666,dosya_yazılım_geliştirme,2,test komutunu yinele coverage raporunu indir,5,indir,İNDİR,İNDİR,True
+CK-3667,dosya_yazılım_geliştirme,2,yanlış dosyayı silme geçici cache klasörünü sil sonra test klasörüne geç,0,yanlış,O,O,True
+CK-3667,dosya_yazılım_geliştirme,2,yanlış dosyayı silme geçici cache klasörünü sil sonra test klasörüne geç,1,dosyayı,O,O,True
+CK-3667,dosya_yazılım_geliştirme,2,yanlış dosyayı silme geçici cache klasörünü sil sonra test klasörüne geç,2,silme,O,O,True
+CK-3667,dosya_yazılım_geliştirme,2,yanlış dosyayı silme geçici cache klasörünü sil sonra test klasörüne geç,3,geçici,SİL,SİL,True
+CK-3667,dosya_yazılım_geliştirme,2,yanlış dosyayı silme geçici cache klasörünü sil sonra test klasörüne geç,4,cache,SİL,SİL,True
+CK-3667,dosya_yazılım_geliştirme,2,yanlış dosyayı silme geçici cache klasörünü sil sonra test klasörüne geç,5,klasörünü,SİL,SİL,True
+CK-3667,dosya_yazılım_geliştirme,2,yanlış dosyayı silme geçici cache klasörünü sil sonra test klasörüne geç,6,sil,SİL,SİL,True
+CK-3667,dosya_yazılım_geliştirme,2,yanlış dosyayı silme geçici cache klasörünü sil sonra test klasörüne geç,7,sonra,O,O,True
+CK-3667,dosya_yazılım_geliştirme,2,yanlış dosyayı silme geçici cache klasörünü sil sonra test klasörüne geç,8,test,GEÇ,GEÇ,True
+CK-3667,dosya_yazılım_geliştirme,2,yanlış dosyayı silme geçici cache klasörünü sil sonra test klasörüne geç,9,klasörüne,GEÇ,GEÇ,True
+CK-3667,dosya_yazılım_geliştirme,2,yanlış dosyayı silme geçici cache klasörünü sil sonra test klasörüne geç,10,geç,GEÇ,GEÇ,True
+CK-3668,dosya_yazılım_geliştirme,3,VS Code içinde test sekmesine geç failed ifadesini ara sonucu yazdır,0,VS,O,O,True
+CK-3668,dosya_yazılım_geliştirme,3,VS Code içinde test sekmesine geç failed ifadesini ara sonucu yazdır,1,Code,O,O,True
+CK-3668,dosya_yazılım_geliştirme,3,VS Code içinde test sekmesine geç failed ifadesini ara sonucu yazdır,2,içinde,O,O,True
+CK-3668,dosya_yazılım_geliştirme,3,VS Code içinde test sekmesine geç failed ifadesini ara sonucu yazdır,3,test,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3668,dosya_yazılım_geliştirme,3,VS Code içinde test sekmesine geç failed ifadesini ara sonucu yazdır,4,sekmesine,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3668,dosya_yazılım_geliştirme,3,VS Code içinde test sekmesine geç failed ifadesini ara sonucu yazdır,5,geç,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3668,dosya_yazılım_geliştirme,3,VS Code içinde test sekmesine geç failed ifadesini ara sonucu yazdır,6,failed,ARA,ARA,True
+CK-3668,dosya_yazılım_geliştirme,3,VS Code içinde test sekmesine geç failed ifadesini ara sonucu yazdır,7,ifadesini,ARA,ARA,True
+CK-3668,dosya_yazılım_geliştirme,3,VS Code içinde test sekmesine geç failed ifadesini ara sonucu yazdır,8,ara,ARA,ARA,True
+CK-3668,dosya_yazılım_geliştirme,3,VS Code içinde test sekmesine geç failed ifadesini ara sonucu yazdır,9,sonucu,YAZDIR,YAZDIR,True
+CK-3668,dosya_yazılım_geliştirme,3,VS Code içinde test sekmesine geç failed ifadesini ara sonucu yazdır,10,yazdır,YAZDIR,YAZDIR,True
+CK-3669,dosya_yazılım_geliştirme,3,logs klasörü oluştur app.log dosyasını oraya taşı adını bug.log yap,0,logs,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3669,dosya_yazılım_geliştirme,3,logs klasörü oluştur app.log dosyasını oraya taşı adını bug.log yap,1,klasörü,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3669,dosya_yazılım_geliştirme,3,logs klasörü oluştur app.log dosyasını oraya taşı adını bug.log yap,2,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3669,dosya_yazılım_geliştirme,3,logs klasörü oluştur app.log dosyasını oraya taşı adını bug.log yap,3,app.log,O,TAŞI,False
+CK-3669,dosya_yazılım_geliştirme,3,logs klasörü oluştur app.log dosyasını oraya taşı adını bug.log yap,4,dosyasını,O,TAŞI,False
+CK-3669,dosya_yazılım_geliştirme,3,logs klasörü oluştur app.log dosyasını oraya taşı adını bug.log yap,5,oraya,TAŞI,TAŞI,True
+CK-3669,dosya_yazılım_geliştirme,3,logs klasörü oluştur app.log dosyasını oraya taşı adını bug.log yap,6,taşı,TAŞI,TAŞI,True
+CK-3669,dosya_yazılım_geliştirme,3,logs klasörü oluştur app.log dosyasını oraya taşı adını bug.log yap,7,adını,O,YENİDEN_ADLANDIR,False
+CK-3669,dosya_yazılım_geliştirme,3,logs klasörü oluştur app.log dosyasını oraya taşı adını bug.log yap,8,bug.log,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3669,dosya_yazılım_geliştirme,3,logs klasörü oluştur app.log dosyasını oraya taşı adını bug.log yap,9,yap,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3670,dosya_yazılım_geliştirme,3,terminalde clear komutunu yaz enter bas sonra test komutunu yinele,0,terminalde,O,YAZ,False
+CK-3670,dosya_yazılım_geliştirme,3,terminalde clear komutunu yaz enter bas sonra test komutunu yinele,1,clear,YAZ,YAZ,True
+CK-3670,dosya_yazılım_geliştirme,3,terminalde clear komutunu yaz enter bas sonra test komutunu yinele,2,komutunu,YAZ,YAZ,True
+CK-3670,dosya_yazılım_geliştirme,3,terminalde clear komutunu yaz enter bas sonra test komutunu yinele,3,yaz,YAZ,YAZ,True
+CK-3670,dosya_yazılım_geliştirme,3,terminalde clear komutunu yaz enter bas sonra test komutunu yinele,4,enter,ENTER,ENTER,True
+CK-3670,dosya_yazılım_geliştirme,3,terminalde clear komutunu yaz enter bas sonra test komutunu yinele,5,bas,ENTER,ENTER,True
+CK-3670,dosya_yazılım_geliştirme,3,terminalde clear komutunu yaz enter bas sonra test komutunu yinele,6,sonra,O,O,True
+CK-3670,dosya_yazılım_geliştirme,3,terminalde clear komutunu yaz enter bas sonra test komutunu yinele,7,test,YİNELE,YİNELE,True
+CK-3670,dosya_yazılım_geliştirme,3,terminalde clear komutunu yaz enter bas sonra test komutunu yinele,8,komutunu,YİNELE,YİNELE,True
+CK-3670,dosya_yazılım_geliştirme,3,terminalde clear komutunu yaz enter bas sonra test komutunu yinele,9,yinele,YİNELE,YİNELE,True
+CK-3671,dosya_yazılım_geliştirme,3,bozuk cache dosyasını bul sil ardından build komutunu yinele,0,bozuk,BUL,BUL,True
+CK-3671,dosya_yazılım_geliştirme,3,bozuk cache dosyasını bul sil ardından build komutunu yinele,1,cache,BUL,BUL,True
+CK-3671,dosya_yazılım_geliştirme,3,bozuk cache dosyasını bul sil ardından build komutunu yinele,2,dosyasını,BUL,BUL,True
+CK-3671,dosya_yazılım_geliştirme,3,bozuk cache dosyasını bul sil ardından build komutunu yinele,3,bul,BUL,BUL,True
+CK-3671,dosya_yazılım_geliştirme,3,bozuk cache dosyasını bul sil ardından build komutunu yinele,4,sil,SİL,SİL,True
+CK-3671,dosya_yazılım_geliştirme,3,bozuk cache dosyasını bul sil ardından build komutunu yinele,5,ardından,O,O,True
+CK-3671,dosya_yazılım_geliştirme,3,bozuk cache dosyasını bul sil ardından build komutunu yinele,6,build,YİNELE,YİNELE,True
+CK-3671,dosya_yazılım_geliştirme,3,bozuk cache dosyasını bul sil ardından build komutunu yinele,7,komutunu,YİNELE,YİNELE,True
+CK-3671,dosya_yazılım_geliştirme,3,bozuk cache dosyasını bul sil ardından build komutunu yinele,8,yinele,YİNELE,YİNELE,True
+CK-3672,dosya_yazılım_geliştirme,3,env dosyasındaki token satırını kes örnek env dosyasına yapıştır kaydet,0,env,O,O,True
+CK-3672,dosya_yazılım_geliştirme,3,env dosyasındaki token satırını kes örnek env dosyasına yapıştır kaydet,1,dosyasındaki,O,O,True
+CK-3672,dosya_yazılım_geliştirme,3,env dosyasındaki token satırını kes örnek env dosyasına yapıştır kaydet,2,token,KES,KES,True
+CK-3672,dosya_yazılım_geliştirme,3,env dosyasındaki token satırını kes örnek env dosyasına yapıştır kaydet,3,satırını,KES,KES,True
+CK-3672,dosya_yazılım_geliştirme,3,env dosyasındaki token satırını kes örnek env dosyasına yapıştır kaydet,4,kes,KES,KES,True
+CK-3672,dosya_yazılım_geliştirme,3,env dosyasındaki token satırını kes örnek env dosyasına yapıştır kaydet,5,örnek,YAPIŞTIR,YAPIŞTIR,True
+CK-3672,dosya_yazılım_geliştirme,3,env dosyasındaki token satırını kes örnek env dosyasına yapıştır kaydet,6,env,YAPIŞTIR,YAPIŞTIR,True
+CK-3672,dosya_yazılım_geliştirme,3,env dosyasındaki token satırını kes örnek env dosyasına yapıştır kaydet,7,dosyasına,YAPIŞTIR,YAPIŞTIR,True
+CK-3672,dosya_yazılım_geliştirme,3,env dosyasındaki token satırını kes örnek env dosyasına yapıştır kaydet,8,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3672,dosya_yazılım_geliştirme,3,env dosyasındaki token satırını kes örnek env dosyasına yapıştır kaydet,9,kaydet,KAYDET,KAYDET,True
+CK-3673,dosya_yazılım_geliştirme,3,paket aramasında flask ara uygun sürümü indir requirements içine ekle,0,paket,O,O,True
+CK-3673,dosya_yazılım_geliştirme,3,paket aramasında flask ara uygun sürümü indir requirements içine ekle,1,aramasında,O,O,True
+CK-3673,dosya_yazılım_geliştirme,3,paket aramasında flask ara uygun sürümü indir requirements içine ekle,2,flask,ARA,ARA,True
+CK-3673,dosya_yazılım_geliştirme,3,paket aramasında flask ara uygun sürümü indir requirements içine ekle,3,ara,ARA,ARA,True
+CK-3673,dosya_yazılım_geliştirme,3,paket aramasında flask ara uygun sürümü indir requirements içine ekle,4,uygun,İNDİR,İNDİR,True
+CK-3673,dosya_yazılım_geliştirme,3,paket aramasında flask ara uygun sürümü indir requirements içine ekle,5,sürümü,İNDİR,İNDİR,True
+CK-3673,dosya_yazılım_geliştirme,3,paket aramasında flask ara uygun sürümü indir requirements içine ekle,6,indir,İNDİR,İNDİR,True
+CK-3673,dosya_yazılım_geliştirme,3,paket aramasında flask ara uygun sürümü indir requirements içine ekle,7,requirements,YAZ,YÜKLE,False
+CK-3673,dosya_yazılım_geliştirme,3,paket aramasında flask ara uygun sürümü indir requirements içine ekle,8,içine,YAZ,YAZ,True
+CK-3673,dosya_yazılım_geliştirme,3,paket aramasında flask ara uygun sürümü indir requirements içine ekle,9,ekle,YAZ,YAZ,True
+CK-3674,dosya_yazılım_geliştirme,3,yanlış sekmede kalma settings sekmesine geç port alanını bul değeri azalt,0,yanlış,O,O,True
+CK-3674,dosya_yazılım_geliştirme,3,yanlış sekmede kalma settings sekmesine geç port alanını bul değeri azalt,1,sekmede,O,O,True
+CK-3674,dosya_yazılım_geliştirme,3,yanlış sekmede kalma settings sekmesine geç port alanını bul değeri azalt,2,kalma,O,O,True
+CK-3674,dosya_yazılım_geliştirme,3,yanlış sekmede kalma settings sekmesine geç port alanını bul değeri azalt,3,settings,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3674,dosya_yazılım_geliştirme,3,yanlış sekmede kalma settings sekmesine geç port alanını bul değeri azalt,4,sekmesine,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3674,dosya_yazılım_geliştirme,3,yanlış sekmede kalma settings sekmesine geç port alanını bul değeri azalt,5,geç,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3674,dosya_yazılım_geliştirme,3,yanlış sekmede kalma settings sekmesine geç port alanını bul değeri azalt,6,port,BUL,BUL,True
+CK-3674,dosya_yazılım_geliştirme,3,yanlış sekmede kalma settings sekmesine geç port alanını bul değeri azalt,7,alanını,BUL,BUL,True
+CK-3674,dosya_yazılım_geliştirme,3,yanlış sekmede kalma settings sekmesine geç port alanını bul değeri azalt,8,bul,BUL,BUL,True
+CK-3674,dosya_yazılım_geliştirme,3,yanlış sekmede kalma settings sekmesine geç port alanını bul değeri azalt,9,değeri,AZALT,AZALT,True
+CK-3674,dosya_yazılım_geliştirme,3,yanlış sekmede kalma settings sekmesine geç port alanını bul değeri azalt,10,azalt,AZALT,AZALT,True
+CK-3675,dosya_yazılım_geliştirme,3,migration klasörü oluştur dosyayı içine taşı adını init_migration yap,0,migration,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3675,dosya_yazılım_geliştirme,3,migration klasörü oluştur dosyayı içine taşı adını init_migration yap,1,klasörü,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3675,dosya_yazılım_geliştirme,3,migration klasörü oluştur dosyayı içine taşı adını init_migration yap,2,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3675,dosya_yazılım_geliştirme,3,migration klasörü oluştur dosyayı içine taşı adını init_migration yap,3,dosyayı,O,TAŞI,False
+CK-3675,dosya_yazılım_geliştirme,3,migration klasörü oluştur dosyayı içine taşı adını init_migration yap,4,içine,TAŞI,TAŞI,True
+CK-3675,dosya_yazılım_geliştirme,3,migration klasörü oluştur dosyayı içine taşı adını init_migration yap,5,taşı,TAŞI,TAŞI,True
+CK-3675,dosya_yazılım_geliştirme,3,migration klasörü oluştur dosyayı içine taşı adını init_migration yap,6,adını,O,YENİDEN_ADLANDIR,False
+CK-3675,dosya_yazılım_geliştirme,3,migration klasörü oluştur dosyayı içine taşı adını init_migration yap,7,init_migration,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3675,dosya_yazılım_geliştirme,3,migration klasörü oluştur dosyayı içine taşı adını init_migration yap,8,yap,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3676,dosya_yazılım_geliştirme,3,çıktı panelinde son satırı seç kopyala hata raporuna yapıştır,0,çıktı,O,O,True
+CK-3676,dosya_yazılım_geliştirme,3,çıktı panelinde son satırı seç kopyala hata raporuna yapıştır,1,panelinde,O,O,True
+CK-3676,dosya_yazılım_geliştirme,3,çıktı panelinde son satırı seç kopyala hata raporuna yapıştır,2,son,SEÇ,SEÇ,True
+CK-3676,dosya_yazılım_geliştirme,3,çıktı panelinde son satırı seç kopyala hata raporuna yapıştır,3,satırı,SEÇ,SEÇ,True
+CK-3676,dosya_yazılım_geliştirme,3,çıktı panelinde son satırı seç kopyala hata raporuna yapıştır,4,seç,SEÇ,SEÇ,True
+CK-3676,dosya_yazılım_geliştirme,3,çıktı panelinde son satırı seç kopyala hata raporuna yapıştır,5,kopyala,KOPYALA,KOPYALA,True
+CK-3676,dosya_yazılım_geliştirme,3,çıktı panelinde son satırı seç kopyala hata raporuna yapıştır,6,hata,YAPIŞTIR,YAPIŞTIR,True
+CK-3676,dosya_yazılım_geliştirme,3,çıktı panelinde son satırı seç kopyala hata raporuna yapıştır,7,raporuna,YAPIŞTIR,YAPIŞTIR,True
+CK-3676,dosya_yazılım_geliştirme,3,çıktı panelinde son satırı seç kopyala hata raporuna yapıştır,8,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3677,dosya_yazılım_geliştirme,3,test sonucunu yazdır rapor dosyasını sıkıştır zip olarak kaydet,0,test,YAZDIR,YAZDIR,True
+CK-3677,dosya_yazılım_geliştirme,3,test sonucunu yazdır rapor dosyasını sıkıştır zip olarak kaydet,1,sonucunu,YAZDIR,YAZDIR,True
+CK-3677,dosya_yazılım_geliştirme,3,test sonucunu yazdır rapor dosyasını sıkıştır zip olarak kaydet,2,yazdır,YAZDIR,YAZDIR,True
+CK-3677,dosya_yazılım_geliştirme,3,test sonucunu yazdır rapor dosyasını sıkıştır zip olarak kaydet,3,rapor,DİĞER,DİĞER,True
+CK-3677,dosya_yazılım_geliştirme,3,test sonucunu yazdır rapor dosyasını sıkıştır zip olarak kaydet,4,dosyasını,DİĞER,DİĞER,True
+CK-3677,dosya_yazılım_geliştirme,3,test sonucunu yazdır rapor dosyasını sıkıştır zip olarak kaydet,5,sıkıştır,DİĞER,DİĞER,True
+CK-3677,dosya_yazılım_geliştirme,3,test sonucunu yazdır rapor dosyasını sıkıştır zip olarak kaydet,6,zip,KAYDET,KAYDET,True
+CK-3677,dosya_yazılım_geliştirme,3,test sonucunu yazdır rapor dosyasını sıkıştır zip olarak kaydet,7,olarak,KAYDET,KAYDET,True
+CK-3677,dosya_yazılım_geliştirme,3,test sonucunu yazdır rapor dosyasını sıkıştır zip olarak kaydet,8,kaydet,KAYDET,KAYDET,True
+CK-3678,dosya_yazılım_geliştirme,3,node_modules klasörünü silme sadece geçici tmp klasörünü sil build klasörünü yeniden adlandır sonra projeye dön,0,node_modules,O,O,True
+CK-3678,dosya_yazılım_geliştirme,3,node_modules klasörünü silme sadece geçici tmp klasörünü sil build klasörünü yeniden adlandır sonra projeye dön,1,klasörünü,O,O,True
+CK-3678,dosya_yazılım_geliştirme,3,node_modules klasörünü silme sadece geçici tmp klasörünü sil build klasörünü yeniden adlandır sonra projeye dön,2,silme,O,O,True
+CK-3678,dosya_yazılım_geliştirme,3,node_modules klasörünü silme sadece geçici tmp klasörünü sil build klasörünü yeniden adlandır sonra projeye dön,3,sadece,O,O,True
+CK-3678,dosya_yazılım_geliştirme,3,node_modules klasörünü silme sadece geçici tmp klasörünü sil build klasörünü yeniden adlandır sonra projeye dön,4,geçici,SİL,SİL,True
+CK-3678,dosya_yazılım_geliştirme,3,node_modules klasörünü silme sadece geçici tmp klasörünü sil build klasörünü yeniden adlandır sonra projeye dön,5,tmp,SİL,SİL,True
+CK-3678,dosya_yazılım_geliştirme,3,node_modules klasörünü silme sadece geçici tmp klasörünü sil build klasörünü yeniden adlandır sonra projeye dön,6,klasörünü,SİL,SİL,True
+CK-3678,dosya_yazılım_geliştirme,3,node_modules klasörünü silme sadece geçici tmp klasörünü sil build klasörünü yeniden adlandır sonra projeye dön,7,sil,SİL,SİL,True
+CK-3678,dosya_yazılım_geliştirme,3,node_modules klasörünü silme sadece geçici tmp klasörünü sil build klasörünü yeniden adlandır sonra projeye dön,8,build,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3678,dosya_yazılım_geliştirme,3,node_modules klasörünü silme sadece geçici tmp klasörünü sil build klasörünü yeniden adlandır sonra projeye dön,9,klasörünü,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3678,dosya_yazılım_geliştirme,3,node_modules klasörünü silme sadece geçici tmp klasörünü sil build klasörünü yeniden adlandır sonra projeye dön,10,yeniden,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3678,dosya_yazılım_geliştirme,3,node_modules klasörünü silme sadece geçici tmp klasörünü sil build klasörünü yeniden adlandır sonra projeye dön,11,adlandır,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3678,dosya_yazılım_geliştirme,3,node_modules klasörünü silme sadece geçici tmp klasörünü sil build klasörünü yeniden adlandır sonra projeye dön,12,sonra,O,O,True
+CK-3678,dosya_yazılım_geliştirme,3,node_modules klasörünü silme sadece geçici tmp klasörünü sil build klasörünü yeniden adlandır sonra projeye dön,13,projeye,GEÇ,GEÇ,True
+CK-3678,dosya_yazılım_geliştirme,3,node_modules klasörünü silme sadece geçici tmp klasörünü sil build klasörünü yeniden adlandır sonra projeye dön,14,dön,GEÇ,GEÇ,True
+CK-3679,dosya_yazılım_geliştirme,4,API klasöründe yeni routes dosyası oluştur adını users.py yap import satırını ekle kaydet,0,API,O,O,True
+CK-3679,dosya_yazılım_geliştirme,4,API klasöründe yeni routes dosyası oluştur adını users.py yap import satırını ekle kaydet,1,klasöründe,O,O,True
+CK-3679,dosya_yazılım_geliştirme,4,API klasöründe yeni routes dosyası oluştur adını users.py yap import satırını ekle kaydet,2,yeni,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3679,dosya_yazılım_geliştirme,4,API klasöründe yeni routes dosyası oluştur adını users.py yap import satırını ekle kaydet,3,routes,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3679,dosya_yazılım_geliştirme,4,API klasöründe yeni routes dosyası oluştur adını users.py yap import satırını ekle kaydet,4,dosyası,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3679,dosya_yazılım_geliştirme,4,API klasöründe yeni routes dosyası oluştur adını users.py yap import satırını ekle kaydet,5,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3679,dosya_yazılım_geliştirme,4,API klasöründe yeni routes dosyası oluştur adını users.py yap import satırını ekle kaydet,6,adını,O,YENİDEN_ADLANDIR,False
+CK-3679,dosya_yazılım_geliştirme,4,API klasöründe yeni routes dosyası oluştur adını users.py yap import satırını ekle kaydet,7,users.py,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3679,dosya_yazılım_geliştirme,4,API klasöründe yeni routes dosyası oluştur adını users.py yap import satırını ekle kaydet,8,yap,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3679,dosya_yazılım_geliştirme,4,API klasöründe yeni routes dosyası oluştur adını users.py yap import satırını ekle kaydet,9,import,YAZ,YAZ,True
+CK-3679,dosya_yazılım_geliştirme,4,API klasöründe yeni routes dosyası oluştur adını users.py yap import satırını ekle kaydet,10,satırını,YAZ,YAZ,True
+CK-3679,dosya_yazılım_geliştirme,4,API klasöründe yeni routes dosyası oluştur adını users.py yap import satırını ekle kaydet,11,ekle,YAZ,YAZ,True
+CK-3679,dosya_yazılım_geliştirme,4,API klasöründe yeni routes dosyası oluştur adını users.py yap import satırını ekle kaydet,12,kaydet,KAYDET,KAYDET,True
+CK-3680,dosya_yazılım_geliştirme,4,terminalde git pull yaz enter bas çakışma dosyasını bul çıktıyı yazdır,0,terminalde,O,O,True
+CK-3680,dosya_yazılım_geliştirme,4,terminalde git pull yaz enter bas çakışma dosyasını bul çıktıyı yazdır,1,git,YAZ,YAZ,True
+CK-3680,dosya_yazılım_geliştirme,4,terminalde git pull yaz enter bas çakışma dosyasını bul çıktıyı yazdır,2,pull,YAZ,YAZ,True
+CK-3680,dosya_yazılım_geliştirme,4,terminalde git pull yaz enter bas çakışma dosyasını bul çıktıyı yazdır,3,yaz,YAZ,YAZ,True
+CK-3680,dosya_yazılım_geliştirme,4,terminalde git pull yaz enter bas çakışma dosyasını bul çıktıyı yazdır,4,enter,ENTER,ENTER,True
+CK-3680,dosya_yazılım_geliştirme,4,terminalde git pull yaz enter bas çakışma dosyasını bul çıktıyı yazdır,5,bas,ENTER,ENTER,True
+CK-3680,dosya_yazılım_geliştirme,4,terminalde git pull yaz enter bas çakışma dosyasını bul çıktıyı yazdır,6,çakışma,BUL,BUL,True
+CK-3680,dosya_yazılım_geliştirme,4,terminalde git pull yaz enter bas çakışma dosyasını bul çıktıyı yazdır,7,dosyasını,BUL,BUL,True
+CK-3680,dosya_yazılım_geliştirme,4,terminalde git pull yaz enter bas çakışma dosyasını bul çıktıyı yazdır,8,bul,BUL,BUL,True
+CK-3680,dosya_yazılım_geliştirme,4,terminalde git pull yaz enter bas çakışma dosyasını bul çıktıyı yazdır,9,çıktıyı,YAZDIR,YAZDIR,True
+CK-3680,dosya_yazılım_geliştirme,4,terminalde git pull yaz enter bas çakışma dosyasını bul çıktıyı yazdır,10,yazdır,YAZDIR,YAZDIR,True
+CK-3681,dosya_yazılım_geliştirme,1,şu cache klasörünü güvenliyse sil,0,şu,O,O,True
+CK-3681,dosya_yazılım_geliştirme,1,şu cache klasörünü güvenliyse sil,1,cache,SİL,SİL,True
+CK-3681,dosya_yazılım_geliştirme,1,şu cache klasörünü güvenliyse sil,2,klasörünü,SİL,SİL,True
+CK-3681,dosya_yazılım_geliştirme,1,şu cache klasörünü güvenliyse sil,3,güvenliyse,SİL,SİL,True
+CK-3681,dosya_yazılım_geliştirme,1,şu cache klasörünü güvenliyse sil,4,sil,SİL,SİL,True
+CK-3682,dosya_yazılım_geliştirme,1,coverage raporunu varsayılan yazıcıda yazdır,0,coverage,YAZDIR,YAZDIR,True
+CK-3682,dosya_yazılım_geliştirme,1,coverage raporunu varsayılan yazıcıda yazdır,1,raporunu,YAZDIR,YAZDIR,True
+CK-3682,dosya_yazılım_geliştirme,1,coverage raporunu varsayılan yazıcıda yazdır,2,varsayılan,YAZDIR,YAZDIR,True
+CK-3682,dosya_yazılım_geliştirme,1,coverage raporunu varsayılan yazıcıda yazdır,3,yazıcıda,YAZDIR,YAZDIR,True
+CK-3682,dosya_yazılım_geliştirme,1,coverage raporunu varsayılan yazıcıda yazdır,4,yazdır,YAZDIR,YAZDIR,True
+CK-3683,dosya_yazılım_geliştirme,1,hata düzeldi mi diye build işlemini yinele,0,hata,O,O,True
+CK-3683,dosya_yazılım_geliştirme,1,hata düzeldi mi diye build işlemini yinele,1,düzeldi,O,O,True
+CK-3683,dosya_yazılım_geliştirme,1,hata düzeldi mi diye build işlemini yinele,2,mi,O,O,True
+CK-3683,dosya_yazılım_geliştirme,1,hata düzeldi mi diye build işlemini yinele,3,diye,O,O,True
+CK-3683,dosya_yazılım_geliştirme,1,hata düzeldi mi diye build işlemini yinele,4,build,YİNELE,YİNELE,True
+CK-3683,dosya_yazılım_geliştirme,1,hata düzeldi mi diye build işlemini yinele,5,işlemini,YİNELE,YİNELE,True
+CK-3683,dosya_yazılım_geliştirme,1,hata düzeldi mi diye build işlemini yinele,6,yinele,YİNELE,YİNELE,True
+CK-3684,dosya_yazılım_geliştirme,2,terminalde komuttan sonra bir boşluk bırak enter bas,0,terminalde,O,BOŞLUK,False
+CK-3684,dosya_yazılım_geliştirme,2,terminalde komuttan sonra bir boşluk bırak enter bas,1,komuttan,O,BOŞLUK,False
+CK-3684,dosya_yazılım_geliştirme,2,terminalde komuttan sonra bir boşluk bırak enter bas,2,sonra,O,BOŞLUK,False
+CK-3684,dosya_yazılım_geliştirme,2,terminalde komuttan sonra bir boşluk bırak enter bas,3,bir,BOŞLUK,BOŞLUK,True
+CK-3684,dosya_yazılım_geliştirme,2,terminalde komuttan sonra bir boşluk bırak enter bas,4,boşluk,BOŞLUK,BOŞLUK,True
+CK-3684,dosya_yazılım_geliştirme,2,terminalde komuttan sonra bir boşluk bırak enter bas,5,bırak,BOŞLUK,BOŞLUK,True
+CK-3684,dosya_yazılım_geliştirme,2,terminalde komuttan sonra bir boşluk bırak enter bas,6,enter,ENTER,ENTER,True
+CK-3684,dosya_yazılım_geliştirme,2,terminalde komuttan sonra bir boşluk bırak enter bas,7,bas,ENTER,ENTER,True
+CK-3685,dosya_yazılım_geliştirme,2,docker imajını indir sonra manifest dosyasını kaydet,0,docker,İNDİR,İNDİR,True
+CK-3685,dosya_yazılım_geliştirme,2,docker imajını indir sonra manifest dosyasını kaydet,1,imajını,İNDİR,İNDİR,True
+CK-3685,dosya_yazılım_geliştirme,2,docker imajını indir sonra manifest dosyasını kaydet,2,indir,İNDİR,İNDİR,True
+CK-3685,dosya_yazılım_geliştirme,2,docker imajını indir sonra manifest dosyasını kaydet,3,sonra,O,O,True
+CK-3685,dosya_yazılım_geliştirme,2,docker imajını indir sonra manifest dosyasını kaydet,4,manifest,KAYDET,KAYDET,True
+CK-3685,dosya_yazılım_geliştirme,2,docker imajını indir sonra manifest dosyasını kaydet,5,dosyasını,KAYDET,KAYDET,True
+CK-3685,dosya_yazılım_geliştirme,2,docker imajını indir sonra manifest dosyasını kaydet,6,kaydet,KAYDET,KAYDET,True
+CK-3686,dosya_yazılım_geliştirme,2,release klasörü oluştur derleme çıktısını oraya taşı,0,release,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3686,dosya_yazılım_geliştirme,2,release klasörü oluştur derleme çıktısını oraya taşı,1,klasörü,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3686,dosya_yazılım_geliştirme,2,release klasörü oluştur derleme çıktısını oraya taşı,2,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3686,dosya_yazılım_geliştirme,2,release klasörü oluştur derleme çıktısını oraya taşı,3,derleme,TAŞI,TAŞI,True
+CK-3686,dosya_yazılım_geliştirme,2,release klasörü oluştur derleme çıktısını oraya taşı,4,çıktısını,TAŞI,TAŞI,True
+CK-3686,dosya_yazılım_geliştirme,2,release klasörü oluştur derleme çıktısını oraya taşı,5,oraya,TAŞI,TAŞI,True
+CK-3686,dosya_yazılım_geliştirme,2,release klasörü oluştur derleme çıktısını oraya taşı,6,taşı,TAŞI,TAŞI,True
+CK-3687,dosya_yazılım_geliştirme,2,preview sekmesine geç commit mesajını gönder,0,preview,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3687,dosya_yazılım_geliştirme,2,preview sekmesine geç commit mesajını gönder,1,sekmesine,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3687,dosya_yazılım_geliştirme,2,preview sekmesine geç commit mesajını gönder,2,geç,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3687,dosya_yazılım_geliştirme,2,preview sekmesine geç commit mesajını gönder,3,commit,GÖNDER,GÖNDER,True
+CK-3687,dosya_yazılım_geliştirme,2,preview sekmesine geç commit mesajını gönder,4,mesajını,GÖNDER,GÖNDER,True
+CK-3687,dosya_yazılım_geliştirme,2,preview sekmesine geç commit mesajını gönder,5,gönder,GÖNDER,GÖNDER,True
+CK-3688,dosya_yazılım_geliştirme,2,config içinde bekleme süresini azalt ve dosyayı kaydet,0,config,O,O,True
+CK-3688,dosya_yazılım_geliştirme,2,config içinde bekleme süresini azalt ve dosyayı kaydet,1,içinde,O,O,True
+CK-3688,dosya_yazılım_geliştirme,2,config içinde bekleme süresini azalt ve dosyayı kaydet,2,bekleme,AZALT,AZALT,True
+CK-3688,dosya_yazılım_geliştirme,2,config içinde bekleme süresini azalt ve dosyayı kaydet,3,süresini,AZALT,AZALT,True
+CK-3688,dosya_yazılım_geliştirme,2,config içinde bekleme süresini azalt ve dosyayı kaydet,4,azalt,AZALT,AZALT,True
+CK-3688,dosya_yazılım_geliştirme,2,config içinde bekleme süresini azalt ve dosyayı kaydet,5,ve,O,O,True
+CK-3688,dosya_yazılım_geliştirme,2,config içinde bekleme süresini azalt ve dosyayı kaydet,6,dosyayı,KAYDET,KAYDET,True
+CK-3688,dosya_yazılım_geliştirme,2,config içinde bekleme süresini azalt ve dosyayı kaydet,7,kaydet,KAYDET,KAYDET,True
+CK-3689,dosya_yazılım_geliştirme,2,dosya adını backup_config yap ardından değişiklikleri yükle,0,dosya,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3689,dosya_yazılım_geliştirme,2,dosya adını backup_config yap ardından değişiklikleri yükle,1,adını,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3689,dosya_yazılım_geliştirme,2,dosya adını backup_config yap ardından değişiklikleri yükle,2,backup_config,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3689,dosya_yazılım_geliştirme,2,dosya adını backup_config yap ardından değişiklikleri yükle,3,yap,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3689,dosya_yazılım_geliştirme,2,dosya adını backup_config yap ardından değişiklikleri yükle,4,ardından,O,O,True
+CK-3689,dosya_yazılım_geliştirme,2,dosya adını backup_config yap ardından değişiklikleri yükle,5,değişiklikleri,YÜKLE,YÜKLE,True
+CK-3689,dosya_yazılım_geliştirme,2,dosya adını backup_config yap ardından değişiklikleri yükle,6,yükle,YÜKLE,YÜKLE,True
+CK-3690,dosya_yazılım_geliştirme,3,test raporunu kes docs içine yapıştır dosyayı kaydet,0,test,KES,KES,True
+CK-3690,dosya_yazılım_geliştirme,3,test raporunu kes docs içine yapıştır dosyayı kaydet,1,raporunu,KES,KES,True
+CK-3690,dosya_yazılım_geliştirme,3,test raporunu kes docs içine yapıştır dosyayı kaydet,2,kes,KES,KES,True
+CK-3690,dosya_yazılım_geliştirme,3,test raporunu kes docs içine yapıştır dosyayı kaydet,3,docs,YAPIŞTIR,YAPIŞTIR,True
+CK-3690,dosya_yazılım_geliştirme,3,test raporunu kes docs içine yapıştır dosyayı kaydet,4,içine,YAPIŞTIR,YAPIŞTIR,True
+CK-3690,dosya_yazılım_geliştirme,3,test raporunu kes docs içine yapıştır dosyayı kaydet,5,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3690,dosya_yazılım_geliştirme,3,test raporunu kes docs içine yapıştır dosyayı kaydet,6,dosyayı,KAYDET,KAYDET,True
+CK-3690,dosya_yazılım_geliştirme,3,test raporunu kes docs içine yapıştır dosyayı kaydet,7,kaydet,KAYDET,KAYDET,True
+CK-3691,dosya_yazılım_geliştirme,3,paket aramasında axios ara uygun sürümü indir kurulum komutunu yinele,0,paket,O,ARA,False
+CK-3691,dosya_yazılım_geliştirme,3,paket aramasında axios ara uygun sürümü indir kurulum komutunu yinele,1,aramasında,O,ARA,False
+CK-3691,dosya_yazılım_geliştirme,3,paket aramasında axios ara uygun sürümü indir kurulum komutunu yinele,2,axios,ARA,ARA,True
+CK-3691,dosya_yazılım_geliştirme,3,paket aramasında axios ara uygun sürümü indir kurulum komutunu yinele,3,ara,ARA,ARA,True
+CK-3691,dosya_yazılım_geliştirme,3,paket aramasında axios ara uygun sürümü indir kurulum komutunu yinele,4,uygun,İNDİR,İNDİR,True
+CK-3691,dosya_yazılım_geliştirme,3,paket aramasında axios ara uygun sürümü indir kurulum komutunu yinele,5,sürümü,İNDİR,İNDİR,True
+CK-3691,dosya_yazılım_geliştirme,3,paket aramasında axios ara uygun sürümü indir kurulum komutunu yinele,6,indir,İNDİR,İNDİR,True
+CK-3691,dosya_yazılım_geliştirme,3,paket aramasında axios ara uygun sürümü indir kurulum komutunu yinele,7,kurulum,YİNELE,YİNELE,True
+CK-3691,dosya_yazılım_geliştirme,3,paket aramasında axios ara uygun sürümü indir kurulum komutunu yinele,8,komutunu,YİNELE,YİNELE,True
+CK-3691,dosya_yazılım_geliştirme,3,paket aramasında axios ara uygun sürümü indir kurulum komutunu yinele,9,yinele,YİNELE,YİNELE,True
+CK-3692,dosya_yazılım_geliştirme,3,terminal sekmesine geç pytest komutunu yaz enter bas,0,terminal,SEKME_DEĞİŞTİR,GEÇ,False
+CK-3692,dosya_yazılım_geliştirme,3,terminal sekmesine geç pytest komutunu yaz enter bas,1,sekmesine,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3692,dosya_yazılım_geliştirme,3,terminal sekmesine geç pytest komutunu yaz enter bas,2,geç,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3692,dosya_yazılım_geliştirme,3,terminal sekmesine geç pytest komutunu yaz enter bas,3,pytest,YAZ,YAZ,True
+CK-3692,dosya_yazılım_geliştirme,3,terminal sekmesine geç pytest komutunu yaz enter bas,4,komutunu,YAZ,YAZ,True
+CK-3692,dosya_yazılım_geliştirme,3,terminal sekmesine geç pytest komutunu yaz enter bas,5,yaz,YAZ,YAZ,True
+CK-3692,dosya_yazılım_geliştirme,3,terminal sekmesine geç pytest komutunu yaz enter bas,6,enter,ENTER,ENTER,True
+CK-3692,dosya_yazılım_geliştirme,3,terminal sekmesine geç pytest komutunu yaz enter bas,7,bas,ENTER,ENTER,True
+CK-3693,dosya_yazılım_geliştirme,3,boş migration dosyasını sil yeni migration oluştur adını add_index yap,0,boş,SİL,SİL,True
+CK-3693,dosya_yazılım_geliştirme,3,boş migration dosyasını sil yeni migration oluştur adını add_index yap,1,migration,SİL,SİL,True
+CK-3693,dosya_yazılım_geliştirme,3,boş migration dosyasını sil yeni migration oluştur adını add_index yap,2,dosyasını,SİL,SİL,True
+CK-3693,dosya_yazılım_geliştirme,3,boş migration dosyasını sil yeni migration oluştur adını add_index yap,3,sil,SİL,SİL,True
+CK-3693,dosya_yazılım_geliştirme,3,boş migration dosyasını sil yeni migration oluştur adını add_index yap,4,yeni,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3693,dosya_yazılım_geliştirme,3,boş migration dosyasını sil yeni migration oluştur adını add_index yap,5,migration,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3693,dosya_yazılım_geliştirme,3,boş migration dosyasını sil yeni migration oluştur adını add_index yap,6,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3693,dosya_yazılım_geliştirme,3,boş migration dosyasını sil yeni migration oluştur adını add_index yap,7,adını,O,YENİDEN_ADLANDIR,False
+CK-3693,dosya_yazılım_geliştirme,3,boş migration dosyasını sil yeni migration oluştur adını add_index yap,8,add_index,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3693,dosya_yazılım_geliştirme,3,boş migration dosyasını sil yeni migration oluştur adını add_index yap,9,yap,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3694,dosya_yazılım_geliştirme,3,README sekmesine geç uzun kod bloğunu küçült belgeyi kaydet,0,README,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3694,dosya_yazılım_geliştirme,3,README sekmesine geç uzun kod bloğunu küçült belgeyi kaydet,1,sekmesine,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3694,dosya_yazılım_geliştirme,3,README sekmesine geç uzun kod bloğunu küçült belgeyi kaydet,2,geç,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3694,dosya_yazılım_geliştirme,3,README sekmesine geç uzun kod bloğunu küçült belgeyi kaydet,3,uzun,KÜÇÜLT,KÜÇÜLT,True
+CK-3694,dosya_yazılım_geliştirme,3,README sekmesine geç uzun kod bloğunu küçült belgeyi kaydet,4,kod,KÜÇÜLT,KÜÇÜLT,True
+CK-3694,dosya_yazılım_geliştirme,3,README sekmesine geç uzun kod bloğunu küçült belgeyi kaydet,5,bloğunu,KÜÇÜLT,KÜÇÜLT,True
+CK-3694,dosya_yazılım_geliştirme,3,README sekmesine geç uzun kod bloğunu küçült belgeyi kaydet,6,küçült,KÜÇÜLT,KÜÇÜLT,True
+CK-3694,dosya_yazılım_geliştirme,3,README sekmesine geç uzun kod bloğunu küçült belgeyi kaydet,7,belgeyi,KAYDET,KAYDET,True
+CK-3694,dosya_yazılım_geliştirme,3,README sekmesine geç uzun kod bloğunu küçült belgeyi kaydet,8,kaydet,KAYDET,KAYDET,True
+CK-3695,dosya_yazılım_geliştirme,3,hata satırını bul satırı kopyala issue mesajına yapıştır,0,hata,BUL,BUL,True
+CK-3695,dosya_yazılım_geliştirme,3,hata satırını bul satırı kopyala issue mesajına yapıştır,1,satırını,BUL,BUL,True
+CK-3695,dosya_yazılım_geliştirme,3,hata satırını bul satırı kopyala issue mesajına yapıştır,2,bul,BUL,BUL,True
+CK-3695,dosya_yazılım_geliştirme,3,hata satırını bul satırı kopyala issue mesajına yapıştır,3,satırı,KOPYALA,KOPYALA,True
+CK-3695,dosya_yazılım_geliştirme,3,hata satırını bul satırı kopyala issue mesajına yapıştır,4,kopyala,KOPYALA,KOPYALA,True
+CK-3695,dosya_yazılım_geliştirme,3,hata satırını bul satırı kopyala issue mesajına yapıştır,5,issue,YAPIŞTIR,YAPIŞTIR,True
+CK-3695,dosya_yazılım_geliştirme,3,hata satırını bul satırı kopyala issue mesajına yapıştır,6,mesajına,YAPIŞTIR,YAPIŞTIR,True
+CK-3695,dosya_yazılım_geliştirme,3,hata satırını bul satırı kopyala issue mesajına yapıştır,7,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3696,dosya_yazılım_geliştirme,3,coverage çıktısını yazdır rapor klasörüne taşı eski özet dosyasını sil,0,coverage,YAZDIR,YAZDIR,True
+CK-3696,dosya_yazılım_geliştirme,3,coverage çıktısını yazdır rapor klasörüne taşı eski özet dosyasını sil,1,çıktısını,YAZDIR,YAZDIR,True
+CK-3696,dosya_yazılım_geliştirme,3,coverage çıktısını yazdır rapor klasörüne taşı eski özet dosyasını sil,2,yazdır,YAZDIR,YAZDIR,True
+CK-3696,dosya_yazılım_geliştirme,3,coverage çıktısını yazdır rapor klasörüne taşı eski özet dosyasını sil,3,rapor,TAŞI,TAŞI,True
+CK-3696,dosya_yazılım_geliştirme,3,coverage çıktısını yazdır rapor klasörüne taşı eski özet dosyasını sil,4,klasörüne,TAŞI,TAŞI,True
+CK-3696,dosya_yazılım_geliştirme,3,coverage çıktısını yazdır rapor klasörüne taşı eski özet dosyasını sil,5,taşı,TAŞI,TAŞI,True
+CK-3696,dosya_yazılım_geliştirme,3,coverage çıktısını yazdır rapor klasörüne taşı eski özet dosyasını sil,6,eski,SİL,SİL,True
+CK-3696,dosya_yazılım_geliştirme,3,coverage çıktısını yazdır rapor klasörüne taşı eski özet dosyasını sil,7,özet,SİL,SİL,True
+CK-3696,dosya_yazılım_geliştirme,3,coverage çıktısını yazdır rapor klasörüne taşı eski özet dosyasını sil,8,dosyasını,SİL,SİL,True
+CK-3696,dosya_yazılım_geliştirme,3,coverage çıktısını yazdır rapor klasörüne taşı eski özet dosyasını sil,9,sil,SİL,SİL,True
+CK-3697,dosya_yazılım_geliştirme,4,env örneğini aç token satırını kes docs dosyasına yapıştır kaydet,0,env,AÇ,AÇ,True
+CK-3697,dosya_yazılım_geliştirme,4,env örneğini aç token satırını kes docs dosyasına yapıştır kaydet,1,örneğini,AÇ,AÇ,True
+CK-3697,dosya_yazılım_geliştirme,4,env örneğini aç token satırını kes docs dosyasına yapıştır kaydet,2,aç,AÇ,AÇ,True
+CK-3697,dosya_yazılım_geliştirme,4,env örneğini aç token satırını kes docs dosyasına yapıştır kaydet,3,token,KES,KES,True
+CK-3697,dosya_yazılım_geliştirme,4,env örneğini aç token satırını kes docs dosyasına yapıştır kaydet,4,satırını,KES,KES,True
+CK-3697,dosya_yazılım_geliştirme,4,env örneğini aç token satırını kes docs dosyasına yapıştır kaydet,5,kes,KES,KES,True
+CK-3697,dosya_yazılım_geliştirme,4,env örneğini aç token satırını kes docs dosyasına yapıştır kaydet,6,docs,YAPIŞTIR,YAPIŞTIR,True
+CK-3697,dosya_yazılım_geliştirme,4,env örneğini aç token satırını kes docs dosyasına yapıştır kaydet,7,dosyasına,YAPIŞTIR,YAPIŞTIR,True
+CK-3697,dosya_yazılım_geliştirme,4,env örneğini aç token satırını kes docs dosyasına yapıştır kaydet,8,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3697,dosya_yazılım_geliştirme,4,env örneğini aç token satırını kes docs dosyasına yapıştır kaydet,9,kaydet,KAYDET,KAYDET,True
+CK-3698,dosya_yazılım_geliştirme,4,logs klasörü oluştur app.log dosyasını taşı adını son_hata.log yap çıktıyı yazdır,0,logs,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3698,dosya_yazılım_geliştirme,4,logs klasörü oluştur app.log dosyasını taşı adını son_hata.log yap çıktıyı yazdır,1,klasörü,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3698,dosya_yazılım_geliştirme,4,logs klasörü oluştur app.log dosyasını taşı adını son_hata.log yap çıktıyı yazdır,2,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3698,dosya_yazılım_geliştirme,4,logs klasörü oluştur app.log dosyasını taşı adını son_hata.log yap çıktıyı yazdır,3,app.log,TAŞI,TAŞI,True
+CK-3698,dosya_yazılım_geliştirme,4,logs klasörü oluştur app.log dosyasını taşı adını son_hata.log yap çıktıyı yazdır,4,dosyasını,TAŞI,TAŞI,True
+CK-3698,dosya_yazılım_geliştirme,4,logs klasörü oluştur app.log dosyasını taşı adını son_hata.log yap çıktıyı yazdır,5,taşı,TAŞI,TAŞI,True
+CK-3698,dosya_yazılım_geliştirme,4,logs klasörü oluştur app.log dosyasını taşı adını son_hata.log yap çıktıyı yazdır,6,adını,O,YENİDEN_ADLANDIR,False
+CK-3698,dosya_yazılım_geliştirme,4,logs klasörü oluştur app.log dosyasını taşı adını son_hata.log yap çıktıyı yazdır,7,son_hata.log,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3698,dosya_yazılım_geliştirme,4,logs klasörü oluştur app.log dosyasını taşı adını son_hata.log yap çıktıyı yazdır,8,yap,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3698,dosya_yazılım_geliştirme,4,logs klasörü oluştur app.log dosyasını taşı adını son_hata.log yap çıktıyı yazdır,9,çıktıyı,YAZDIR,YAZDIR,True
+CK-3698,dosya_yazılım_geliştirme,4,logs klasörü oluştur app.log dosyasını taşı adını son_hata.log yap çıktıyı yazdır,10,yazdır,YAZDIR,YAZDIR,True
+CK-3699,dosya_yazılım_geliştirme,4,test sekmesine geç aramayı yinele hata satırını seç yorum satırı yap,0,test,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3699,dosya_yazılım_geliştirme,4,test sekmesine geç aramayı yinele hata satırını seç yorum satırı yap,1,sekmesine,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3699,dosya_yazılım_geliştirme,4,test sekmesine geç aramayı yinele hata satırını seç yorum satırı yap,2,geç,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3699,dosya_yazılım_geliştirme,4,test sekmesine geç aramayı yinele hata satırını seç yorum satırı yap,3,aramayı,YİNELE,YİNELE,True
+CK-3699,dosya_yazılım_geliştirme,4,test sekmesine geç aramayı yinele hata satırını seç yorum satırı yap,4,yinele,YİNELE,YİNELE,True
+CK-3699,dosya_yazılım_geliştirme,4,test sekmesine geç aramayı yinele hata satırını seç yorum satırı yap,5,hata,SEÇ,SEÇ,True
+CK-3699,dosya_yazılım_geliştirme,4,test sekmesine geç aramayı yinele hata satırını seç yorum satırı yap,6,satırını,SEÇ,SEÇ,True
+CK-3699,dosya_yazılım_geliştirme,4,test sekmesine geç aramayı yinele hata satırını seç yorum satırı yap,7,seç,SEÇ,SEÇ,True
+CK-3699,dosya_yazılım_geliştirme,4,test sekmesine geç aramayı yinele hata satırını seç yorum satırı yap,8,yorum,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3699,dosya_yazılım_geliştirme,4,test sekmesine geç aramayı yinele hata satırını seç yorum satırı yap,9,satırı,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3699,dosya_yazılım_geliştirme,4,test sekmesine geç aramayı yinele hata satırını seç yorum satırı yap,10,yap,DEĞİŞTİR,DEĞİŞTİR,True
+CK-3700,dosya_yazılım_geliştirme,4,docker-compose dosyasını bul servis bölümüne git timeout süresini azalt kaydet,0,docker-compose,BUL,BUL,True
+CK-3700,dosya_yazılım_geliştirme,4,docker-compose dosyasını bul servis bölümüne git timeout süresini azalt kaydet,1,dosyasını,BUL,BUL,True
+CK-3700,dosya_yazılım_geliştirme,4,docker-compose dosyasını bul servis bölümüne git timeout süresini azalt kaydet,2,bul,BUL,BUL,True
+CK-3700,dosya_yazılım_geliştirme,4,docker-compose dosyasını bul servis bölümüne git timeout süresini azalt kaydet,3,servis,GİT,GİT,True
+CK-3700,dosya_yazılım_geliştirme,4,docker-compose dosyasını bul servis bölümüne git timeout süresini azalt kaydet,4,bölümüne,GİT,GİT,True
+CK-3700,dosya_yazılım_geliştirme,4,docker-compose dosyasını bul servis bölümüne git timeout süresini azalt kaydet,5,git,GİT,GİT,True
+CK-3700,dosya_yazılım_geliştirme,4,docker-compose dosyasını bul servis bölümüne git timeout süresini azalt kaydet,6,timeout,AZALT,AZALT,True
+CK-3700,dosya_yazılım_geliştirme,4,docker-compose dosyasını bul servis bölümüne git timeout süresini azalt kaydet,7,süresini,AZALT,AZALT,True
+CK-3700,dosya_yazılım_geliştirme,4,docker-compose dosyasını bul servis bölümüne git timeout süresini azalt kaydet,8,azalt,AZALT,AZALT,True
+CK-3700,dosya_yazılım_geliştirme,4,docker-compose dosyasını bul servis bölümüne git timeout süresini azalt kaydet,9,kaydet,KAYDET,KAYDET,True
+CK-3701,dosya_yazılım_geliştirme,5,terminal sekmesine geç pip install komutunu yaz boşluk bırak paket adını yapıştır enter bas,0,terminal,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3701,dosya_yazılım_geliştirme,5,terminal sekmesine geç pip install komutunu yaz boşluk bırak paket adını yapıştır enter bas,1,sekmesine,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3701,dosya_yazılım_geliştirme,5,terminal sekmesine geç pip install komutunu yaz boşluk bırak paket adını yapıştır enter bas,2,geç,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CK-3701,dosya_yazılım_geliştirme,5,terminal sekmesine geç pip install komutunu yaz boşluk bırak paket adını yapıştır enter bas,3,pip,YAZ,YAZ,True
+CK-3701,dosya_yazılım_geliştirme,5,terminal sekmesine geç pip install komutunu yaz boşluk bırak paket adını yapıştır enter bas,4,install,YAZ,YAZ,True
+CK-3701,dosya_yazılım_geliştirme,5,terminal sekmesine geç pip install komutunu yaz boşluk bırak paket adını yapıştır enter bas,5,komutunu,YAZ,YAZ,True
+CK-3701,dosya_yazılım_geliştirme,5,terminal sekmesine geç pip install komutunu yaz boşluk bırak paket adını yapıştır enter bas,6,yaz,YAZ,YAZ,True
+CK-3701,dosya_yazılım_geliştirme,5,terminal sekmesine geç pip install komutunu yaz boşluk bırak paket adını yapıştır enter bas,7,boşluk,BOŞLUK,BOŞLUK,True
+CK-3701,dosya_yazılım_geliştirme,5,terminal sekmesine geç pip install komutunu yaz boşluk bırak paket adını yapıştır enter bas,8,bırak,BOŞLUK,BOŞLUK,True
+CK-3701,dosya_yazılım_geliştirme,5,terminal sekmesine geç pip install komutunu yaz boşluk bırak paket adını yapıştır enter bas,9,paket,YAPIŞTIR,YAPIŞTIR,True
+CK-3701,dosya_yazılım_geliştirme,5,terminal sekmesine geç pip install komutunu yaz boşluk bırak paket adını yapıştır enter bas,10,adını,YAPIŞTIR,YAPIŞTIR,True
+CK-3701,dosya_yazılım_geliştirme,5,terminal sekmesine geç pip install komutunu yaz boşluk bırak paket adını yapıştır enter bas,11,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CK-3701,dosya_yazılım_geliştirme,5,terminal sekmesine geç pip install komutunu yaz boşluk bırak paket adını yapıştır enter bas,12,enter,ENTER,ENTER,True
+CK-3701,dosya_yazılım_geliştirme,5,terminal sekmesine geç pip install komutunu yaz boşluk bırak paket adını yapıştır enter bas,13,bas,ENTER,ENTER,True
+CK-3702,dosya_yazılım_geliştirme,5,geçici build klasörünü sil release klasörü oluştur dosyayı taşı adını v1_final yap repoya gönder,0,geçici,SİL,SİL,True
+CK-3702,dosya_yazılım_geliştirme,5,geçici build klasörünü sil release klasörü oluştur dosyayı taşı adını v1_final yap repoya gönder,1,build,SİL,SİL,True
+CK-3702,dosya_yazılım_geliştirme,5,geçici build klasörünü sil release klasörü oluştur dosyayı taşı adını v1_final yap repoya gönder,2,klasörünü,SİL,SİL,True
+CK-3702,dosya_yazılım_geliştirme,5,geçici build klasörünü sil release klasörü oluştur dosyayı taşı adını v1_final yap repoya gönder,3,sil,SİL,SİL,True
+CK-3702,dosya_yazılım_geliştirme,5,geçici build klasörünü sil release klasörü oluştur dosyayı taşı adını v1_final yap repoya gönder,4,release,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3702,dosya_yazılım_geliştirme,5,geçici build klasörünü sil release klasörü oluştur dosyayı taşı adını v1_final yap repoya gönder,5,klasörü,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3702,dosya_yazılım_geliştirme,5,geçici build klasörünü sil release klasörü oluştur dosyayı taşı adını v1_final yap repoya gönder,6,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CK-3702,dosya_yazılım_geliştirme,5,geçici build klasörünü sil release klasörü oluştur dosyayı taşı adını v1_final yap repoya gönder,7,dosyayı,TAŞI,TAŞI,True
+CK-3702,dosya_yazılım_geliştirme,5,geçici build klasörünü sil release klasörü oluştur dosyayı taşı adını v1_final yap repoya gönder,8,taşı,TAŞI,TAŞI,True
+CK-3702,dosya_yazılım_geliştirme,5,geçici build klasörünü sil release klasörü oluştur dosyayı taşı adını v1_final yap repoya gönder,9,adını,O,YENİDEN_ADLANDIR,False
+CK-3702,dosya_yazılım_geliştirme,5,geçici build klasörünü sil release klasörü oluştur dosyayı taşı adını v1_final yap repoya gönder,10,v1_final,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3702,dosya_yazılım_geliştirme,5,geçici build klasörünü sil release klasörü oluştur dosyayı taşı adını v1_final yap repoya gönder,11,yap,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CK-3702,dosya_yazılım_geliştirme,5,geçici build klasörünü sil release klasörü oluştur dosyayı taşı adını v1_final yap repoya gönder,12,repoya,GÖNDER,GÖNDER,True
+CK-3702,dosya_yazılım_geliştirme,5,geçici build klasörünü sil release klasörü oluştur dosyayı taşı adını v1_final yap repoya gönder,13,gönder,GÖNDER,GÖNDER,True

@@ -1,0 +1,2 @@
+﻿challenge_no,raw_command,token_count,predicted_task_count,predicted_labels,predicted_segments,exact_duplicate_in_master,exact_duplicate_master_id,nearest_master_id,nearest_master_similarity,nearest_master_raw_command
+72,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",8,3,SEÇ ; AZALT ; KAYDET,"SEÇ:C sütununu seç, ; AZALT:genişliğini azalt, ; KAYDET:dosyayı kaydet",False,,CK-3572,0.9122807017543859,Excel'de B sütununu seç genişliğini artır dosyayı kaydet

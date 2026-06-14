@@ -1,0 +1,32 @@
+{
+  "model": "Gemini",
+  "normalized": false,
+  "records_gold": 200,
+  "records_evaluated": 200,
+  "tokens_evaluated": 1706,
+  "boundary_accuracy": 0.9507620164126612,
+  "boundary_macro_f1": 0.9432790655893073,
+  "boundary_weighted_f1": 0.9513060333864822,
+  "boundary_cohen_kappa": 0.9207901966094949,
+  "task_accuracy": 0.9138335287221571,
+  "task_macro_f1": 0.8581126701681984,
+  "task_weighted_f1": 0.9057859366227368,
+  "task_cohen_kappa": 0.9062163782339068,
+  "task_no_o_accuracy": 0.9024566473988439,
+  "task_no_o_macro_f1": 0.8339743624516434,
+  "task_no_o_cohen_kappa": 0.895909587749822,
+  "task_exact_match_count": 136,
+  "task_exact_match_rate": 0.68,
+  "boundary_exact_match_count": 158,
+  "boundary_exact_match_rate": 0.79,
+  "both_exact_match_count": 135,
+  "both_exact_match_rate": 0.675,
+  "invalid_boundary_token_count": 0,
+  "invalid_task_token_count": 7,
+  "invalid_boundary_labels": {},
+  "invalid_task_labels": {
+    "GÖSTER": 7
+  },
+  "missing_id_count": 0,
+  "length_error_count": 0
+}

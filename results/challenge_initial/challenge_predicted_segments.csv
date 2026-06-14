@@ -1,0 +1,203 @@
+﻿challenge_no,raw_command,segment_no,pred_label,pred_segment
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,1,AÇ,Semih klasörünü aç
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,2,YENİ_OLUŞTUR,içine yeni bir txt dosyası oluştur
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,3,YENİDEN_ADLANDIR,ismini de deneme yap
+2,Projelerim klasörüne git ve içindeki her şeyi sil,1,GİT,Projelerim klasörüne git
+2,Projelerim klasörüne git ve içindeki her şeyi sil,2,SİL,içindeki her şeyi sil
+3,görev yöneticisini aç sonra da word'ü oradan kapat,1,AÇ,görev yöneticisini aç
+3,görev yöneticisini aç sonra da word'ü oradan kapat,2,KAPAT,word'ü oradan kapat
+4,bilgisayarın sesini 45'e getir,1,GEÇ,bilgisayarın sesini 45'e getir
+5,sağ tıkla ve yeni bir klasör oluştur,1,TIKLA,sağ tıkla
+5,sağ tıkla ve yeni bir klasör oluştur,2,YENİ_OLUŞTUR,yeni bir klasör oluştur
+6,denetim masasını açıp fare ayarlarına git,1,AÇ,denetim masasını açıp
+6,denetim masasını açıp fare ayarlarına git,2,GİT,fare ayarlarına git
+7,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,1,TAŞI,ekranı projeksiyona yansıt
+7,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,2,AÇ,sunum dosyasını aç
+8,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,1,DİĞER,geri dönüşüm kutusunu boşalt
+8,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,2,GEÇ,masaüstüne dön
+9,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,1,BOŞLUK,adının sonuna
+9,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,2,YAZ,yedek
+9,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,3,BOŞLUK,ekle
+10,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,1,YENİ_OLUŞTUR,yeni bir klasör oluştur
+10,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,2,BOŞLUK,boş bir not dosyası koy
+11,"yok onu silme, dosyayı belgeler klasörüne taşı sadece",1,TAŞI,dosyayı belgeler klasörüne taşı
+12,ayarlarda ekran parlaklığını biraz azalt sesle uğraşma,1,AZALT,ayarlarda ekran parlaklığını biraz azalt
+13,şey görev yöneticisini aç ama hiçbir işlemi kapatma,1,AÇ,görev yöneticisini aç
+14,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,1,TAŞI,ayrı bir klasöre taşı
+15,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,1,KÜÇÜLT,biraz küçült
+15,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,2,TAŞI,sağ tarafa al
+16,dosyayı yeniden adlandır ama uzantısına dokunma,1,YENİDEN_ADLANDIR,dosyayı yeniden adlandır
+17,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,1,YAZ,ayarlar aramasına erişilebilirlik yaz
+17,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,2,GİT,çıkan ilk sonuca git
+18,"dosyayı silme, adının başına taslak ekle ve kaydet",1,BOŞLUK,adının başına taslak ekle
+18,"dosyayı silme, adının başına taslak ekle ve kaydet",2,KAYDET,kaydet
+19,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,1,BUL,ekran okuyucu kısayolunu bul
+19,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,2,DİĞER,görev
+19,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,3,TAŞI,çubuğuna
+19,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,4,DİĞER,sabitle
+20,"ayarlar penceresini kapatma, imleç boyutunu biraz büyüt",1,BÜYÜT,imleç boyutunu biraz büyüt
+21,ekrandaki küçük yazıları biraz büyüt gözüm seçmiyor,1,BÜYÜT,ekrandaki küçük yazıları biraz büyüt
+22,yanlış yere gittin ayarlarda imleç boyutunu bulacaksın,1,BUL,ayarlarda imleç boyutunu bulacaksın
+23,o dosyayı silme sadece yedek klasörüne taşı,1,TAŞI,yedek klasörüne taşı
+24,masaüstündeki son oluşturduğumuz klasörü aç,1,AÇ,son oluşturduğumuz klasörü aç
+25,bilgisayarın sesi çok yüksek oldu 25'e getir,1,DİĞER,25'e getir
+26,chrome'u çalıştır ve yeni bir sekme aç,1,DİĞER,chrome'u çalıştır
+26,chrome'u çalıştır ve yeni bir sekme aç,2,AÇ,yeni bir sekme aç
+27,bir sonraki sekmeye git tüm sayfayı yazdır,1,GİT,bir sonraki sekmeye git
+27,bir sonraki sekmeye git tüm sayfayı yazdır,2,YAZDIR,tüm sayfayı yazdır
+28,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,1,ARA,mevcut
+28,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,2,ARA,üniversite sitesini ara
+29,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,1,YİNELE,indirme sayfasını yenile
+29,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,2,İNDİR,pdf dosyasını indir
+30,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",1,KAPAT,"sekmeyi kapat,"
+30,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",2,SEKME_DEĞİŞTİR,soldaki sekmeye geç
+31,"Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala",1,KOPYALA,bağlantı adresini kopyala
+32,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",1,DİĞER,formu
+32,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",2,YAZ,doldurup
+32,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",3,BOŞLUK,taslak
+32,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",4,YAPIŞTIR,olarak
+32,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",5,BOŞLUK,bırak
+33,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,1,YİNELE,açık sekmeyi yenile
+33,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,2,GEÇ,sayfanın başına dön
+34,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",1,SEKME_DEĞİŞTİR,"pdf sekmesine geç,"
+34,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",2,İNDİR,"dosyayı indir,"
+34,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",3,KAPAT,sekmeyi
+34,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",4,DİĞER,açık bırak
+35,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",1,YİNELE,"başvuru sayfasını yenile,"
+35,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",2,İNDİR,ekli dosyayı indir
+36,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,1,YAZ,hata kodunu yazıp
+37,biraz aşağı kaydır ya şu butonu göremiyorum,1,KAYDIR,biraz aşağı kaydır
+38,şu mavi düğmeye basma yanındaki indirme şeyine tıkla,1,TIKLA,yanındaki indirme şeyine tıkla
+39,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,1,YİNELE,tarayıcıda olduğumuz sayfayı yenile
+39,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,2,KAYDIR,tekrar aşağı in
+40,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,1,KAYDIR,bu sayfayı biraz yukarı kaydır
+41,şu indirme tamamlandıysa dosyayı açmadan klasörde göster,1,TIKLA,klasörde göster
+42,o sekmeyi yenileme sadece önceki sekmeye dön,1,SEKME_DEĞİŞTİR,önceki sekmeye dön
+43,Chrome demeyeyim işte açık olan internet sayfasında arama yap,1,BUL,internet
+43,Chrome demeyeyim işte açık olan internet sayfasında arama yap,2,ARA,sayfasında arama yap
+44,o butona tıklama ya sadece yanında çıkan yazıyı seç,1,SEÇ,yanında çıkan yazıyı seç
+45,şu sayfada başvuru dosyası nerede onu bulup indir,1,BUL,başvuru dosyası nerede onu bulup
+45,şu sayfada başvuru dosyası nerede onu bulup indir,2,İNDİR,indir
+46,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,1,GEÇ,geri dön bir önceki sayfaya geç
+47,şu listeyi aşağı kaydır en sondaki seçeneği seç,1,KAYDIR,şu listeyi aşağı kaydır
+47,şu listeyi aşağı kaydır en sondaki seçeneği seç,2,SEÇ,en sondaki seçeneği seç
+48,tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama,1,YİNELE,aramayı tekrar yap
+49,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,1,SEKME_DEĞİŞTİR,sekmelerden
+49,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,2,GEÇ,sağdakine geç
+49,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,3,KAYDIR,sayfayı biraz aşağı kaydır
+50,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",1,GİT,"rapor sayfasına git,"
+50,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",2,KAYDIR,"sayfayı aşağı kaydır,"
+50,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",3,BUL,indirme düğmesini bul
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,1,AÇ,yeni bir sayfa aç
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,2,YAZ,içine
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,3,BOŞLUK,14 punto olacak
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,4,YAZ,şekilde bir başlık ekle başlığa da projem yaz
+52,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,1,YENİ_OLUŞTUR,4 satır 3 sütundan oluşan bir tablo oluştur
+52,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,2,DİĞER,ilk satırı da birleştir
+53,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,1,BUL,açık olan dosyadan kara ile başlayan her şeyi bul
+53,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,2,DEĞİŞTİR,lara olarak değiştir
+54,ilk paragrafı kes ve sayfanın sonuna yapıştır,1,KES,ilk paragrafı kes
+54,ilk paragrafı kes ve sayfanın sonuna yapıştır,2,YAPIŞTIR,sayfanın sonuna yapıştır
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,1,SEÇ,tüm metni seç
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,2,DEĞİŞTİR,yazı tipini Times new
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,3,YENİDEN_ADLANDIR,roman
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,4,DEĞİŞTİR,yapıp fontunu da 12 ve iki yana yaslı olarak ayarla
+56,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,1,BUL,giriş başlığını bul
+56,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,2,YAZ,altına kısa bir açıklama yaz
+57,Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala,1,KOPYALA,ilk cümleyi kopyala
+58,Excel'de B sütununu seçip genişliğini biraz küçült,1,SEÇ,B sütununu seçip
+58,Excel'de B sütununu seçip genişliğini biraz küçült,2,KÜÇÜLT,genişliğini biraz küçült
+59,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,1,BUL,boş hücreleri bul
+59,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,2,YAZ,ilkine kontrol edildi yaz
+60,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",1,GEÇ,"son slayta geç,"
+60,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",2,SEÇ,"resmi seç,"
+60,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",3,TAŞI,biraz sola al
+61,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",1,BUL,"toplam satırını bul,"
+61,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",2,YAZ,üstüne yeni bir satır ekle
+62,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",1,SEÇ,"tabloyu seç,"
+62,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",2,DEĞİŞTİR,"kenarlıklarını sade yap,"
+62,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",3,KAYDET,belgeyi kaydet
+63,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",1,KÜÇÜLT,"başlığı biraz küçült,"
+63,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",2,BOŞLUK,alt başlığa da boşluk ekle
+64,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",1,ARA,"kaynakça başlığını ara,"
+64,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",2,BOŞLUK,altına yeni bir boş satır bırak
+65,Excel'de formülü tekrar uygula ama satırları silme,1,YİNELE,formülü tekrar uygula
+66,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,1,DİĞER,Word belgesini
+66,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,2,GEÇ,yazdırma ayarına
+66,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,3,DİĞER,getir
+67,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",1,SEÇ,"grafiği seç,"
+67,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",2,KÜÇÜLT,"boyutunu biraz küçült,"
+67,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",3,TAŞI,sağ alta taşı
+68,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",1,SİL,"hücredeki fazla boşluğu sil,"
+68,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",2,YİNELE,formülü tekrar uygula
+69,"Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap",1,DEĞİŞTİR,altındaki açıklamayı italik yap
+70,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",1,GİT,"üçüncü slayta git,"
+70,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",2,SEÇ,"resmi seç,"
+70,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",3,BÜYÜT,kenarını biraz büyüt
+71,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",1,KES,onu kesip
+71,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",2,TAŞI,önceki sayfaya taşı
+72,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",1,SEÇ,"C sütununu seç,"
+72,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",2,AZALT,"genişliğini azalt,"
+72,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",3,KAYDET,dosyayı kaydet
+73,açık olan metinde iki boşluk varsa tek boşluğa indir,1,İNDİR,tek boşluğa indir
+74,raporun yalnızca ilk sayfasını yazdırmaya hazırla,1,YAZDIR,ilk sayfasını yazdırmaya hazırla
+75,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,1,KOPYALA,seçili kısmı kopyala
+75,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,2,YAPIŞTIR,yorum alanına yapıştır
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,1,KOPYALA,ekrandaki kodu kopyala
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,2,AÇ,yeni bir spyder dosyası aç
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,3,YAPIŞTIR,içine yapıştır
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,4,YENİ_OLUŞTUR,dosyanın ismini de yeni proje olarak oluştur
+77,terminali aç ve masaüstündeki tüm dosyaları listele,1,AÇ,terminali aç
+77,terminali aç ve masaüstündeki tüm dosyaları listele,2,DİĞER,masaüstündeki tüm dosyaları listele
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,1,YENİDEN_ADLANDIR,commitle
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,2,YAZ,açıklama olarak da her şey tamamlandı yaz
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,3,YENİDEN_ADLANDIR,push
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,4,YAZ,et
+79,kodun içinden 1266'ıncı satıra git o satırı komple sil,1,GİT,1266'ıncı satıra git
+79,kodun içinden 1266'ıncı satıra git o satırı komple sil,2,SİL,o satırı komple sil
+80,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,1,GİT,kodun en başına git
+80,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,2,YAZ,yorum satırı ekle yorum satırına da projenin başlangıcı yaz
+81,terminali aç ip config yaz ve ip adresini göster,1,AÇ,terminali aç
+81,terminali aç ip config yaz ve ip adresini göster,2,YAZ,ip config yaz
+81,terminali aç ip config yaz ve ip adresini göster,3,DİĞER,ip adresini göster
+82,microsoft sql server'ı aç en son çalıştığım dosyayı aç,1,AÇ,microsoft sql server'ı aç en son çalıştığım dosyayı aç
+83,query sekmesine git select * from yaz ve çalıştır,1,GİT,query sekmesine git
+83,query sekmesine git select * from yaz ve çalıştır,2,YAZ,select * from yaz
+83,query sekmesine git select * from yaz ve çalıştır,3,DİĞER,çalıştır
+84,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,1,AÇ,terminali açıp
+84,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,2,DİĞER,npm test komutunu çalıştır
+85,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,1,SEKME_DEĞİŞTİR,problems sekmesine geç
+85,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,2,GİT,ilk hatanın olduğu satıra git
+86,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,1,GİT,README dosyasının en altına git
+86,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,2,YAZ,kurulum notu diye bir başlık ekle
+87,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,1,YAZ,git status yaz
+87,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,2,ENTER,enter'a bas
+87,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,3,KOPYALA,değişen dosya adını kopyala
+88,Git panelini açmadan terminalden branch adını göster,1,DİĞER,branch adını göster
+89,config dosyasında timeout satırını bul ve değeri 30 yap,1,BUL,timeout satırını bul
+89,config dosyasında timeout satırını bul ve değeri 30 yap,2,DEĞİŞTİR,değeri 30 yap
+90,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",1,YAZ,docker ps yaz
+90,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",2,ENTER,"enter bas,"
+90,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",3,KOPYALA,çıkan container adını kopyala
+91,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",1,AÇ,"env dosyasını aç,"
+91,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",2,KOPYALA,örnek satırı kopyala
+92,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",1,DİĞER,git diff komutunu çalıştır
+93,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,1,YENİ_OLUŞTUR,release klasörü oluştur
+93,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,2,TAŞI,çıktı dosyasını oraya taşı
+94,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,1,YENİ_OLUŞTUR,yeni api dosyası oluştur
+94,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,2,YENİDEN_ADLANDIR,adını user_routes yap
+95,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",1,GEÇ,main dosyasına geç
+95,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",2,BUL,import satırını bul
+96,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",1,YAZ,"komut satırına pip install yaz,"
+96,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",2,BOŞLUK,"bir boşluk bırak,"
+96,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",3,YAPIŞTIR,paket adını yapıştır
+97,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",1,SİL,"geçici cache dosyasını sil,"
+97,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",2,YİNELE,test komutunu yeniden çalıştır
+98,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",1,ARA,"TODO ara,"
+98,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",2,AÇ,"ilk sonucu aç,"
+98,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",3,YAZ,satıra yorum ekle
+99,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",1,YENİ_OLUŞTUR,"docs oluştur,"
+99,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",2,TAŞI,"README kopyasını içine koy,"
+99,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",3,YENİDEN_ADLANDIR,adını kullanım yap
+100,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",1,DİĞER,mevcut branch adını göster
+100,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",2,KOPYALA,sonucu kopyala

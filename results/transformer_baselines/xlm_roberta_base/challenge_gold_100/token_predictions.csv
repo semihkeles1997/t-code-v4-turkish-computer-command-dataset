@@ -1,0 +1,913 @@
+﻿id,domain,task_count,raw_command,token_index,token,gold,pred,correct
+CH-0001,temel_bilgisayar,3,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,0,masaüstündeki,O,O,True
+CH-0001,temel_bilgisayar,3,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,1,Semih,AÇ,AÇ,True
+CH-0001,temel_bilgisayar,3,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,2,klasörünü,AÇ,AÇ,True
+CH-0001,temel_bilgisayar,3,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,3,aç,AÇ,AÇ,True
+CH-0001,temel_bilgisayar,3,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,4,ve,O,O,True
+CH-0001,temel_bilgisayar,3,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,5,içine,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0001,temel_bilgisayar,3,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,6,yeni,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0001,temel_bilgisayar,3,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,7,bir,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0001,temel_bilgisayar,3,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,8,txt,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0001,temel_bilgisayar,3,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,9,dosyası,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0001,temel_bilgisayar,3,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,10,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0001,temel_bilgisayar,3,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,11,ismini,O,YENİDEN_ADLANDIR,False
+CH-0001,temel_bilgisayar,3,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,12,de,O,YENİDEN_ADLANDIR,False
+CH-0001,temel_bilgisayar,3,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,13,deneme,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CH-0001,temel_bilgisayar,3,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,14,yap,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CH-0002,temel_bilgisayar,2,Projelerim klasörüne git ve içindeki her şeyi sil,0,Projelerim,GİT,GİT,True
+CH-0002,temel_bilgisayar,2,Projelerim klasörüne git ve içindeki her şeyi sil,1,klasörüne,GİT,GİT,True
+CH-0002,temel_bilgisayar,2,Projelerim klasörüne git ve içindeki her şeyi sil,2,git,GİT,GİT,True
+CH-0002,temel_bilgisayar,2,Projelerim klasörüne git ve içindeki her şeyi sil,3,ve,O,O,True
+CH-0002,temel_bilgisayar,2,Projelerim klasörüne git ve içindeki her şeyi sil,4,içindeki,SİL,SİL,True
+CH-0002,temel_bilgisayar,2,Projelerim klasörüne git ve içindeki her şeyi sil,5,her,SİL,SİL,True
+CH-0002,temel_bilgisayar,2,Projelerim klasörüne git ve içindeki her şeyi sil,6,şeyi,SİL,SİL,True
+CH-0002,temel_bilgisayar,2,Projelerim klasörüne git ve içindeki her şeyi sil,7,sil,SİL,SİL,True
+CH-0003,temel_bilgisayar,2,görev yöneticisini aç sonra da word'ü oradan kapat,0,görev,AÇ,AÇ,True
+CH-0003,temel_bilgisayar,2,görev yöneticisini aç sonra da word'ü oradan kapat,1,yöneticisini,AÇ,AÇ,True
+CH-0003,temel_bilgisayar,2,görev yöneticisini aç sonra da word'ü oradan kapat,2,aç,AÇ,AÇ,True
+CH-0003,temel_bilgisayar,2,görev yöneticisini aç sonra da word'ü oradan kapat,3,sonra,O,O,True
+CH-0003,temel_bilgisayar,2,görev yöneticisini aç sonra da word'ü oradan kapat,4,da,O,O,True
+CH-0003,temel_bilgisayar,2,görev yöneticisini aç sonra da word'ü oradan kapat,5,word'ü,KAPAT,KAPAT,True
+CH-0003,temel_bilgisayar,2,görev yöneticisini aç sonra da word'ü oradan kapat,6,oradan,KAPAT,KAPAT,True
+CH-0003,temel_bilgisayar,2,görev yöneticisini aç sonra da word'ü oradan kapat,7,kapat,KAPAT,KAPAT,True
+CH-0004,temel_bilgisayar,1,bilgisayarın sesini 45'e getir,0,bilgisayarın,DEĞİŞTİR,DİĞER,False
+CH-0004,temel_bilgisayar,1,bilgisayarın sesini 45'e getir,1,sesini,DEĞİŞTİR,DİĞER,False
+CH-0004,temel_bilgisayar,1,bilgisayarın sesini 45'e getir,2,45'e,DEĞİŞTİR,DİĞER,False
+CH-0004,temel_bilgisayar,1,bilgisayarın sesini 45'e getir,3,getir,DEĞİŞTİR,DİĞER,False
+CH-0005,temel_bilgisayar,2,sağ tıkla ve yeni bir klasör oluştur,0,sağ,TIKLA,TIKLA,True
+CH-0005,temel_bilgisayar,2,sağ tıkla ve yeni bir klasör oluştur,1,tıkla,TIKLA,TIKLA,True
+CH-0005,temel_bilgisayar,2,sağ tıkla ve yeni bir klasör oluştur,2,ve,O,O,True
+CH-0005,temel_bilgisayar,2,sağ tıkla ve yeni bir klasör oluştur,3,yeni,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0005,temel_bilgisayar,2,sağ tıkla ve yeni bir klasör oluştur,4,bir,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0005,temel_bilgisayar,2,sağ tıkla ve yeni bir klasör oluştur,5,klasör,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0005,temel_bilgisayar,2,sağ tıkla ve yeni bir klasör oluştur,6,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0006,temel_bilgisayar,2,denetim masasını açıp fare ayarlarına git,0,denetim,AÇ,AÇ,True
+CH-0006,temel_bilgisayar,2,denetim masasını açıp fare ayarlarına git,1,masasını,AÇ,AÇ,True
+CH-0006,temel_bilgisayar,2,denetim masasını açıp fare ayarlarına git,2,açıp,AÇ,AÇ,True
+CH-0006,temel_bilgisayar,2,denetim masasını açıp fare ayarlarına git,3,fare,GİT,GİT,True
+CH-0006,temel_bilgisayar,2,denetim masasını açıp fare ayarlarına git,4,ayarlarına,GİT,GİT,True
+CH-0006,temel_bilgisayar,2,denetim masasını açıp fare ayarlarına git,5,git,GİT,GİT,True
+CH-0007,temel_bilgisayar,2,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,0,ekranı,DİĞER,DİĞER,True
+CH-0007,temel_bilgisayar,2,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,1,projeksiyona,DİĞER,DEĞİŞTİR,False
+CH-0007,temel_bilgisayar,2,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,2,yansıt,DİĞER,DİĞER,True
+CH-0007,temel_bilgisayar,2,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,3,sonra,O,O,True
+CH-0007,temel_bilgisayar,2,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,4,da,O,O,True
+CH-0007,temel_bilgisayar,2,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,5,sunum,AÇ,AÇ,True
+CH-0007,temel_bilgisayar,2,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,6,dosyasını,AÇ,AÇ,True
+CH-0007,temel_bilgisayar,2,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,7,aç,AÇ,AÇ,True
+CH-0008,temel_bilgisayar,2,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,0,geri,DİĞER,BOŞLUK,False
+CH-0008,temel_bilgisayar,2,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,1,dönüşüm,DİĞER,BOŞLUK,False
+CH-0008,temel_bilgisayar,2,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,2,kutusunu,DİĞER,BOŞLUK,False
+CH-0008,temel_bilgisayar,2,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,3,boşalt,DİĞER,BOŞLUK,False
+CH-0008,temel_bilgisayar,2,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,4,daha,O,O,True
+CH-0008,temel_bilgisayar,2,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,5,sonra,O,O,True
+CH-0008,temel_bilgisayar,2,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,6,masaüstüne,GEÇ,GEÇ,True
+CH-0008,temel_bilgisayar,2,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,7,dön,GEÇ,GEÇ,True
+CH-0009,temel_bilgisayar,1,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,0,şu,O,O,True
+CH-0009,temel_bilgisayar,1,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,1,indirdiğim,O,O,True
+CH-0009,temel_bilgisayar,1,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,2,dosyayı,O,O,True
+CH-0009,temel_bilgisayar,1,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,3,açma,O,O,True
+CH-0009,temel_bilgisayar,1,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,4,ya,O,O,True
+CH-0009,temel_bilgisayar,1,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,5,sadece,O,O,True
+CH-0009,temel_bilgisayar,1,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,6,adının,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CH-0009,temel_bilgisayar,1,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,7,sonuna,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CH-0009,temel_bilgisayar,1,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,8,yedek,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CH-0009,temel_bilgisayar,1,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,9,ekle,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CH-0010,temel_bilgisayar,2,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,0,masaüstünde,O,O,True
+CH-0010,temel_bilgisayar,2,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,1,yeni,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0010,temel_bilgisayar,2,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,2,bir,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0010,temel_bilgisayar,2,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,3,klasör,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0010,temel_bilgisayar,2,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,4,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0010,temel_bilgisayar,2,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,5,içine,O,BOŞLUK,False
+CH-0010,temel_bilgisayar,2,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,6,de,O,O,True
+CH-0010,temel_bilgisayar,2,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,7,boş,YENİ_OLUŞTUR,BOŞLUK,False
+CH-0010,temel_bilgisayar,2,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,8,bir,YENİ_OLUŞTUR,BOŞLUK,False
+CH-0010,temel_bilgisayar,2,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,9,not,YENİ_OLUŞTUR,KOPYALA,False
+CH-0010,temel_bilgisayar,2,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,10,dosyası,YENİ_OLUŞTUR,KOPYALA,False
+CH-0010,temel_bilgisayar,2,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,11,koy,YENİ_OLUŞTUR,KOPYALA,False
+CH-0011,temel_bilgisayar,1,"yok onu silme, dosyayı belgeler klasörüne taşı sadece",0,yok,O,O,True
+CH-0011,temel_bilgisayar,1,"yok onu silme, dosyayı belgeler klasörüne taşı sadece",1,onu,O,O,True
+CH-0011,temel_bilgisayar,1,"yok onu silme, dosyayı belgeler klasörüne taşı sadece",2,"silme,",O,O,True
+CH-0011,temel_bilgisayar,1,"yok onu silme, dosyayı belgeler klasörüne taşı sadece",3,dosyayı,TAŞI,TAŞI,True
+CH-0011,temel_bilgisayar,1,"yok onu silme, dosyayı belgeler klasörüne taşı sadece",4,belgeler,TAŞI,TAŞI,True
+CH-0011,temel_bilgisayar,1,"yok onu silme, dosyayı belgeler klasörüne taşı sadece",5,klasörüne,TAŞI,TAŞI,True
+CH-0011,temel_bilgisayar,1,"yok onu silme, dosyayı belgeler klasörüne taşı sadece",6,taşı,TAŞI,TAŞI,True
+CH-0011,temel_bilgisayar,1,"yok onu silme, dosyayı belgeler klasörüne taşı sadece",7,sadece,O,O,True
+CH-0012,temel_bilgisayar,1,ayarlarda ekran parlaklığını biraz azalt sesle uğraşma,0,ayarlarda,O,O,True
+CH-0012,temel_bilgisayar,1,ayarlarda ekran parlaklığını biraz azalt sesle uğraşma,1,ekran,AZALT,AZALT,True
+CH-0012,temel_bilgisayar,1,ayarlarda ekran parlaklığını biraz azalt sesle uğraşma,2,parlaklığını,AZALT,AZALT,True
+CH-0012,temel_bilgisayar,1,ayarlarda ekran parlaklığını biraz azalt sesle uğraşma,3,biraz,AZALT,AZALT,True
+CH-0012,temel_bilgisayar,1,ayarlarda ekran parlaklığını biraz azalt sesle uğraşma,4,azalt,AZALT,AZALT,True
+CH-0012,temel_bilgisayar,1,ayarlarda ekran parlaklığını biraz azalt sesle uğraşma,5,sesle,O,O,True
+CH-0012,temel_bilgisayar,1,ayarlarda ekran parlaklığını biraz azalt sesle uğraşma,6,uğraşma,O,O,True
+CH-0013,temel_bilgisayar,1,şey görev yöneticisini aç ama hiçbir işlemi kapatma,0,şey,O,O,True
+CH-0013,temel_bilgisayar,1,şey görev yöneticisini aç ama hiçbir işlemi kapatma,1,görev,AÇ,AÇ,True
+CH-0013,temel_bilgisayar,1,şey görev yöneticisini aç ama hiçbir işlemi kapatma,2,yöneticisini,AÇ,AÇ,True
+CH-0013,temel_bilgisayar,1,şey görev yöneticisini aç ama hiçbir işlemi kapatma,3,aç,AÇ,AÇ,True
+CH-0013,temel_bilgisayar,1,şey görev yöneticisini aç ama hiçbir işlemi kapatma,4,ama,O,O,True
+CH-0013,temel_bilgisayar,1,şey görev yöneticisini aç ama hiçbir işlemi kapatma,5,hiçbir,O,O,True
+CH-0013,temel_bilgisayar,1,şey görev yöneticisini aç ama hiçbir işlemi kapatma,6,işlemi,O,O,True
+CH-0013,temel_bilgisayar,1,şey görev yöneticisini aç ama hiçbir işlemi kapatma,7,kapatma,O,O,True
+CH-0014,temel_bilgisayar,1,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,0,masaüstündeki,O,O,True
+CH-0014,temel_bilgisayar,1,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,1,eski,O,O,True
+CH-0014,temel_bilgisayar,1,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,2,ekran,O,O,True
+CH-0014,temel_bilgisayar,1,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,3,görüntülerini,O,O,True
+CH-0014,temel_bilgisayar,1,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,4,silme,O,O,True
+CH-0014,temel_bilgisayar,1,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,5,sadece,O,O,True
+CH-0014,temel_bilgisayar,1,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,6,ayrı,TAŞI,TAŞI,True
+CH-0014,temel_bilgisayar,1,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,7,bir,TAŞI,TAŞI,True
+CH-0014,temel_bilgisayar,1,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,8,klasöre,TAŞI,TAŞI,True
+CH-0014,temel_bilgisayar,1,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,9,taşı,TAŞI,TAŞI,True
+CH-0015,temel_bilgisayar,2,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,0,şu,O,O,True
+CH-0015,temel_bilgisayar,2,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,1,pencere,O,O,True
+CH-0015,temel_bilgisayar,2,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,2,çok,O,O,True
+CH-0015,temel_bilgisayar,2,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,3,büyük,O,O,True
+CH-0015,temel_bilgisayar,2,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,4,oldu,O,O,True
+CH-0015,temel_bilgisayar,2,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,5,biraz,KÜÇÜLT,KÜÇÜLT,True
+CH-0015,temel_bilgisayar,2,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,6,küçült,KÜÇÜLT,KÜÇÜLT,True
+CH-0015,temel_bilgisayar,2,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,7,ve,O,O,True
+CH-0015,temel_bilgisayar,2,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,8,sağ,TAŞI,TAŞI,True
+CH-0015,temel_bilgisayar,2,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,9,tarafa,TAŞI,TAŞI,True
+CH-0015,temel_bilgisayar,2,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,10,al,TAŞI,TAŞI,True
+CH-0016,temel_bilgisayar,1,dosyayı yeniden adlandır ama uzantısına dokunma,0,dosyayı,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CH-0016,temel_bilgisayar,1,dosyayı yeniden adlandır ama uzantısına dokunma,1,yeniden,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CH-0016,temel_bilgisayar,1,dosyayı yeniden adlandır ama uzantısına dokunma,2,adlandır,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CH-0016,temel_bilgisayar,1,dosyayı yeniden adlandır ama uzantısına dokunma,3,ama,O,O,True
+CH-0016,temel_bilgisayar,1,dosyayı yeniden adlandır ama uzantısına dokunma,4,uzantısına,O,O,True
+CH-0016,temel_bilgisayar,1,dosyayı yeniden adlandır ama uzantısına dokunma,5,dokunma,O,O,True
+CH-0017,temel_bilgisayar,2,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,0,ayarlar,YAZ,YAZ,True
+CH-0017,temel_bilgisayar,2,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,1,aramasına,YAZ,YAZ,True
+CH-0017,temel_bilgisayar,2,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,2,erişilebilirlik,YAZ,YAZ,True
+CH-0017,temel_bilgisayar,2,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,3,yaz,YAZ,YAZ,True
+CH-0017,temel_bilgisayar,2,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,4,ve,O,O,True
+CH-0017,temel_bilgisayar,2,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,5,çıkan,GİT,GİT,True
+CH-0017,temel_bilgisayar,2,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,6,ilk,GİT,GİT,True
+CH-0017,temel_bilgisayar,2,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,7,sonuca,GİT,GİT,True
+CH-0017,temel_bilgisayar,2,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,8,git,GİT,GİT,True
+CH-0018,temel_bilgisayar,2,"dosyayı silme, adının başına taslak ekle ve kaydet",0,dosyayı,O,O,True
+CH-0018,temel_bilgisayar,2,"dosyayı silme, adının başına taslak ekle ve kaydet",1,"silme,",O,O,True
+CH-0018,temel_bilgisayar,2,"dosyayı silme, adının başına taslak ekle ve kaydet",2,adının,YENİDEN_ADLANDIR,YAZ,False
+CH-0018,temel_bilgisayar,2,"dosyayı silme, adının başına taslak ekle ve kaydet",3,başına,YENİDEN_ADLANDIR,YAZ,False
+CH-0018,temel_bilgisayar,2,"dosyayı silme, adının başına taslak ekle ve kaydet",4,taslak,YENİDEN_ADLANDIR,YAZ,False
+CH-0018,temel_bilgisayar,2,"dosyayı silme, adının başına taslak ekle ve kaydet",5,ekle,YENİDEN_ADLANDIR,YAZ,False
+CH-0018,temel_bilgisayar,2,"dosyayı silme, adının başına taslak ekle ve kaydet",6,ve,O,O,True
+CH-0018,temel_bilgisayar,2,"dosyayı silme, adının başına taslak ekle ve kaydet",7,kaydet,KAYDET,KAYDET,True
+CH-0019,temel_bilgisayar,2,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,0,masaüstünde,O,O,True
+CH-0019,temel_bilgisayar,2,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,1,ekran,BUL,BUL,True
+CH-0019,temel_bilgisayar,2,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,2,okuyucu,BUL,BUL,True
+CH-0019,temel_bilgisayar,2,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,3,kısayolunu,BUL,BUL,True
+CH-0019,temel_bilgisayar,2,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,4,bul,BUL,BUL,True
+CH-0019,temel_bilgisayar,2,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,5,ve,O,O,True
+CH-0019,temel_bilgisayar,2,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,6,görev,DİĞER,DİĞER,True
+CH-0019,temel_bilgisayar,2,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,7,çubuğuna,DİĞER,DİĞER,True
+CH-0019,temel_bilgisayar,2,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,8,sabitle,DİĞER,DİĞER,True
+CH-0020,temel_bilgisayar,1,"ayarlar penceresini kapatma, imleç boyutunu biraz büyüt",0,ayarlar,O,O,True
+CH-0020,temel_bilgisayar,1,"ayarlar penceresini kapatma, imleç boyutunu biraz büyüt",1,penceresini,O,O,True
+CH-0020,temel_bilgisayar,1,"ayarlar penceresini kapatma, imleç boyutunu biraz büyüt",2,"kapatma,",O,O,True
+CH-0020,temel_bilgisayar,1,"ayarlar penceresini kapatma, imleç boyutunu biraz büyüt",3,imleç,BÜYÜT,BÜYÜT,True
+CH-0020,temel_bilgisayar,1,"ayarlar penceresini kapatma, imleç boyutunu biraz büyüt",4,boyutunu,BÜYÜT,BÜYÜT,True
+CH-0020,temel_bilgisayar,1,"ayarlar penceresini kapatma, imleç boyutunu biraz büyüt",5,biraz,BÜYÜT,BÜYÜT,True
+CH-0020,temel_bilgisayar,1,"ayarlar penceresini kapatma, imleç boyutunu biraz büyüt",6,büyüt,BÜYÜT,BÜYÜT,True
+CH-0021,temel_bilgisayar,1,ekrandaki küçük yazıları biraz büyüt gözüm seçmiyor,0,ekrandaki,O,BÜYÜT,False
+CH-0021,temel_bilgisayar,1,ekrandaki küçük yazıları biraz büyüt gözüm seçmiyor,1,küçük,BÜYÜT,BÜYÜT,True
+CH-0021,temel_bilgisayar,1,ekrandaki küçük yazıları biraz büyüt gözüm seçmiyor,2,yazıları,BÜYÜT,BÜYÜT,True
+CH-0021,temel_bilgisayar,1,ekrandaki küçük yazıları biraz büyüt gözüm seçmiyor,3,biraz,BÜYÜT,BÜYÜT,True
+CH-0021,temel_bilgisayar,1,ekrandaki küçük yazıları biraz büyüt gözüm seçmiyor,4,büyüt,BÜYÜT,BÜYÜT,True
+CH-0021,temel_bilgisayar,1,ekrandaki küçük yazıları biraz büyüt gözüm seçmiyor,5,gözüm,O,O,True
+CH-0021,temel_bilgisayar,1,ekrandaki küçük yazıları biraz büyüt gözüm seçmiyor,6,seçmiyor,O,O,True
+CH-0022,temel_bilgisayar,1,yanlış yere gittin ayarlarda imleç boyutunu bulacaksın,0,yanlış,O,O,True
+CH-0022,temel_bilgisayar,1,yanlış yere gittin ayarlarda imleç boyutunu bulacaksın,1,yere,O,O,True
+CH-0022,temel_bilgisayar,1,yanlış yere gittin ayarlarda imleç boyutunu bulacaksın,2,gittin,O,O,True
+CH-0022,temel_bilgisayar,1,yanlış yere gittin ayarlarda imleç boyutunu bulacaksın,3,ayarlarda,O,BUL,False
+CH-0022,temel_bilgisayar,1,yanlış yere gittin ayarlarda imleç boyutunu bulacaksın,4,imleç,BUL,BUL,True
+CH-0022,temel_bilgisayar,1,yanlış yere gittin ayarlarda imleç boyutunu bulacaksın,5,boyutunu,BUL,BUL,True
+CH-0022,temel_bilgisayar,1,yanlış yere gittin ayarlarda imleç boyutunu bulacaksın,6,bulacaksın,BUL,BUL,True
+CH-0023,temel_bilgisayar,1,o dosyayı silme sadece yedek klasörüne taşı,0,o,O,O,True
+CH-0023,temel_bilgisayar,1,o dosyayı silme sadece yedek klasörüne taşı,1,dosyayı,O,O,True
+CH-0023,temel_bilgisayar,1,o dosyayı silme sadece yedek klasörüne taşı,2,silme,O,O,True
+CH-0023,temel_bilgisayar,1,o dosyayı silme sadece yedek klasörüne taşı,3,sadece,O,O,True
+CH-0023,temel_bilgisayar,1,o dosyayı silme sadece yedek klasörüne taşı,4,yedek,TAŞI,TAŞI,True
+CH-0023,temel_bilgisayar,1,o dosyayı silme sadece yedek klasörüne taşı,5,klasörüne,TAŞI,TAŞI,True
+CH-0023,temel_bilgisayar,1,o dosyayı silme sadece yedek klasörüne taşı,6,taşı,TAŞI,TAŞI,True
+CH-0024,temel_bilgisayar,1,masaüstündeki son oluşturduğumuz klasörü aç,0,masaüstündeki,O,O,True
+CH-0024,temel_bilgisayar,1,masaüstündeki son oluşturduğumuz klasörü aç,1,son,AÇ,AÇ,True
+CH-0024,temel_bilgisayar,1,masaüstündeki son oluşturduğumuz klasörü aç,2,oluşturduğumuz,AÇ,AÇ,True
+CH-0024,temel_bilgisayar,1,masaüstündeki son oluşturduğumuz klasörü aç,3,klasörü,AÇ,AÇ,True
+CH-0024,temel_bilgisayar,1,masaüstündeki son oluşturduğumuz klasörü aç,4,aç,AÇ,AÇ,True
+CH-0025,temel_bilgisayar,1,bilgisayarın sesi çok yüksek oldu 25'e getir,0,bilgisayarın,O,O,True
+CH-0025,temel_bilgisayar,1,bilgisayarın sesi çok yüksek oldu 25'e getir,1,sesi,O,O,True
+CH-0025,temel_bilgisayar,1,bilgisayarın sesi çok yüksek oldu 25'e getir,2,çok,O,O,True
+CH-0025,temel_bilgisayar,1,bilgisayarın sesi çok yüksek oldu 25'e getir,3,yüksek,O,O,True
+CH-0025,temel_bilgisayar,1,bilgisayarın sesi çok yüksek oldu 25'e getir,4,oldu,O,O,True
+CH-0025,temel_bilgisayar,1,bilgisayarın sesi çok yüksek oldu 25'e getir,5,25'e,AZALT,DEĞİŞTİR,False
+CH-0025,temel_bilgisayar,1,bilgisayarın sesi çok yüksek oldu 25'e getir,6,getir,AZALT,DİĞER,False
+CH-0026,tarayıcı_internet,2,chrome'u çalıştır ve yeni bir sekme aç,0,chrome'u,AÇ,DİĞER,False
+CH-0026,tarayıcı_internet,2,chrome'u çalıştır ve yeni bir sekme aç,1,çalıştır,AÇ,DİĞER,False
+CH-0026,tarayıcı_internet,2,chrome'u çalıştır ve yeni bir sekme aç,2,ve,O,O,True
+CH-0026,tarayıcı_internet,2,chrome'u çalıştır ve yeni bir sekme aç,3,yeni,AÇ,AÇ,True
+CH-0026,tarayıcı_internet,2,chrome'u çalıştır ve yeni bir sekme aç,4,bir,AÇ,AÇ,True
+CH-0026,tarayıcı_internet,2,chrome'u çalıştır ve yeni bir sekme aç,5,sekme,AÇ,AÇ,True
+CH-0026,tarayıcı_internet,2,chrome'u çalıştır ve yeni bir sekme aç,6,aç,AÇ,AÇ,True
+CH-0027,tarayıcı_internet,2,bir sonraki sekmeye git tüm sayfayı yazdır,0,bir,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CH-0027,tarayıcı_internet,2,bir sonraki sekmeye git tüm sayfayı yazdır,1,sonraki,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CH-0027,tarayıcı_internet,2,bir sonraki sekmeye git tüm sayfayı yazdır,2,sekmeye,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CH-0027,tarayıcı_internet,2,bir sonraki sekmeye git tüm sayfayı yazdır,3,git,SEKME_DEĞİŞTİR,GİT,False
+CH-0027,tarayıcı_internet,2,bir sonraki sekmeye git tüm sayfayı yazdır,4,tüm,YAZDIR,YAZDIR,True
+CH-0027,tarayıcı_internet,2,bir sonraki sekmeye git tüm sayfayı yazdır,5,sayfayı,YAZDIR,YAZDIR,True
+CH-0027,tarayıcı_internet,2,bir sonraki sekmeye git tüm sayfayı yazdır,6,yazdır,YAZDIR,YAZDIR,True
+CH-0028,tarayıcı_internet,1,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,0,yeni,O,O,True
+CH-0028,tarayıcı_internet,1,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,1,sekme,O,O,True
+CH-0028,tarayıcı_internet,1,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,2,açmadan,O,O,True
+CH-0028,tarayıcı_internet,1,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,3,mevcut,ARA,O,False
+CH-0028,tarayıcı_internet,1,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,4,sekmede,ARA,O,False
+CH-0028,tarayıcı_internet,1,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,5,üniversite,ARA,ARA,True
+CH-0028,tarayıcı_internet,1,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,6,sitesini,ARA,ARA,True
+CH-0028,tarayıcı_internet,1,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,7,ara,ARA,ARA,True
+CH-0029,tarayıcı_internet,2,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,0,tarayıcıdaki,O,O,True
+CH-0029,tarayıcı_internet,2,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,1,indirme,YİNELE,YİNELE,True
+CH-0029,tarayıcı_internet,2,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,2,sayfasını,YİNELE,YİNELE,True
+CH-0029,tarayıcı_internet,2,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,3,yenile,YİNELE,YİNELE,True
+CH-0029,tarayıcı_internet,2,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,4,sonra,O,O,True
+CH-0029,tarayıcı_internet,2,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,5,pdf,İNDİR,İNDİR,True
+CH-0029,tarayıcı_internet,2,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,6,dosyasını,İNDİR,İNDİR,True
+CH-0029,tarayıcı_internet,2,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,7,indir,İNDİR,İNDİR,True
+CH-0030,tarayıcı_internet,2,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",0,Chrome'da,O,O,True
+CH-0030,tarayıcı_internet,2,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",1,bu,KAPAT,KAPAT,True
+CH-0030,tarayıcı_internet,2,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",2,sekmeyi,KAPAT,KAPAT,True
+CH-0030,tarayıcı_internet,2,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",3,"kapat,",KAPAT,KAPAT,True
+CH-0030,tarayıcı_internet,2,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",4,sonra,O,O,True
+CH-0030,tarayıcı_internet,2,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",5,soldaki,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CH-0030,tarayıcı_internet,2,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",6,sekmeye,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CH-0030,tarayıcı_internet,2,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",7,geç,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CH-0031,tarayıcı_internet,1,"Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala",0,Chrome'da,O,O,True
+CH-0031,tarayıcı_internet,1,"Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala",1,arama,O,O,True
+CH-0031,tarayıcı_internet,1,"Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala",2,sonucunu,O,O,True
+CH-0031,tarayıcı_internet,1,"Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala",3,"açma,",O,O,True
+CH-0031,tarayıcı_internet,1,"Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala",4,sadece,O,O,True
+CH-0031,tarayıcı_internet,1,"Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala",5,bağlantı,KOPYALA,KOPYALA,True
+CH-0031,tarayıcı_internet,1,"Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala",6,adresini,KOPYALA,KOPYALA,True
+CH-0031,tarayıcı_internet,1,"Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala",7,kopyala,KOPYALA,KOPYALA,True
+CH-0032,tarayıcı_internet,2,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",0,hayır,O,O,True
+CH-0032,tarayıcı_internet,2,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",1,"göndermiyorsun,",O,O,True
+CH-0032,tarayıcı_internet,2,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",2,formu,YAZ,YAZ,True
+CH-0032,tarayıcı_internet,2,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",3,doldurup,YAZ,YAZ,True
+CH-0032,tarayıcı_internet,2,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",4,taslak,DİĞER,BOŞLUK,False
+CH-0032,tarayıcı_internet,2,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",5,olarak,DİĞER,BOŞLUK,False
+CH-0032,tarayıcı_internet,2,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",6,bırak,DİĞER,BOŞLUK,False
+CH-0033,tarayıcı_internet,2,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,0,Chrome'da,O,O,True
+CH-0033,tarayıcı_internet,2,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,1,açık,YİNELE,YİNELE,True
+CH-0033,tarayıcı_internet,2,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,2,sekmeyi,YİNELE,YİNELE,True
+CH-0033,tarayıcı_internet,2,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,3,yenile,YİNELE,YİNELE,True
+CH-0033,tarayıcı_internet,2,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,4,ve,O,O,True
+CH-0033,tarayıcı_internet,2,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,5,sayfanın,KAYDIR,GEÇ,False
+CH-0033,tarayıcı_internet,2,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,6,başına,KAYDIR,GEÇ,False
+CH-0033,tarayıcı_internet,2,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,7,dön,KAYDIR,GEÇ,False
+CH-0034,tarayıcı_internet,2,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",0,Chrome'da,O,O,True
+CH-0034,tarayıcı_internet,2,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",1,pdf,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CH-0034,tarayıcı_internet,2,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",2,sekmesine,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CH-0034,tarayıcı_internet,2,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",3,"geç,",SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CH-0034,tarayıcı_internet,2,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",4,dosyayı,İNDİR,İNDİR,True
+CH-0034,tarayıcı_internet,2,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",5,"indir,",İNDİR,İNDİR,True
+CH-0034,tarayıcı_internet,2,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",6,sekmeyi,O,DİĞER,False
+CH-0034,tarayıcı_internet,2,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",7,açık,O,DİĞER,False
+CH-0034,tarayıcı_internet,2,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",8,bırak,O,DİĞER,False
+CH-0035,tarayıcı_internet,2,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",0,Chrome'da,O,O,True
+CH-0035,tarayıcı_internet,2,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",1,başvuru,YİNELE,YİNELE,True
+CH-0035,tarayıcı_internet,2,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",2,sayfasını,YİNELE,YİNELE,True
+CH-0035,tarayıcı_internet,2,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",3,"yenile,",YİNELE,YİNELE,True
+CH-0035,tarayıcı_internet,2,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",4,sonra,O,O,True
+CH-0035,tarayıcı_internet,2,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",5,ekli,İNDİR,İNDİR,True
+CH-0035,tarayıcı_internet,2,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",6,dosyayı,İNDİR,İNDİR,True
+CH-0035,tarayıcı_internet,2,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",7,indir,İNDİR,İNDİR,True
+CH-0036,tarayıcı_internet,1,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,0,şu,O,O,True
+CH-0036,tarayıcı_internet,1,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,1,arama,O,O,True
+CH-0036,tarayıcı_internet,1,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,2,yerine,O,O,True
+CH-0036,tarayıcı_internet,1,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,3,hata,YAZ,YAZ,True
+CH-0036,tarayıcı_internet,1,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,4,kodunu,YAZ,YAZ,True
+CH-0036,tarayıcı_internet,1,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,5,yazıp,YAZ,YAZ,True
+CH-0036,tarayıcı_internet,1,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,6,sonucu,O,O,True
+CH-0036,tarayıcı_internet,1,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,7,açmadan,O,O,True
+CH-0036,tarayıcı_internet,1,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,8,bırak,O,O,True
+CH-0037,tarayıcı_internet,1,biraz aşağı kaydır ya şu butonu göremiyorum,0,biraz,KAYDIR,KAYDIR,True
+CH-0037,tarayıcı_internet,1,biraz aşağı kaydır ya şu butonu göremiyorum,1,aşağı,KAYDIR,KAYDIR,True
+CH-0037,tarayıcı_internet,1,biraz aşağı kaydır ya şu butonu göremiyorum,2,kaydır,KAYDIR,KAYDIR,True
+CH-0037,tarayıcı_internet,1,biraz aşağı kaydır ya şu butonu göremiyorum,3,ya,O,O,True
+CH-0037,tarayıcı_internet,1,biraz aşağı kaydır ya şu butonu göremiyorum,4,şu,O,O,True
+CH-0037,tarayıcı_internet,1,biraz aşağı kaydır ya şu butonu göremiyorum,5,butonu,O,O,True
+CH-0037,tarayıcı_internet,1,biraz aşağı kaydır ya şu butonu göremiyorum,6,göremiyorum,O,O,True
+CH-0038,tarayıcı_internet,1,şu mavi düğmeye basma yanındaki indirme şeyine tıkla,0,şu,O,O,True
+CH-0038,tarayıcı_internet,1,şu mavi düğmeye basma yanındaki indirme şeyine tıkla,1,mavi,O,O,True
+CH-0038,tarayıcı_internet,1,şu mavi düğmeye basma yanındaki indirme şeyine tıkla,2,düğmeye,O,O,True
+CH-0038,tarayıcı_internet,1,şu mavi düğmeye basma yanındaki indirme şeyine tıkla,3,basma,O,O,True
+CH-0038,tarayıcı_internet,1,şu mavi düğmeye basma yanındaki indirme şeyine tıkla,4,yanındaki,TIKLA,TIKLA,True
+CH-0038,tarayıcı_internet,1,şu mavi düğmeye basma yanındaki indirme şeyine tıkla,5,indirme,TIKLA,TIKLA,True
+CH-0038,tarayıcı_internet,1,şu mavi düğmeye basma yanındaki indirme şeyine tıkla,6,şeyine,TIKLA,TIKLA,True
+CH-0038,tarayıcı_internet,1,şu mavi düğmeye basma yanındaki indirme şeyine tıkla,7,tıkla,TIKLA,TIKLA,True
+CH-0039,tarayıcı_internet,2,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,0,tarayıcıda,O,YİNELE,False
+CH-0039,tarayıcı_internet,2,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,1,olduğumuz,O,YİNELE,False
+CH-0039,tarayıcı_internet,2,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,2,sayfayı,YİNELE,YİNELE,True
+CH-0039,tarayıcı_internet,2,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,3,yenile,YİNELE,YİNELE,True
+CH-0039,tarayıcı_internet,2,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,4,sonra,O,O,True
+CH-0039,tarayıcı_internet,2,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,5,tekrar,KAYDIR,KAYDIR,True
+CH-0039,tarayıcı_internet,2,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,6,aşağı,KAYDIR,KAYDIR,True
+CH-0039,tarayıcı_internet,2,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,7,in,KAYDIR,KAYDIR,True
+CH-0040,tarayıcı_internet,1,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,0,bu,O,KAYDIR,False
+CH-0040,tarayıcı_internet,1,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,1,sayfayı,O,KAYDIR,False
+CH-0040,tarayıcı_internet,1,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,2,biraz,KAYDIR,KAYDIR,True
+CH-0040,tarayıcı_internet,1,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,3,yukarı,KAYDIR,KAYDIR,True
+CH-0040,tarayıcı_internet,1,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,4,kaydır,KAYDIR,KAYDIR,True
+CH-0040,tarayıcı_internet,1,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,5,başlık,O,O,True
+CH-0040,tarayıcı_internet,1,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,6,kısmı,O,O,True
+CH-0040,tarayıcı_internet,1,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,7,lazım,O,O,True
+CH-0041,tarayıcı_internet,1,şu indirme tamamlandıysa dosyayı açmadan klasörde göster,0,şu,O,O,True
+CH-0041,tarayıcı_internet,1,şu indirme tamamlandıysa dosyayı açmadan klasörde göster,1,indirme,O,O,True
+CH-0041,tarayıcı_internet,1,şu indirme tamamlandıysa dosyayı açmadan klasörde göster,2,tamamlandıysa,O,O,True
+CH-0041,tarayıcı_internet,1,şu indirme tamamlandıysa dosyayı açmadan klasörde göster,3,dosyayı,O,O,True
+CH-0041,tarayıcı_internet,1,şu indirme tamamlandıysa dosyayı açmadan klasörde göster,4,açmadan,O,O,True
+CH-0041,tarayıcı_internet,1,şu indirme tamamlandıysa dosyayı açmadan klasörde göster,5,klasörde,DİĞER,DİĞER,True
+CH-0041,tarayıcı_internet,1,şu indirme tamamlandıysa dosyayı açmadan klasörde göster,6,göster,DİĞER,DİĞER,True
+CH-0042,tarayıcı_internet,1,o sekmeyi yenileme sadece önceki sekmeye dön,0,o,O,O,True
+CH-0042,tarayıcı_internet,1,o sekmeyi yenileme sadece önceki sekmeye dön,1,sekmeyi,O,O,True
+CH-0042,tarayıcı_internet,1,o sekmeyi yenileme sadece önceki sekmeye dön,2,yenileme,O,O,True
+CH-0042,tarayıcı_internet,1,o sekmeyi yenileme sadece önceki sekmeye dön,3,sadece,O,O,True
+CH-0042,tarayıcı_internet,1,o sekmeyi yenileme sadece önceki sekmeye dön,4,önceki,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CH-0042,tarayıcı_internet,1,o sekmeyi yenileme sadece önceki sekmeye dön,5,sekmeye,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CH-0042,tarayıcı_internet,1,o sekmeyi yenileme sadece önceki sekmeye dön,6,dön,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CH-0043,tarayıcı_internet,1,Chrome demeyeyim işte açık olan internet sayfasında arama yap,0,Chrome,O,O,True
+CH-0043,tarayıcı_internet,1,Chrome demeyeyim işte açık olan internet sayfasında arama yap,1,demeyeyim,O,O,True
+CH-0043,tarayıcı_internet,1,Chrome demeyeyim işte açık olan internet sayfasında arama yap,2,işte,O,O,True
+CH-0043,tarayıcı_internet,1,Chrome demeyeyim işte açık olan internet sayfasında arama yap,3,açık,ARA,O,False
+CH-0043,tarayıcı_internet,1,Chrome demeyeyim işte açık olan internet sayfasında arama yap,4,olan,ARA,O,False
+CH-0043,tarayıcı_internet,1,Chrome demeyeyim işte açık olan internet sayfasında arama yap,5,internet,ARA,O,False
+CH-0043,tarayıcı_internet,1,Chrome demeyeyim işte açık olan internet sayfasında arama yap,6,sayfasında,ARA,O,False
+CH-0043,tarayıcı_internet,1,Chrome demeyeyim işte açık olan internet sayfasında arama yap,7,arama,ARA,O,False
+CH-0043,tarayıcı_internet,1,Chrome demeyeyim işte açık olan internet sayfasında arama yap,8,yap,ARA,O,False
+CH-0044,tarayıcı_internet,1,o butona tıklama ya sadece yanında çıkan yazıyı seç,0,o,O,O,True
+CH-0044,tarayıcı_internet,1,o butona tıklama ya sadece yanında çıkan yazıyı seç,1,butona,O,O,True
+CH-0044,tarayıcı_internet,1,o butona tıklama ya sadece yanında çıkan yazıyı seç,2,tıklama,O,O,True
+CH-0044,tarayıcı_internet,1,o butona tıklama ya sadece yanında çıkan yazıyı seç,3,ya,O,O,True
+CH-0044,tarayıcı_internet,1,o butona tıklama ya sadece yanında çıkan yazıyı seç,4,sadece,O,O,True
+CH-0044,tarayıcı_internet,1,o butona tıklama ya sadece yanında çıkan yazıyı seç,5,yanında,SEÇ,SEÇ,True
+CH-0044,tarayıcı_internet,1,o butona tıklama ya sadece yanında çıkan yazıyı seç,6,çıkan,SEÇ,SEÇ,True
+CH-0044,tarayıcı_internet,1,o butona tıklama ya sadece yanında çıkan yazıyı seç,7,yazıyı,SEÇ,SEÇ,True
+CH-0044,tarayıcı_internet,1,o butona tıklama ya sadece yanında çıkan yazıyı seç,8,seç,SEÇ,SEÇ,True
+CH-0045,tarayıcı_internet,2,şu sayfada başvuru dosyası nerede onu bulup indir,0,şu,O,O,True
+CH-0045,tarayıcı_internet,2,şu sayfada başvuru dosyası nerede onu bulup indir,1,sayfada,O,O,True
+CH-0045,tarayıcı_internet,2,şu sayfada başvuru dosyası nerede onu bulup indir,2,başvuru,BUL,O,False
+CH-0045,tarayıcı_internet,2,şu sayfada başvuru dosyası nerede onu bulup indir,3,dosyası,BUL,BUL,True
+CH-0045,tarayıcı_internet,2,şu sayfada başvuru dosyası nerede onu bulup indir,4,nerede,BUL,BUL,True
+CH-0045,tarayıcı_internet,2,şu sayfada başvuru dosyası nerede onu bulup indir,5,onu,BUL,BUL,True
+CH-0045,tarayıcı_internet,2,şu sayfada başvuru dosyası nerede onu bulup indir,6,bulup,BUL,BUL,True
+CH-0045,tarayıcı_internet,2,şu sayfada başvuru dosyası nerede onu bulup indir,7,indir,İNDİR,İNDİR,True
+CH-0046,tarayıcı_internet,1,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,0,yanlış,O,O,True
+CH-0046,tarayıcı_internet,1,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,1,sekmedeyiz,O,O,True
+CH-0046,tarayıcı_internet,1,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,2,geri,O,SEKME_DEĞİŞTİR,False
+CH-0046,tarayıcı_internet,1,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,3,dön,O,SEKME_DEĞİŞTİR,False
+CH-0046,tarayıcı_internet,1,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,4,bir,GİT,GEÇ,False
+CH-0046,tarayıcı_internet,1,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,5,önceki,GİT,GEÇ,False
+CH-0046,tarayıcı_internet,1,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,6,sayfaya,GİT,GEÇ,False
+CH-0046,tarayıcı_internet,1,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,7,geç,GİT,GEÇ,False
+CH-0047,tarayıcı_internet,2,şu listeyi aşağı kaydır en sondaki seçeneği seç,0,şu,O,KAYDIR,False
+CH-0047,tarayıcı_internet,2,şu listeyi aşağı kaydır en sondaki seçeneği seç,1,listeyi,KAYDIR,KAYDIR,True
+CH-0047,tarayıcı_internet,2,şu listeyi aşağı kaydır en sondaki seçeneği seç,2,aşağı,KAYDIR,KAYDIR,True
+CH-0047,tarayıcı_internet,2,şu listeyi aşağı kaydır en sondaki seçeneği seç,3,kaydır,KAYDIR,KAYDIR,True
+CH-0047,tarayıcı_internet,2,şu listeyi aşağı kaydır en sondaki seçeneği seç,4,en,SEÇ,SEÇ,True
+CH-0047,tarayıcı_internet,2,şu listeyi aşağı kaydır en sondaki seçeneği seç,5,sondaki,SEÇ,SEÇ,True
+CH-0047,tarayıcı_internet,2,şu listeyi aşağı kaydır en sondaki seçeneği seç,6,seçeneği,SEÇ,SEÇ,True
+CH-0047,tarayıcı_internet,2,şu listeyi aşağı kaydır en sondaki seçeneği seç,7,seç,SEÇ,SEÇ,True
+CH-0048,tarayıcı_internet,1,tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama,0,tarayıcıda,O,O,True
+CH-0048,tarayıcı_internet,1,tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama,1,aramayı,YİNELE,DEĞİŞTİR,False
+CH-0048,tarayıcı_internet,1,tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama,2,tekrar,YİNELE,YİNELE,True
+CH-0048,tarayıcı_internet,1,tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama,3,yap,YİNELE,DEĞİŞTİR,False
+CH-0048,tarayıcı_internet,1,tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama,4,ama,O,O,True
+CH-0048,tarayıcı_internet,1,tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama,5,ilk,O,O,True
+CH-0048,tarayıcı_internet,1,tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama,6,sonuca,O,O,True
+CH-0048,tarayıcı_internet,1,tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama,7,tıklama,O,O,True
+CH-0049,tarayıcı_internet,2,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,0,Chrome'da,O,O,True
+CH-0049,tarayıcı_internet,2,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,1,açık,O,O,True
+CH-0049,tarayıcı_internet,2,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,2,sekmelerden,O,GEÇ,False
+CH-0049,tarayıcı_internet,2,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,3,sağdakine,SEKME_DEĞİŞTİR,GEÇ,False
+CH-0049,tarayıcı_internet,2,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,4,geç,SEKME_DEĞİŞTİR,GEÇ,False
+CH-0049,tarayıcı_internet,2,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,5,ve,O,O,True
+CH-0049,tarayıcı_internet,2,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,6,sayfayı,KAYDIR,KAYDIR,True
+CH-0049,tarayıcı_internet,2,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,7,biraz,KAYDIR,KAYDIR,True
+CH-0049,tarayıcı_internet,2,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,8,aşağı,KAYDIR,KAYDIR,True
+CH-0049,tarayıcı_internet,2,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,9,kaydır,KAYDIR,KAYDIR,True
+CH-0050,tarayıcı_internet,3,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",0,Chrome'da,O,O,True
+CH-0050,tarayıcı_internet,3,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",1,rapor,GİT,GİT,True
+CH-0050,tarayıcı_internet,3,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",2,sayfasına,GİT,GİT,True
+CH-0050,tarayıcı_internet,3,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",3,"git,",GİT,GİT,True
+CH-0050,tarayıcı_internet,3,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",4,sayfayı,KAYDIR,KAYDIR,True
+CH-0050,tarayıcı_internet,3,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",5,aşağı,KAYDIR,KAYDIR,True
+CH-0050,tarayıcı_internet,3,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",6,"kaydır,",KAYDIR,KAYDIR,True
+CH-0050,tarayıcı_internet,3,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",7,indirme,BUL,BUL,True
+CH-0050,tarayıcı_internet,3,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",8,düğmesini,BUL,BUL,True
+CH-0050,tarayıcı_internet,3,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",9,bul,BUL,BUL,True
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,0,yeni,AÇ,AÇ,True
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,1,bir,AÇ,AÇ,True
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,2,sayfa,AÇ,AÇ,True
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,3,aç,AÇ,AÇ,True
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,4,içine,O,O,True
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,5,14,YAZ,O,False
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,6,punto,YAZ,O,False
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,7,olacak,YAZ,O,False
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,8,şekilde,YAZ,O,False
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,9,bir,YAZ,YAZ,True
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,10,başlık,YAZ,YAZ,True
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,11,ekle,YAZ,YAZ,True
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,12,başlığa,YAZ,YAZ,True
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,13,da,YAZ,YAZ,True
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,14,projem,YAZ,YAZ,True
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,15,yaz,YAZ,YAZ,True
+CH-0052,ofis_metin_düzenleme,2,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,0,4,YENİ_OLUŞTUR,O,False
+CH-0052,ofis_metin_düzenleme,2,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,1,satır,YENİ_OLUŞTUR,O,False
+CH-0052,ofis_metin_düzenleme,2,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,2,3,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0052,ofis_metin_düzenleme,2,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,3,sütundan,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0052,ofis_metin_düzenleme,2,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,4,oluşan,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0052,ofis_metin_düzenleme,2,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,5,bir,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0052,ofis_metin_düzenleme,2,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,6,tablo,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0052,ofis_metin_düzenleme,2,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,7,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0052,ofis_metin_düzenleme,2,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,8,ilk,DİĞER,DEĞİŞTİR,False
+CH-0052,ofis_metin_düzenleme,2,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,9,satırı,DİĞER,DİĞER,True
+CH-0052,ofis_metin_düzenleme,2,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,10,da,DİĞER,DİĞER,True
+CH-0052,ofis_metin_düzenleme,2,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,11,birleştir,DİĞER,DİĞER,True
+CH-0053,ofis_metin_düzenleme,2,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,0,açık,O,O,True
+CH-0053,ofis_metin_düzenleme,2,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,1,olan,O,O,True
+CH-0053,ofis_metin_düzenleme,2,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,2,dosyadan,O,O,True
+CH-0053,ofis_metin_düzenleme,2,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,3,kara,BUL,BUL,True
+CH-0053,ofis_metin_düzenleme,2,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,4,ile,BUL,BUL,True
+CH-0053,ofis_metin_düzenleme,2,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,5,başlayan,BUL,BUL,True
+CH-0053,ofis_metin_düzenleme,2,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,6,her,BUL,BUL,True
+CH-0053,ofis_metin_düzenleme,2,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,7,şeyi,BUL,BUL,True
+CH-0053,ofis_metin_düzenleme,2,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,8,bul,BUL,BUL,True
+CH-0053,ofis_metin_düzenleme,2,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,9,ve,O,O,True
+CH-0053,ofis_metin_düzenleme,2,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,10,lara,DEĞİŞTİR,DEĞİŞTİR,True
+CH-0053,ofis_metin_düzenleme,2,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,11,olarak,DEĞİŞTİR,DEĞİŞTİR,True
+CH-0053,ofis_metin_düzenleme,2,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,12,değiştir,DEĞİŞTİR,DEĞİŞTİR,True
+CH-0054,ofis_metin_düzenleme,2,ilk paragrafı kes ve sayfanın sonuna yapıştır,0,ilk,KES,KES,True
+CH-0054,ofis_metin_düzenleme,2,ilk paragrafı kes ve sayfanın sonuna yapıştır,1,paragrafı,KES,KES,True
+CH-0054,ofis_metin_düzenleme,2,ilk paragrafı kes ve sayfanın sonuna yapıştır,2,kes,KES,KES,True
+CH-0054,ofis_metin_düzenleme,2,ilk paragrafı kes ve sayfanın sonuna yapıştır,3,ve,O,O,True
+CH-0054,ofis_metin_düzenleme,2,ilk paragrafı kes ve sayfanın sonuna yapıştır,4,sayfanın,YAPIŞTIR,YAPIŞTIR,True
+CH-0054,ofis_metin_düzenleme,2,ilk paragrafı kes ve sayfanın sonuna yapıştır,5,sonuna,YAPIŞTIR,YAPIŞTIR,True
+CH-0054,ofis_metin_düzenleme,2,ilk paragrafı kes ve sayfanın sonuna yapıştır,6,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,0,tüm,SEÇ,SEÇ,True
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,1,metni,SEÇ,SEÇ,True
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,2,seç,SEÇ,SEÇ,True
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,3,ve,O,O,True
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,4,yazı,DEĞİŞTİR,YENİDEN_ADLANDIR,False
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,5,tipini,DEĞİŞTİR,YENİDEN_ADLANDIR,False
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,6,Times,DEĞİŞTİR,YENİDEN_ADLANDIR,False
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,7,new,DEĞİŞTİR,YENİDEN_ADLANDIR,False
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,8,roman,DEĞİŞTİR,YENİDEN_ADLANDIR,False
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,9,yapıp,DEĞİŞTİR,YENİDEN_ADLANDIR,False
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,10,fontunu,DEĞİŞTİR,DİĞER,False
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,11,da,DEĞİŞTİR,O,False
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,12,12,DEĞİŞTİR,DEĞİŞTİR,True
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,13,ve,O,O,True
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,14,iki,DEĞİŞTİR,DEĞİŞTİR,True
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,15,yana,DEĞİŞTİR,DEĞİŞTİR,True
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,16,yaslı,DEĞİŞTİR,DİĞER,False
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,17,olarak,DEĞİŞTİR,DİĞER,False
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,18,ayarla,DEĞİŞTİR,DİĞER,False
+CH-0056,ofis_metin_düzenleme,2,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,0,Word,O,O,True
+CH-0056,ofis_metin_düzenleme,2,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,1,belgesinde,O,O,True
+CH-0056,ofis_metin_düzenleme,2,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,2,giriş,BUL,BUL,True
+CH-0056,ofis_metin_düzenleme,2,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,3,başlığını,BUL,BUL,True
+CH-0056,ofis_metin_düzenleme,2,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,4,bul,BUL,BUL,True
+CH-0056,ofis_metin_düzenleme,2,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,5,altına,YAZ,YAZ,True
+CH-0056,ofis_metin_düzenleme,2,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,6,kısa,YAZ,YAZ,True
+CH-0056,ofis_metin_düzenleme,2,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,7,bir,YAZ,YAZ,True
+CH-0056,ofis_metin_düzenleme,2,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,8,açıklama,YAZ,YAZ,True
+CH-0056,ofis_metin_düzenleme,2,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,9,yaz,YAZ,YAZ,True
+CH-0057,ofis_metin_düzenleme,1,Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala,0,Word'de,O,O,True
+CH-0057,ofis_metin_düzenleme,1,Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala,1,tüm,O,O,True
+CH-0057,ofis_metin_düzenleme,1,Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala,2,paragrafı,O,O,True
+CH-0057,ofis_metin_düzenleme,1,Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala,3,kesme,O,O,True
+CH-0057,ofis_metin_düzenleme,1,Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala,4,sadece,O,O,True
+CH-0057,ofis_metin_düzenleme,1,Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala,5,ilk,KOPYALA,KOPYALA,True
+CH-0057,ofis_metin_düzenleme,1,Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala,6,cümleyi,KOPYALA,KOPYALA,True
+CH-0057,ofis_metin_düzenleme,1,Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala,7,kopyala,KOPYALA,KOPYALA,True
+CH-0058,ofis_metin_düzenleme,2,Excel'de B sütununu seçip genişliğini biraz küçült,0,Excel'de,O,O,True
+CH-0058,ofis_metin_düzenleme,2,Excel'de B sütununu seçip genişliğini biraz küçült,1,B,SEÇ,SEÇ,True
+CH-0058,ofis_metin_düzenleme,2,Excel'de B sütununu seçip genişliğini biraz küçült,2,sütununu,SEÇ,SEÇ,True
+CH-0058,ofis_metin_düzenleme,2,Excel'de B sütununu seçip genişliğini biraz küçült,3,seçip,SEÇ,SEÇ,True
+CH-0058,ofis_metin_düzenleme,2,Excel'de B sütununu seçip genişliğini biraz küçült,4,genişliğini,KÜÇÜLT,KÜÇÜLT,True
+CH-0058,ofis_metin_düzenleme,2,Excel'de B sütununu seçip genişliğini biraz küçült,5,biraz,KÜÇÜLT,KÜÇÜLT,True
+CH-0058,ofis_metin_düzenleme,2,Excel'de B sütununu seçip genişliğini biraz küçült,6,küçült,KÜÇÜLT,KÜÇÜLT,True
+CH-0059,ofis_metin_düzenleme,2,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,0,Excel,O,O,True
+CH-0059,ofis_metin_düzenleme,2,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,1,tablosunda,O,O,True
+CH-0059,ofis_metin_düzenleme,2,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,2,boş,BUL,BUL,True
+CH-0059,ofis_metin_düzenleme,2,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,3,hücreleri,BUL,BUL,True
+CH-0059,ofis_metin_düzenleme,2,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,4,bul,BUL,BUL,True
+CH-0059,ofis_metin_düzenleme,2,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,5,ilkine,YAZ,YAZ,True
+CH-0059,ofis_metin_düzenleme,2,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,6,kontrol,YAZ,YAZ,True
+CH-0059,ofis_metin_düzenleme,2,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,7,edildi,YAZ,YAZ,True
+CH-0059,ofis_metin_düzenleme,2,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,8,yaz,YAZ,YAZ,True
+CH-0060,ofis_metin_düzenleme,3,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",0,PowerPoint'te,O,O,True
+CH-0060,ofis_metin_düzenleme,3,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",1,son,GEÇ,GEÇ,True
+CH-0060,ofis_metin_düzenleme,3,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",2,slayta,GEÇ,GEÇ,True
+CH-0060,ofis_metin_düzenleme,3,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",3,"geç,",GEÇ,GEÇ,True
+CH-0060,ofis_metin_düzenleme,3,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",4,resmi,SEÇ,SEÇ,True
+CH-0060,ofis_metin_düzenleme,3,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",5,"seç,",SEÇ,SEÇ,True
+CH-0060,ofis_metin_düzenleme,3,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",6,biraz,TAŞI,TAŞI,True
+CH-0060,ofis_metin_düzenleme,3,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",7,sola,TAŞI,TAŞI,True
+CH-0060,ofis_metin_düzenleme,3,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",8,al,TAŞI,TAŞI,True
+CH-0061,ofis_metin_düzenleme,2,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",0,Excel'de,O,O,True
+CH-0061,ofis_metin_düzenleme,2,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",1,toplam,BUL,BUL,True
+CH-0061,ofis_metin_düzenleme,2,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",2,satırını,BUL,BUL,True
+CH-0061,ofis_metin_düzenleme,2,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",3,"bul,",BUL,BUL,True
+CH-0061,ofis_metin_düzenleme,2,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",4,üstüne,YENİ_OLUŞTUR,BOŞLUK,False
+CH-0061,ofis_metin_düzenleme,2,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",5,yeni,YENİ_OLUŞTUR,BOŞLUK,False
+CH-0061,ofis_metin_düzenleme,2,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",6,bir,YENİ_OLUŞTUR,BOŞLUK,False
+CH-0061,ofis_metin_düzenleme,2,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",7,satır,YENİ_OLUŞTUR,BOŞLUK,False
+CH-0061,ofis_metin_düzenleme,2,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",8,ekle,YENİ_OLUŞTUR,BOŞLUK,False
+CH-0062,ofis_metin_düzenleme,3,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",0,Word'deki,O,SEÇ,False
+CH-0062,ofis_metin_düzenleme,3,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",1,tabloyu,SEÇ,SEÇ,True
+CH-0062,ofis_metin_düzenleme,3,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",2,"seç,",SEÇ,SEÇ,True
+CH-0062,ofis_metin_düzenleme,3,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",3,kenarlıklarını,DEĞİŞTİR,DEĞİŞTİR,True
+CH-0062,ofis_metin_düzenleme,3,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",4,sade,DEĞİŞTİR,DEĞİŞTİR,True
+CH-0062,ofis_metin_düzenleme,3,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",5,"yap,",DEĞİŞTİR,DEĞİŞTİR,True
+CH-0062,ofis_metin_düzenleme,3,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",6,belgeyi,KAYDET,KAYDET,True
+CH-0062,ofis_metin_düzenleme,3,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",7,kaydet,KAYDET,KAYDET,True
+CH-0063,ofis_metin_düzenleme,2,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",0,PowerPoint'te,O,O,True
+CH-0063,ofis_metin_düzenleme,2,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",1,başlığı,KÜÇÜLT,KÜÇÜLT,True
+CH-0063,ofis_metin_düzenleme,2,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",2,biraz,KÜÇÜLT,KÜÇÜLT,True
+CH-0063,ofis_metin_düzenleme,2,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",3,"küçült,",KÜÇÜLT,KÜÇÜLT,True
+CH-0063,ofis_metin_düzenleme,2,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",4,alt,BOŞLUK,BOŞLUK,True
+CH-0063,ofis_metin_düzenleme,2,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",5,başlığa,BOŞLUK,BOŞLUK,True
+CH-0063,ofis_metin_düzenleme,2,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",6,da,BOŞLUK,BOŞLUK,True
+CH-0063,ofis_metin_düzenleme,2,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",7,boşluk,BOŞLUK,BOŞLUK,True
+CH-0063,ofis_metin_düzenleme,2,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",8,ekle,BOŞLUK,BOŞLUK,True
+CH-0064,ofis_metin_düzenleme,2,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",0,Word'de,O,O,True
+CH-0064,ofis_metin_düzenleme,2,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",1,kaynakça,ARA,ARA,True
+CH-0064,ofis_metin_düzenleme,2,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",2,başlığını,ARA,ARA,True
+CH-0064,ofis_metin_düzenleme,2,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",3,"ara,",ARA,ARA,True
+CH-0064,ofis_metin_düzenleme,2,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",4,altına,BOŞLUK,BOŞLUK,True
+CH-0064,ofis_metin_düzenleme,2,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",5,yeni,BOŞLUK,BOŞLUK,True
+CH-0064,ofis_metin_düzenleme,2,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",6,bir,BOŞLUK,BOŞLUK,True
+CH-0064,ofis_metin_düzenleme,2,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",7,boş,BOŞLUK,BOŞLUK,True
+CH-0064,ofis_metin_düzenleme,2,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",8,satır,BOŞLUK,BOŞLUK,True
+CH-0064,ofis_metin_düzenleme,2,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",9,bırak,BOŞLUK,BOŞLUK,True
+CH-0065,ofis_metin_düzenleme,1,Excel'de formülü tekrar uygula ama satırları silme,0,Excel'de,O,O,True
+CH-0065,ofis_metin_düzenleme,1,Excel'de formülü tekrar uygula ama satırları silme,1,formülü,YİNELE,DİĞER,False
+CH-0065,ofis_metin_düzenleme,1,Excel'de formülü tekrar uygula ama satırları silme,2,tekrar,YİNELE,DİĞER,False
+CH-0065,ofis_metin_düzenleme,1,Excel'de formülü tekrar uygula ama satırları silme,3,uygula,YİNELE,DİĞER,False
+CH-0065,ofis_metin_düzenleme,1,Excel'de formülü tekrar uygula ama satırları silme,4,ama,O,O,True
+CH-0065,ofis_metin_düzenleme,1,Excel'de formülü tekrar uygula ama satırları silme,5,satırları,O,O,True
+CH-0065,ofis_metin_düzenleme,1,Excel'de formülü tekrar uygula ama satırları silme,6,silme,O,O,True
+CH-0066,ofis_metin_düzenleme,1,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,0,Word,YAZDIR,DİĞER,False
+CH-0066,ofis_metin_düzenleme,1,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,1,belgesini,YAZDIR,DİĞER,False
+CH-0066,ofis_metin_düzenleme,1,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,2,yazdırma,YAZDIR,DİĞER,False
+CH-0066,ofis_metin_düzenleme,1,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,3,ayarına,YAZDIR,DİĞER,False
+CH-0066,ofis_metin_düzenleme,1,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,4,getir,YAZDIR,DİĞER,False
+CH-0066,ofis_metin_düzenleme,1,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,5,ama,O,O,True
+CH-0066,ofis_metin_düzenleme,1,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,6,yazdırmayı,O,O,True
+CH-0066,ofis_metin_düzenleme,1,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,7,başlatma,O,O,True
+CH-0067,ofis_metin_düzenleme,3,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",0,PowerPoint'te,O,O,True
+CH-0067,ofis_metin_düzenleme,3,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",1,grafiği,SEÇ,SEÇ,True
+CH-0067,ofis_metin_düzenleme,3,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",2,"seç,",SEÇ,SEÇ,True
+CH-0067,ofis_metin_düzenleme,3,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",3,boyutunu,KÜÇÜLT,KÜÇÜLT,True
+CH-0067,ofis_metin_düzenleme,3,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",4,biraz,KÜÇÜLT,KÜÇÜLT,True
+CH-0067,ofis_metin_düzenleme,3,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",5,"küçült,",KÜÇÜLT,KÜÇÜLT,True
+CH-0067,ofis_metin_düzenleme,3,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",6,sağ,TAŞI,TAŞI,True
+CH-0067,ofis_metin_düzenleme,3,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",7,alta,TAŞI,TAŞI,True
+CH-0067,ofis_metin_düzenleme,3,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",8,taşı,TAŞI,TAŞI,True
+CH-0068,ofis_metin_düzenleme,2,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",0,Excel'de,O,O,True
+CH-0068,ofis_metin_düzenleme,2,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",1,hücredeki,O,SİL,False
+CH-0068,ofis_metin_düzenleme,2,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",2,fazla,SİL,SİL,True
+CH-0068,ofis_metin_düzenleme,2,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",3,boşluğu,SİL,SİL,True
+CH-0068,ofis_metin_düzenleme,2,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",4,"sil,",SİL,SİL,True
+CH-0068,ofis_metin_düzenleme,2,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",5,sonra,O,O,True
+CH-0068,ofis_metin_düzenleme,2,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",6,formülü,YİNELE,DİĞER,False
+CH-0068,ofis_metin_düzenleme,2,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",7,tekrar,YİNELE,DİĞER,False
+CH-0068,ofis_metin_düzenleme,2,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",8,uygula,YİNELE,DİĞER,False
+CH-0069,ofis_metin_düzenleme,1,"Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap",0,Word'de,O,O,True
+CH-0069,ofis_metin_düzenleme,1,"Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap",1,başlığı,O,O,True
+CH-0069,ofis_metin_düzenleme,1,"Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap",2,"büyütme,",O,O,True
+CH-0069,ofis_metin_düzenleme,1,"Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap",3,sadece,O,O,True
+CH-0069,ofis_metin_düzenleme,1,"Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap",4,altındaki,DEĞİŞTİR,DEĞİŞTİR,True
+CH-0069,ofis_metin_düzenleme,1,"Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap",5,açıklamayı,DEĞİŞTİR,YENİDEN_ADLANDIR,False
+CH-0069,ofis_metin_düzenleme,1,"Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap",6,italik,DEĞİŞTİR,YENİDEN_ADLANDIR,False
+CH-0069,ofis_metin_düzenleme,1,"Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap",7,yap,DEĞİŞTİR,YENİDEN_ADLANDIR,False
+CH-0070,ofis_metin_düzenleme,3,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",0,PowerPoint'te,O,O,True
+CH-0070,ofis_metin_düzenleme,3,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",1,üçüncü,GEÇ,GİT,False
+CH-0070,ofis_metin_düzenleme,3,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",2,slayta,GEÇ,GİT,False
+CH-0070,ofis_metin_düzenleme,3,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",3,"git,",GEÇ,GİT,False
+CH-0070,ofis_metin_düzenleme,3,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",4,resmi,SEÇ,SEÇ,True
+CH-0070,ofis_metin_düzenleme,3,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",5,"seç,",SEÇ,SEÇ,True
+CH-0070,ofis_metin_düzenleme,3,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",6,kenarını,BÜYÜT,BÜYÜT,True
+CH-0070,ofis_metin_düzenleme,3,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",7,biraz,BÜYÜT,BÜYÜT,True
+CH-0070,ofis_metin_düzenleme,3,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",8,büyüt,BÜYÜT,BÜYÜT,True
+CH-0071,ofis_metin_düzenleme,2,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",0,Word'de,O,O,True
+CH-0071,ofis_metin_düzenleme,2,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",1,son,O,O,True
+CH-0071,ofis_metin_düzenleme,2,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",2,paragrafı,O,O,True
+CH-0071,ofis_metin_düzenleme,2,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",3,"silme,",O,O,True
+CH-0071,ofis_metin_düzenleme,2,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",4,onu,KES,KES,True
+CH-0071,ofis_metin_düzenleme,2,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",5,kesip,KES,KES,True
+CH-0071,ofis_metin_düzenleme,2,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",6,önceki,TAŞI,TAŞI,True
+CH-0071,ofis_metin_düzenleme,2,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",7,sayfaya,TAŞI,TAŞI,True
+CH-0071,ofis_metin_düzenleme,2,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",8,taşı,TAŞI,TAŞI,True
+CH-0072,ofis_metin_düzenleme,3,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",0,Excel'de,O,O,True
+CH-0072,ofis_metin_düzenleme,3,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",1,C,SEÇ,SEÇ,True
+CH-0072,ofis_metin_düzenleme,3,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",2,sütununu,SEÇ,SEÇ,True
+CH-0072,ofis_metin_düzenleme,3,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",3,"seç,",SEÇ,SEÇ,True
+CH-0072,ofis_metin_düzenleme,3,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",4,genişliğini,AZALT,AZALT,True
+CH-0072,ofis_metin_düzenleme,3,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",5,"azalt,",AZALT,AZALT,True
+CH-0072,ofis_metin_düzenleme,3,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",6,dosyayı,KAYDET,KAYDET,True
+CH-0072,ofis_metin_düzenleme,3,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",7,kaydet,KAYDET,KAYDET,True
+CH-0073,ofis_metin_düzenleme,1,açık olan metinde iki boşluk varsa tek boşluğa indir,0,açık,O,O,True
+CH-0073,ofis_metin_düzenleme,1,açık olan metinde iki boşluk varsa tek boşluğa indir,1,olan,O,O,True
+CH-0073,ofis_metin_düzenleme,1,açık olan metinde iki boşluk varsa tek boşluğa indir,2,metinde,O,O,True
+CH-0073,ofis_metin_düzenleme,1,açık olan metinde iki boşluk varsa tek boşluğa indir,3,iki,DEĞİŞTİR,O,False
+CH-0073,ofis_metin_düzenleme,1,açık olan metinde iki boşluk varsa tek boşluğa indir,4,boşluk,DEĞİŞTİR,BOŞLUK,False
+CH-0073,ofis_metin_düzenleme,1,açık olan metinde iki boşluk varsa tek boşluğa indir,5,varsa,DEĞİŞTİR,O,False
+CH-0073,ofis_metin_düzenleme,1,açık olan metinde iki boşluk varsa tek boşluğa indir,6,tek,DEĞİŞTİR,KAYDIR,False
+CH-0073,ofis_metin_düzenleme,1,açık olan metinde iki boşluk varsa tek boşluğa indir,7,boşluğa,DEĞİŞTİR,KAYDIR,False
+CH-0073,ofis_metin_düzenleme,1,açık olan metinde iki boşluk varsa tek boşluğa indir,8,indir,DEĞİŞTİR,KAYDIR,False
+CH-0074,ofis_metin_düzenleme,1,raporun yalnızca ilk sayfasını yazdırmaya hazırla,0,raporun,O,YAZDIR,False
+CH-0074,ofis_metin_düzenleme,1,raporun yalnızca ilk sayfasını yazdırmaya hazırla,1,yalnızca,O,YAZDIR,False
+CH-0074,ofis_metin_düzenleme,1,raporun yalnızca ilk sayfasını yazdırmaya hazırla,2,ilk,YAZDIR,YAZDIR,True
+CH-0074,ofis_metin_düzenleme,1,raporun yalnızca ilk sayfasını yazdırmaya hazırla,3,sayfasını,YAZDIR,YAZDIR,True
+CH-0074,ofis_metin_düzenleme,1,raporun yalnızca ilk sayfasını yazdırmaya hazırla,4,yazdırmaya,YAZDIR,YAZDIR,True
+CH-0074,ofis_metin_düzenleme,1,raporun yalnızca ilk sayfasını yazdırmaya hazırla,5,hazırla,YAZDIR,YAZDIR,True
+CH-0075,ofis_metin_düzenleme,2,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,0,belgede,O,KOPYALA,False
+CH-0075,ofis_metin_düzenleme,2,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,1,seçili,KOPYALA,KOPYALA,True
+CH-0075,ofis_metin_düzenleme,2,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,2,kısmı,KOPYALA,KOPYALA,True
+CH-0075,ofis_metin_düzenleme,2,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,3,kopyala,KOPYALA,KOPYALA,True
+CH-0075,ofis_metin_düzenleme,2,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,4,sonra,O,O,True
+CH-0075,ofis_metin_düzenleme,2,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,5,yorum,YAPIŞTIR,YAPIŞTIR,True
+CH-0075,ofis_metin_düzenleme,2,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,6,alanına,YAPIŞTIR,YAPIŞTIR,True
+CH-0075,ofis_metin_düzenleme,2,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,7,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,0,ekrandaki,O,KOPYALA,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,1,kodu,KOPYALA,KOPYALA,True
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,2,kopyala,KOPYALA,KOPYALA,True
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,3,yeni,YENİ_OLUŞTUR,AÇ,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,4,bir,YENİ_OLUŞTUR,AÇ,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,5,spyder,YENİ_OLUŞTUR,AÇ,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,6,dosyası,YENİ_OLUŞTUR,AÇ,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,7,aç,YENİ_OLUŞTUR,AÇ,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,8,ve,O,O,True
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,9,içine,YAPIŞTIR,YAPIŞTIR,True
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,10,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,11,daha,O,O,True
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,12,sonra,O,O,True
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,13,dosyanın,O,YENİ_OLUŞTUR,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,14,ismini,O,YENİ_OLUŞTUR,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,15,de,O,YENİ_OLUŞTUR,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,16,yeni,YENİDEN_ADLANDIR,YENİ_OLUŞTUR,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,17,proje,YENİDEN_ADLANDIR,YENİ_OLUŞTUR,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,18,olarak,YENİDEN_ADLANDIR,YENİ_OLUŞTUR,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,19,oluştur,YENİDEN_ADLANDIR,YENİ_OLUŞTUR,False
+CH-0077,dosya_yazılım_geliştirme,2,terminali aç ve masaüstündeki tüm dosyaları listele,0,terminali,AÇ,AÇ,True
+CH-0077,dosya_yazılım_geliştirme,2,terminali aç ve masaüstündeki tüm dosyaları listele,1,aç,AÇ,AÇ,True
+CH-0077,dosya_yazılım_geliştirme,2,terminali aç ve masaüstündeki tüm dosyaları listele,2,ve,O,O,True
+CH-0077,dosya_yazılım_geliştirme,2,terminali aç ve masaüstündeki tüm dosyaları listele,3,masaüstündeki,DİĞER,DİĞER,True
+CH-0077,dosya_yazılım_geliştirme,2,terminali aç ve masaüstündeki tüm dosyaları listele,4,tüm,DİĞER,DİĞER,True
+CH-0077,dosya_yazılım_geliştirme,2,terminali aç ve masaüstündeki tüm dosyaları listele,5,dosyaları,DİĞER,DİĞER,True
+CH-0077,dosya_yazılım_geliştirme,2,terminali aç ve masaüstündeki tüm dosyaları listele,6,listele,DİĞER,DİĞER,True
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,0,kodu,GÖNDER,YAZ,False
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,1,commitle,GÖNDER,YAZ,False
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,2,ve,O,O,True
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,3,açıklama,YAZ,YAZ,True
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,4,olarak,YAZ,YAZ,True
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,5,da,YAZ,YAZ,True
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,6,her,YAZ,YAZ,True
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,7,şey,YAZ,YAZ,True
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,8,tamamlandı,YAZ,YAZ,True
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,9,yaz,YAZ,YAZ,True
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,10,daha,O,O,True
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,11,sonra,O,O,True
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,12,da,O,O,True
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,13,push,YÜKLE,KAYDET,False
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,14,et,YÜKLE,GÖNDER,False
+CH-0079,dosya_yazılım_geliştirme,2,kodun içinden 1266'ıncı satıra git o satırı komple sil,0,kodun,O,O,True
+CH-0079,dosya_yazılım_geliştirme,2,kodun içinden 1266'ıncı satıra git o satırı komple sil,1,içinden,O,O,True
+CH-0079,dosya_yazılım_geliştirme,2,kodun içinden 1266'ıncı satıra git o satırı komple sil,2,1266'ıncı,GİT,GİT,True
+CH-0079,dosya_yazılım_geliştirme,2,kodun içinden 1266'ıncı satıra git o satırı komple sil,3,satıra,GİT,GİT,True
+CH-0079,dosya_yazılım_geliştirme,2,kodun içinden 1266'ıncı satıra git o satırı komple sil,4,git,GİT,GİT,True
+CH-0079,dosya_yazılım_geliştirme,2,kodun içinden 1266'ıncı satıra git o satırı komple sil,5,o,SİL,SİL,True
+CH-0079,dosya_yazılım_geliştirme,2,kodun içinden 1266'ıncı satıra git o satırı komple sil,6,satırı,SİL,SİL,True
+CH-0079,dosya_yazılım_geliştirme,2,kodun içinden 1266'ıncı satıra git o satırı komple sil,7,komple,SİL,SİL,True
+CH-0079,dosya_yazılım_geliştirme,2,kodun içinden 1266'ıncı satıra git o satırı komple sil,8,sil,SİL,SİL,True
+CH-0080,dosya_yazılım_geliştirme,3,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,0,kodun,GİT,GİT,True
+CH-0080,dosya_yazılım_geliştirme,3,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,1,en,GİT,GİT,True
+CH-0080,dosya_yazılım_geliştirme,3,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,2,başına,GİT,GİT,True
+CH-0080,dosya_yazılım_geliştirme,3,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,3,git,GİT,GİT,True
+CH-0080,dosya_yazılım_geliştirme,3,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,4,ve,O,O,True
+CH-0080,dosya_yazılım_geliştirme,3,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,5,yorum,YAZ,YAZ,True
+CH-0080,dosya_yazılım_geliştirme,3,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,6,satırı,YAZ,YAZ,True
+CH-0080,dosya_yazılım_geliştirme,3,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,7,ekle,YAZ,YAZ,True
+CH-0080,dosya_yazılım_geliştirme,3,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,8,yorum,YAZ,YAZ,True
+CH-0080,dosya_yazılım_geliştirme,3,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,9,satırına,YAZ,YAZ,True
+CH-0080,dosya_yazılım_geliştirme,3,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,10,da,YAZ,YAZ,True
+CH-0080,dosya_yazılım_geliştirme,3,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,11,projenin,YAZ,YAZ,True
+CH-0080,dosya_yazılım_geliştirme,3,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,12,başlangıcı,YAZ,YAZ,True
+CH-0080,dosya_yazılım_geliştirme,3,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,13,yaz,YAZ,YAZ,True
+CH-0081,dosya_yazılım_geliştirme,3,terminali aç ip config yaz ve ip adresini göster,0,terminali,AÇ,AÇ,True
+CH-0081,dosya_yazılım_geliştirme,3,terminali aç ip config yaz ve ip adresini göster,1,aç,AÇ,AÇ,True
+CH-0081,dosya_yazılım_geliştirme,3,terminali aç ip config yaz ve ip adresini göster,2,ip,YAZ,YAZ,True
+CH-0081,dosya_yazılım_geliştirme,3,terminali aç ip config yaz ve ip adresini göster,3,config,YAZ,YAZ,True
+CH-0081,dosya_yazılım_geliştirme,3,terminali aç ip config yaz ve ip adresini göster,4,yaz,YAZ,YAZ,True
+CH-0081,dosya_yazılım_geliştirme,3,terminali aç ip config yaz ve ip adresini göster,5,ve,O,O,True
+CH-0081,dosya_yazılım_geliştirme,3,terminali aç ip config yaz ve ip adresini göster,6,ip,DİĞER,DİĞER,True
+CH-0081,dosya_yazılım_geliştirme,3,terminali aç ip config yaz ve ip adresini göster,7,adresini,DİĞER,DİĞER,True
+CH-0081,dosya_yazılım_geliştirme,3,terminali aç ip config yaz ve ip adresini göster,8,göster,DİĞER,DİĞER,True
+CH-0082,dosya_yazılım_geliştirme,2,microsoft sql server'ı aç en son çalıştığım dosyayı aç,0,microsoft,AÇ,AÇ,True
+CH-0082,dosya_yazılım_geliştirme,2,microsoft sql server'ı aç en son çalıştığım dosyayı aç,1,sql,AÇ,AÇ,True
+CH-0082,dosya_yazılım_geliştirme,2,microsoft sql server'ı aç en son çalıştığım dosyayı aç,2,server'ı,AÇ,AÇ,True
+CH-0082,dosya_yazılım_geliştirme,2,microsoft sql server'ı aç en son çalıştığım dosyayı aç,3,aç,AÇ,AÇ,True
+CH-0082,dosya_yazılım_geliştirme,2,microsoft sql server'ı aç en son çalıştığım dosyayı aç,4,en,AÇ,AÇ,True
+CH-0082,dosya_yazılım_geliştirme,2,microsoft sql server'ı aç en son çalıştığım dosyayı aç,5,son,AÇ,AÇ,True
+CH-0082,dosya_yazılım_geliştirme,2,microsoft sql server'ı aç en son çalıştığım dosyayı aç,6,çalıştığım,AÇ,AÇ,True
+CH-0082,dosya_yazılım_geliştirme,2,microsoft sql server'ı aç en son çalıştığım dosyayı aç,7,dosyayı,AÇ,AÇ,True
+CH-0082,dosya_yazılım_geliştirme,2,microsoft sql server'ı aç en son çalıştığım dosyayı aç,8,aç,AÇ,AÇ,True
+CH-0083,dosya_yazılım_geliştirme,3,query sekmesine git select * from yaz ve çalıştır,0,query,SEKME_DEĞİŞTİR,GİT,False
+CH-0083,dosya_yazılım_geliştirme,3,query sekmesine git select * from yaz ve çalıştır,1,sekmesine,SEKME_DEĞİŞTİR,GİT,False
+CH-0083,dosya_yazılım_geliştirme,3,query sekmesine git select * from yaz ve çalıştır,2,git,SEKME_DEĞİŞTİR,GİT,False
+CH-0083,dosya_yazılım_geliştirme,3,query sekmesine git select * from yaz ve çalıştır,3,select,YAZ,YAZ,True
+CH-0083,dosya_yazılım_geliştirme,3,query sekmesine git select * from yaz ve çalıştır,4,*,YAZ,YAZ,True
+CH-0083,dosya_yazılım_geliştirme,3,query sekmesine git select * from yaz ve çalıştır,5,from,YAZ,YAZ,True
+CH-0083,dosya_yazılım_geliştirme,3,query sekmesine git select * from yaz ve çalıştır,6,yaz,YAZ,YAZ,True
+CH-0083,dosya_yazılım_geliştirme,3,query sekmesine git select * from yaz ve çalıştır,7,ve,O,O,True
+CH-0083,dosya_yazılım_geliştirme,3,query sekmesine git select * from yaz ve çalıştır,8,çalıştır,DİĞER,DİĞER,True
+CH-0084,dosya_yazılım_geliştirme,3,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,0,terminali,AÇ,AÇ,True
+CH-0084,dosya_yazılım_geliştirme,3,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,1,açıp,AÇ,AÇ,True
+CH-0084,dosya_yazılım_geliştirme,3,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,2,npm,DİĞER,DİĞER,True
+CH-0084,dosya_yazılım_geliştirme,3,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,3,test,DİĞER,DİĞER,True
+CH-0084,dosya_yazılım_geliştirme,3,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,4,komutunu,DİĞER,DİĞER,True
+CH-0084,dosya_yazılım_geliştirme,3,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,5,çalıştır,DİĞER,DİĞER,True
+CH-0084,dosya_yazılım_geliştirme,3,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,6,ama,O,O,True
+CH-0084,dosya_yazılım_geliştirme,3,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,7,sonucu,O,O,True
+CH-0084,dosya_yazılım_geliştirme,3,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,8,göndermeden,O,O,True
+CH-0084,dosya_yazılım_geliştirme,3,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,9,ekranda,DİĞER,BOŞLUK,False
+CH-0084,dosya_yazılım_geliştirme,3,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,10,bırak,DİĞER,BOŞLUK,False
+CH-0085,dosya_yazılım_geliştirme,2,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,0,VS,O,O,True
+CH-0085,dosya_yazılım_geliştirme,2,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,1,Code'da,O,O,True
+CH-0085,dosya_yazılım_geliştirme,2,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,2,problems,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CH-0085,dosya_yazılım_geliştirme,2,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,3,sekmesine,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CH-0085,dosya_yazılım_geliştirme,2,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,4,geç,SEKME_DEĞİŞTİR,SEKME_DEĞİŞTİR,True
+CH-0085,dosya_yazılım_geliştirme,2,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,5,ve,O,O,True
+CH-0085,dosya_yazılım_geliştirme,2,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,6,ilk,GİT,GİT,True
+CH-0085,dosya_yazılım_geliştirme,2,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,7,hatanın,GİT,GİT,True
+CH-0085,dosya_yazılım_geliştirme,2,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,8,olduğu,GİT,GİT,True
+CH-0085,dosya_yazılım_geliştirme,2,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,9,satıra,GİT,GİT,True
+CH-0085,dosya_yazılım_geliştirme,2,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,10,git,GİT,GİT,True
+CH-0086,dosya_yazılım_geliştirme,2,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,0,README,O,GİT,False
+CH-0086,dosya_yazılım_geliştirme,2,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,1,dosyasının,O,GİT,False
+CH-0086,dosya_yazılım_geliştirme,2,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,2,en,GİT,GİT,True
+CH-0086,dosya_yazılım_geliştirme,2,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,3,altına,GİT,GİT,True
+CH-0086,dosya_yazılım_geliştirme,2,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,4,git,GİT,GİT,True
+CH-0086,dosya_yazılım_geliştirme,2,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,5,ve,O,O,True
+CH-0086,dosya_yazılım_geliştirme,2,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,6,kurulum,YAZ,YAZ,True
+CH-0086,dosya_yazılım_geliştirme,2,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,7,notu,YAZ,YAZ,True
+CH-0086,dosya_yazılım_geliştirme,2,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,8,diye,YAZ,YAZ,True
+CH-0086,dosya_yazılım_geliştirme,2,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,9,bir,YAZ,YAZ,True
+CH-0086,dosya_yazılım_geliştirme,2,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,10,başlık,YAZ,YAZ,True
+CH-0086,dosya_yazılım_geliştirme,2,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,11,ekle,YAZ,YAZ,True
+CH-0087,dosya_yazılım_geliştirme,3,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,0,terminalde,O,YAZ,False
+CH-0087,dosya_yazılım_geliştirme,3,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,1,git,YAZ,YAZ,True
+CH-0087,dosya_yazılım_geliştirme,3,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,2,status,YAZ,YAZ,True
+CH-0087,dosya_yazılım_geliştirme,3,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,3,yaz,YAZ,YAZ,True
+CH-0087,dosya_yazılım_geliştirme,3,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,4,enter'a,ENTER,ENTER,True
+CH-0087,dosya_yazılım_geliştirme,3,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,5,bas,ENTER,ENTER,True
+CH-0087,dosya_yazılım_geliştirme,3,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,6,sonra,O,O,True
+CH-0087,dosya_yazılım_geliştirme,3,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,7,değişen,KOPYALA,KOPYALA,True
+CH-0087,dosya_yazılım_geliştirme,3,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,8,dosya,KOPYALA,KOPYALA,True
+CH-0087,dosya_yazılım_geliştirme,3,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,9,adını,KOPYALA,KOPYALA,True
+CH-0087,dosya_yazılım_geliştirme,3,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,10,kopyala,KOPYALA,KOPYALA,True
+CH-0088,dosya_yazılım_geliştirme,1,Git panelini açmadan terminalden branch adını göster,0,Git,O,O,True
+CH-0088,dosya_yazılım_geliştirme,1,Git panelini açmadan terminalden branch adını göster,1,panelini,O,O,True
+CH-0088,dosya_yazılım_geliştirme,1,Git panelini açmadan terminalden branch adını göster,2,açmadan,O,O,True
+CH-0088,dosya_yazılım_geliştirme,1,Git panelini açmadan terminalden branch adını göster,3,terminalden,DİĞER,DİĞER,True
+CH-0088,dosya_yazılım_geliştirme,1,Git panelini açmadan terminalden branch adını göster,4,branch,DİĞER,DİĞER,True
+CH-0088,dosya_yazılım_geliştirme,1,Git panelini açmadan terminalden branch adını göster,5,adını,DİĞER,DİĞER,True
+CH-0088,dosya_yazılım_geliştirme,1,Git panelini açmadan terminalden branch adını göster,6,göster,DİĞER,DİĞER,True
+CH-0089,dosya_yazılım_geliştirme,2,config dosyasında timeout satırını bul ve değeri 30 yap,0,config,O,O,True
+CH-0089,dosya_yazılım_geliştirme,2,config dosyasında timeout satırını bul ve değeri 30 yap,1,dosyasında,O,O,True
+CH-0089,dosya_yazılım_geliştirme,2,config dosyasında timeout satırını bul ve değeri 30 yap,2,timeout,BUL,BUL,True
+CH-0089,dosya_yazılım_geliştirme,2,config dosyasında timeout satırını bul ve değeri 30 yap,3,satırını,BUL,BUL,True
+CH-0089,dosya_yazılım_geliştirme,2,config dosyasında timeout satırını bul ve değeri 30 yap,4,bul,BUL,BUL,True
+CH-0089,dosya_yazılım_geliştirme,2,config dosyasında timeout satırını bul ve değeri 30 yap,5,ve,O,O,True
+CH-0089,dosya_yazılım_geliştirme,2,config dosyasında timeout satırını bul ve değeri 30 yap,6,değeri,DEĞİŞTİR,DEĞİŞTİR,True
+CH-0089,dosya_yazılım_geliştirme,2,config dosyasında timeout satırını bul ve değeri 30 yap,7,30,DEĞİŞTİR,DEĞİŞTİR,True
+CH-0089,dosya_yazılım_geliştirme,2,config dosyasında timeout satırını bul ve değeri 30 yap,8,yap,DEĞİŞTİR,DEĞİŞTİR,True
+CH-0090,dosya_yazılım_geliştirme,3,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",0,terminalde,O,YAZ,False
+CH-0090,dosya_yazılım_geliştirme,3,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",1,docker,YAZ,YAZ,True
+CH-0090,dosya_yazılım_geliştirme,3,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",2,ps,YAZ,YAZ,True
+CH-0090,dosya_yazılım_geliştirme,3,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",3,yaz,YAZ,YAZ,True
+CH-0090,dosya_yazılım_geliştirme,3,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",4,sonra,O,O,True
+CH-0090,dosya_yazılım_geliştirme,3,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",5,enter,ENTER,ENTER,True
+CH-0090,dosya_yazılım_geliştirme,3,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",6,"bas,",ENTER,ENTER,True
+CH-0090,dosya_yazılım_geliştirme,3,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",7,çıkan,O,KOPYALA,False
+CH-0090,dosya_yazılım_geliştirme,3,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",8,container,KOPYALA,KOPYALA,True
+CH-0090,dosya_yazılım_geliştirme,3,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",9,adını,KOPYALA,KOPYALA,True
+CH-0090,dosya_yazılım_geliştirme,3,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",10,kopyala,KOPYALA,KOPYALA,True
+CH-0091,dosya_yazılım_geliştirme,2,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",0,VS,O,O,True
+CH-0091,dosya_yazılım_geliştirme,2,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",1,Code'da,O,O,True
+CH-0091,dosya_yazılım_geliştirme,2,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",2,env,AÇ,AÇ,True
+CH-0091,dosya_yazılım_geliştirme,2,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",3,dosyasını,AÇ,AÇ,True
+CH-0091,dosya_yazılım_geliştirme,2,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",4,"aç,",AÇ,AÇ,True
+CH-0091,dosya_yazılım_geliştirme,2,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",5,token,O,O,True
+CH-0091,dosya_yazılım_geliştirme,2,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",6,satırını,O,O,True
+CH-0091,dosya_yazılım_geliştirme,2,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",7,seçmeden,O,O,True
+CH-0091,dosya_yazılım_geliştirme,2,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",8,sadece,O,O,True
+CH-0091,dosya_yazılım_geliştirme,2,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",9,örnek,KOPYALA,KOPYALA,True
+CH-0091,dosya_yazılım_geliştirme,2,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",10,satırı,KOPYALA,KOPYALA,True
+CH-0091,dosya_yazılım_geliştirme,2,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",11,kopyala,KOPYALA,KOPYALA,True
+CH-0092,dosya_yazılım_geliştirme,1,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",0,terminalde,O,O,True
+CH-0092,dosya_yazılım_geliştirme,1,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",1,git,O,O,True
+CH-0092,dosya_yazılım_geliştirme,1,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",2,add,O,O,True
+CH-0092,dosya_yazılım_geliştirme,1,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",3,nokta,O,O,True
+CH-0092,dosya_yazılım_geliştirme,1,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",4,"yazma,",O,O,True
+CH-0092,dosya_yazılım_geliştirme,1,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",5,sadece,O,O,True
+CH-0092,dosya_yazılım_geliştirme,1,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",6,git,DİĞER,GİT,False
+CH-0092,dosya_yazılım_geliştirme,1,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",7,diff,DİĞER,DİĞER,True
+CH-0092,dosya_yazılım_geliştirme,1,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",8,komutunu,DİĞER,DİĞER,True
+CH-0092,dosya_yazılım_geliştirme,1,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",9,çalıştır,DİĞER,DİĞER,True
+CH-0093,dosya_yazılım_geliştirme,2,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,0,build,O,O,True
+CH-0093,dosya_yazılım_geliştirme,2,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,1,klasörünü,O,O,True
+CH-0093,dosya_yazılım_geliştirme,2,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,2,silmeden,O,O,True
+CH-0093,dosya_yazılım_geliştirme,2,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,3,release,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0093,dosya_yazılım_geliştirme,2,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,4,klasörü,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0093,dosya_yazılım_geliştirme,2,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,5,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0093,dosya_yazılım_geliştirme,2,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,6,ve,O,O,True
+CH-0093,dosya_yazılım_geliştirme,2,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,7,çıktı,TAŞI,TAŞI,True
+CH-0093,dosya_yazılım_geliştirme,2,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,8,dosyasını,TAŞI,TAŞI,True
+CH-0093,dosya_yazılım_geliştirme,2,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,9,oraya,TAŞI,TAŞI,True
+CH-0093,dosya_yazılım_geliştirme,2,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,10,taşı,TAŞI,TAŞI,True
+CH-0094,dosya_yazılım_geliştirme,2,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,0,VS,O,O,True
+CH-0094,dosya_yazılım_geliştirme,2,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,1,Code'da,O,O,True
+CH-0094,dosya_yazılım_geliştirme,2,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,2,routes,O,O,True
+CH-0094,dosya_yazılım_geliştirme,2,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,3,klasöründe,O,O,True
+CH-0094,dosya_yazılım_geliştirme,2,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,4,yeni,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0094,dosya_yazılım_geliştirme,2,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,5,api,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0094,dosya_yazılım_geliştirme,2,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,6,dosyası,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0094,dosya_yazılım_geliştirme,2,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,7,oluştur,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0094,dosya_yazılım_geliştirme,2,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,8,adını,O,YENİDEN_ADLANDIR,False
+CH-0094,dosya_yazılım_geliştirme,2,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,9,user_routes,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CH-0094,dosya_yazılım_geliştirme,2,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,10,yap,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CH-0095,dosya_yazılım_geliştirme,2,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",0,şey,O,O,True
+CH-0095,dosya_yazılım_geliştirme,2,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",1,yanlış,O,O,True
+CH-0095,dosya_yazılım_geliştirme,2,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",2,"dosyadasın,",O,O,True
+CH-0095,dosya_yazılım_geliştirme,2,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",3,main,GEÇ,GEÇ,True
+CH-0095,dosya_yazılım_geliştirme,2,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",4,dosyasına,GEÇ,GEÇ,True
+CH-0095,dosya_yazılım_geliştirme,2,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",5,geç,GEÇ,GEÇ,True
+CH-0095,dosya_yazılım_geliştirme,2,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",6,ve,O,O,True
+CH-0095,dosya_yazılım_geliştirme,2,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",7,import,BUL,BUL,True
+CH-0095,dosya_yazılım_geliştirme,2,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",8,satırını,BUL,BUL,True
+CH-0095,dosya_yazılım_geliştirme,2,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",9,bul,BUL,BUL,True
+CH-0096,dosya_yazılım_geliştirme,3,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",0,terminalde,O,O,True
+CH-0096,dosya_yazılım_geliştirme,3,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",1,komut,O,YAZ,False
+CH-0096,dosya_yazılım_geliştirme,3,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",2,satırına,O,YAZ,False
+CH-0096,dosya_yazılım_geliştirme,3,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",3,pip,YAZ,YAZ,True
+CH-0096,dosya_yazılım_geliştirme,3,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",4,install,YAZ,YAZ,True
+CH-0096,dosya_yazılım_geliştirme,3,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",5,"yaz,",YAZ,YAZ,True
+CH-0096,dosya_yazılım_geliştirme,3,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",6,bir,BOŞLUK,BOŞLUK,True
+CH-0096,dosya_yazılım_geliştirme,3,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",7,boşluk,BOŞLUK,BOŞLUK,True
+CH-0096,dosya_yazılım_geliştirme,3,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",8,"bırak,",BOŞLUK,BOŞLUK,True
+CH-0096,dosya_yazılım_geliştirme,3,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",9,paket,YAPIŞTIR,YAPIŞTIR,True
+CH-0096,dosya_yazılım_geliştirme,3,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",10,adını,YAPIŞTIR,YAPIŞTIR,True
+CH-0096,dosya_yazılım_geliştirme,3,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",11,yapıştır,YAPIŞTIR,YAPIŞTIR,True
+CH-0097,dosya_yazılım_geliştirme,2,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",0,geçici,SİL,SİL,True
+CH-0097,dosya_yazılım_geliştirme,2,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",1,cache,SİL,SİL,True
+CH-0097,dosya_yazılım_geliştirme,2,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",2,dosyasını,SİL,SİL,True
+CH-0097,dosya_yazılım_geliştirme,2,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",3,"sil,",SİL,SİL,True
+CH-0097,dosya_yazılım_geliştirme,2,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",4,sonra,O,O,True
+CH-0097,dosya_yazılım_geliştirme,2,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",5,test,YİNELE,DİĞER,False
+CH-0097,dosya_yazılım_geliştirme,2,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",6,komutunu,YİNELE,DİĞER,False
+CH-0097,dosya_yazılım_geliştirme,2,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",7,yeniden,YİNELE,DİĞER,False
+CH-0097,dosya_yazılım_geliştirme,2,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",8,çalıştır,YİNELE,DİĞER,False
+CH-0098,dosya_yazılım_geliştirme,3,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",0,VS,O,O,True
+CH-0098,dosya_yazılım_geliştirme,3,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",1,Code'da,O,O,True
+CH-0098,dosya_yazılım_geliştirme,3,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",2,search,O,ARA,False
+CH-0098,dosya_yazılım_geliştirme,3,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",3,panelinde,O,O,True
+CH-0098,dosya_yazılım_geliştirme,3,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",4,TODO,ARA,ARA,True
+CH-0098,dosya_yazılım_geliştirme,3,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",5,"ara,",ARA,ARA,True
+CH-0098,dosya_yazılım_geliştirme,3,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",6,ilk,AÇ,AÇ,True
+CH-0098,dosya_yazılım_geliştirme,3,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",7,sonucu,AÇ,AÇ,True
+CH-0098,dosya_yazılım_geliştirme,3,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",8,"aç,",AÇ,AÇ,True
+CH-0098,dosya_yazılım_geliştirme,3,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",9,satıra,YAZ,YAZ,True
+CH-0098,dosya_yazılım_geliştirme,3,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",10,yorum,YAZ,YAZ,True
+CH-0098,dosya_yazılım_geliştirme,3,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",11,ekle,YAZ,YAZ,True
+CH-0099,dosya_yazılım_geliştirme,3,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",0,repo,O,O,True
+CH-0099,dosya_yazılım_geliştirme,3,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",1,klasöründe,O,O,True
+CH-0099,dosya_yazılım_geliştirme,3,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",2,docs,YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0099,dosya_yazılım_geliştirme,3,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",3,"oluştur,",YENİ_OLUŞTUR,YENİ_OLUŞTUR,True
+CH-0099,dosya_yazılım_geliştirme,3,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",4,README,KOPYALA,KOPYALA,True
+CH-0099,dosya_yazılım_geliştirme,3,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",5,kopyasını,KOPYALA,KOPYALA,True
+CH-0099,dosya_yazılım_geliştirme,3,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",6,içine,KOPYALA,KOPYALA,True
+CH-0099,dosya_yazılım_geliştirme,3,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",7,"koy,",KOPYALA,KOPYALA,True
+CH-0099,dosya_yazılım_geliştirme,3,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",8,adını,O,YENİDEN_ADLANDIR,False
+CH-0099,dosya_yazılım_geliştirme,3,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",9,kullanım,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CH-0099,dosya_yazılım_geliştirme,3,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",10,yap,YENİDEN_ADLANDIR,YENİDEN_ADLANDIR,True
+CH-0100,dosya_yazılım_geliştirme,2,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",0,yanlış,O,O,True
+CH-0100,dosya_yazılım_geliştirme,2,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",1,branch'e,O,O,True
+CH-0100,dosya_yazılım_geliştirme,2,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",2,"geçme,",O,O,True
+CH-0100,dosya_yazılım_geliştirme,2,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",3,mevcut,DİĞER,DİĞER,True
+CH-0100,dosya_yazılım_geliştirme,2,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",4,branch,DİĞER,DİĞER,True
+CH-0100,dosya_yazılım_geliştirme,2,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",5,adını,DİĞER,DİĞER,True
+CH-0100,dosya_yazılım_geliştirme,2,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",6,göster,DİĞER,DİĞER,True
+CH-0100,dosya_yazılım_geliştirme,2,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",7,ve,O,O,True
+CH-0100,dosya_yazılım_geliştirme,2,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",8,sonucu,KOPYALA,KOPYALA,True
+CH-0100,dosya_yazılım_geliştirme,2,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",9,kopyala,KOPYALA,KOPYALA,True

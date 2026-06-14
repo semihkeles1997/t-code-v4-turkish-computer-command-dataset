@@ -1,0 +1,20 @@
+{
+  "source": "/Users/semihkeles/Desktop/Katip_Çelebi_Üniversitesi/Doktora/METİN MADENCİLİĞİ KAVRAMLARI , METİN MADENCİLİĞİ UYGULAMALARI DERSLERİ MAKALELERİ/KULLANIM KILAVUZU PROJESİ/Niyet Tanıma Projesi - 2. Makale/t-code-v4-github-ready/data/second_annotator/reliability_540_package/tcode_v4_annotation_reliability_subset_540_gold.jsonl",
+  "sample_size": 300,
+  "seed": 42,
+  "domain_distribution": {
+    "dosya_yazılım_geliştirme": 75,
+    "ofis_metin_düzenleme": 75,
+    "temel_bilgisayar": 75,
+    "tarayıcı_internet": 75
+  },
+  "task_count_distribution": {
+    "2": 95,
+    "4": 45,
+    "3": 107,
+    "1": 43,
+    "5": 10
+  },
+  "blind_csv": "/Users/semihkeles/Desktop/Katip_Çelebi_Üniversitesi/Doktora/METİN MADENCİLİĞİ KAVRAMLARI , METİN MADENCİLİĞİ UYGULAMALARI DERSLERİ MAKALELERİ/KULLANIM KILAVUZU PROJESİ/Niyet Tanıma Projesi - 2. Makale/t-code-v4-github-ready/data/second_annotator/second_annotator_sample_300_blind.csv",
+  "gold_jsonl": "/Users/semihkeles/Desktop/Katip_Çelebi_Üniversitesi/Doktora/METİN MADENCİLİĞİ KAVRAMLARI , METİN MADENCİLİĞİ UYGULAMALARI DERSLERİ MAKALELERİ/KULLANIM KILAVUZU PROJESİ/Niyet Tanıma Projesi - 2. Makale/t-code-v4-github-ready/data/second_annotator/second_annotator_sample_300_gold.jsonl"
+}

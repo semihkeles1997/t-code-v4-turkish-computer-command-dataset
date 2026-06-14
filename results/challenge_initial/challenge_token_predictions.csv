@@ -1,0 +1,913 @@
+﻿challenge_no,raw_command,token_index,token,pred_label,score
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,0,masaüstündeki,O,0.943994402885437
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,1,Semih,AÇ,0.9926013350486755
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,2,klasörünü,AÇ,0.9971839785575867
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,3,aç,AÇ,0.9978126287460327
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,4,ve,O,0.9968826770782471
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,5,içine,YENİ_OLUŞTUR,0.9833492040634155
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,6,yeni,YENİ_OLUŞTUR,0.9926418662071228
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,7,bir,YENİ_OLUŞTUR,0.9934112429618835
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,8,txt,YENİ_OLUŞTUR,0.9932047128677368
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,9,dosyası,YENİ_OLUŞTUR,0.9935529232025146
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,10,oluştur,YENİ_OLUŞTUR,0.9934263229370117
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,11,ismini,YENİDEN_ADLANDIR,0.8182498812675476
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,12,de,YENİDEN_ADLANDIR,0.8162395358085632
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,13,deneme,YENİDEN_ADLANDIR,0.8390259146690369
+1,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,14,yap,YENİDEN_ADLANDIR,0.8011097311973572
+2,Projelerim klasörüne git ve içindeki her şeyi sil,0,Projelerim,GİT,0.9915748238563538
+2,Projelerim klasörüne git ve içindeki her şeyi sil,1,klasörüne,GİT,0.9933708906173706
+2,Projelerim klasörüne git ve içindeki her şeyi sil,2,git,GİT,0.9934269189834595
+2,Projelerim klasörüne git ve içindeki her şeyi sil,3,ve,O,0.993164598941803
+2,Projelerim klasörüne git ve içindeki her şeyi sil,4,içindeki,SİL,0.9906741976737976
+2,Projelerim klasörüne git ve içindeki her şeyi sil,5,her,SİL,0.9891074299812317
+2,Projelerim klasörüne git ve içindeki her şeyi sil,6,şeyi,SİL,0.9908266663551331
+2,Projelerim klasörüne git ve içindeki her şeyi sil,7,sil,SİL,0.9923573732376099
+3,görev yöneticisini aç sonra da word'ü oradan kapat,0,görev,AÇ,0.9987519979476929
+3,görev yöneticisini aç sonra da word'ü oradan kapat,1,yöneticisini,AÇ,0.9988057613372803
+3,görev yöneticisini aç sonra da word'ü oradan kapat,2,aç,AÇ,0.9988030195236206
+3,görev yöneticisini aç sonra da word'ü oradan kapat,3,sonra,O,0.997142493724823
+3,görev yöneticisini aç sonra da word'ü oradan kapat,4,da,O,0.986099123954773
+3,görev yöneticisini aç sonra da word'ü oradan kapat,5,word'ü,KAPAT,0.9128561019897461
+3,görev yöneticisini aç sonra da word'ü oradan kapat,6,oradan,KAPAT,0.9717247486114502
+3,görev yöneticisini aç sonra da word'ü oradan kapat,7,kapat,KAPAT,0.9945695996284485
+4,bilgisayarın sesini 45'e getir,0,bilgisayarın,GEÇ,0.2974992096424103
+4,bilgisayarın sesini 45'e getir,1,sesini,GEÇ,0.42170125246047974
+4,bilgisayarın sesini 45'e getir,2,45'e,GEÇ,0.43615707755088806
+4,bilgisayarın sesini 45'e getir,3,getir,GEÇ,0.4267248213291168
+5,sağ tıkla ve yeni bir klasör oluştur,0,sağ,TIKLA,0.9738016724586487
+5,sağ tıkla ve yeni bir klasör oluştur,1,tıkla,TIKLA,0.9583964347839355
+5,sağ tıkla ve yeni bir klasör oluştur,2,ve,O,0.9899409413337708
+5,sağ tıkla ve yeni bir klasör oluştur,3,yeni,YENİ_OLUŞTUR,0.9918422698974609
+5,sağ tıkla ve yeni bir klasör oluştur,4,bir,YENİ_OLUŞTUR,0.9927101135253906
+5,sağ tıkla ve yeni bir klasör oluştur,5,klasör,YENİ_OLUŞTUR,0.9931083917617798
+5,sağ tıkla ve yeni bir klasör oluştur,6,oluştur,YENİ_OLUŞTUR,0.9935011267662048
+6,denetim masasını açıp fare ayarlarına git,0,denetim,AÇ,0.9987804293632507
+6,denetim masasını açıp fare ayarlarına git,1,masasını,AÇ,0.9986793398857117
+6,denetim masasını açıp fare ayarlarına git,2,açıp,AÇ,0.9986540079116821
+6,denetim masasını açıp fare ayarlarına git,3,fare,GİT,0.9906023740768433
+6,denetim masasını açıp fare ayarlarına git,4,ayarlarına,GİT,0.9878639578819275
+6,denetim masasını açıp fare ayarlarına git,5,git,GİT,0.9887654781341553
+7,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,0,ekranı,TAŞI,0.21249698102474213
+7,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,1,projeksiyona,TAŞI,0.18331852555274963
+7,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,2,yansıt,TAŞI,0.23425649106502533
+7,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,3,sonra,O,0.9956385493278503
+7,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,4,da,O,0.9793064594268799
+7,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,5,sunum,AÇ,0.998777449131012
+7,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,6,dosyasını,AÇ,0.9986280202865601
+7,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,7,aç,AÇ,0.9984702467918396
+8,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,0,geri,DİĞER,0.6278963088989258
+8,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,1,dönüşüm,DİĞER,0.6884567141532898
+8,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,2,kutusunu,DİĞER,0.6428244709968567
+8,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,3,boşalt,DİĞER,0.6272116899490356
+8,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,4,daha,O,0.9966514706611633
+8,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,5,sonra,O,0.9968948364257812
+8,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,6,masaüstüne,GEÇ,0.6940597891807556
+8,geri dönüşüm kutusunu boşalt daha sonra masaüstüne dön,7,dön,GEÇ,0.6662011742591858
+9,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,0,şu,O,0.9989562034606934
+9,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,1,indirdiğim,O,0.9987537860870361
+9,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,2,dosyayı,O,0.9985933899879456
+9,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,3,açma,O,0.9985760450363159
+9,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,4,ya,O,0.9986525177955627
+9,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,5,sadece,O,0.9986928105354309
+9,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,6,adının,BOŞLUK,0.4111711382865906
+9,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,7,sonuna,BOŞLUK,0.5693359971046448
+9,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,8,yedek,YAZ,0.469463586807251
+9,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,9,ekle,BOŞLUK,0.4706820845603943
+10,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,0,masaüstünde,O,0.9969183206558228
+10,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,1,yeni,YENİ_OLUŞTUR,0.9892227649688721
+10,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,2,bir,YENİ_OLUŞTUR,0.9894344210624695
+10,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,3,klasör,YENİ_OLUŞTUR,0.9909063577651978
+10,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,4,oluştur,YENİ_OLUŞTUR,0.9915781021118164
+10,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,5,içine,O,0.43775317072868347
+10,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,6,de,O,0.34896111488342285
+10,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,7,boş,BOŞLUK,0.48382505774497986
+10,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,8,bir,BOŞLUK,0.42664721608161926
+10,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,9,not,BOŞLUK,0.40451183915138245
+10,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,10,dosyası,BOŞLUK,0.4163268804550171
+10,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,11,koy,BOŞLUK,0.5294119119644165
+11,"yok onu silme, dosyayı belgeler klasörüne taşı sadece",0,yok,O,0.9988829493522644
+11,"yok onu silme, dosyayı belgeler klasörüne taşı sadece",1,onu,O,0.9989669322967529
+11,"yok onu silme, dosyayı belgeler klasörüne taşı sadece",2,"silme,",O,0.998917818069458
+11,"yok onu silme, dosyayı belgeler klasörüne taşı sadece",3,dosyayı,TAŞI,0.9949916005134583
+11,"yok onu silme, dosyayı belgeler klasörüne taşı sadece",4,belgeler,TAŞI,0.9945135116577148
+11,"yok onu silme, dosyayı belgeler klasörüne taşı sadece",5,klasörüne,TAŞI,0.9952417612075806
+11,"yok onu silme, dosyayı belgeler klasörüne taşı sadece",6,taşı,TAŞI,0.9948974251747131
+11,"yok onu silme, dosyayı belgeler klasörüne taşı sadece",7,sadece,O,0.9983232617378235
+12,ayarlarda ekran parlaklığını biraz azalt sesle uğraşma,0,ayarlarda,AZALT,0.6429588198661804
+12,ayarlarda ekran parlaklığını biraz azalt sesle uğraşma,1,ekran,AZALT,0.9907442927360535
+12,ayarlarda ekran parlaklığını biraz azalt sesle uğraşma,2,parlaklığını,AZALT,0.9911433458328247
+12,ayarlarda ekran parlaklığını biraz azalt sesle uğraşma,3,biraz,AZALT,0.9912172555923462
+12,ayarlarda ekran parlaklığını biraz azalt sesle uğraşma,4,azalt,AZALT,0.9931678175926208
+12,ayarlarda ekran parlaklığını biraz azalt sesle uğraşma,5,sesle,O,0.996614396572113
+12,ayarlarda ekran parlaklığını biraz azalt sesle uğraşma,6,uğraşma,O,0.995608389377594
+13,şey görev yöneticisini aç ama hiçbir işlemi kapatma,0,şey,O,0.997322142124176
+13,şey görev yöneticisini aç ama hiçbir işlemi kapatma,1,görev,AÇ,0.9988192915916443
+13,şey görev yöneticisini aç ama hiçbir işlemi kapatma,2,yöneticisini,AÇ,0.9988503456115723
+13,şey görev yöneticisini aç ama hiçbir işlemi kapatma,3,aç,AÇ,0.998823344707489
+13,şey görev yöneticisini aç ama hiçbir işlemi kapatma,4,ama,O,0.9975910186767578
+13,şey görev yöneticisini aç ama hiçbir işlemi kapatma,5,hiçbir,O,0.9915136694908142
+13,şey görev yöneticisini aç ama hiçbir işlemi kapatma,6,işlemi,O,0.9771180152893066
+13,şey görev yöneticisini aç ama hiçbir işlemi kapatma,7,kapatma,O,0.9726331830024719
+14,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,0,masaüstündeki,O,0.9988880753517151
+14,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,1,eski,O,0.9980692267417908
+14,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,2,ekran,O,0.9982352256774902
+14,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,3,görüntülerini,O,0.9978267550468445
+14,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,4,silme,O,0.9982739686965942
+14,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,5,sadece,O,0.9986388087272644
+14,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,6,ayrı,TAŞI,0.9933273792266846
+14,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,7,bir,TAŞI,0.9942619800567627
+14,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,8,klasöre,TAŞI,0.9948475360870361
+14,masaüstündeki eski ekran görüntülerini silme sadece ayrı bir klasöre taşı,9,taşı,TAŞI,0.9944595098495483
+15,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,0,şu,O,0.998856782913208
+15,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,1,pencere,O,0.9984116554260254
+15,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,2,çok,O,0.9984921216964722
+15,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,3,büyük,O,0.9978259205818176
+15,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,4,oldu,O,0.9986201524734497
+15,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,5,biraz,KÜÇÜLT,0.991817057132721
+15,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,6,küçült,KÜÇÜLT,0.9923768043518066
+15,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,7,ve,O,0.8450992107391357
+15,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,8,sağ,TAŞI,0.9868195056915283
+15,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,9,tarafa,TAŞI,0.9861611127853394
+15,şu pencere çok büyük oldu biraz küçült ve sağ tarafa al,10,al,TAŞI,0.9876232147216797
+16,dosyayı yeniden adlandır ama uzantısına dokunma,0,dosyayı,YENİDEN_ADLANDIR,0.9871067404747009
+16,dosyayı yeniden adlandır ama uzantısına dokunma,1,yeniden,YENİDEN_ADLANDIR,0.9803580045700073
+16,dosyayı yeniden adlandır ama uzantısına dokunma,2,adlandır,YENİDEN_ADLANDIR,0.9893459677696228
+16,dosyayı yeniden adlandır ama uzantısına dokunma,3,ama,O,0.9979470372200012
+16,dosyayı yeniden adlandır ama uzantısına dokunma,4,uzantısına,O,0.9955242872238159
+16,dosyayı yeniden adlandır ama uzantısına dokunma,5,dokunma,O,0.9949652552604675
+17,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,0,ayarlar,YAZ,0.9854966998100281
+17,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,1,aramasına,YAZ,0.9784950613975525
+17,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,2,erişilebilirlik,YAZ,0.9950326681137085
+17,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,3,yaz,YAZ,0.9950120449066162
+17,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,4,ve,O,0.9958165287971497
+17,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,5,çıkan,GİT,0.9775092601776123
+17,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,6,ilk,GİT,0.9836000204086304
+17,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,7,sonuca,GİT,0.9861447811126709
+17,ayarlar aramasına erişilebilirlik yaz ve çıkan ilk sonuca git,8,git,GİT,0.9866251945495605
+18,"dosyayı silme, adının başına taslak ekle ve kaydet",0,dosyayı,O,0.9990278482437134
+18,"dosyayı silme, adının başına taslak ekle ve kaydet",1,"silme,",O,0.9987348914146423
+18,"dosyayı silme, adının başına taslak ekle ve kaydet",2,adının,BOŞLUK,0.583720862865448
+18,"dosyayı silme, adının başına taslak ekle ve kaydet",3,başına,BOŞLUK,0.6847462058067322
+18,"dosyayı silme, adının başına taslak ekle ve kaydet",4,taslak,BOŞLUK,0.6269053816795349
+18,"dosyayı silme, adının başına taslak ekle ve kaydet",5,ekle,BOŞLUK,0.696784257888794
+18,"dosyayı silme, adının başına taslak ekle ve kaydet",6,ve,O,0.9952290058135986
+18,"dosyayı silme, adının başına taslak ekle ve kaydet",7,kaydet,KAYDET,0.9966205358505249
+19,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,0,masaüstünde,O,0.9970102310180664
+19,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,1,ekran,BUL,0.9984064698219299
+19,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,2,okuyucu,BUL,0.9985091090202332
+19,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,3,kısayolunu,BUL,0.9985985159873962
+19,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,4,bul,BUL,0.9985172152519226
+19,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,5,ve,O,0.9958149790763855
+19,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,6,görev,DİĞER,0.3448984622955322
+19,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,7,çubuğuna,TAŞI,0.2700963616371155
+19,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,8,sabitle,DİĞER,0.29114800691604614
+20,"ayarlar penceresini kapatma, imleç boyutunu biraz büyüt",0,ayarlar,O,0.9974790215492249
+20,"ayarlar penceresini kapatma, imleç boyutunu biraz büyüt",1,penceresini,O,0.996793806552887
+20,"ayarlar penceresini kapatma, imleç boyutunu biraz büyüt",2,"kapatma,",O,0.9969378709793091
+20,"ayarlar penceresini kapatma, imleç boyutunu biraz büyüt",3,imleç,BÜYÜT,0.9944477081298828
+20,"ayarlar penceresini kapatma, imleç boyutunu biraz büyüt",4,boyutunu,BÜYÜT,0.9952632188796997
+20,"ayarlar penceresini kapatma, imleç boyutunu biraz büyüt",5,biraz,BÜYÜT,0.9952163696289062
+20,"ayarlar penceresini kapatma, imleç boyutunu biraz büyüt",6,büyüt,BÜYÜT,0.9954700469970703
+21,ekrandaki küçük yazıları biraz büyüt gözüm seçmiyor,0,ekrandaki,BÜYÜT,0.9914382696151733
+21,ekrandaki küçük yazıları biraz büyüt gözüm seçmiyor,1,küçük,BÜYÜT,0.9941675662994385
+21,ekrandaki küçük yazıları biraz büyüt gözüm seçmiyor,2,yazıları,BÜYÜT,0.9943114519119263
+21,ekrandaki küçük yazıları biraz büyüt gözüm seçmiyor,3,biraz,BÜYÜT,0.9947966933250427
+21,ekrandaki küçük yazıları biraz büyüt gözüm seçmiyor,4,büyüt,BÜYÜT,0.9950730204582214
+21,ekrandaki küçük yazıları biraz büyüt gözüm seçmiyor,5,gözüm,O,0.974440336227417
+21,ekrandaki küçük yazıları biraz büyüt gözüm seçmiyor,6,seçmiyor,O,0.9513038992881775
+22,yanlış yere gittin ayarlarda imleç boyutunu bulacaksın,0,yanlış,O,0.9920471906661987
+22,yanlış yere gittin ayarlarda imleç boyutunu bulacaksın,1,yere,O,0.9797256588935852
+22,yanlış yere gittin ayarlarda imleç boyutunu bulacaksın,2,gittin,O,0.9829230308532715
+22,yanlış yere gittin ayarlarda imleç boyutunu bulacaksın,3,ayarlarda,BUL,0.9787251353263855
+22,yanlış yere gittin ayarlarda imleç boyutunu bulacaksın,4,imleç,BUL,0.9955761432647705
+22,yanlış yere gittin ayarlarda imleç boyutunu bulacaksın,5,boyutunu,BUL,0.9958518743515015
+22,yanlış yere gittin ayarlarda imleç boyutunu bulacaksın,6,bulacaksın,BUL,0.9965910911560059
+23,o dosyayı silme sadece yedek klasörüne taşı,0,o,O,0.9989439845085144
+23,o dosyayı silme sadece yedek klasörüne taşı,1,dosyayı,O,0.9989411234855652
+23,o dosyayı silme sadece yedek klasörüne taşı,2,silme,O,0.9988061189651489
+23,o dosyayı silme sadece yedek klasörüne taşı,3,sadece,O,0.9987573623657227
+23,o dosyayı silme sadece yedek klasörüne taşı,4,yedek,TAŞI,0.9956181049346924
+23,o dosyayı silme sadece yedek klasörüne taşı,5,klasörüne,TAŞI,0.9957218170166016
+23,o dosyayı silme sadece yedek klasörüne taşı,6,taşı,TAŞI,0.995501697063446
+24,masaüstündeki son oluşturduğumuz klasörü aç,0,masaüstündeki,O,0.9666223526000977
+24,masaüstündeki son oluşturduğumuz klasörü aç,1,son,AÇ,0.9896442890167236
+24,masaüstündeki son oluşturduğumuz klasörü aç,2,oluşturduğumuz,AÇ,0.9970667958259583
+24,masaüstündeki son oluşturduğumuz klasörü aç,3,klasörü,AÇ,0.9983329176902771
+24,masaüstündeki son oluşturduğumuz klasörü aç,4,aç,AÇ,0.9984484910964966
+25,bilgisayarın sesi çok yüksek oldu 25'e getir,0,bilgisayarın,O,0.9948888421058655
+25,bilgisayarın sesi çok yüksek oldu 25'e getir,1,sesi,O,0.986814022064209
+25,bilgisayarın sesi çok yüksek oldu 25'e getir,2,çok,O,0.9936782717704773
+25,bilgisayarın sesi çok yüksek oldu 25'e getir,3,yüksek,O,0.9880452752113342
+25,bilgisayarın sesi çok yüksek oldu 25'e getir,4,oldu,O,0.9946850538253784
+25,bilgisayarın sesi çok yüksek oldu 25'e getir,5,25'e,DİĞER,0.3130013942718506
+25,bilgisayarın sesi çok yüksek oldu 25'e getir,6,getir,DİĞER,0.3720260262489319
+26,chrome'u çalıştır ve yeni bir sekme aç,0,chrome'u,DİĞER,0.6011239290237427
+26,chrome'u çalıştır ve yeni bir sekme aç,1,çalıştır,DİĞER,0.6117664575576782
+26,chrome'u çalıştır ve yeni bir sekme aç,2,ve,O,0.9956849813461304
+26,chrome'u çalıştır ve yeni bir sekme aç,3,yeni,AÇ,0.8977562785148621
+26,chrome'u çalıştır ve yeni bir sekme aç,4,bir,AÇ,0.9126811027526855
+26,chrome'u çalıştır ve yeni bir sekme aç,5,sekme,AÇ,0.9051713943481445
+26,chrome'u çalıştır ve yeni bir sekme aç,6,aç,AÇ,0.9283684492111206
+27,bir sonraki sekmeye git tüm sayfayı yazdır,0,bir,GİT,0.649131178855896
+27,bir sonraki sekmeye git tüm sayfayı yazdır,1,sonraki,GİT,0.8735044002532959
+27,bir sonraki sekmeye git tüm sayfayı yazdır,2,sekmeye,GİT,0.8996986150741577
+27,bir sonraki sekmeye git tüm sayfayı yazdır,3,git,GİT,0.94725501537323
+27,bir sonraki sekmeye git tüm sayfayı yazdır,4,tüm,YAZDIR,0.9921286106109619
+27,bir sonraki sekmeye git tüm sayfayı yazdır,5,sayfayı,YAZDIR,0.993147075176239
+27,bir sonraki sekmeye git tüm sayfayı yazdır,6,yazdır,YAZDIR,0.9943601489067078
+28,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,0,yeni,O,0.9981923699378967
+28,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,1,sekme,O,0.9976812601089478
+28,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,2,açmadan,O,0.9979467988014221
+28,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,3,mevcut,ARA,0.747263491153717
+28,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,4,sekmede,O,0.7720409631729126
+28,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,5,üniversite,ARA,0.9944753050804138
+28,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,6,sitesini,ARA,0.9945623278617859
+28,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,7,ara,ARA,0.9931361675262451
+29,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,0,tarayıcıdaki,O,0.9955666661262512
+29,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,1,indirme,YİNELE,0.990748941898346
+29,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,2,sayfasını,YİNELE,0.9903410077095032
+29,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,3,yenile,YİNELE,0.9907985925674438
+29,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,4,sonra,O,0.9976122379302979
+29,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,5,pdf,İNDİR,0.9955553412437439
+29,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,6,dosyasını,İNDİR,0.9958112239837646
+29,tarayıcıdaki indirme sayfasını yenile sonra pdf dosyasını indir,7,indir,İNDİR,0.9953723549842834
+30,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",0,Chrome'da,O,0.9968857169151306
+30,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",1,bu,O,0.6089449524879456
+30,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",2,sekmeyi,KAPAT,0.9819601774215698
+30,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",3,"kapat,",KAPAT,0.9829822182655334
+30,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",4,sonra,O,0.9986029267311096
+30,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",5,soldaki,SEKME_DEĞİŞTİR,0.9815483689308167
+30,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",6,sekmeye,SEKME_DEĞİŞTİR,0.9918317198753357
+30,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",7,geç,SEKME_DEĞİŞTİR,0.9860299229621887
+31,"Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala",0,Chrome'da,O,0.9984246492385864
+31,"Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala",1,arama,O,0.9986169338226318
+31,"Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala",2,sonucunu,O,0.9984961748123169
+31,"Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala",3,"açma,",O,0.9986306428909302
+31,"Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala",4,sadece,O,0.9986569881439209
+31,"Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala",5,bağlantı,KOPYALA,0.9982208609580994
+31,"Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala",6,adresini,KOPYALA,0.9982067346572876
+31,"Chrome'da arama sonucunu açma, sadece bağlantı adresini kopyala",7,kopyala,KOPYALA,0.9985309839248657
+32,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",0,hayır,O,0.9984326958656311
+32,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",1,"göndermiyorsun,",O,0.9977147579193115
+32,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",2,formu,DİĞER,0.13762801885604858
+32,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",3,doldurup,YAZ,0.14426293969154358
+32,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",4,taslak,BOŞLUK,0.33409127593040466
+32,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",5,olarak,YAPIŞTIR,0.28387677669525146
+32,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",6,bırak,BOŞLUK,0.3090496361255646
+33,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,0,Chrome'da,O,0.9968354105949402
+33,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,1,açık,YİNELE,0.5983119606971741
+33,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,2,sekmeyi,YİNELE,0.982200026512146
+33,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,3,yenile,YİNELE,0.9842687845230103
+33,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,4,ve,O,0.9947447776794434
+33,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,5,sayfanın,GEÇ,0.4943443238735199
+33,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,6,başına,GEÇ,0.5566175580024719
+33,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,7,dön,GEÇ,0.5454571843147278
+34,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",0,Chrome'da,O,0.9974478483200073
+34,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",1,pdf,SEKME_DEĞİŞTİR,0.9667242765426636
+34,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",2,sekmesine,SEKME_DEĞİŞTİR,0.9833510518074036
+34,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",3,"geç,",SEKME_DEĞİŞTİR,0.9758809208869934
+34,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",4,dosyayı,İNDİR,0.9943610429763794
+34,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",5,"indir,",İNDİR,0.9940010905265808
+34,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",6,sekmeyi,KAPAT,0.3251217007637024
+34,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",7,açık,DİĞER,0.40846824645996094
+34,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",8,bırak,DİĞER,0.42860931158065796
+35,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",0,Chrome'da,O,0.9972330927848816
+35,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",1,başvuru,YİNELE,0.9905029535293579
+35,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",2,sayfasını,YİNELE,0.9895240664482117
+35,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",3,"yenile,",YİNELE,0.989865243434906
+35,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",4,sonra,O,0.9981843829154968
+35,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",5,ekli,İNDİR,0.9939290285110474
+35,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",6,dosyayı,İNDİR,0.9948375821113586
+35,"Chrome'da başvuru sayfasını yenile, sonra ekli dosyayı indir",7,indir,İNDİR,0.9945906400680542
+36,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,0,şu,O,0.9985450506210327
+36,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,1,arama,O,0.9978423118591309
+36,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,2,yerine,O,0.9973428845405579
+36,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,3,hata,YAZ,0.9969573020935059
+36,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,4,kodunu,YAZ,0.9970859885215759
+36,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,5,yazıp,YAZ,0.9959808588027954
+36,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,6,sonucu,O,0.9957713484764099
+36,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,7,açmadan,O,0.9940425753593445
+36,şu arama yerine hata kodunu yazıp sonucu açmadan bırak,8,bırak,O,0.8328675627708435
+37,biraz aşağı kaydır ya şu butonu göremiyorum,0,biraz,KAYDIR,0.9915989637374878
+37,biraz aşağı kaydır ya şu butonu göremiyorum,1,aşağı,KAYDIR,0.9935291409492493
+37,biraz aşağı kaydır ya şu butonu göremiyorum,2,kaydır,KAYDIR,0.9941607117652893
+37,biraz aşağı kaydır ya şu butonu göremiyorum,3,ya,O,0.9980159997940063
+37,biraz aşağı kaydır ya şu butonu göremiyorum,4,şu,O,0.9865359663963318
+37,biraz aşağı kaydır ya şu butonu göremiyorum,5,butonu,O,0.9775499105453491
+37,biraz aşağı kaydır ya şu butonu göremiyorum,6,göremiyorum,O,0.9803228378295898
+38,şu mavi düğmeye basma yanındaki indirme şeyine tıkla,0,şu,O,0.9986338019371033
+38,şu mavi düğmeye basma yanındaki indirme şeyine tıkla,1,mavi,O,0.9982976317405701
+38,şu mavi düğmeye basma yanındaki indirme şeyine tıkla,2,düğmeye,O,0.9976932406425476
+38,şu mavi düğmeye basma yanındaki indirme şeyine tıkla,3,basma,O,0.9978919625282288
+38,şu mavi düğmeye basma yanındaki indirme şeyine tıkla,4,yanındaki,TIKLA,0.9484807252883911
+38,şu mavi düğmeye basma yanındaki indirme şeyine tıkla,5,indirme,TIKLA,0.9911124110221863
+38,şu mavi düğmeye basma yanındaki indirme şeyine tıkla,6,şeyine,TIKLA,0.9921875
+38,şu mavi düğmeye basma yanındaki indirme şeyine tıkla,7,tıkla,TIKLA,0.9898179173469543
+39,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,0,tarayıcıda,YİNELE,0.8111053705215454
+39,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,1,olduğumuz,YİNELE,0.987106442451477
+39,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,2,sayfayı,YİNELE,0.9895561337471008
+39,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,3,yenile,YİNELE,0.9895400404930115
+39,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,4,sonra,O,0.9964511394500732
+39,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,5,tekrar,KAYDIR,0.7094380259513855
+39,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,6,aşağı,KAYDIR,0.9773460626602173
+39,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,7,in,KAYDIR,0.9731116890907288
+40,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,0,bu,KAYDIR,0.9920295476913452
+40,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,1,sayfayı,KAYDIR,0.993028461933136
+40,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,2,biraz,KAYDIR,0.9931657910346985
+40,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,3,yukarı,KAYDIR,0.9939029812812805
+40,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,4,kaydır,KAYDIR,0.9943960905075073
+40,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,5,başlık,O,0.9509393572807312
+40,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,6,kısmı,O,0.9426977038383484
+40,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,7,lazım,O,0.9612171053886414
+41,şu indirme tamamlandıysa dosyayı açmadan klasörde göster,0,şu,O,0.9983286261558533
+41,şu indirme tamamlandıysa dosyayı açmadan klasörde göster,1,indirme,O,0.9949506521224976
+41,şu indirme tamamlandıysa dosyayı açmadan klasörde göster,2,tamamlandıysa,O,0.9949923157691956
+41,şu indirme tamamlandıysa dosyayı açmadan klasörde göster,3,dosyayı,O,0.997026264667511
+41,şu indirme tamamlandıysa dosyayı açmadan klasörde göster,4,açmadan,O,0.9964712858200073
+41,şu indirme tamamlandıysa dosyayı açmadan klasörde göster,5,klasörde,TIKLA,0.9008533954620361
+41,şu indirme tamamlandıysa dosyayı açmadan klasörde göster,6,göster,TIKLA,0.8934754729270935
+42,o sekmeyi yenileme sadece önceki sekmeye dön,0,o,O,0.9988853335380554
+42,o sekmeyi yenileme sadece önceki sekmeye dön,1,sekmeyi,O,0.9983023405075073
+42,o sekmeyi yenileme sadece önceki sekmeye dön,2,yenileme,O,0.9984645843505859
+42,o sekmeyi yenileme sadece önceki sekmeye dön,3,sadece,O,0.9989080429077148
+42,o sekmeyi yenileme sadece önceki sekmeye dön,4,önceki,SEKME_DEĞİŞTİR,0.786334753036499
+42,o sekmeyi yenileme sadece önceki sekmeye dön,5,sekmeye,SEKME_DEĞİŞTİR,0.8678795695304871
+42,o sekmeyi yenileme sadece önceki sekmeye dön,6,dön,SEKME_DEĞİŞTİR,0.7582864165306091
+43,Chrome demeyeyim işte açık olan internet sayfasında arama yap,0,Chrome,O,0.9964535236358643
+43,Chrome demeyeyim işte açık olan internet sayfasında arama yap,1,demeyeyim,O,0.995278000831604
+43,Chrome demeyeyim işte açık olan internet sayfasında arama yap,2,işte,O,0.9973322153091431
+43,Chrome demeyeyim işte açık olan internet sayfasında arama yap,3,açık,O,0.4171500504016876
+43,Chrome demeyeyim işte açık olan internet sayfasında arama yap,4,olan,O,0.36701077222824097
+43,Chrome demeyeyim işte açık olan internet sayfasında arama yap,5,internet,BUL,0.42979490756988525
+43,Chrome demeyeyim işte açık olan internet sayfasında arama yap,6,sayfasında,ARA,0.4662415683269501
+43,Chrome demeyeyim işte açık olan internet sayfasında arama yap,7,arama,ARA,0.5404783487319946
+43,Chrome demeyeyim işte açık olan internet sayfasında arama yap,8,yap,ARA,0.4419251084327698
+44,o butona tıklama ya sadece yanında çıkan yazıyı seç,0,o,O,0.9986763596534729
+44,o butona tıklama ya sadece yanında çıkan yazıyı seç,1,butona,O,0.9980231523513794
+44,o butona tıklama ya sadece yanında çıkan yazıyı seç,2,tıklama,O,0.9979164004325867
+44,o butona tıklama ya sadece yanında çıkan yazıyı seç,3,ya,O,0.9985711574554443
+44,o butona tıklama ya sadece yanında çıkan yazıyı seç,4,sadece,O,0.9985747337341309
+44,o butona tıklama ya sadece yanında çıkan yazıyı seç,5,yanında,SEÇ,0.996845543384552
+44,o butona tıklama ya sadece yanında çıkan yazıyı seç,6,çıkan,SEÇ,0.9978381991386414
+44,o butona tıklama ya sadece yanında çıkan yazıyı seç,7,yazıyı,SEÇ,0.9985584616661072
+44,o butona tıklama ya sadece yanında çıkan yazıyı seç,8,seç,SEÇ,0.9984555244445801
+45,şu sayfada başvuru dosyası nerede onu bulup indir,0,şu,O,0.9970934391021729
+45,şu sayfada başvuru dosyası nerede onu bulup indir,1,sayfada,O,0.9953730702400208
+45,şu sayfada başvuru dosyası nerede onu bulup indir,2,başvuru,BUL,0.9894220232963562
+45,şu sayfada başvuru dosyası nerede onu bulup indir,3,dosyası,BUL,0.988419771194458
+45,şu sayfada başvuru dosyası nerede onu bulup indir,4,nerede,BUL,0.9902476668357849
+45,şu sayfada başvuru dosyası nerede onu bulup indir,5,onu,BUL,0.9965956807136536
+45,şu sayfada başvuru dosyası nerede onu bulup indir,6,bulup,BUL,0.997212827205658
+45,şu sayfada başvuru dosyası nerede onu bulup indir,7,indir,İNDİR,0.9943627119064331
+46,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,0,yanlış,O,0.9969834685325623
+46,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,1,sekmedeyiz,O,0.9916090369224548
+46,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,2,geri,GEÇ,0.2293769270181656
+46,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,3,dön,GEÇ,0.27280139923095703
+46,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,4,bir,GEÇ,0.95760178565979
+46,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,5,önceki,GEÇ,0.9666408896446228
+46,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,6,sayfaya,GEÇ,0.9712107181549072
+46,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,7,geç,GEÇ,0.9704446792602539
+47,şu listeyi aşağı kaydır en sondaki seçeneği seç,0,şu,KAYDIR,0.9915851354598999
+47,şu listeyi aşağı kaydır en sondaki seçeneği seç,1,listeyi,KAYDIR,0.9938521385192871
+47,şu listeyi aşağı kaydır en sondaki seçeneği seç,2,aşağı,KAYDIR,0.9938219785690308
+47,şu listeyi aşağı kaydır en sondaki seçeneği seç,3,kaydır,KAYDIR,0.9943135976791382
+47,şu listeyi aşağı kaydır en sondaki seçeneği seç,4,en,SEÇ,0.9977781176567078
+47,şu listeyi aşağı kaydır en sondaki seçeneği seç,5,sondaki,SEÇ,0.9983147382736206
+47,şu listeyi aşağı kaydır en sondaki seçeneği seç,6,seçeneği,SEÇ,0.9986482262611389
+47,şu listeyi aşağı kaydır en sondaki seçeneği seç,7,seç,SEÇ,0.9985924363136292
+48,tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama,0,tarayıcıda,O,0.9975903034210205
+48,tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama,1,aramayı,YİNELE,0.9663148522377014
+48,tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama,2,tekrar,YİNELE,0.9739788174629211
+48,tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama,3,yap,YİNELE,0.9731023907661438
+48,tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama,4,ama,O,0.9971344470977783
+48,tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama,5,ilk,O,0.9901697039604187
+48,tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama,6,sonuca,O,0.9864571690559387
+48,tarayıcıda aramayı tekrar yap ama ilk sonuca tıklama,7,tıklama,O,0.9926735758781433
+49,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,0,Chrome'da,O,0.9973719120025635
+49,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,1,açık,O,0.9082152247428894
+49,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,2,sekmelerden,SEKME_DEĞİŞTİR,0.3545573651790619
+49,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,3,sağdakine,GEÇ,0.9647073745727539
+49,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,4,geç,GEÇ,0.9675479531288147
+49,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,5,ve,O,0.9984303116798401
+49,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,6,sayfayı,KAYDIR,0.9940846562385559
+49,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,7,biraz,KAYDIR,0.9929912090301514
+49,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,8,aşağı,KAYDIR,0.9938976168632507
+49,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,9,kaydır,KAYDIR,0.9950323104858398
+50,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",0,Chrome'da,O,0.9963520765304565
+50,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",1,rapor,GİT,0.9920849204063416
+50,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",2,sayfasına,GİT,0.9931938052177429
+50,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",3,"git,",GİT,0.9938569664955139
+50,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",4,sayfayı,KAYDIR,0.994163453578949
+50,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",5,aşağı,KAYDIR,0.994376540184021
+50,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",6,"kaydır,",KAYDIR,0.9947547912597656
+50,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",7,indirme,BUL,0.9984239339828491
+50,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",8,düğmesini,BUL,0.9983013868331909
+50,"Chrome'da rapor sayfasına git, sayfayı aşağı kaydır, indirme düğmesini bul",9,bul,BUL,0.9984190464019775
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,0,yeni,AÇ,0.8225547075271606
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,1,bir,AÇ,0.8483530879020691
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,2,sayfa,AÇ,0.8174809813499451
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,3,aç,AÇ,0.8324707746505737
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,4,içine,YAZ,0.5530259013175964
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,5,14,BOŞLUK,0.3475399613380432
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,6,punto,BOŞLUK,0.4341678023338318
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,7,olacak,BOŞLUK,0.29275473952293396
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,8,şekilde,YAZ,0.35130074620246887
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,9,bir,YAZ,0.5371026396751404
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,10,başlık,YAZ,0.5307540893554688
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,11,ekle,YAZ,0.45884349942207336
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,12,başlığa,YAZ,0.994819700717926
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,13,da,YAZ,0.9931060671806335
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,14,projem,YAZ,0.9970157146453857
+51,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,15,yaz,YAZ,0.9969141483306885
+52,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,0,4,YENİ_OLUŞTUR,0.6345646381378174
+52,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,1,satır,YENİ_OLUŞTUR,0.8410423994064331
+52,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,2,3,YENİ_OLUŞTUR,0.9155631065368652
+52,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,3,sütundan,YENİ_OLUŞTUR,0.9695481061935425
+52,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,4,oluşan,YENİ_OLUŞTUR,0.9808589816093445
+52,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,5,bir,YENİ_OLUŞTUR,0.9886033535003662
+52,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,6,tablo,YENİ_OLUŞTUR,0.9897973537445068
+52,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,7,oluştur,YENİ_OLUŞTUR,0.990658164024353
+52,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,8,ilk,DİĞER,0.8636497855186462
+52,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,9,satırı,DİĞER,0.8504098653793335
+52,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,10,da,DİĞER,0.8374529480934143
+52,4 satır 3 sütundan oluşan bir tablo oluştur ilk satırı da birleştir,11,birleştir,DİĞER,0.8930017948150635
+53,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,0,açık,BUL,0.7412399649620056
+53,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,1,olan,BUL,0.772834300994873
+53,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,2,dosyadan,BUL,0.9399966597557068
+53,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,3,kara,BUL,0.995078444480896
+53,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,4,ile,BUL,0.995649516582489
+53,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,5,başlayan,BUL,0.9971075654029846
+53,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,6,her,BUL,0.9979856014251709
+53,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,7,şeyi,BUL,0.9979999661445618
+53,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,8,bul,BUL,0.9979360103607178
+53,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,9,ve,O,0.9835959672927856
+53,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,10,lara,DEĞİŞTİR,0.9861246943473816
+53,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,11,olarak,DEĞİŞTİR,0.9871608018875122
+53,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,12,değiştir,DEĞİŞTİR,0.9853075742721558
+54,ilk paragrafı kes ve sayfanın sonuna yapıştır,0,ilk,KES,0.9947378039360046
+54,ilk paragrafı kes ve sayfanın sonuna yapıştır,1,paragrafı,KES,0.9946185350418091
+54,ilk paragrafı kes ve sayfanın sonuna yapıştır,2,kes,KES,0.9946078062057495
+54,ilk paragrafı kes ve sayfanın sonuna yapıştır,3,ve,O,0.9838725924491882
+54,ilk paragrafı kes ve sayfanın sonuna yapıştır,4,sayfanın,YAPIŞTIR,0.9964687824249268
+54,ilk paragrafı kes ve sayfanın sonuna yapıştır,5,sonuna,YAPIŞTIR,0.9963591694831848
+54,ilk paragrafı kes ve sayfanın sonuna yapıştır,6,yapıştır,YAPIŞTIR,0.9971231818199158
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,0,tüm,SEÇ,0.9886716604232788
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,1,metni,SEÇ,0.9976728558540344
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,2,seç,SEÇ,0.9976521134376526
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,3,ve,O,0.9963051080703735
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,4,yazı,DEĞİŞTİR,0.7024585008621216
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,5,tipini,DEĞİŞTİR,0.776700496673584
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,6,Times,DEĞİŞTİR,0.5382311344146729
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,7,new,DEĞİŞTİR,0.40829166769981384
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,8,roman,YENİDEN_ADLANDIR,0.3707994520664215
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,9,yapıp,DEĞİŞTİR,0.6063233017921448
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,10,fontunu,DEĞİŞTİR,0.34442445635795593
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,11,da,DEĞİŞTİR,0.4122864305973053
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,12,12,DEĞİŞTİR,0.37710151076316833
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,13,ve,DEĞİŞTİR,0.4066486656665802
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,14,iki,DEĞİŞTİR,0.3330388367176056
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,15,yana,DEĞİŞTİR,0.4393009543418884
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,16,yaslı,DEĞİŞTİR,0.37487494945526123
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,17,olarak,DEĞİŞTİR,0.3709135949611664
+55,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,18,ayarla,DEĞİŞTİR,0.49183130264282227
+56,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,0,Word,O,0.998072624206543
+56,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,1,belgesinde,O,0.9981138706207275
+56,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,2,giriş,BUL,0.9985816478729248
+56,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,3,başlığını,BUL,0.9986039996147156
+56,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,4,bul,BUL,0.998724639415741
+56,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,5,altına,YAZ,0.9951741099357605
+56,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,6,kısa,YAZ,0.9973533153533936
+56,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,7,bir,YAZ,0.9975261092185974
+56,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,8,açıklama,YAZ,0.9977105855941772
+56,Word belgesinde giriş başlığını bul altına kısa bir açıklama yaz,9,yaz,YAZ,0.9973915815353394
+57,Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala,0,Word'de,O,0.9987356066703796
+57,Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala,1,tüm,O,0.9980111122131348
+57,Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala,2,paragrafı,O,0.9978994131088257
+57,Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala,3,kesme,O,0.9979106783866882
+57,Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala,4,sadece,O,0.9983565211296082
+57,Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala,5,ilk,KOPYALA,0.9982703924179077
+57,Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala,6,cümleyi,KOPYALA,0.9983933568000793
+57,Word'de tüm paragrafı kesme sadece ilk cümleyi kopyala,7,kopyala,KOPYALA,0.9986373782157898
+58,Excel'de B sütununu seçip genişliğini biraz küçült,0,Excel'de,O,0.9964041709899902
+58,Excel'de B sütununu seçip genişliğini biraz küçült,1,B,SEÇ,0.9978557229042053
+58,Excel'de B sütununu seçip genişliğini biraz küçült,2,sütununu,SEÇ,0.9982427358627319
+58,Excel'de B sütununu seçip genişliğini biraz küçült,3,seçip,SEÇ,0.99836665391922
+58,Excel'de B sütununu seçip genişliğini biraz küçült,4,genişliğini,KÜÇÜLT,0.9923821091651917
+58,Excel'de B sütununu seçip genişliğini biraz küçült,5,biraz,KÜÇÜLT,0.9925827980041504
+58,Excel'de B sütununu seçip genişliğini biraz küçült,6,küçült,KÜÇÜLT,0.9934026598930359
+59,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,0,Excel,O,0.9970157146453857
+59,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,1,tablosunda,O,0.998002827167511
+59,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,2,boş,BUL,0.9981160163879395
+59,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,3,hücreleri,BUL,0.9983465671539307
+59,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,4,bul,BUL,0.9984002709388733
+59,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,5,ilkine,YAZ,0.9962324500083923
+59,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,6,kontrol,YAZ,0.9976924657821655
+59,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,7,edildi,YAZ,0.9977707862854004
+59,Excel tablosunda boş hücreleri bul ilkine kontrol edildi yaz,8,yaz,YAZ,0.9975181818008423
+60,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",0,PowerPoint'te,O,0.9926137924194336
+60,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",1,son,GEÇ,0.9963135123252869
+60,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",2,slayta,GEÇ,0.9971075654029846
+60,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",3,"geç,",GEÇ,0.9971256852149963
+60,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",4,resmi,SEÇ,0.9984610080718994
+60,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",5,"seç,",SEÇ,0.9983124732971191
+60,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",6,biraz,TAŞI,0.7471567988395691
+60,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",7,sola,TAŞI,0.8600838780403137
+60,"PowerPoint'te son slayta geç, resmi seç, biraz sola al",8,al,TAŞI,0.9148765206336975
+61,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",0,Excel'de,O,0.9936151504516602
+61,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",1,toplam,BUL,0.998201847076416
+61,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",2,satırını,BUL,0.9984240531921387
+61,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",3,"bul,",BUL,0.9984478950500488
+61,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",4,üstüne,YAZ,0.42861369252204895
+61,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",5,yeni,YAZ,0.4726952016353607
+61,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",6,bir,YAZ,0.41443946957588196
+61,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",7,satır,YAZ,0.45820337533950806
+61,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",8,ekle,YAZ,0.2791097164154053
+62,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",0,Word'deki,O,0.9891327023506165
+62,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",1,tabloyu,SEÇ,0.9914513230323792
+62,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",2,"seç,",SEÇ,0.9941693544387817
+62,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",3,kenarlıklarını,DEĞİŞTİR,0.7898269295692444
+62,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",4,sade,DEĞİŞTİR,0.7223460078239441
+62,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",5,"yap,",DEĞİŞTİR,0.7793716788291931
+62,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",6,belgeyi,KAYDET,0.9954068660736084
+62,"Word'deki tabloyu seç, kenarlıklarını sade yap, belgeyi kaydet",7,kaydet,KAYDET,0.9965760111808777
+63,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",0,PowerPoint'te,O,0.9834161996841431
+63,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",1,başlığı,KÜÇÜLT,0.9751543402671814
+63,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",2,biraz,KÜÇÜLT,0.9816017746925354
+63,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",3,"küçült,",KÜÇÜLT,0.9869085550308228
+63,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",4,alt,BOŞLUK,0.9706093668937683
+63,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",5,başlığa,BOŞLUK,0.9759505391120911
+63,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",6,da,BOŞLUK,0.9731151461601257
+63,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",7,boşluk,BOŞLUK,0.9902136921882629
+63,"PowerPoint'te başlığı biraz küçült, alt başlığa da boşluk ekle",8,ekle,BOŞLUK,0.9870880842208862
+64,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",0,Word'de,O,0.9975173473358154
+64,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",1,kaynakça,ARA,0.986838161945343
+64,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",2,başlığını,ARA,0.9876086711883545
+64,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",3,"ara,",ARA,0.9869546294212341
+64,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",4,altına,BOŞLUK,0.7463997602462769
+64,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",5,yeni,BOŞLUK,0.8488728404045105
+64,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",6,bir,BOŞLUK,0.8565390110015869
+64,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",7,boş,BOŞLUK,0.9276532530784607
+64,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",8,satır,BOŞLUK,0.9151042699813843
+64,"Word'de kaynakça başlığını ara, altına yeni bir boş satır bırak",9,bırak,BOŞLUK,0.9392832517623901
+65,Excel'de formülü tekrar uygula ama satırları silme,0,Excel'de,O,0.9958589673042297
+65,Excel'de formülü tekrar uygula ama satırları silme,1,formülü,YİNELE,0.892333984375
+65,Excel'de formülü tekrar uygula ama satırları silme,2,tekrar,YİNELE,0.9323222637176514
+65,Excel'de formülü tekrar uygula ama satırları silme,3,uygula,YİNELE,0.8064274787902832
+65,Excel'de formülü tekrar uygula ama satırları silme,4,ama,O,0.9978640675544739
+65,Excel'de formülü tekrar uygula ama satırları silme,5,satırları,O,0.971030592918396
+65,Excel'de formülü tekrar uygula ama satırları silme,6,silme,O,0.9761547446250916
+66,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,0,Word,DİĞER,0.19712494313716888
+66,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,1,belgesini,DİĞER,0.2244928479194641
+66,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,2,yazdırma,GEÇ,0.2407667189836502
+66,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,3,ayarına,GEÇ,0.37972763180732727
+66,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,4,getir,DİĞER,0.2774980366230011
+66,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,5,ama,O,0.9972706437110901
+66,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,6,yazdırmayı,O,0.8060740828514099
+66,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,7,başlatma,O,0.9535478949546814
+67,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",0,PowerPoint'te,O,0.9818463921546936
+67,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",1,grafiği,SEÇ,0.995641827583313
+67,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",2,"seç,",SEÇ,0.997601330280304
+67,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",3,boyutunu,KÜÇÜLT,0.9906603693962097
+67,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",4,biraz,KÜÇÜLT,0.9874191880226135
+67,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",5,"küçült,",KÜÇÜLT,0.988899827003479
+67,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",6,sağ,TAŞI,0.9951990246772766
+67,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",7,alta,TAŞI,0.9956436157226562
+67,"PowerPoint'te grafiği seç, boyutunu biraz küçült, sağ alta taşı",8,taşı,TAŞI,0.9950680732727051
+68,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",0,Excel'de,O,0.9970605969429016
+68,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",1,hücredeki,SİL,0.9719790816307068
+68,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",2,fazla,SİL,0.9817413687705994
+68,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",3,boşluğu,SİL,0.9871256947517395
+68,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",4,"sil,",SİL,0.9883506298065186
+68,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",5,sonra,O,0.9980879426002502
+68,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",6,formülü,YİNELE,0.7154053449630737
+68,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",7,tekrar,YİNELE,0.8593708872795105
+68,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",8,uygula,YİNELE,0.7027480602264404
+69,"Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap",0,Word'de,O,0.9986646175384521
+69,"Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap",1,başlığı,O,0.996453046798706
+69,"Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap",2,"büyütme,",O,0.9962718486785889
+69,"Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap",3,sadece,O,0.9987602233886719
+69,"Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap",4,altındaki,DEĞİŞTİR,0.6645338535308838
+69,"Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap",5,açıklamayı,DEĞİŞTİR,0.6478692889213562
+69,"Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap",6,italik,DEĞİŞTİR,0.5453482866287231
+69,"Word'de başlığı büyütme, sadece altındaki açıklamayı italik yap",7,yap,DEĞİŞTİR,0.5476714372634888
+70,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",0,PowerPoint'te,O,0.9907826781272888
+70,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",1,üçüncü,GİT,0.970764696598053
+70,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",2,slayta,GİT,0.9791563749313354
+70,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",3,"git,",GİT,0.9849064946174622
+70,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",4,resmi,SEÇ,0.9986265897750854
+70,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",5,"seç,",SEÇ,0.9983829259872437
+70,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",6,kenarını,BÜYÜT,0.9952672719955444
+70,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",7,biraz,BÜYÜT,0.9945439100265503
+70,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",8,büyüt,BÜYÜT,0.9952345490455627
+71,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",0,Word'de,O,0.9987336993217468
+71,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",1,son,O,0.9987006187438965
+71,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",2,paragrafı,O,0.9987799525260925
+71,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",3,"silme,",O,0.9987334609031677
+71,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",4,onu,KES,0.9834029078483582
+71,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",5,kesip,KES,0.9851269125938416
+71,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",6,önceki,TAŞI,0.9951096177101135
+71,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",7,sayfaya,TAŞI,0.9961168766021729
+71,"Word'de son paragrafı silme, onu kesip önceki sayfaya taşı",8,taşı,TAŞI,0.9950506091117859
+72,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",0,Excel'de,O,0.9964902997016907
+72,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",1,C,SEÇ,0.9974960684776306
+72,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",2,sütununu,SEÇ,0.9981889128684998
+72,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",3,"seç,",SEÇ,0.9983717799186707
+72,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",4,genişliğini,AZALT,0.9952797889709473
+72,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",5,"azalt,",AZALT,0.9957236051559448
+72,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",6,dosyayı,KAYDET,0.995807409286499
+72,"Excel'de C sütununu seç, genişliğini azalt, dosyayı kaydet",7,kaydet,KAYDET,0.9965386390686035
+73,açık olan metinde iki boşluk varsa tek boşluğa indir,0,açık,O,0.9965053796768188
+73,açık olan metinde iki boşluk varsa tek boşluğa indir,1,olan,O,0.9969285130500793
+73,açık olan metinde iki boşluk varsa tek boşluğa indir,2,metinde,O,0.9947068095207214
+73,açık olan metinde iki boşluk varsa tek boşluğa indir,3,iki,O,0.9915362596511841
+73,açık olan metinde iki boşluk varsa tek boşluğa indir,4,boşluk,O,0.9830194115638733
+73,açık olan metinde iki boşluk varsa tek boşluğa indir,5,varsa,O,0.9935826659202576
+73,açık olan metinde iki boşluk varsa tek boşluğa indir,6,tek,İNDİR,0.4996618628501892
+73,açık olan metinde iki boşluk varsa tek boşluğa indir,7,boşluğa,İNDİR,0.4194987714290619
+73,açık olan metinde iki boşluk varsa tek boşluğa indir,8,indir,İNDİR,0.5882356762886047
+74,raporun yalnızca ilk sayfasını yazdırmaya hazırla,0,raporun,O,0.834356963634491
+74,raporun yalnızca ilk sayfasını yazdırmaya hazırla,1,yalnızca,O,0.8127321004867554
+74,raporun yalnızca ilk sayfasını yazdırmaya hazırla,2,ilk,YAZDIR,0.8324810266494751
+74,raporun yalnızca ilk sayfasını yazdırmaya hazırla,3,sayfasını,YAZDIR,0.8846040368080139
+74,raporun yalnızca ilk sayfasını yazdırmaya hazırla,4,yazdırmaya,YAZDIR,0.9015969634056091
+74,raporun yalnızca ilk sayfasını yazdırmaya hazırla,5,hazırla,YAZDIR,0.5703064799308777
+75,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,0,belgede,O,0.9934799671173096
+75,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,1,seçili,KOPYALA,0.9971001744270325
+75,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,2,kısmı,KOPYALA,0.9975388050079346
+75,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,3,kopyala,KOPYALA,0.9980633854866028
+75,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,4,sonra,O,0.9970700740814209
+75,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,5,yorum,YAPIŞTIR,0.9967989921569824
+75,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,6,alanına,YAPIŞTIR,0.9969931840896606
+75,belgede seçili kısmı kopyala sonra yorum alanına yapıştır,7,yapıştır,YAPIŞTIR,0.9971867203712463
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,0,ekrandaki,KOPYALA,0.9921407699584961
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,1,kodu,KOPYALA,0.9959163069725037
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,2,kopyala,KOPYALA,0.9973276853561401
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,3,yeni,AÇ,0.836514949798584
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,4,bir,AÇ,0.8754783868789673
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,5,spyder,AÇ,0.8713205456733704
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,6,dosyası,AÇ,0.9021320939064026
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,7,aç,AÇ,0.8806463479995728
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,8,ve,O,0.9958935976028442
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,9,içine,YAPIŞTIR,0.9938414096832275
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,10,yapıştır,YAPIŞTIR,0.995102047920227
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,11,daha,O,0.994687557220459
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,12,sonra,O,0.9945603013038635
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,13,dosyanın,YENİ_OLUŞTUR,0.8846704363822937
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,14,ismini,YENİ_OLUŞTUR,0.7429344654083252
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,15,de,YENİ_OLUŞTUR,0.7351680994033813
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,16,yeni,YENİ_OLUŞTUR,0.9700984358787537
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,17,proje,YENİ_OLUŞTUR,0.9550498723983765
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,18,olarak,YENİ_OLUŞTUR,0.9471583962440491
+76,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,19,oluştur,YENİ_OLUŞTUR,0.9700542092323303
+77,terminali aç ve masaüstündeki tüm dosyaları listele,0,terminali,AÇ,0.9990148544311523
+77,terminali aç ve masaüstündeki tüm dosyaları listele,1,aç,AÇ,0.9989075660705566
+77,terminali aç ve masaüstündeki tüm dosyaları listele,2,ve,O,0.9967155456542969
+77,terminali aç ve masaüstündeki tüm dosyaları listele,3,masaüstündeki,DİĞER,0.6700091361999512
+77,terminali aç ve masaüstündeki tüm dosyaları listele,4,tüm,DİĞER,0.5743744373321533
+77,terminali aç ve masaüstündeki tüm dosyaları listele,5,dosyaları,DİĞER,0.6825717687606812
+77,terminali aç ve masaüstündeki tüm dosyaları listele,6,listele,DİĞER,0.697019100189209
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,0,kodu,O,0.37730973958969116
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,1,commitle,YENİDEN_ADLANDIR,0.35647115111351013
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,2,ve,O,0.9796725511550903
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,3,açıklama,YAZ,0.9939913153648376
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,4,olarak,YAZ,0.9844889640808105
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,5,da,YAZ,0.9835245609283447
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,6,her,YAZ,0.9903766512870789
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,7,şey,YAZ,0.9807220697402954
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,8,tamamlandı,YAZ,0.9923372864723206
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,9,yaz,YAZ,0.9960904717445374
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,10,daha,O,0.9957774877548218
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,11,sonra,O,0.9931663870811462
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,12,da,O,0.8692517280578613
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,13,push,YENİDEN_ADLANDIR,0.3414560854434967
+78,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,14,et,YAZ,0.17869122326374054
+79,kodun içinden 1266'ıncı satıra git o satırı komple sil,0,kodun,O,0.9937465190887451
+79,kodun içinden 1266'ıncı satıra git o satırı komple sil,1,içinden,O,0.9868611693382263
+79,kodun içinden 1266'ıncı satıra git o satırı komple sil,2,1266'ıncı,GİT,0.9774921536445618
+79,kodun içinden 1266'ıncı satıra git o satırı komple sil,3,satıra,GİT,0.97940993309021
+79,kodun içinden 1266'ıncı satıra git o satırı komple sil,4,git,GİT,0.9873795509338379
+79,kodun içinden 1266'ıncı satıra git o satırı komple sil,5,o,SİL,0.9848343133926392
+79,kodun içinden 1266'ıncı satıra git o satırı komple sil,6,satırı,SİL,0.9879004955291748
+79,kodun içinden 1266'ıncı satıra git o satırı komple sil,7,komple,SİL,0.9872227907180786
+79,kodun içinden 1266'ıncı satıra git o satırı komple sil,8,sil,SİL,0.9890614748001099
+80,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,0,kodun,GİT,0.9835386276245117
+80,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,1,en,GİT,0.9882097244262695
+80,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,2,başına,GİT,0.9875268340110779
+80,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,3,git,GİT,0.990429162979126
+80,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,4,ve,O,0.9947929978370667
+80,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,5,yorum,YAZ,0.7766699194908142
+80,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,6,satırı,YAZ,0.7629664540290833
+80,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,7,ekle,YAZ,0.7333475947380066
+80,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,8,yorum,YAZ,0.9918225407600403
+80,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,9,satırına,YAZ,0.9908418655395508
+80,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,10,da,YAZ,0.9951866269111633
+80,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,11,projenin,YAZ,0.9977778792381287
+80,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,12,başlangıcı,YAZ,0.9980462789535522
+80,kodun en başına git ve yorum satırı ekle yorum satırına da projenin başlangıcı yaz,13,yaz,YAZ,0.9976251721382141
+81,terminali aç ip config yaz ve ip adresini göster,0,terminali,AÇ,0.9988968372344971
+81,terminali aç ip config yaz ve ip adresini göster,1,aç,AÇ,0.9989056587219238
+81,terminali aç ip config yaz ve ip adresini göster,2,ip,YAZ,0.9973399043083191
+81,terminali aç ip config yaz ve ip adresini göster,3,config,YAZ,0.9978525638580322
+81,terminali aç ip config yaz ve ip adresini göster,4,yaz,YAZ,0.9973552227020264
+81,terminali aç ip config yaz ve ip adresini göster,5,ve,O,0.9903014898300171
+81,terminali aç ip config yaz ve ip adresini göster,6,ip,DİĞER,0.8349515795707703
+81,terminali aç ip config yaz ve ip adresini göster,7,adresini,DİĞER,0.8586826324462891
+81,terminali aç ip config yaz ve ip adresini göster,8,göster,DİĞER,0.8604212999343872
+82,microsoft sql server'ı aç en son çalıştığım dosyayı aç,0,microsoft,AÇ,0.9367018342018127
+82,microsoft sql server'ı aç en son çalıştığım dosyayı aç,1,sql,AÇ,0.9977133274078369
+82,microsoft sql server'ı aç en son çalıştığım dosyayı aç,2,server'ı,AÇ,0.9978439807891846
+82,microsoft sql server'ı aç en son çalıştığım dosyayı aç,3,aç,AÇ,0.9981372356414795
+82,microsoft sql server'ı aç en son çalıştığım dosyayı aç,4,en,AÇ,0.988990068435669
+82,microsoft sql server'ı aç en son çalıştığım dosyayı aç,5,son,AÇ,0.9963638186454773
+82,microsoft sql server'ı aç en son çalıştığım dosyayı aç,6,çalıştığım,AÇ,0.997226893901825
+82,microsoft sql server'ı aç en son çalıştığım dosyayı aç,7,dosyayı,AÇ,0.9983718991279602
+82,microsoft sql server'ı aç en son çalıştığım dosyayı aç,8,aç,AÇ,0.9981511235237122
+83,query sekmesine git select * from yaz ve çalıştır,0,query,GİT,0.9884411096572876
+83,query sekmesine git select * from yaz ve çalıştır,1,sekmesine,GİT,0.9899619817733765
+83,query sekmesine git select * from yaz ve çalıştır,2,git,GİT,0.9917969703674316
+83,query sekmesine git select * from yaz ve çalıştır,3,select,YAZ,0.9971550703048706
+83,query sekmesine git select * from yaz ve çalıştır,4,*,YAZ,0.9962943196296692
+83,query sekmesine git select * from yaz ve çalıştır,5,from,YAZ,0.997108519077301
+83,query sekmesine git select * from yaz ve çalıştır,6,yaz,YAZ,0.9969717264175415
+83,query sekmesine git select * from yaz ve çalıştır,7,ve,O,0.9910258650779724
+83,query sekmesine git select * from yaz ve çalıştır,8,çalıştır,DİĞER,0.9404040575027466
+84,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,0,terminali,AÇ,0.9986182451248169
+84,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,1,açıp,AÇ,0.9984625577926636
+84,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,2,npm,DİĞER,0.9541282653808594
+84,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,3,test,DİĞER,0.9597780704498291
+84,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,4,komutunu,DİĞER,0.9597636461257935
+84,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,5,çalıştır,DİĞER,0.9571905136108398
+84,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,6,ama,O,0.9972198009490967
+84,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,7,sonucu,O,0.9917620420455933
+84,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,8,göndermeden,O,0.9924238920211792
+84,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,9,ekranda,O,0.5855017304420471
+84,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,10,bırak,O,0.4283062219619751
+85,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,0,VS,O,0.9983580708503723
+85,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,1,Code'da,O,0.9980764389038086
+85,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,2,problems,SEKME_DEĞİŞTİR,0.9804815649986267
+85,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,3,sekmesine,SEKME_DEĞİŞTİR,0.989307701587677
+85,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,4,geç,SEKME_DEĞİŞTİR,0.9857419729232788
+85,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,5,ve,O,0.998596727848053
+85,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,6,ilk,GİT,0.7717978954315186
+85,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,7,hatanın,GİT,0.6300276517868042
+85,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,8,olduğu,GİT,0.8851705193519592
+85,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,9,satıra,GİT,0.9784284234046936
+85,VS Code'da problems sekmesine geç ve ilk hatanın olduğu satıra git,10,git,GİT,0.9857967495918274
+86,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,0,README,GİT,0.9843111634254456
+86,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,1,dosyasının,GİT,0.9874699115753174
+86,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,2,en,GİT,0.9901553392410278
+86,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,3,altına,GİT,0.9915856122970581
+86,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,4,git,GİT,0.9931814074516296
+86,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,5,ve,O,0.9929942488670349
+86,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,6,kurulum,YAZ,0.9287955164909363
+86,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,7,notu,YAZ,0.9260975122451782
+86,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,8,diye,YAZ,0.9029023051261902
+86,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,9,bir,YAZ,0.8313165903091431
+86,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,10,başlık,YAZ,0.8436150550842285
+86,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,11,ekle,YAZ,0.8032956123352051
+87,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,0,terminalde,O,0.9847181439399719
+87,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,1,git,YAZ,0.9943568110466003
+87,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,2,status,YAZ,0.9968649744987488
+87,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,3,yaz,YAZ,0.996547281742096
+87,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,4,enter'a,ENTER,0.9917004704475403
+87,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,5,bas,ENTER,0.9900723695755005
+87,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,6,sonra,O,0.9980674386024475
+87,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,7,değişen,KOPYALA,0.9969891905784607
+87,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,8,dosya,KOPYALA,0.9981491565704346
+87,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,9,adını,KOPYALA,0.9979623556137085
+87,terminalde git status yaz enter'a bas sonra değişen dosya adını kopyala,10,kopyala,KOPYALA,0.9983649849891663
+88,Git panelini açmadan terminalden branch adını göster,0,Git,O,0.9978512525558472
+88,Git panelini açmadan terminalden branch adını göster,1,panelini,O,0.9979771971702576
+88,Git panelini açmadan terminalden branch adını göster,2,açmadan,O,0.9979689717292786
+88,Git panelini açmadan terminalden branch adını göster,3,terminalden,O,0.24532784521579742
+88,Git panelini açmadan terminalden branch adını göster,4,branch,DİĞER,0.8169535994529724
+88,Git panelini açmadan terminalden branch adını göster,5,adını,DİĞER,0.8376426100730896
+88,Git panelini açmadan terminalden branch adını göster,6,göster,DİĞER,0.8489999175071716
+89,config dosyasında timeout satırını bul ve değeri 30 yap,0,config,O,0.994450569152832
+89,config dosyasında timeout satırını bul ve değeri 30 yap,1,dosyasında,O,0.9910463690757751
+89,config dosyasında timeout satırını bul ve değeri 30 yap,2,timeout,BUL,0.9985284805297852
+89,config dosyasında timeout satırını bul ve değeri 30 yap,3,satırını,BUL,0.998674750328064
+89,config dosyasında timeout satırını bul ve değeri 30 yap,4,bul,BUL,0.9987329840660095
+89,config dosyasında timeout satırını bul ve değeri 30 yap,5,ve,O,0.9955322742462158
+89,config dosyasında timeout satırını bul ve değeri 30 yap,6,değeri,DEĞİŞTİR,0.5228084325790405
+89,config dosyasında timeout satırını bul ve değeri 30 yap,7,30,DEĞİŞTİR,0.39695465564727783
+89,config dosyasında timeout satırını bul ve değeri 30 yap,8,yap,DEĞİŞTİR,0.48473143577575684
+90,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",0,terminalde,O,0.9680215120315552
+90,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",1,docker,YAZ,0.9945923686027527
+90,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",2,ps,YAZ,0.9968788623809814
+90,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",3,yaz,YAZ,0.9957491159439087
+90,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",4,sonra,O,0.9974992871284485
+90,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",5,enter,ENTER,0.9956179857254028
+90,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",6,"bas,",ENTER,0.9951521158218384
+90,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",7,çıkan,KOPYALA,0.9959548711776733
+90,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",8,container,KOPYALA,0.9975641965866089
+90,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",9,adını,KOPYALA,0.9976367950439453
+90,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",10,kopyala,KOPYALA,0.9980771541595459
+91,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",0,VS,O,0.9978658556938171
+91,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",1,Code'da,O,0.9971603155136108
+91,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",2,env,AÇ,0.9985744953155518
+91,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",3,dosyasını,AÇ,0.9985287189483643
+91,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",4,"aç,",AÇ,0.9984551668167114
+91,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",5,token,O,0.9735312461853027
+91,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",6,satırını,O,0.971036970615387
+91,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",7,seçmeden,O,0.9816057085990906
+91,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",8,sadece,O,0.994612455368042
+91,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",9,örnek,KOPYALA,0.9983043670654297
+91,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",10,satırı,KOPYALA,0.9984856247901917
+91,"VS Code'da env dosyasını aç, token satırını seçmeden sadece örnek satırı kopyala",11,kopyala,KOPYALA,0.9986476302146912
+92,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",0,terminalde,O,0.9983385801315308
+92,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",1,git,O,0.9967509508132935
+92,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",2,add,O,0.9922257661819458
+92,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",3,nokta,O,0.9801208972930908
+92,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",4,"yazma,",O,0.9946795105934143
+92,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",5,sadece,O,0.9975550770759583
+92,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",6,git,DİĞER,0.7947943806648254
+92,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",7,diff,DİĞER,0.9316751956939697
+92,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",8,komutunu,DİĞER,0.9605953097343445
+92,"terminalde git add nokta yazma, sadece git diff komutunu çalıştır",9,çalıştır,DİĞER,0.9524490237236023
+93,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,0,build,O,0.9987767338752747
+93,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,1,klasörünü,O,0.9985336065292358
+93,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,2,silmeden,O,0.9984318614006042
+93,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,3,release,YENİ_OLUŞTUR,0.992660641670227
+93,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,4,klasörü,YENİ_OLUŞTUR,0.9932611584663391
+93,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,5,oluştur,YENİ_OLUŞTUR,0.9931689500808716
+93,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,6,ve,O,0.9979097247123718
+93,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,7,çıktı,TAŞI,0.9915124773979187
+93,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,8,dosyasını,TAŞI,0.990990161895752
+93,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,9,oraya,TAŞI,0.9935125708580017
+93,build klasörünü silmeden release klasörü oluştur ve çıktı dosyasını oraya taşı,10,taşı,TAŞI,0.9926890730857849
+94,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,0,VS,O,0.9985311031341553
+94,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,1,Code'da,O,0.998282790184021
+94,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,2,routes,O,0.9969279170036316
+94,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,3,klasöründe,O,0.9953392744064331
+94,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,4,yeni,YENİ_OLUŞTUR,0.9938124418258667
+94,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,5,api,YENİ_OLUŞTUR,0.9934559464454651
+94,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,6,dosyası,YENİ_OLUŞTUR,0.99405837059021
+94,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,7,oluştur,YENİ_OLUŞTUR,0.9940834641456604
+94,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,8,adını,YENİDEN_ADLANDIR,0.9731304049491882
+94,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,9,user_routes,YENİDEN_ADLANDIR,0.9859296679496765
+94,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,10,yap,YENİDEN_ADLANDIR,0.9828725457191467
+95,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",0,şey,O,0.9975837469100952
+95,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",1,yanlış,O,0.99378901720047
+95,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",2,"dosyadasın,",O,0.9895631670951843
+95,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",3,main,GEÇ,0.9974652528762817
+95,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",4,dosyasına,GEÇ,0.9976880550384521
+95,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",5,geç,GEÇ,0.9978944659233093
+95,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",6,ve,O,0.992301344871521
+95,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",7,import,BUL,0.9986925721168518
+95,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",8,satırını,BUL,0.9987797141075134
+95,"şey yanlış dosyadasın, main dosyasına geç ve import satırını bul",9,bul,BUL,0.9987267851829529
+96,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",0,terminalde,O,0.9972499012947083
+96,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",1,komut,YAZ,0.9937952756881714
+96,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",2,satırına,YAZ,0.993979811668396
+96,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",3,pip,YAZ,0.9971115589141846
+96,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",4,install,YAZ,0.9976615905761719
+96,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",5,"yaz,",YAZ,0.9971179962158203
+96,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",6,bir,BOŞLUK,0.9892894625663757
+96,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",7,boşluk,BOŞLUK,0.9942354559898376
+96,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",8,"bırak,",BOŞLUK,0.9935749173164368
+96,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",9,paket,YAPIŞTIR,0.9926954507827759
+96,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",10,adını,YAPIŞTIR,0.9937888979911804
+96,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",11,yapıştır,YAPIŞTIR,0.9939234852790833
+97,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",0,geçici,SİL,0.9916587471961975
+97,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",1,cache,SİL,0.9924855828285217
+97,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",2,dosyasını,SİL,0.9920478463172913
+97,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",3,"sil,",SİL,0.9927696585655212
+97,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",4,sonra,O,0.9964585900306702
+97,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",5,test,YİNELE,0.7950153946876526
+97,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",6,komutunu,YİNELE,0.8054008483886719
+97,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",7,yeniden,YİNELE,0.8827548027038574
+97,"geçici cache dosyasını sil, sonra test komutunu yeniden çalıştır",8,çalıştır,YİNELE,0.6737698912620544
+98,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",0,VS,O,0.9978736639022827
+98,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",1,Code'da,O,0.9974985718727112
+98,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",2,search,O,0.9030420780181885
+98,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",3,panelinde,O,0.8156818151473999
+98,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",4,TODO,ARA,0.98623126745224
+98,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",5,"ara,",ARA,0.9840795397758484
+98,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",6,ilk,AÇ,0.996721088886261
+98,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",7,sonucu,AÇ,0.9973101615905762
+98,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",8,"aç,",AÇ,0.9967803955078125
+98,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",9,satıra,YAZ,0.7842113971710205
+98,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",10,yorum,YAZ,0.8429384231567383
+98,"VS Code'da search panelinde TODO ara, ilk sonucu aç, satıra yorum ekle",11,ekle,YAZ,0.7604067921638489
+99,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",0,repo,O,0.9879164695739746
+99,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",1,klasöründe,O,0.9870049357414246
+99,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",2,docs,YENİ_OLUŞTUR,0.9905158281326294
+99,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",3,"oluştur,",YENİ_OLUŞTUR,0.99212646484375
+99,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",4,README,TAŞI,0.34803926944732666
+99,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",5,kopyasını,TAŞI,0.4515254497528076
+99,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",6,içine,TAŞI,0.6293962001800537
+99,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",7,"koy,",TAŞI,0.6018218994140625
+99,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",8,adını,YENİDEN_ADLANDIR,0.9797176718711853
+99,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",9,kullanım,YENİDEN_ADLANDIR,0.9854004979133606
+99,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",10,yap,YENİDEN_ADLANDIR,0.9856367111206055
+100,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",0,yanlış,O,0.9980657696723938
+100,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",1,branch'e,O,0.9951817393302917
+100,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",2,"geçme,",O,0.9966732263565063
+100,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",3,mevcut,DİĞER,0.6924981474876404
+100,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",4,branch,DİĞER,0.5777859091758728
+100,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",5,adını,DİĞER,0.6745241284370422
+100,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",6,göster,DİĞER,0.7237306833267212
+100,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",7,ve,O,0.986613929271698
+100,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",8,sonucu,KOPYALA,0.9981948733329773
+100,"yanlış branch'e geçme, mevcut branch adını göster ve sonucu kopyala",9,kopyala,KOPYALA,0.998333752155304

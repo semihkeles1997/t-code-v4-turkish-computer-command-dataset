@@ -1,0 +1,31 @@
+{
+  "source_file": "/content/t_code_dataset_v4_2700_candidate.jsonl",
+  "total_dataset_records": 2700,
+  "subset_records": 540,
+  "subset_token_rows": 4549,
+  "target_n": 540,
+  "seed": 42,
+  "domain_distribution": {
+    "dosya_yazılım_geliştirme": 136,
+    "tarayıcı_internet": 135,
+    "ofis_metin_düzenleme": 135,
+    "temel_bilgisayar": 134
+  },
+  "task_count_distribution": {
+    "1": 79,
+    "2": 158,
+    "3": 212,
+    "4": 75,
+    "5": 16
+  },
+  "files_for_annotator": [
+    "tcode_v4_annotation_reliability_subset_540_blind_record_level.csv",
+    "tcode_v4_annotation_reliability_subset_540_blind_token_level.csv",
+    "tcode_v4_annotation_reliability_instructions.txt"
+  ],
+  "gold_files_do_not_share": [
+    "tcode_v4_annotation_reliability_subset_540_gold_reference.csv",
+    "tcode_v4_annotation_reliability_subset_540_gold.jsonl"
+  ],
+  "note": "Blind files should be given to the second annotator. Gold reference files must be kept by the researcher only."
+}

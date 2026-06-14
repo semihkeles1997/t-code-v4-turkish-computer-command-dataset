@@ -1,0 +1,38 @@
+T-CODE v4 Challenge Test Özeti
+========================================
+Challenge cümle sayısı: 100
+Toplam token tahmini: 912
+Master ile birebir raw_command çakışması: 0
+Master ile benzerlik >= 0.85 olan cümle sayısı: 1
+
+Tahmin edilen label dağılımı:
+O: 259
+YAZ: 76
+AÇ: 53
+DİĞER: 43
+BUL: 41
+GİT: 40
+YENİ_OLUŞTUR: 38
+TAŞI: 35
+BOŞLUK: 31
+DEĞİŞTİR: 27
+YİNELE: 26
+GEÇ: 25
+KOPYALA: 25
+SEÇ: 25
+KAYDIR: 22
+YENİDEN_ADLANDIR: 16
+SİL: 16
+SEKME_DEĞİŞTİR: 13
+BÜYÜT: 12
+ARA: 12
+İNDİR: 12
+YAPIŞTIR: 12
+KÜÇÜLT: 11
+TIKLA: 8
+AZALT: 7
+YAZDIR: 7
+KAPAT: 6
+KAYDET: 5
+KES: 5
+ENTER: 4

@@ -1,9 +1,2 @@
-torch
-transformers
-datasets
-scikit-learn
-pandas
-numpy
-seqeval
-tqdm
-matplotlib
+# Utility scripts use Python standard library only.
+# Add training dependencies here if training notebooks/scripts are included.

@@ -1,0 +1,53 @@
+T-Code v4 Annotation Reliability Subset
+
+Amaç:
+Bu dosya, T-Code v4 veri setinin anotasyon güvenilirliğini ölçmek için hazırlanmıştır.
+Lütfen her token için iki alanı doldurun:
+
+1) annotator_boundary_label
+2) annotator_task_token_label
+
+Önemli:
+Gold etiketler bu dosyada yer almamaktadır. Etiketleme bağımsız yapılmalıdır.
+
+Boundary label seçenekleri:
+O, B-TASK, I-TASK
+
+Boundary label tanımı:
+- B-TASK: Bir görev segmentinin ilk tokenı.
+- I-TASK: Aynı görev segmentinin devam tokenı.
+- O: Komutta görev olarak etiketlenmeyecek token.
+
+Task-token label seçenekleri:
+O, ARA, ARTIR, AZALT, AÇ, BOŞLUK, BUL, BÜYÜT, DEĞİŞTİR, DİĞER, ENTER, GEÇ, GÖNDER, GİT, KAPAT, KAYDET, KAYDIR, KES, KOPYALA, KÜÇÜLT, SEKME_DEĞİŞTİR, SEÇ, SİL, TAŞI, TIKLA, YAPIŞTIR, YAZ, YAZDIR, YENİDEN_ADLANDIR, YENİ_OLUŞTUR, YÜKLE, YİNELE, İNDİR
+
+Task-token label tanımı:
+- Bir token bir görev segmentine aitse, o görevin etiketi yazılır.
+- Görev olmayan tokenlar için O yazılır.
+- Örneğin "dosyayı silme sadece klasöre taşı" cümlesinde "dosyayı silme" olumsuzlandığı için O olabilir; "klasöre taşı" ise TAŞI olarak etiketlenebilir.
+
+Dikkat edilmesi gereken durumlar:
+- Olumsuzlanan eylemler genellikle görev olarak etiketlenmez.
+  Örnek: "dosyayı silme" ifadesinde silme eylemi yapılmayacağı için SİL etiketi verilmez.
+- "sadece", "ama", "hayır", "yanlış oldu", "şey", "ya" gibi konuşma parçaları çoğu durumda O olur.
+- Ancak bu kelimeler görev segmentinin anlamlı parçasıysa bağlama göre karar verilebilir.
+- Komut birden fazla görev içeriyorsa her görev ayrı segment olarak işaretlenmelidir.
+- annotator_task_token_label ile annotator_boundary_label tutarlı olmalıdır.
+  Task-token label O ise genellikle boundary label da O olmalıdır.
+  Task-token label O değilse ilgili segment B-TASK veya I-TASK ile başlamalı/devam etmelidir.
+
+Doldurulacak ana dosya:
+tcode_v4_annotation_reliability_subset_540_blind_token_level.csv
+
+Yardımcı dosya:
+tcode_v4_annotation_reliability_subset_540_blind_record_level.csv
+Bu dosya her komutu bütün olarak görmek için verilmiştir.
+
+Doldurma kuralı:
+Her token satırı için:
+- annotator_boundary_label alanına O, B-TASK veya I-TASK yazın.
+- annotator_task_token_label alanına listedeki 33 etiketten birini yazın.
+- Emin olmadığınız durumlarda annotator_note alanına kısa not düşebilirsiniz.
+
+Toplam kayıt sayısı: 540
+Toplam token satırı: 4549

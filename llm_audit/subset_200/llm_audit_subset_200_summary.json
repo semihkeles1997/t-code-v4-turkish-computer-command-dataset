@@ -1,0 +1,30 @@
+{
+  "source_file": "/content/tcode_v4_annotation_reliability_package/tcode_v4_annotation_reliability_subset_540_gold.jsonl",
+  "subset_records": 200,
+  "batch_size": 40,
+  "batch_count": 5,
+  "domain_distribution": {
+    "temel_bilgisayar": 50,
+    "tarayıcı_internet": 50,
+    "ofis_metin_düzenleme": 50,
+    "dosya_yazılım_geliştirme": 50
+  },
+  "task_count_distribution": {
+    "4": 27,
+    "2": 59,
+    "3": 80,
+    "5": 5,
+    "1": 29
+  },
+  "blind_file": "tcode_v4_llm_audit_subset_200_blind.jsonl",
+  "gold_file_do_not_share": "tcode_v4_llm_audit_subset_200_gold.jsonl",
+  "prompt_file": "llm_audit_annotation_prompt.txt",
+  "batch_files_for_llm": [
+    "tcode_v4_llm_audit_blind_batch_01.jsonl",
+    "tcode_v4_llm_audit_blind_batch_02.jsonl",
+    "tcode_v4_llm_audit_blind_batch_03.jsonl",
+    "tcode_v4_llm_audit_blind_batch_04.jsonl",
+    "tcode_v4_llm_audit_blind_batch_05.jsonl"
+  ],
+  "note": "Use blind batch files and prompt with each LLM. Do not share the gold file with LLMs."
+}

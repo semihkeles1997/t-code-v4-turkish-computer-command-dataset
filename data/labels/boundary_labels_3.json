@@ -1,0 +1,8 @@
+{
+  "label_count": 3,
+  "labels": [
+    "B-TASK",
+    "I-TASK",
+    "O"
+  ]
+}

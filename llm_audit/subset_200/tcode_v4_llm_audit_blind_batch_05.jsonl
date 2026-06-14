@@ -1,0 +1,40 @@
+{"id": "CK-3313", "domain": "temel_bilgisayar", "raw_command": "parlaklığı düşürme yalnız bildirim merkezini aç sonra kapat", "tokens": ["parlaklığı", "düşürme", "yalnız", "bildirim", "merkezini", "aç", "sonra", "kapat"]}
+{"id": "CK-3319", "domain": "temel_bilgisayar", "raw_command": "erişim ayarını aç kontrastı artır pencereyi kaydır", "tokens": ["erişim", "ayarını", "aç", "kontrastı", "artır", "pencereyi", "kaydır"]}
+{"id": "CK-3331", "domain": "tarayıcı_internet", "raw_command": "arama motorunda erişilebilir tasarım ara", "tokens": ["arama", "motorunda", "erişilebilir", "tasarım", "ara"]}
+{"id": "CK-3340", "domain": "tarayıcı_internet", "raw_command": "adres çubuğuna git site adresini yaz enter bas", "tokens": ["adres", "çubuğuna", "git", "site", "adresini", "yaz", "enter", "bas"]}
+{"id": "CK-3347", "domain": "tarayıcı_internet", "raw_command": "adres çubuğuna geç eski adresi seç kes yeni adresi yapıştır", "tokens": ["adres", "çubuğuna", "geç", "eski", "adresi", "seç", "kes", "yeni", "adresi", "yapıştır"]}
+{"id": "CK-3368", "domain": "ofis_metin_düzenleme", "raw_command": "yeni belge oluştur adını yaz kaydet", "tokens": ["yeni", "belge", "oluştur", "adını", "yaz", "kaydet"]}
+{"id": "CK-3369", "domain": "ofis_metin_düzenleme", "raw_command": "paragraf başına git boşluk bırak yazıya devam yaz", "tokens": ["paragraf", "başına", "git", "boşluk", "bırak", "yazıya", "devam", "yaz"]}
+{"id": "CK-3370", "domain": "ofis_metin_düzenleme", "raw_command": "yazdırma yapma sadece önizlemeyi aç sayfayı kaydır belgeyi kaydet", "tokens": ["yazdırma", "yapma", "sadece", "önizlemeyi", "aç", "sayfayı", "kaydır", "belgeyi", "kaydet"]}
+{"id": "CK-3483", "domain": "dosya_yazılım_geliştirme", "raw_command": "satırı kes", "tokens": ["satırı", "kes"]}
+{"id": "CK-3489", "domain": "dosya_yazılım_geliştirme", "raw_command": "debug panelini kapat buildi yinele", "tokens": ["debug", "panelini", "kapat", "buildi", "yinele"]}
+{"id": "CK-3492", "domain": "dosya_yazılım_geliştirme", "raw_command": "satırı kes dosyayı kaydet repoya yükle", "tokens": ["satırı", "kes", "dosyayı", "kaydet", "repoya", "yükle"]}
+{"id": "CK-3494", "domain": "dosya_yazılım_geliştirme", "raw_command": "paket indirme dosyayı yükle logu yazdır terminali kapat", "tokens": ["paket", "indirme", "dosyayı", "yükle", "logu", "yazdır", "terminali", "kapat"]}
+{"id": "CK-3495", "domain": "dosya_yazılım_geliştirme", "raw_command": "hata panelini kapat komutu yinele çıktıyı yazdır", "tokens": ["hata", "panelini", "kapat", "komutu", "yinele", "çıktıyı", "yazdır"]}
+{"id": "CK-3499", "domain": "dosya_yazılım_geliştirme", "raw_command": "terminali kapat paketi indir kurulumu yinele raporu gönder", "tokens": ["terminali", "kapat", "paketi", "indir", "kurulumu", "yinele", "raporu", "gönder"]}
+{"id": "CK-3508", "domain": "temel_bilgisayar", "raw_command": "şimdilik bildirim merkezini kapat", "tokens": ["şimdilik", "bildirim", "merkezini", "kapat"]}
+{"id": "CK-3550", "domain": "tarayıcı_internet", "raw_command": "yeni sekme aç üniversite sitesine git duyurular kelimesini ara", "tokens": ["yeni", "sekme", "aç", "üniversite", "sitesine", "git", "duyurular", "kelimesini", "ara"]}
+{"id": "CK-3554", "domain": "ofis_metin_düzenleme", "raw_command": "başlık çok büyük puntoyu biraz azalt", "tokens": ["başlık", "çok", "büyük", "puntoyu", "biraz", "azalt"]}
+{"id": "CK-3571", "domain": "ofis_metin_düzenleme", "raw_command": "dipnotu bul seçili dipnotu sil belgeyi kaydet", "tokens": ["dipnotu", "bul", "seçili", "dipnotu", "sil", "belgeyi", "kaydet"]}
+{"id": "CK-3593", "domain": "dosya_yazılım_geliştirme", "raw_command": "src klasörüne geç yeni helper dosyası oluştur", "tokens": ["src", "klasörüne", "geç", "yeni", "helper", "dosyası", "oluştur"]}
+{"id": "CK-3607", "domain": "temel_bilgisayar", "raw_command": "fare imlecini biraz büyütür müsün", "tokens": ["fare", "imlecini", "biraz", "büyütür", "müsün"]}
+{"id": "CK-3631", "domain": "tarayıcı_internet", "raw_command": "reklam sekmesini kapatma sağdaki sekmeye geç sayfayı aşağı kaydır", "tokens": ["reklam", "sekmesini", "kapatma", "sağdaki", "sekmeye", "geç", "sayfayı", "aşağı", "kaydır"]}
+{"id": "CK-3667", "domain": "dosya_yazılım_geliştirme", "raw_command": "yanlış dosyayı silme geçici cache klasörünü sil sonra test klasörüne geç", "tokens": ["yanlış", "dosyayı", "silme", "geçici", "cache", "klasörünü", "sil", "sonra", "test", "klasörüne", "geç"]}
+{"id": "CK-3668", "domain": "dosya_yazılım_geliştirme", "raw_command": "VS Code içinde test sekmesine geç failed ifadesini ara sonucu yazdır", "tokens": ["VS", "Code", "içinde", "test", "sekmesine", "geç", "failed", "ifadesini", "ara", "sonucu", "yazdır"]}
+{"id": "CK-3711", "domain": "temel_bilgisayar", "raw_command": "imleç boyutunu büyük yapma orta ayara getir", "tokens": ["imleç", "boyutunu", "büyük", "yapma", "orta", "ayara", "getir"]}
+{"id": "CK-3722", "domain": "temel_bilgisayar", "raw_command": "bu kısayolun adını değiştirme sadece başka klasöre taşı", "tokens": ["bu", "kısayolun", "adını", "değiştirme", "sadece", "başka", "klasöre", "taşı"]}
+{"id": "CK-3730", "domain": "temel_bilgisayar", "raw_command": "açık pencereyi tam ekran yapma sadece biraz büyüt", "tokens": ["açık", "pencereyi", "tam", "ekran", "yapma", "sadece", "biraz", "büyüt"]}
+{"id": "CK-3752", "domain": "temel_bilgisayar", "raw_command": "son kullandığım klasörü aç ve görünümü listeye çevir", "tokens": ["son", "kullandığım", "klasörü", "aç", "ve", "görünümü", "listeye", "çevir"]}
+{"id": "CK-3762", "domain": "tarayıcı_internet", "raw_command": "sayfayı biraz aşağı kaydır formun devamı görünsün", "tokens": ["sayfayı", "biraz", "aşağı", "kaydır", "formun", "devamı", "görünsün"]}
+{"id": "CK-3766", "domain": "tarayıcı_internet", "raw_command": "sekmeleri karıştırdım toplantı sekmesine dön", "tokens": ["sekmeleri", "karıştırdım", "toplantı", "sekmesine", "dön"]}
+{"id": "CK-3767", "domain": "tarayıcı_internet", "raw_command": "açık sayfada iletişim kısmını ara ve oraya git", "tokens": ["açık", "sayfada", "iletişim", "kısmını", "ara", "ve", "oraya", "git"]}
+{"id": "CK-3787", "domain": "tarayıcı_internet", "raw_command": "bağlantıyı yeni pencerede değil aynı sekmede aç", "tokens": ["bağlantıyı", "yeni", "pencerede", "değil", "aynı", "sekmede", "aç"]}
+{"id": "CK-3793", "domain": "tarayıcı_internet", "raw_command": "yanlış sayfa açıldı geri git ve aramayı yinele", "tokens": ["yanlış", "sayfa", "açıldı", "geri", "git", "ve", "aramayı", "yinele"]}
+{"id": "CK-3822", "domain": "ofis_metin_düzenleme", "raw_command": "belgedeki çift boşlukları tek boşluğa çevir", "tokens": ["belgedeki", "çift", "boşlukları", "tek", "boşluğa", "çevir"]}
+{"id": "CK-3825", "domain": "ofis_metin_düzenleme", "raw_command": "açık olan metinde sonuç başlığını bul ve altını çiz", "tokens": ["açık", "olan", "metinde", "sonuç", "başlığını", "bul", "ve", "altını", "çiz"]}
+{"id": "CK-3829", "domain": "ofis_metin_düzenleme", "raw_command": "paragrafı seçmeden önce imleci giriş kısmına götür", "tokens": ["paragrafı", "seçmeden", "önce", "imleci", "giriş", "kısmına", "götür"]}
+{"id": "CK-3840", "domain": "ofis_metin_düzenleme", "raw_command": "tablo başlığını kesip sayfanın üstüne yapıştır", "tokens": ["tablo", "başlığını", "kesip", "sayfanın", "üstüne", "yapıştır"]}
+{"id": "CK-3844", "domain": "ofis_metin_düzenleme", "raw_command": "seçili metni kalın yapma sadece italik yap", "tokens": ["seçili", "metni", "kalın", "yapma", "sadece", "italik", "yap"]}
+{"id": "CK-3848", "domain": "ofis_metin_düzenleme", "raw_command": "slayttaki resmi taşımadan önce kılavuz çizgileri göster", "tokens": ["slayttaki", "resmi", "taşımadan", "önce", "kılavuz", "çizgileri", "göster"]}
+{"id": "CK-3865", "domain": "dosya_yazılım_geliştirme", "raw_command": "migration dosyasının adının başına yeni ekle", "tokens": ["migration", "dosyasının", "adının", "başına", "yeni", "ekle"]}
+{"id": "CK-3884", "domain": "dosya_yazılım_geliştirme", "raw_command": "Dockerfile içindeki port satırını bul ama değiştirme", "tokens": ["Dockerfile", "içindeki", "port", "satırını", "bul", "ama", "değiştirme"]}

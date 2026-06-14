@@ -1,0 +1,129 @@
+﻿id,domain,task_count,raw_command,token_index,token,gold,pred,correct
+CH-0001,temel_bilgisayar,3,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,11,ismini,O,YENİDEN_ADLANDIR,False
+CH-0001,temel_bilgisayar,3,masaüstündeki Semih klasörünü aç ve içine yeni bir txt dosyası oluştur ismini de deneme yap,12,de,O,YENİDEN_ADLANDIR,False
+CH-0004,temel_bilgisayar,1,bilgisayarın sesini 45'e getir,0,bilgisayarın,DEĞİŞTİR,GEÇ,False
+CH-0004,temel_bilgisayar,1,bilgisayarın sesini 45'e getir,1,sesini,DEĞİŞTİR,GEÇ,False
+CH-0004,temel_bilgisayar,1,bilgisayarın sesini 45'e getir,2,45'e,DEĞİŞTİR,GEÇ,False
+CH-0004,temel_bilgisayar,1,bilgisayarın sesini 45'e getir,3,getir,DEĞİŞTİR,GEÇ,False
+CH-0007,temel_bilgisayar,2,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,0,ekranı,DİĞER,TAŞI,False
+CH-0007,temel_bilgisayar,2,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,1,projeksiyona,DİĞER,TAŞI,False
+CH-0007,temel_bilgisayar,2,ekranı projeksiyona yansıt sonra da sunum dosyasını aç,2,yansıt,DİĞER,TAŞI,False
+CH-0009,temel_bilgisayar,1,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,6,adının,YENİDEN_ADLANDIR,BOŞLUK,False
+CH-0009,temel_bilgisayar,1,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,7,sonuna,YENİDEN_ADLANDIR,BOŞLUK,False
+CH-0009,temel_bilgisayar,1,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,8,yedek,YENİDEN_ADLANDIR,YAZ,False
+CH-0009,temel_bilgisayar,1,şu indirdiğim dosyayı açma ya sadece adının sonuna yedek ekle,9,ekle,YENİDEN_ADLANDIR,BOŞLUK,False
+CH-0010,temel_bilgisayar,2,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,7,boş,YENİ_OLUŞTUR,BOŞLUK,False
+CH-0010,temel_bilgisayar,2,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,8,bir,YENİ_OLUŞTUR,BOŞLUK,False
+CH-0010,temel_bilgisayar,2,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,9,not,YENİ_OLUŞTUR,BOŞLUK,False
+CH-0010,temel_bilgisayar,2,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,10,dosyası,YENİ_OLUŞTUR,BOŞLUK,False
+CH-0010,temel_bilgisayar,2,masaüstünde yeni bir klasör oluştur içine de boş bir not dosyası koy,11,koy,YENİ_OLUŞTUR,BOŞLUK,False
+CH-0012,temel_bilgisayar,1,ayarlarda ekran parlaklığını biraz azalt sesle uğraşma,0,ayarlarda,O,AZALT,False
+CH-0018,temel_bilgisayar,2,"dosyayı silme, adının başına taslak ekle ve kaydet",2,adının,YENİDEN_ADLANDIR,BOŞLUK,False
+CH-0018,temel_bilgisayar,2,"dosyayı silme, adının başına taslak ekle ve kaydet",3,başına,YENİDEN_ADLANDIR,BOŞLUK,False
+CH-0018,temel_bilgisayar,2,"dosyayı silme, adının başına taslak ekle ve kaydet",4,taslak,YENİDEN_ADLANDIR,BOŞLUK,False
+CH-0018,temel_bilgisayar,2,"dosyayı silme, adının başına taslak ekle ve kaydet",5,ekle,YENİDEN_ADLANDIR,BOŞLUK,False
+CH-0019,temel_bilgisayar,2,masaüstünde ekran okuyucu kısayolunu bul ve görev çubuğuna sabitle,7,çubuğuna,DİĞER,TAŞI,False
+CH-0021,temel_bilgisayar,1,ekrandaki küçük yazıları biraz büyüt gözüm seçmiyor,0,ekrandaki,O,BÜYÜT,False
+CH-0022,temel_bilgisayar,1,yanlış yere gittin ayarlarda imleç boyutunu bulacaksın,3,ayarlarda,O,BUL,False
+CH-0025,temel_bilgisayar,1,bilgisayarın sesi çok yüksek oldu 25'e getir,5,25'e,AZALT,DİĞER,False
+CH-0025,temel_bilgisayar,1,bilgisayarın sesi çok yüksek oldu 25'e getir,6,getir,AZALT,DİĞER,False
+CH-0026,tarayıcı_internet,2,chrome'u çalıştır ve yeni bir sekme aç,0,chrome'u,AÇ,DİĞER,False
+CH-0026,tarayıcı_internet,2,chrome'u çalıştır ve yeni bir sekme aç,1,çalıştır,AÇ,DİĞER,False
+CH-0027,tarayıcı_internet,2,bir sonraki sekmeye git tüm sayfayı yazdır,0,bir,SEKME_DEĞİŞTİR,GİT,False
+CH-0027,tarayıcı_internet,2,bir sonraki sekmeye git tüm sayfayı yazdır,1,sonraki,SEKME_DEĞİŞTİR,GİT,False
+CH-0027,tarayıcı_internet,2,bir sonraki sekmeye git tüm sayfayı yazdır,2,sekmeye,SEKME_DEĞİŞTİR,GİT,False
+CH-0027,tarayıcı_internet,2,bir sonraki sekmeye git tüm sayfayı yazdır,3,git,SEKME_DEĞİŞTİR,GİT,False
+CH-0028,tarayıcı_internet,1,yeni sekme açmadan mevcut sekmede üniversite sitesini ara,4,sekmede,ARA,O,False
+CH-0030,tarayıcı_internet,2,"Chrome'da bu sekmeyi kapat, sonra soldaki sekmeye geç",1,bu,KAPAT,O,False
+CH-0032,tarayıcı_internet,2,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",2,formu,YAZ,DİĞER,False
+CH-0032,tarayıcı_internet,2,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",4,taslak,DİĞER,BOŞLUK,False
+CH-0032,tarayıcı_internet,2,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",5,olarak,DİĞER,YAPIŞTIR,False
+CH-0032,tarayıcı_internet,2,"hayır göndermiyorsun, formu doldurup taslak olarak bırak",6,bırak,DİĞER,BOŞLUK,False
+CH-0033,tarayıcı_internet,2,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,5,sayfanın,KAYDIR,GEÇ,False
+CH-0033,tarayıcı_internet,2,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,6,başına,KAYDIR,GEÇ,False
+CH-0033,tarayıcı_internet,2,Chrome'da açık sekmeyi yenile ve sayfanın başına dön,7,dön,KAYDIR,GEÇ,False
+CH-0034,tarayıcı_internet,2,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",6,sekmeyi,O,KAPAT,False
+CH-0034,tarayıcı_internet,2,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",7,açık,O,DİĞER,False
+CH-0034,tarayıcı_internet,2,"Chrome'da pdf sekmesine geç, dosyayı indir, sekmeyi açık bırak",8,bırak,O,DİĞER,False
+CH-0039,tarayıcı_internet,2,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,0,tarayıcıda,O,YİNELE,False
+CH-0039,tarayıcı_internet,2,tarayıcıda olduğumuz sayfayı yenile sonra tekrar aşağı in,1,olduğumuz,O,YİNELE,False
+CH-0040,tarayıcı_internet,1,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,0,bu,O,KAYDIR,False
+CH-0040,tarayıcı_internet,1,bu sayfayı biraz yukarı kaydır başlık kısmı lazım,1,sayfayı,O,KAYDIR,False
+CH-0041,tarayıcı_internet,1,şu indirme tamamlandıysa dosyayı açmadan klasörde göster,5,klasörde,DİĞER,TIKLA,False
+CH-0041,tarayıcı_internet,1,şu indirme tamamlandıysa dosyayı açmadan klasörde göster,6,göster,DİĞER,TIKLA,False
+CH-0043,tarayıcı_internet,1,Chrome demeyeyim işte açık olan internet sayfasında arama yap,3,açık,ARA,O,False
+CH-0043,tarayıcı_internet,1,Chrome demeyeyim işte açık olan internet sayfasında arama yap,4,olan,ARA,O,False
+CH-0043,tarayıcı_internet,1,Chrome demeyeyim işte açık olan internet sayfasında arama yap,5,internet,ARA,BUL,False
+CH-0046,tarayıcı_internet,1,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,2,geri,O,GEÇ,False
+CH-0046,tarayıcı_internet,1,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,3,dön,O,GEÇ,False
+CH-0046,tarayıcı_internet,1,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,4,bir,GİT,GEÇ,False
+CH-0046,tarayıcı_internet,1,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,5,önceki,GİT,GEÇ,False
+CH-0046,tarayıcı_internet,1,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,6,sayfaya,GİT,GEÇ,False
+CH-0046,tarayıcı_internet,1,yanlış sekmedeyiz geri dön bir önceki sayfaya geç,7,geç,GİT,GEÇ,False
+CH-0047,tarayıcı_internet,2,şu listeyi aşağı kaydır en sondaki seçeneği seç,0,şu,O,KAYDIR,False
+CH-0049,tarayıcı_internet,2,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,2,sekmelerden,O,SEKME_DEĞİŞTİR,False
+CH-0049,tarayıcı_internet,2,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,3,sağdakine,SEKME_DEĞİŞTİR,GEÇ,False
+CH-0049,tarayıcı_internet,2,Chrome'da açık sekmelerden sağdakine geç ve sayfayı biraz aşağı kaydır,4,geç,SEKME_DEĞİŞTİR,GEÇ,False
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,4,içine,O,YAZ,False
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,5,14,YAZ,BOŞLUK,False
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,6,punto,YAZ,BOŞLUK,False
+CH-0051,ofis_metin_düzenleme,3,yeni bir sayfa aç içine 14 punto olacak şekilde bir başlık ekle başlığa da projem yaz,7,olacak,YAZ,BOŞLUK,False
+CH-0053,ofis_metin_düzenleme,2,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,0,açık,O,BUL,False
+CH-0053,ofis_metin_düzenleme,2,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,1,olan,O,BUL,False
+CH-0053,ofis_metin_düzenleme,2,açık olan dosyadan kara ile başlayan her şeyi bul ve lara olarak değiştir,2,dosyadan,O,BUL,False
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,8,roman,DEĞİŞTİR,YENİDEN_ADLANDIR,False
+CH-0055,ofis_metin_düzenleme,4,tüm metni seç ve yazı tipini Times new roman yapıp fontunu da 12 ve iki yana yaslı olarak ayarla,13,ve,O,DEĞİŞTİR,False
+CH-0061,ofis_metin_düzenleme,2,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",4,üstüne,YENİ_OLUŞTUR,YAZ,False
+CH-0061,ofis_metin_düzenleme,2,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",5,yeni,YENİ_OLUŞTUR,YAZ,False
+CH-0061,ofis_metin_düzenleme,2,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",6,bir,YENİ_OLUŞTUR,YAZ,False
+CH-0061,ofis_metin_düzenleme,2,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",7,satır,YENİ_OLUŞTUR,YAZ,False
+CH-0061,ofis_metin_düzenleme,2,"Excel'de toplam satırını bul, üstüne yeni bir satır ekle",8,ekle,YENİ_OLUŞTUR,YAZ,False
+CH-0066,ofis_metin_düzenleme,1,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,0,Word,YAZDIR,DİĞER,False
+CH-0066,ofis_metin_düzenleme,1,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,1,belgesini,YAZDIR,DİĞER,False
+CH-0066,ofis_metin_düzenleme,1,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,2,yazdırma,YAZDIR,GEÇ,False
+CH-0066,ofis_metin_düzenleme,1,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,3,ayarına,YAZDIR,GEÇ,False
+CH-0066,ofis_metin_düzenleme,1,Word belgesini yazdırma ayarına getir ama yazdırmayı başlatma,4,getir,YAZDIR,DİĞER,False
+CH-0068,ofis_metin_düzenleme,2,"Excel'de hücredeki fazla boşluğu sil, sonra formülü tekrar uygula",1,hücredeki,O,SİL,False
+CH-0070,ofis_metin_düzenleme,3,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",1,üçüncü,GEÇ,GİT,False
+CH-0070,ofis_metin_düzenleme,3,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",2,slayta,GEÇ,GİT,False
+CH-0070,ofis_metin_düzenleme,3,"PowerPoint'te üçüncü slayta git, resmi seç, kenarını biraz büyüt",3,"git,",GEÇ,GİT,False
+CH-0073,ofis_metin_düzenleme,1,açık olan metinde iki boşluk varsa tek boşluğa indir,3,iki,DEĞİŞTİR,O,False
+CH-0073,ofis_metin_düzenleme,1,açık olan metinde iki boşluk varsa tek boşluğa indir,4,boşluk,DEĞİŞTİR,O,False
+CH-0073,ofis_metin_düzenleme,1,açık olan metinde iki boşluk varsa tek boşluğa indir,5,varsa,DEĞİŞTİR,O,False
+CH-0073,ofis_metin_düzenleme,1,açık olan metinde iki boşluk varsa tek boşluğa indir,6,tek,DEĞİŞTİR,İNDİR,False
+CH-0073,ofis_metin_düzenleme,1,açık olan metinde iki boşluk varsa tek boşluğa indir,7,boşluğa,DEĞİŞTİR,İNDİR,False
+CH-0073,ofis_metin_düzenleme,1,açık olan metinde iki boşluk varsa tek boşluğa indir,8,indir,DEĞİŞTİR,İNDİR,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,0,ekrandaki,O,KOPYALA,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,3,yeni,YENİ_OLUŞTUR,AÇ,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,4,bir,YENİ_OLUŞTUR,AÇ,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,5,spyder,YENİ_OLUŞTUR,AÇ,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,6,dosyası,YENİ_OLUŞTUR,AÇ,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,7,aç,YENİ_OLUŞTUR,AÇ,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,13,dosyanın,O,YENİ_OLUŞTUR,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,14,ismini,O,YENİ_OLUŞTUR,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,15,de,O,YENİ_OLUŞTUR,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,16,yeni,YENİDEN_ADLANDIR,YENİ_OLUŞTUR,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,17,proje,YENİDEN_ADLANDIR,YENİ_OLUŞTUR,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,18,olarak,YENİDEN_ADLANDIR,YENİ_OLUŞTUR,False
+CH-0076,dosya_yazılım_geliştirme,4,ekrandaki kodu kopyala yeni bir spyder dosyası aç ve içine yapıştır daha sonra dosyanın ismini de yeni proje olarak oluştur,19,oluştur,YENİDEN_ADLANDIR,YENİ_OLUŞTUR,False
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,0,kodu,GÖNDER,O,False
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,1,commitle,GÖNDER,YENİDEN_ADLANDIR,False
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,13,push,YÜKLE,YENİDEN_ADLANDIR,False
+CH-0078,dosya_yazılım_geliştirme,3,kodu commitle ve açıklama olarak da her şey tamamlandı yaz daha sonra da push et,14,et,YÜKLE,YAZ,False
+CH-0083,dosya_yazılım_geliştirme,3,query sekmesine git select * from yaz ve çalıştır,0,query,SEKME_DEĞİŞTİR,GİT,False
+CH-0083,dosya_yazılım_geliştirme,3,query sekmesine git select * from yaz ve çalıştır,1,sekmesine,SEKME_DEĞİŞTİR,GİT,False
+CH-0083,dosya_yazılım_geliştirme,3,query sekmesine git select * from yaz ve çalıştır,2,git,SEKME_DEĞİŞTİR,GİT,False
+CH-0084,dosya_yazılım_geliştirme,3,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,9,ekranda,DİĞER,O,False
+CH-0084,dosya_yazılım_geliştirme,3,terminali açıp npm test komutunu çalıştır ama sonucu göndermeden ekranda bırak,10,bırak,DİĞER,O,False
+CH-0086,dosya_yazılım_geliştirme,2,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,0,README,O,GİT,False
+CH-0086,dosya_yazılım_geliştirme,2,README dosyasının en altına git ve kurulum notu diye bir başlık ekle,1,dosyasının,O,GİT,False
+CH-0088,dosya_yazılım_geliştirme,1,Git panelini açmadan terminalden branch adını göster,3,terminalden,DİĞER,O,False
+CH-0090,dosya_yazılım_geliştirme,3,"terminalde docker ps yaz sonra enter bas, çıkan container adını kopyala",7,çıkan,O,KOPYALA,False
+CH-0094,dosya_yazılım_geliştirme,2,VS Code'da routes klasöründe yeni api dosyası oluştur adını user_routes yap,8,adını,O,YENİDEN_ADLANDIR,False
+CH-0096,dosya_yazılım_geliştirme,3,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",1,komut,O,YAZ,False
+CH-0096,dosya_yazılım_geliştirme,3,"terminalde komut satırına pip install yaz, bir boşluk bırak, paket adını yapıştır",2,satırına,O,YAZ,False
+CH-0099,dosya_yazılım_geliştirme,3,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",4,README,KOPYALA,TAŞI,False
+CH-0099,dosya_yazılım_geliştirme,3,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",5,kopyasını,KOPYALA,TAŞI,False
+CH-0099,dosya_yazılım_geliştirme,3,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",6,içine,KOPYALA,TAŞI,False
+CH-0099,dosya_yazılım_geliştirme,3,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",7,"koy,",KOPYALA,TAŞI,False
+CH-0099,dosya_yazılım_geliştirme,3,"repo klasöründe docs oluştur, README kopyasını içine koy, adını kullanım yap",8,adını,O,YENİDEN_ADLANDIR,False

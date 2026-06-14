@@ -1,0 +1,7 @@
+﻿gold,pred,count
+O,I-TASK,20
+O,B-TASK,19
+B-TASK,I-TASK,18
+I-TASK,O,4
+I-TASK,B-TASK,4
+B-TASK,O,3

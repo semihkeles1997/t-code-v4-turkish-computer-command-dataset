@@ -1,0 +1,81 @@
+﻿id,domain,task_count,raw_command,token_index,token,gold,pred,correct
+CK-3454,ofis_metin_düzenleme,1,puntoyu küçült biraz,2,biraz,O,KÜÇÜLT,False
+CK-3457,ofis_metin_düzenleme,1,paragraf arasına boşluk bırak,0,paragraf,O,BOŞLUK,False
+CK-3457,ofis_metin_düzenleme,1,paragraf arasına boşluk bırak,1,arasına,O,BOŞLUK,False
+CK-3497,dosya_yazılım_geliştirme,4,satırı kes boşluk bırak dosyayı kaydet terminali kapat,0,satırı,KES,O,False
+CK-3504,temel_bilgisayar,1,şu küçük erişim simgesini seçebilir misin,0,şu,SEÇ,O,False
+CK-3506,temel_bilgisayar,1,masaüstündeki erişilebilirlik klasörünü bul,0,masaüstündeki,BUL,O,False
+CK-3508,temel_bilgisayar,1,şimdilik bildirim merkezini kapat,0,şimdilik,O,KAPAT,False
+CK-3511,temel_bilgisayar,1,şu seçili dosyayı panoya kopyala,0,şu,KOPYALA,O,False
+CK-3512,temel_bilgisayar,1,kopyalananı bu klasörün içine yapıştır,0,kopyalananı,YAPIŞTIR,KOPYALA,False
+CK-3523,temel_bilgisayar,3,erişim panelini aç yüksek kontrast ayarını bul onu etkinleştir,7,onu,DEĞİŞTİR,DİĞER,False
+CK-3523,temel_bilgisayar,3,erişim panelini aç yüksek kontrast ayarını bul onu etkinleştir,8,etkinleştir,DEĞİŞTİR,DİĞER,False
+CK-3528,tarayıcı_internet,1,bu sayfanın içinde yönetmelik kelimesini bul,0,bu,BUL,O,False
+CK-3528,tarayıcı_internet,1,bu sayfanın içinde yönetmelik kelimesini bul,1,sayfanın,BUL,O,False
+CK-3531,tarayıcı_internet,1,giriş butonuna basıver yani tıkla,4,tıkla,O,TIKLA,False
+CK-3536,tarayıcı_internet,1,site içinde erişilebilirlik ara,0,site,ARA,O,False
+CK-3574,ofis_metin_düzenleme,3,slaytta resmi seç biraz büyüt sağ tarafa taşı,0,slaytta,O,SEÇ,False
+CK-3576,ofis_metin_düzenleme,4,kapak sayfasına git başlığı yaz enter bas dosyayı kaydet,2,git,GİT,YAZ,False
+CK-3580,dosya_yazılım_geliştirme,1,terminalde git status yaz,0,terminalde,YAZ,O,False
+CK-3602,dosya_yazılım_geliştirme,5,api dosyasını bul route satırını seç endpoint adını güncelle kaydet ve repoya yükle,6,endpoint,DEĞİŞTİR,YİNELE,False
+CK-3602,dosya_yazılım_geliştirme,5,api dosyasını bul route satırını seç endpoint adını güncelle kaydet ve repoya yükle,7,adını,DEĞİŞTİR,YENİDEN_ADLANDIR,False
+CK-3602,dosya_yazılım_geliştirme,5,api dosyasını bul route satırını seç endpoint adını güncelle kaydet ve repoya yükle,8,güncelle,DEĞİŞTİR,YİNELE,False
+CK-3604,temel_bilgisayar,1,şimdilik büyüteci küçült okumam yeterli,1,büyüteci,KÜÇÜLT,O,False
+CK-3604,temel_bilgisayar,1,şimdilik büyüteci küçült okumam yeterli,2,küçült,KÜÇÜLT,O,False
+CK-3606,temel_bilgisayar,1,masaüstündeki geçici kısayolu sil,0,masaüstündeki,O,SİL,False
+CK-3607,temel_bilgisayar,1,fare imlecini biraz büyütür müsün,4,müsün,O,BÜYÜT,False
+CK-3611,temel_bilgisayar,1,ekranın sol kenarını biraz kaydır,0,ekranın,O,KAYDIR,False
+CK-3612,temel_bilgisayar,1,buraya bir boşluk bırak sonra bekle,0,buraya,O,BOŞLUK,False
+CK-3612,temel_bilgisayar,1,buraya bir boşluk bırak sonra bekle,5,bekle,O,DİĞER,False
+CK-3613,temel_bilgisayar,1,küçük pencereyi öne getir,0,küçük,O,DİĞER,False
+CK-3613,temel_bilgisayar,1,küçük pencereyi öne getir,1,pencereyi,GEÇ,DİĞER,False
+CK-3613,temel_bilgisayar,1,küçük pencereyi öne getir,2,öne,GEÇ,DİĞER,False
+CK-3613,temel_bilgisayar,1,küçük pencereyi öne getir,3,getir,GEÇ,DİĞER,False
+CK-3614,temel_bilgisayar,1,dosya gezgininde son değişen öğeyi bul,1,gezgininde,O,BUL,False
+CK-3616,temel_bilgisayar,1,panodaki metni bu alana yapıştır,0,panodaki,O,YAPIŞTIR,False
+CK-3617,temel_bilgisayar,1,simgelerin görünümünü liste olarak değiştir,0,simgelerin,O,DEĞİŞTİR,False
+CK-3617,temel_bilgisayar,1,simgelerin görünümünü liste olarak değiştir,1,görünümünü,O,DEĞİŞTİR,False
+CK-3620,temel_bilgisayar,2,masaüstünde yeni not klasörü oluştur adını erişim notları yap,5,adını,O,YENİDEN_ADLANDIR,False
+CK-3627,temel_bilgisayar,4,başlatta ekran alıntısı ara uygulamayı aç yeni kesit oluştur ve panoya kopyala,0,başlatta,O,ARA,False
+CK-3629,tarayıcı_internet,1,bu pdf dosyasını tekrar indir,0,bu,O,İNDİR,False
+CK-3632,tarayıcı_internet,2,indirilen rapor sayfasını bul sonra bağlantıyı indir,0,indirilen,O,BUL,False
+CK-3635,tarayıcı_internet,3,sayfanın altına kaydır formdaki dosyayı seç sonra yükle,0,sayfanın,O,KAYDIR,False
+CK-3635,tarayıcı_internet,3,sayfanın altına kaydır formdaki dosyayı seç sonra yükle,3,formdaki,O,SEÇ,False
+CK-3638,ofis_metin_düzenleme,1,belgedeki boş satırı sil,0,belgedeki,O,SİL,False
+CK-3639,ofis_metin_düzenleme,1,seçili paragrafı biraz küçült,0,seçili,O,KÜÇÜLT,False
+CK-3641,ofis_metin_düzenleme,1,imleçten sonra bir boşluk ekle,0,imleçten,O,BOŞLUK,False
+CK-3641,ofis_metin_düzenleme,1,imleçten sonra bir boşluk ekle,1,sonra,O,BOŞLUK,False
+CK-3646,ofis_metin_düzenleme,2,tablodaki toplam formülünü yinele sonra belgeyi kaydet,0,tablodaki,O,YİNELE,False
+CK-3647,ofis_metin_düzenleme,3,raporda şekil başlığını ara satırı seç italik yap,6,italik,DEĞİŞTİR,YENİDEN_ADLANDIR,False
+CK-3647,ofis_metin_düzenleme,3,raporda şekil başlığını ara satırı seç italik yap,7,yap,DEĞİŞTİR,YENİDEN_ADLANDIR,False
+CK-3648,ofis_metin_düzenleme,3,ilk maddeyi kes ikinci listenin altına yapıştır sonra kaydet,3,ikinci,O,YAPIŞTIR,False
+CK-3648,ofis_metin_düzenleme,3,ilk maddeyi kes ikinci listenin altına yapıştır sonra kaydet,4,listenin,O,YAPIŞTIR,False
+CK-3653,dosya_yazılım_geliştirme,1,build klasöründeki eski raporu sil,0,build,O,SİL,False
+CK-3653,dosya_yazılım_geliştirme,1,build klasöründeki eski raporu sil,1,klasöründeki,O,SİL,False
+CK-3657,dosya_yazılım_geliştirme,2,src altında yeni utils klasörü oluştur eski helpers klasörünü yeniden adlandır,6,eski,O,YENİDEN_ADLANDIR,False
+CK-3660,dosya_yazılım_geliştirme,2,terminal sekmesine geç komut satırına bir boşluk bırak,3,komut,O,BOŞLUK,False
+CK-3660,dosya_yazılım_geliştirme,2,terminal sekmesine geç komut satırına bir boşluk bırak,4,satırına,O,BOŞLUK,False
+CK-3662,dosya_yazılım_geliştirme,2,dist klasörünü küçült demiyorum arşiv dosyasını sıkıştır sonra hedefe taşı,4,arşiv,DİĞER,YAPIŞTIR,False
+CK-3662,dosya_yazılım_geliştirme,2,dist klasörünü küçült demiyorum arşiv dosyasını sıkıştır sonra hedefe taşı,5,dosyasını,DİĞER,YAPIŞTIR,False
+CK-3662,dosya_yazılım_geliştirme,2,dist klasörünü küçült demiyorum arşiv dosyasını sıkıştır sonra hedefe taşı,6,sıkıştır,DİĞER,YAPIŞTIR,False
+CK-3663,dosya_yazılım_geliştirme,2,main branchine geç değişiklikleri uzak depoya yükle,3,değişiklikleri,O,YÜKLE,False
+CK-3669,dosya_yazılım_geliştirme,3,logs klasörü oluştur app.log dosyasını oraya taşı adını bug.log yap,3,app.log,O,TAŞI,False
+CK-3669,dosya_yazılım_geliştirme,3,logs klasörü oluştur app.log dosyasını oraya taşı adını bug.log yap,4,dosyasını,O,TAŞI,False
+CK-3669,dosya_yazılım_geliştirme,3,logs klasörü oluştur app.log dosyasını oraya taşı adını bug.log yap,7,adını,O,YENİDEN_ADLANDIR,False
+CK-3670,dosya_yazılım_geliştirme,3,terminalde clear komutunu yaz enter bas sonra test komutunu yinele,0,terminalde,O,YAZ,False
+CK-3673,dosya_yazılım_geliştirme,3,paket aramasında flask ara uygun sürümü indir requirements içine ekle,8,içine,YAZ,DİĞER,False
+CK-3675,dosya_yazılım_geliştirme,3,migration klasörü oluştur dosyayı içine taşı adını init_migration yap,3,dosyayı,O,TAŞI,False
+CK-3675,dosya_yazılım_geliştirme,3,migration klasörü oluştur dosyayı içine taşı adını init_migration yap,6,adını,O,YENİDEN_ADLANDIR,False
+CK-3677,dosya_yazılım_geliştirme,3,test sonucunu yazdır rapor dosyasını sıkıştır zip olarak kaydet,3,rapor,DİĞER,YAPIŞTIR,False
+CK-3677,dosya_yazılım_geliştirme,3,test sonucunu yazdır rapor dosyasını sıkıştır zip olarak kaydet,4,dosyasını,DİĞER,YAPIŞTIR,False
+CK-3677,dosya_yazılım_geliştirme,3,test sonucunu yazdır rapor dosyasını sıkıştır zip olarak kaydet,5,sıkıştır,DİĞER,YAPIŞTIR,False
+CK-3679,dosya_yazılım_geliştirme,4,API klasöründe yeni routes dosyası oluştur adını users.py yap import satırını ekle kaydet,6,adını,O,YENİDEN_ADLANDIR,False
+CK-3680,dosya_yazılım_geliştirme,4,terminalde git pull yaz enter bas çakışma dosyasını bul çıktıyı yazdır,0,terminalde,O,YAZ,False
+CK-3684,dosya_yazılım_geliştirme,2,terminalde komuttan sonra bir boşluk bırak enter bas,1,komuttan,O,BOŞLUK,False
+CK-3684,dosya_yazılım_geliştirme,2,terminalde komuttan sonra bir boşluk bırak enter bas,2,sonra,O,BOŞLUK,False
+CK-3693,dosya_yazılım_geliştirme,3,boş migration dosyasını sil yeni migration oluştur adını add_index yap,7,adını,O,YENİDEN_ADLANDIR,False
+CK-3698,dosya_yazılım_geliştirme,4,logs klasörü oluştur app.log dosyasını taşı adını son_hata.log yap çıktıyı yazdır,6,adını,O,YENİDEN_ADLANDIR,False
+CK-3699,dosya_yazılım_geliştirme,4,test sekmesine geç aramayı yinele hata satırını seç yorum satırı yap,8,yorum,DEĞİŞTİR,YENİDEN_ADLANDIR,False
+CK-3699,dosya_yazılım_geliştirme,4,test sekmesine geç aramayı yinele hata satırını seç yorum satırı yap,9,satırı,DEĞİŞTİR,YENİDEN_ADLANDIR,False
+CK-3699,dosya_yazılım_geliştirme,4,test sekmesine geç aramayı yinele hata satırını seç yorum satırı yap,10,yap,DEĞİŞTİR,YENİDEN_ADLANDIR,False
+CK-3702,dosya_yazılım_geliştirme,5,geçici build klasörünü sil release klasörü oluştur dosyayı taşı adını v1_final yap repoya gönder,9,adını,O,YENİDEN_ADLANDIR,False

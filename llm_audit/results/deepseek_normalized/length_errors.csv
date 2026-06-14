@@ -1,0 +1,15 @@
+﻿id,token_count,pred_boundary_len,pred_task_len,raw_command
+CK-1314,9,10,10,önceki sekmeyi kapat değil önceki sekmeye geç bağlantıyı kopyala
+CK-1765,6,7,7,paylaşım penceresini açıp alıcıyı yazarak gönder
+CK-1915,9,10,10,satırı kes vazgeç satırı seç satırı kopyala alta yapıştır
+CK-2124,9,8,8,başlatı açıp güç menüsüne giderek yeniden başlat seçeneğini seç
+CK-2191,9,10,10,ııı vscode terminalinde son komutu yinele sonra çıktıyı kopyala
+CK-2284,11,10,10,Git panelini aç değişen dosyayı seç commit mesajına ilk sürüm yaz
+CK-2336,11,12,12,şu açık sekmede arama alanını bul engelli kullanıcı deneyimi yaz ara
+CK-2371,9,10,10,ııı şu kaynakça başlığını bul altındaki paragrafı seç kopyala
+CK-2675,8,9,9,Excel tablosunda D sütununu seç genişliğini biraz artır
+CK-2904,6,7,7,pencereyi büyüt yok yok şimdilik küçültelim
+CK-3258,5,6,6,şu yazı biraz büyüse iyi
+CK-3840,6,7,7,tablo başlığını kesip sayfanın üstüne yapıştır
+CK-3844,7,8,8,seçili metni kalın yapma sadece italik yap
+CK-3848,7,8,8,slayttaki resmi taşımadan önce kılavuz çizgileri göster

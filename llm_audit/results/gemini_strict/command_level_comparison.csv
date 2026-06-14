@@ -1,0 +1,201 @@
+﻿model,id,domain,task_count,raw_command,token_count,all_tokens_task_correct,all_tokens_boundary_correct,all_tokens_both_correct,normalized
+Gemini,CK-1205,temel_bilgisayar,4,dosyya gezginini aç indirmelere git pdfyi bul ve aç,9,True,True,True,False
+Gemini,CK-1212,tarayıcı_internet,2,maili gönder dur ek koymadım dosyayı yükle sonra gönder,9,True,True,True,False
+Gemini,CK-1214,tarayıcı_internet,2,sekmeyi kapat değil onu değil önce sonraki sekmeye geç sonra kapat,11,False,True,False,False
+Gemini,CK-1227,ofis_metin_düzenleme,4,sunumu aç son slayta geç not alanını seç açıklama yaz,10,True,True,True,False
+Gemini,CK-1228,dosya_yazılım_geliştirme,4,src klasörüne git api dosyasını bul aç endpoint değiştir,9,True,True,True,False
+Gemini,CK-1229,temel_bilgisayar,4,arama panelini aç yazıcı yaz sonucu aç test sayfası yazdır,10,True,True,True,False
+Gemini,CK-1238,tarayıcı_internet,3,pdfyi büyütüp aşağı kaydırarak tabloyu bul,6,True,True,True,False
+Gemini,CK-1248,ofis_metin_düzenleme,3,çalışma kitabını aç ardından sonuç sütununu seç ve formülü aşağı kopyala,11,True,True,True,False
+Gemini,CK-1287,temel_bilgisayar,3,ayarları açıp klavye bölümüne giderek tekrar hızını azalt,8,True,True,True,False
+Gemini,CK-1299,dosya_yazılım_geliştirme,3,proje klasörüne git ardından readme dosyasını aç ve kurulum bölümünü bul,11,True,True,True,False
+Gemini,CK-1314,tarayıcı_internet,2,önceki sekmeyi kapat değil önceki sekmeye geç bağlantıyı kopyala,9,False,True,False,False
+Gemini,CK-1320,ofis_metin_düzenleme,3,satırı silme dur satırı seç satırı kes başka sayfaya yapıştır,10,True,True,True,False
+Gemini,CK-1323,ofis_metin_düzenleme,4,çalışma kitabını aç puan sütununu seç ortalama yaz enter bas,10,True,True,True,False
+Gemini,CK-1333,temel_bilgisayar,3,dosyayı indirip adı değiştirerek arşiv klasörüne taşı,7,False,True,False,False
+Gemini,CK-1334,ofis_metin_düzenleme,3,slayttaki simgeyi seçip büyüterek üst köşeye taşı,7,True,True,True,False
+Gemini,CK-1344,dosya_yazılım_geliştirme,3,hadi terminale geç bi derleme komutunu yaz entera bas,9,True,True,True,False
+Gemini,CK-1350,ofis_metin_düzenleme,3,sunum görünümünü aç ardından konuşmacı notlarına geç ve süre bilgisini yaz,11,True,True,True,False
+Gemini,CK-1374,dosya_yazılım_geliştirme,5,terminal aç pytest yaz enter bas hatayı bul kopyala,9,True,True,True,False
+Gemini,CK-1391,temel_bilgisayar,2,ya bi şu pencereyi büyüt sonra sağa al,8,True,True,True,False
+Gemini,CK-1393,ofis_metin_düzenleme,3,ııı tabloyu seç biraz küçült kaydet hadi,7,False,False,False,False
+Gemini,CK-1396,temel_bilgisayar,3,erişilebilirlik panelini aç ardından kontrast temalarına git ve yüksek kontrastı seç,11,True,True,True,False
+Gemini,CK-1410,tarayıcı_internet,3,gogıl formu aç dosyya yükle düğmesine tıkla gönder,8,False,True,False,False
+Gemini,CK-1432,tarayıcı_internet,2,arama isteğini gönder dur sorguyu değiştir arama isteğini gönder,9,True,True,True,False
+Gemini,CK-1437,tarayıcı_internet,2,mesajı silme dur mesajı seç mesajı arşive taşı,8,True,True,True,False
+Gemini,CK-1440,tarayıcı_internet,2,son maili açma şey yok gelen kutusuna git son maili seç,11,True,True,True,False
+Gemini,CK-1448,dosya_yazılım_geliştirme,4,repo klasörüne git changelog dosyasını bul aç sürüm yaz,9,True,True,True,False
+Gemini,CK-1451,temel_bilgisayar,4,masaüstüne geç klasörü bul aç dosyayı seç,7,True,True,True,False
+Gemini,CK-1463,temel_bilgisayar,3,klasörü açıp raporu bularak masaüstüne kopyala,6,True,True,True,False
+Gemini,CK-1477,temel_bilgisayar,3,indirilen dosyayı bulup seçerek masaüstüne taşı,6,True,True,True,False
+Gemini,CK-1481,temel_bilgisayar,2,ya bi şu pencereyi küçült sonra görev çubuğuna dön,9,True,True,True,False
+Gemini,CK-1502,tarayıcı_internet,3,gogıl aç adres alanına engelli bilgisayar kullanımı yaz ara,9,True,True,True,False
+Gemini,CK-1503,ofis_metin_düzenleme,4,eksıl dosyasını aç f dokuz hücresini seç değer yaz entera bas,11,True,True,True,False
+Gemini,CK-1507,tarayıcı_internet,3,tarayıcıda bağlantıyı yapıştr entıra bas çerez uyarısını kapat,8,False,False,False,False
+Gemini,CK-1532,tarayıcı_internet,2,arama isteğini gönder dur sorguyu düzelt arama isteğini gönder,9,True,True,True,False
+Gemini,CK-1560,tarayıcı_internet,4,postaya git yeni ileti oluştur alıcı yaz gönder,8,True,True,True,False
+Gemini,CK-1586,temel_bilgisayar,2,bi şuradaki raporu bul lütfen aç hemen,7,True,True,True,False
+Gemini,CK-1594,dosya_yazılım_geliştirme,3,kaynak kontrol panelini aç ardından bekleyen dosyaları seç ve commit mesajı yaz,12,True,True,True,False
+Gemini,CK-1609,temel_bilgisayar,3,dosyya paylaşımını aç bağlantı oluştur koypala,6,True,True,True,False
+Gemini,CK-1619,tarayıcı_internet,3,gogıl takvim aç etkinliği bul katıl düğmesine tıkla,8,True,True,True,False
+Gemini,CK-1624,dosya_yazılım_geliştirme,2,deploy et vazgeç terminale geç logları bul,7,True,True,True,False
+Gemini,CK-1647,ofis_metin_düzenleme,3,dipnot listesini aç beşinci dipnotu seç kes,7,True,True,True,False
+Gemini,CK-1673,temel_bilgisayar,3,ses panelini açarak çıkış cihazını seçip sesi azalt,8,True,True,True,False
+Gemini,CK-1677,temel_bilgisayar,3,ekran görüntüsünü seçip kırparak panoya kopyala,6,True,True,True,False
+Gemini,CK-1679,ofis_metin_düzenleme,3,denklem satırını bulup seçerek yeni formül yaz,7,True,True,True,False
+Gemini,CK-1703,ofis_metin_düzenleme,3,eksıl grafikte eksen yazısını seç küçült kaydetti,7,True,True,True,False
+Gemini,CK-1713,dosya_yazılım_geliştirme,2,temrinal çıktısında warning ara satırı koypala,6,True,True,True,False
+Gemini,CK-1714,ofis_metin_düzenleme,3,pavırpoyntta alt bilgi alanını seç tarihi yaz kaydetti,8,False,False,False,False
+Gemini,CK-1719,tarayıcı_internet,2,gogıl drive arşiv klasörüne git zip dosyasını indir,8,False,True,False,False
+Gemini,CK-1723,ofis_metin_düzenleme,2,yorumları kabul etme vazgeç yorumlar panelini aç ilk yorumu seç,10,True,True,True,False
+Gemini,CK-1730,tarayıcı_internet,2,reklam engelini kapatma hayır site ayarını aç istisnayı sil,9,True,True,True,False
+Gemini,CK-1731,ofis_metin_düzenleme,2,tablo filtresini sıfırlama yok filtre okunu aç boşları seç,9,True,True,True,False
+Gemini,CK-1743,ofis_metin_düzenleme,3,yorum sekmesini aç çözülen yorumu bul yeniden aç,8,True,True,True,False
+Gemini,CK-1744,dosya_yazılım_geliştirme,3,değişkenler panelini aç hata satırını seç değeri kopyala,8,True,True,True,False
+Gemini,CK-1765,temel_bilgisayar,3,paylaşım penceresini açıp alıcıyı yazarak gönder,6,True,True,True,False
+Gemini,CK-1766,tarayıcı_internet,3,arama sayfasına gidip sekmeleri kaydırarak haber sonucunu aç,8,False,True,False,False
+Gemini,CK-1773,temel_bilgisayar,3,klavye ayarını açıp yineleme gecikmesini artırarak kaydet,7,True,True,True,False
+Gemini,CK-1827,tarayıcı_internet,2,dosyayı indirme önce hedef klasörü seç sonra indir,8,True,True,True,False
+Gemini,CK-1844,temel_bilgisayar,2,şuradaki cihazı seç bağlantıyı kes,5,False,True,False,False
+Gemini,CK-1848,temel_bilgisayar,2,şu arşivi seç masaüstüne çıkar,5,True,True,True,False
+Gemini,CK-1860,ofis_metin_düzenleme,2,rapor başlığına engelsiz bilgisayar kullanımı için multimodal komut sistemi yaz kaydet,11,True,True,True,False
+Gemini,CK-1862,dosya_yazılım_geliştirme,2,terminalde echo erişilebilir komut arayüzü testi yaz enter bas,9,True,True,True,False
+Gemini,CK-1867,temel_bilgisayar,2,dosya adına erişilebilirlik deneyi sürüm iki yaz kaydet,8,False,False,False,False
+Gemini,CK-1869,ofis_metin_düzenleme,2,başlık alanına eller serbest bilgisayar etkileşimi pilot çalışması yaz kaydet,10,False,False,False,False
+Gemini,CK-1875,ofis_metin_düzenleme,2,açıklama kutusuna kullanıcı komutu yanlış söylediğinde sistem düzeltmeyi anlamalı yaz kaydet,11,True,True,True,False
+Gemini,CK-1879,temel_bilgisayar,3,dosyayı seç kes arşiv klasörüne yapıştır,6,True,True,True,False
+Gemini,CK-1892,temel_bilgisayar,3,imleç boyutunu artır kontrast değerini artır ayarı kaydet,8,True,True,True,False
+Gemini,CK-1901,temel_bilgisayar,3,alternatif giriş ayarını aç anahtar tarama modunu seç aç,9,True,True,True,False
+Gemini,CK-1905,ofis_metin_düzenleme,3,vörd belgesinde yazdır menüsünü aç sayfa aralığını yaz yazdırı tıkla,10,False,True,False,False
+Gemini,CK-1913,ofis_metin_düzenleme,2,belgeyi yazdır dur belgeyi yazdırma önizlemeyi aç yalnızca iki sayfayı yazdır,11,True,True,True,False
+Gemini,CK-1915,ofis_metin_düzenleme,3,satırı kes vazgeç satırı seç satırı kopyala alta yapıştır,9,True,True,True,False
+Gemini,CK-1973,dosya_yazılım_geliştirme,2,program çıktısını seç kesme çıktı metnini kopyala loga yapıştır,9,False,False,False,False
+Gemini,CK-2023,temel_bilgisayar,2,klasörü kapatma dur klasör adını toplantı yap klasörü belgeler içine taşı,11,True,True,True,False
+Gemini,CK-2037,tarayıcı_internet,3,şey önceki sekmeye geç lütfen sayfada aşağı in indir düğmesini bul,11,False,True,False,False
+Gemini,CK-2071,ofis_metin_düzenleme,3,belgeyi aç şablon ekini indir düzenlenmiş belgeyi yükle,8,True,True,True,False
+Gemini,CK-2073,ofis_metin_düzenleme,2,grafiği yazdırma grafiği görsel olarak indir sonra adını grafik final yap,11,True,True,True,False
+Gemini,CK-2085,dosya_yazılım_geliştirme,3,docker panelini açıp imajı indirip çalıştırmayı yinele,7,False,False,False,False
+Gemini,CK-2087,dosya_yazılım_geliştirme,3,git panelini aç commit mesajı yaz commit gönder,8,True,True,True,False
+Gemini,CK-2092,dosya_yazılım_geliştirme,3,kod bloğunu seçip keserek yardımcı dosyaya yapıştır,7,True,True,True,False
+Gemini,CK-2124,temel_bilgisayar,3,başlatı açıp güç menüsüne giderek yeniden başlat seçeneğini seç,9,True,True,True,False
+Gemini,CK-2130,tarayıcı_internet,3,yeni sekme oluştur adres çubuğuna e devlet yaz arama sonucunu aç,11,True,True,True,False
+Gemini,CK-2132,tarayıcı_internet,2,kamerayı açma mikrofon iznini aç toplantı linkine git,8,True,True,True,False
+Gemini,CK-2134,tarayıcı_internet,3,indirme sayfasını aç en son indirilen dosyayı seç klasörde göster düğmesine tıkla,12,True,True,True,False
+Gemini,CK-2151,tarayıcı_internet,3,tarayıcı izinlerini aş bildirim iznini kapad sayfayı yenile,8,False,True,False,False
+Gemini,CK-2158,ofis_metin_düzenleme,4,vörd dosyasını aç giriş paragrafını seç italik yap kaydet,9,False,True,False,False
+Gemini,CK-2191,dosya_yazılım_geliştirme,2,ııı vscode terminalinde son komutu yinele sonra çıktıyı kopyala,9,True,False,False,False
+Gemini,CK-2196,dosya_yazılım_geliştirme,4,kaynak klasörü aç eski raporu seç sil yeni raporu yapıştır,10,True,True,True,False
+Gemini,CK-2211,temel_bilgisayar,2,şu an imleç çok küçük büyüteci aç ekranı yüzde yüz elliye büyütür müsün,13,False,False,False,False
+Gemini,CK-2227,temel_bilgisayar,2,tamam bu pencere kalsın diğer monitördeki tarafa geç oradaki ayarlar kutusunu kapat,12,True,True,True,False
+Gemini,CK-2242,tarayıcı_internet,4,formu doldururken ad alanını seçip Ali yaz soyad alanına geçip Yılmaz yaz,12,True,True,True,False
+Gemini,CK-2243,tarayıcı_internet,3,YouTube arama kutusuna tıklar mısın Python döngüler yaz ilk videoyu aç,11,False,False,False,False
+Gemini,CK-2246,tarayıcı_internet,3,bu sekmeyi şimdilik kapat diğer açık sekmeye geç oradaki dosyayı indir,11,False,False,False,False
+Gemini,CK-2284,dosya_yazılım_geliştirme,3,Git panelini aç değişen dosyayı seç commit mesajına ilk sürüm yaz,11,True,True,True,False
+Gemini,CK-2294,dosya_yazılım_geliştirme,2,terminal çıktısında failed kelimesini bul satırı seç,7,False,False,False,False
+Gemini,CK-2304,temel_bilgisayar,2,ekranı kilitle yok hayır sadece bildirim panelini aç rahatsız etmeyin modunu kapat,12,True,True,True,False
+Gemini,CK-2319,temel_bilgisayar,3,denetim masasını aç fare ayarlarına git işaretçi hızını azalt,9,True,True,True,False
+Gemini,CK-2333,tarayıcı_internet,3,indirme çubuğunu aç en son inen dosyayı klasörde göster sonra pencereyi küçült,12,False,True,False,False
+Gemini,CK-2336,tarayıcı_internet,3,şu açık sekmede arama alanını bul engelli kullanıcı deneyimi yaz ara,11,True,True,True,False
+Gemini,CK-2371,ofis_metin_düzenleme,3,ııı şu kaynakça başlığını bul altındaki paragrafı seç kopyala,9,True,True,True,False
+Gemini,CK-2398,dosya_yazılım_geliştirme,3,proje klasörüne git logs klasörünü aç bugünkü logu seç,9,True,True,True,False
+Gemini,CK-2401,dosya_yazılım_geliştirme,3,terminalde son komutu yinele hata çıkarsa çıktıyı seç kopyala,9,False,False,False,False
+Gemini,CK-2405,temel_bilgisayar,3,sağ alttaki ses panelini aç mikrofonu seç seviyeyi biraz azalt,10,False,False,False,False
+Gemini,CK-2406,temel_bilgisayar,2,şu bilgisayarın köşesindeki klasörü aç içindekilerden raporu seç,8,False,False,False,False
+Gemini,CK-2430,tarayıcı_internet,2,aşağıdaki başvuru bağlantısına tıklar mısın formun ilk alanını seç,9,False,False,False,False
+Gemini,CK-2455,ofis_metin_düzenleme,3,PowerPoint'te sağdaki görseli seç biraz sola taşı boyutunu küçült,9,False,False,False,False
+Gemini,CK-2471,ofis_metin_düzenleme,3,PDF'de arama panelini açıp imza yazarak sonuca git,8,True,True,True,False
+Gemini,CK-2500,dosya_yazılım_geliştirme,2,yeni test dosyası oluştur adını login_test.py yap,7,True,True,True,False
+Gemini,CK-2531,tarayıcı_internet,4,yeni sekme aç site adresini yapıştır enter bas sayfayı aşağı kaydır,11,False,True,False,False
+Gemini,CK-2570,ofis_metin_düzenleme,3,slayt geçişini aç solma efektini seç önizle,7,True,True,True,False
+Gemini,CK-2577,dosya_yazılım_geliştirme,2,terminali açma dur mevcut terminale geç npm run test yaz,10,True,True,True,False
+Gemini,CK-2584,dosya_yazılım_geliştirme,4,test klasöründe yeni dosya oluştur adını login_test.py yap içine taslak yaz kaydet,12,True,True,True,False
+Gemini,CK-2595,dosya_yazılım_geliştirme,3,dosya aramasını aç helper yaz çıkan sonucu sağ tarafta aç,10,False,False,False,False
+Gemini,CK-2630,temel_bilgisayar,3,denetim masasını aç fare ayarlarına git işaretçi izini kapat,9,True,True,True,False
+Gemini,CK-2636,tarayıcı_internet,3,sayfayı aşağı kaydır PDF bağlantısını seç indir,7,True,True,True,False
+Gemini,CK-2657,tarayıcı_internet,3,okuma modunu aç yazı boyutunu artır sayfayı yukarı kaydır,9,True,True,True,False
+Gemini,CK-2673,ofis_metin_düzenleme,2,oradaki boş satırı seçer misin üstüne bir boşluk bırak,9,False,False,False,False
+Gemini,CK-2675,ofis_metin_düzenleme,2,Excel tablosunda D sütununu seç genişliğini biraz artır,8,False,False,False,False
+Gemini,CK-2687,dosya_yazılım_geliştirme,1,Docker dosyasını silme yok sadece expose satırını bul,8,True,True,True,False
+Gemini,CK-2694,dosya_yazılım_geliştirme,3,package dosyasını aç script bölümüne git build komutunu değiştir,9,True,True,True,False
+Gemini,CK-2725,temel_bilgisayar,4,masaüstüne git sağ üstteki not dosyasını seç adını yeniden adlandır kaydet,11,True,True,True,False
+Gemini,CK-2729,tarayıcı_internet,1,çerez penceresinde kabul etme seçenekleri göster,6,False,False,False,False
+Gemini,CK-2754,ofis_metin_düzenleme,1,Wordde bu paragraf sanki sıkışık satır aralığını aç,8,False,True,False,False
+Gemini,CK-2762,ofis_metin_düzenleme,2,Excelde seçili aralığı kesmeden aralığı seç yeni sayfaya taşı,9,True,True,True,False
+Gemini,CK-2780,dosya_yazılım_geliştirme,1,READMEde bağlantılar kısmını bul,4,False,False,False,False
+Gemini,CK-2808,temel_bilgisayar,1,sakın silme şu dosyayı yazdırır mısın sadece,7,False,False,False,False
+Gemini,CK-2853,temel_bilgisayar,3,boşluk bırakma önce metni seç sonra kopyala panoya yapıştır,9,True,True,True,False
+Gemini,CK-2874,tarayıcı_internet,4,bu sekmeyi kapatma yan sekmeye geç adres çubuğuna geç sayfayı yenile güvenli mod ara,14,False,True,False,False
+Gemini,CK-2893,dosya_yazılım_geliştirme,4,log dosyasını aç hata kelimesini ara sonucu seç kopyala,9,True,True,True,False
+Gemini,CK-2894,temel_bilgisayar,5,şunu yanlış yaptım pencereyi kapatma masaüstüne geç başlatı aç ayarlar yaz enter bas pencereyi büyüt,15,True,True,True,False
+Gemini,CK-2902,dosya_yazılım_geliştirme,5,terminali aç komutu yaz enter bas hatayı bul logu kaydet,10,True,True,True,False
+Gemini,CK-2904,temel_bilgisayar,1,pencereyi büyüt yok yok şimdilik küçültelim,6,False,False,False,False
+Gemini,CK-2906,temel_bilgisayar,1,ekran çok parlak ya parlaklığı birazcık azalt,7,False,False,False,False
+Gemini,CK-2910,tarayıcı_internet,1,öbür sayfaya değil yan sekmeye geçer misin,7,False,False,False,False
+Gemini,CK-2931,temel_bilgisayar,2,şu uyarı metnini kopyala ama buraya yapıştırma yerine panoya yapıştır,10,False,False,False,False
+Gemini,CK-2962,dosya_yazılım_geliştirme,3,dosyayı silme sakın log dosyasını aç timeout hatası ara sonucu kopyala,11,True,True,True,False
+Gemini,CK-2970,temel_bilgisayar,4,pencereyi büyütsene parlaklığı azalt bir de diğer uygulamaya geç açılır uyarıyı kapat,12,True,True,True,False
+Gemini,CK-2981,ofis_metin_düzenleme,4,tablonun ilk satırını seç kes yerine alt bölüme yapıştır hücre rengini değiştir,12,True,True,True,False
+Gemini,CK-3026,dosya_yazılım_geliştirme,1,kod satırını kesebilir miyiz ama dosyayı silmeyelim,7,False,False,False,False
+Gemini,CK-3038,ofis_metin_düzenleme,2,başlığı seçme ilgili dipnotu bul ve seç,7,False,False,False,False
+Gemini,CK-3046,dosya_yazılım_geliştirme,2,zip paketini indirir misin sonra downloads klasörüne taşı,8,False,False,False,False
+Gemini,CK-3068,temel_bilgisayar,3,kaydırma yok önce pencereyi büyüt sonra listeyi kaydır ve seçili öğeyi aç,12,True,True,True,False
+Gemini,CK-3076,tarayıcı_internet,3,sonuca tıklama sayfayı biraz kaydır ilgili başlığı bul ve bağlantıyı kopyala,11,False,False,False,False
+Gemini,CK-3085,dosya_yazılım_geliştirme,3,kod bloğunu silme fonksiyonu bul seç ve kes,8,True,True,True,False
+Gemini,CK-3092,dosya_yazılım_geliştirme,3,paketi yükleme önce indirilen arşivi bul seç çalışma klasörüne taşı,10,True,True,True,False
+Gemini,CK-3098,ofis_metin_düzenleme,5,raporu aç başlığı büyüt aralığı artır sonuna boşluk koy maille gönder,11,True,True,True,False
+Gemini,CK-3124,dosya_yazılım_geliştirme,1,boş bir config dosyası oluşturalım mı,6,False,False,False,False
+Gemini,CK-3127,temel_bilgisayar,2,pencereyi kapatma sesi artır bildirimi kapat,6,True,True,True,False
+Gemini,CK-3135,tarayıcı_internet,2,formu göndermeyelim dosyayı yükle önizlemeyi aç,6,True,True,True,False
+Gemini,CK-3141,ofis_metin_düzenleme,2,puntoyu artırır mısın ardından belgeyi yazdır,6,False,False,False,False
+Gemini,CK-3143,dosya_yazılım_geliştirme,2,terminali kapatmadan komutu yaz enter a bas,7,True,True,True,False
+Gemini,CK-3146,dosya_yazılım_geliştirme,2,adını değiştirme yedek klasöre taşı sonra kaydet,7,True,True,True,False
+Gemini,CK-3167,temel_bilgisayar,4,masaüstüne geç arama kutusuna tıkla ayarlar yaz enter bas,9,True,True,True,False
+Gemini,CK-3179,ofis_metin_düzenleme,4,notun sonuna boşluk bırak kısa açıklama yaz kaydet gönder,9,True,True,True,False
+Gemini,CK-3184,dosya_yazılım_geliştirme,4,projeyi aç src klasörüne geç yeni dosya oluştur adını api yap,11,True,True,True,False
+Gemini,CK-3188,dosya_yazılım_geliştirme,4,klasörü taşıma boş klasör oluştur adını temp yap aç kaydet,10,True,True,True,False
+Gemini,CK-3195,tarayıcı_internet,5,geri dönme önceki sekmeye geç sayfayı yenile erişim ara bağlantıya tıkla pdfi indir,13,False,True,False,False
+Gemini,CK-3232,tarayıcı_internet,1,indirme deme şu pdfi indirir misin,6,False,False,False,False
+Gemini,CK-3249,tarayıcı_internet,3,ana sayfaya gitme raporlar sekmesine geç listeyi kaydır formu gönder,10,False,True,False,False
+Gemini,CK-3251,tarayıcı_internet,4,geri gitme yan sekmeye geç sayfayı yenile duyuru ara sonuca tıkla,11,False,True,False,False
+Gemini,CK-3258,ofis_metin_düzenleme,1,şu yazı biraz büyüse iyi,5,False,False,False,False
+Gemini,CK-3263,ofis_metin_düzenleme,4,renk değiştirme tabloyu seç kopyala alta yapıştır kaydet,8,True,True,True,False
+Gemini,CK-3313,temel_bilgisayar,2,parlaklığı düşürme yalnız bildirim merkezini aç sonra kapat,8,True,True,True,False
+Gemini,CK-3319,temel_bilgisayar,3,erişim ayarını aç kontrastı artır pencereyi kaydır,7,True,True,True,False
+Gemini,CK-3331,tarayıcı_internet,1,arama motorunda erişilebilir tasarım ara,5,True,True,True,False
+Gemini,CK-3340,tarayıcı_internet,3,adres çubuğuna git site adresini yaz enter bas,8,True,True,True,False
+Gemini,CK-3347,tarayıcı_internet,4,adres çubuğuna geç eski adresi seç kes yeni adresi yapıştır,10,True,True,True,False
+Gemini,CK-3368,ofis_metin_düzenleme,3,yeni belge oluştur adını yaz kaydet,6,True,True,True,False
+Gemini,CK-3369,ofis_metin_düzenleme,3,paragraf başına git boşluk bırak yazıya devam yaz,8,True,True,True,False
+Gemini,CK-3370,ofis_metin_düzenleme,3,yazdırma yapma sadece önizlemeyi aç sayfayı kaydır belgeyi kaydet,9,True,True,True,False
+Gemini,CK-3483,dosya_yazılım_geliştirme,1,satırı kes,2,True,True,True,False
+Gemini,CK-3489,dosya_yazılım_geliştirme,2,debug panelini kapat buildi yinele,5,True,True,True,False
+Gemini,CK-3492,dosya_yazılım_geliştirme,3,satırı kes dosyayı kaydet repoya yükle,6,True,True,True,False
+Gemini,CK-3494,dosya_yazılım_geliştirme,3,paket indirme dosyayı yükle logu yazdır terminali kapat,8,True,True,True,False
+Gemini,CK-3495,dosya_yazılım_geliştirme,3,hata panelini kapat komutu yinele çıktıyı yazdır,7,True,True,True,False
+Gemini,CK-3499,dosya_yazılım_geliştirme,4,terminali kapat paketi indir kurulumu yinele raporu gönder,8,True,True,True,False
+Gemini,CK-3508,temel_bilgisayar,1,şimdilik bildirim merkezini kapat,4,True,True,True,False
+Gemini,CK-3550,tarayıcı_internet,3,yeni sekme aç üniversite sitesine git duyurular kelimesini ara,9,True,True,True,False
+Gemini,CK-3554,ofis_metin_düzenleme,1,başlık çok büyük puntoyu biraz azalt,6,False,False,False,False
+Gemini,CK-3571,ofis_metin_düzenleme,3,dipnotu bul seçili dipnotu sil belgeyi kaydet,7,True,True,True,False
+Gemini,CK-3593,dosya_yazılım_geliştirme,2,src klasörüne geç yeni helper dosyası oluştur,7,True,True,True,False
+Gemini,CK-3607,temel_bilgisayar,1,fare imlecini biraz büyütür müsün,5,False,False,False,False
+Gemini,CK-3631,tarayıcı_internet,2,reklam sekmesini kapatma sağdaki sekmeye geç sayfayı aşağı kaydır,9,False,True,False,False
+Gemini,CK-3667,dosya_yazılım_geliştirme,2,yanlış dosyayı silme geçici cache klasörünü sil sonra test klasörüne geç,11,True,True,True,False
+Gemini,CK-3668,dosya_yazılım_geliştirme,3,VS Code içinde test sekmesine geç failed ifadesini ara sonucu yazdır,11,False,True,False,False
+Gemini,CK-3711,temel_bilgisayar,1,imleç boyutunu büyük yapma orta ayara getir,7,False,False,False,False
+Gemini,CK-3722,temel_bilgisayar,1,bu kısayolun adını değiştirme sadece başka klasöre taşı,8,True,True,True,False
+Gemini,CK-3730,temel_bilgisayar,1,açık pencereyi tam ekran yapma sadece biraz büyüt,8,False,False,False,False
+Gemini,CK-3752,temel_bilgisayar,2,son kullandığım klasörü aç ve görünümü listeye çevir,8,True,True,True,False
+Gemini,CK-3762,tarayıcı_internet,1,sayfayı biraz aşağı kaydır formun devamı görünsün,7,False,False,False,False
+Gemini,CK-3766,tarayıcı_internet,1,sekmeleri karıştırdım toplantı sekmesine dön,5,False,True,False,False
+Gemini,CK-3767,tarayıcı_internet,2,açık sayfada iletişim kısmını ara ve oraya git,8,True,True,True,False
+Gemini,CK-3787,tarayıcı_internet,1,bağlantıyı yeni pencerede değil aynı sekmede aç,7,False,False,False,False
+Gemini,CK-3793,tarayıcı_internet,2,yanlış sayfa açıldı geri git ve aramayı yinele,8,True,True,True,False
+Gemini,CK-3822,ofis_metin_düzenleme,1,belgedeki çift boşlukları tek boşluğa çevir,6,True,True,True,False
+Gemini,CK-3825,ofis_metin_düzenleme,2,açık olan metinde sonuç başlığını bul ve altını çiz,9,False,True,False,False
+Gemini,CK-3829,ofis_metin_düzenleme,1,paragrafı seçmeden önce imleci giriş kısmına götür,7,True,True,True,False
+Gemini,CK-3840,ofis_metin_düzenleme,2,tablo başlığını kesip sayfanın üstüne yapıştır,6,True,True,True,False
+Gemini,CK-3844,ofis_metin_düzenleme,1,seçili metni kalın yapma sadece italik yap,7,True,True,True,False
+Gemini,CK-3848,ofis_metin_düzenleme,1,slayttaki resmi taşımadan önce kılavuz çizgileri göster,7,False,True,False,False
+Gemini,CK-3865,dosya_yazılım_geliştirme,1,migration dosyasının adının başına yeni ekle,6,True,True,True,False
+Gemini,CK-3884,dosya_yazılım_geliştirme,1,Dockerfile içindeki port satırını bul ama değiştirme,7,False,False,False,False
