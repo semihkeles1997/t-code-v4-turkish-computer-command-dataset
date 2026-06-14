@@ -1,0 +1,151 @@
+{
+  "boundary_labels": {
+    "n": 2521,
+    "accuracy": 0.9539865132883776,
+    "observed_agreement": 0.9539865132883776,
+    "expected_agreement": 0.3990042547794874,
+    "cohen_kappa": 0.9234379160292732
+  },
+  "task_token_labels": {
+    "n": 2521,
+    "accuracy": 0.9428798095993653,
+    "observed_agreement": 0.9428798095993653,
+    "expected_agreement": 0.07057732107024517,
+    "cohen_kappa": 0.9385422889977147
+  },
+  "boundary_top_confusions": [
+    {
+      "gold": "O",
+      "annotator": "B-TASK",
+      "count": 35
+    },
+    {
+      "gold": "B-TASK",
+      "annotator": "I-TASK",
+      "count": 33
+    },
+    {
+      "gold": "O",
+      "annotator": "I-TASK",
+      "count": 27
+    },
+    {
+      "gold": "I-TASK",
+      "annotator": "B-TASK",
+      "count": 8
+    },
+    {
+      "gold": "I-TASK",
+      "annotator": "O",
+      "count": 7
+    },
+    {
+      "gold": "B-TASK",
+      "annotator": "O",
+      "count": 6
+    }
+  ],
+  "task_token_top_confusions": [
+    {
+      "gold": "O",
+      "annotator": "AÇ",
+      "count": 17
+    },
+    {
+      "gold": "AÇ",
+      "annotator": "YENİ_OLUŞTUR",
+      "count": 12
+    },
+    {
+      "gold": "O",
+      "annotator": "BUL",
+      "count": 11
+    },
+    {
+      "gold": "O",
+      "annotator": "ARA",
+      "count": 6
+    },
+    {
+      "gold": "GİT",
+      "annotator": "DİĞER",
+      "count": 6
+    },
+    {
+      "gold": "GEÇ",
+      "annotator": "GİT",
+      "count": 5
+    },
+    {
+      "gold": "YAZ",
+      "annotator": "SEÇ",
+      "count": 5
+    },
+    {
+      "gold": "YÜKLE",
+      "annotator": "TIKLA",
+      "count": 4
+    },
+    {
+      "gold": "TIKLA",
+      "annotator": "DİĞER",
+      "count": 4
+    },
+    {
+      "gold": "O",
+      "annotator": "GEÇ",
+      "count": 4
+    },
+    {
+      "gold": "GEÇ",
+      "annotator": "O",
+      "count": 4
+    },
+    {
+      "gold": "AZALT",
+      "annotator": "DEĞİŞTİR",
+      "count": 4
+    },
+    {
+      "gold": "DEĞİŞTİR",
+      "annotator": "O",
+      "count": 4
+    },
+    {
+      "gold": "O",
+      "annotator": "İNDİR",
+      "count": 3
+    },
+    {
+      "gold": "YAZ",
+      "annotator": "GİT",
+      "count": 3
+    },
+    {
+      "gold": "DEĞİŞTİR",
+      "annotator": "YENİDEN_ADLANDIR",
+      "count": 3
+    },
+    {
+      "gold": "DİĞER",
+      "annotator": "KOPYALA",
+      "count": 3
+    },
+    {
+      "gold": "O",
+      "annotator": "SEÇ",
+      "count": 3
+    },
+    {
+      "gold": "O",
+      "annotator": "TIKLA",
+      "count": 3
+    },
+    {
+      "gold": "O",
+      "annotator": "SEKME_DEĞİŞTİR",
+      "count": 3
+    }
+  ],
+  "row_errors": []
+}
